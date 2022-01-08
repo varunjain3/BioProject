@@ -3,15 +3,15 @@ from tqdm import tqdm
 
 # mapping between orignal_data and lnc2rna_data
 mapping = {
-    "1. Database-LncRNAs-Colorectal Cancer.xlsx": "Colorectal.csv",
-    "2. Database-LncRNAs-Ovarian Cancer.xlsx": "Ovarian.csv",
-    "3. Database-LncRNAs-Pancreatic Cancer.xlsx": "Pancreatic.csv",
-    "4. Database-LncRNAs-Cervical Cancer.xlsx": "Cervical.csv",
-    "5. Database-LncRNAs-Gastric Cancer.xlsx": "Gastric.csv",
-    "6. Database-LncRNAs-Head and neck Cancer.xlsx": "Head and neck.csv",
-    "7. Database-LncRNAs-Lung Cancer.xlsx": "Lung.csv",
-    "8. Database-LncRNAs-Liver Cancer.xlsx": "Liver.csv",
-    "9. Database-LncRNAs-Prostate Cancer.xlsx": "Prostate.csv",
+    "1. Database-LncRNAs-Colorectal Cancer.xlsx": "1Colorectal.csv",
+    "2. Database-LncRNAs-Ovarian Cancer.xlsx": "2Ovarian.csv",
+    "3. Database-LncRNAs-Pancreatic Cancer.xlsx": "3Pancreatic.csv",
+    "4. Database-LncRNAs-Cervical Cancer.xlsx": "4Cervical.csv",
+    "5. Database-LncRNAs-Gastric Cancer.xlsx": "5Gastric.csv",
+    "6. Database-LncRNAs-Head and neck Cancer.xlsx": "6Head and neck.csv",
+    "7. Database-LncRNAs-Lung Cancer.xlsx": "7Lung.csv",
+    "8. Database-LncRNAs-Liver Cancer.xlsx": "8Liver.csv",
+    "9. Database-LncRNAs-Prostate Cancer.xlsx": "9Prostate.csv",
 }
 
 index = 0
