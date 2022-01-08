@@ -8721,11 +8721,7 @@ NNT-AS1,hepatocellular carcinoma,"qPCR, Western blot, Luciferase reporter assay,
 PHACTR2-AS1_Variant 2",hepatocellular carcinoma,"qPCR, Western blot, other",up-regulated,30468465,"Also Known As: NR027113, lncIHS; PHACTR2-AS1","1
 (Variant 1st, 3rd and 4th are also lncRNAs)
 (Total=4) (PHACTR2-AS1)","PHACTR2-AS1 (_____, NR_027113.2, _____, _____)","_____, 8, _____, _____ (PHACTR2-AS1)","_____, 8, _____, _____ (PHACTR2-AS1)","_____, 0, _____, _____ (PHACTR2-AS1)","_____, 0, _____, _____ (PHACTR2-AS1)",VALIDATED (PHACTR2-AS1),3 (C-rich),"[-0.911, -0.911, -0.857 (C-rich)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 Hunter,,,,,,,,,,
-NR2F2-AS1,,,,,,3,"NR_102743.1, NR_102744.1, NR_125738.1","9,4,3","9,4,3","0, 0, 0","0, 0, 0",VALIDATED,"2 (2G);
-0;
-2 (c-rich)","[1, 0.891 (2G)];
-0;
-[-0.911, -0.821 (C-rich)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 Hunter,,,,,,,,,,
+NR2F1-AS1,hepatocellular carcinoma,"qPCR, Microarray, Western blot etc.",up-regulated,29602203,,,,,,,,,,,,,,,,,,,,,,,,
 "NR_015378 
 ZNF674-AS1",hepatocellular carcinoma,"Microarray, qPCR etc.",up-regulated,25025236,,1 (ZNF674-AS1),ZNF674-AS1 (NR_015378.3),14 (ZNF674-AS1),14 (ZNF674-AS1),0 (ZNF674-AS1),0 (ZNF674-AS1),VALIDATED (ZNF674-AS1),0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter,,,,,,,,,,
 "NR_024284 

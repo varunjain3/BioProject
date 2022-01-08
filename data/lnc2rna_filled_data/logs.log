@@ -10,3 +10,7 @@ For file 8. Database-LncRNAs-Liver Cancer.xlsx: 771 success, 2 fail, 0 already f
 For file 9. Database-LncRNAs-Prostate Cancer.xlsx: 298 success, 1 fail, 0 already filled 
 Jan 9, 2022
 Changed to csv, for easier reading
+added MF12 in sheet 4
+added NR2F1-AS1 in sheet 8
+added 6 variants in sheet 7
+

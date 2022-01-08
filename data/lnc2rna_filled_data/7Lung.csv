@@ -127,13 +127,7 @@ Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcrip
 Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
 
 Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 (CDKN2B-AS1)","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 (CDKN2B-AS1)",REVIEWED,,,,,,,
-ANRIL,non small cell lung cancer,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,25889788,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
-
-Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
-
-Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
-
-Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 (CDKN2B-AS1)","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 (CDKN2B-AS1)",REVIEWED,,,,,,,
+ANRIL,non small cell lung cancer,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,25889788,28,14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 (CDKN2B-AS1)","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 (CDKN2B-AS1)",REVIEWED,,,,,,,
 ANRIL,non small cell lung cancer,"qPCR, Western blot etc.",up-regulated,25504755,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
 
 Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
@@ -143,7 +137,7 @@ Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splic
 Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 (CDKN2B-AS1)","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 (CDKN2B-AS1)",REVIEWED,,,,,,,
 ARHGAP22-IT1,lung adenocarcinoma,"Microarray, qPCR",up-regulated,30151992,,1,NR_146782.1,9,9,0,0,VALIDATED,,,,,,,
 ASAP1-IT1,non small cell lung cancer,Western blot,up-regulated,29364481,Also known as: ASAP1IT; HSPC054; ASAP1-IT; ASAP1IT1; DDEF1IT1; NCRNA00050,1,NR_002765.2,5,5,0,0,VALIDATED,2 (2G),"[0.849, 0.878 (2G)",,0,0,No PQS found in G4 hunter,
-ASB16-AS1,,,,,Also known as: C17orf65,2,"NR_049729.1, NR_049730.1","20,4","19,4","1,0","0,0",VALIDATED,"10 (10-C-rich);
+ASB16-AS1,non small cell lung cancer,"qRT-PCR, Western blot",up-regulated,32141556,Also known as: C17orf65,2,"NR_049729.1, NR_049730.1","20,4","19,4","1,0","0,0",VALIDATED,"10 (10-C-rich);
 2 (2-C-rich)
 ","[-0.911, -0.86, -0.882, -0.933, -0.872, -0.914, -0.982, -0.942, -0.88, -0.84 (C-rich)] ; 
 
@@ -289,7 +283,7 @@ CCAT2,lung cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-
 CCAT2,small cell lung cancer,"qPCR, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,27470400,Also Known As: NCCP1; LINC00873,1,NR_109834.1,6,6,0,0,REVIEWED,0,0,,0,0,No PQS found in G4 hunter,
 CCAT2,non small cell lung cancer,"qPCR, RNAi, Cell invasion assay etc.",up-regulated,28088736,Also Known As: NCCP1; LINC00873,1,NR_109834.1,6,6,0,0,REVIEWED,0,0,,0,0,No PQS found in G4 hunter,
 CCAT2,non small cell lung cancer,"qPCR, RNAi etc.",up-regulated,24504682,Also Known As: NCCP1; LINC00873,1,NR_109834.1,6,6,0,0,REVIEWED,0,0,,0,0,No PQS found in G4 hunter,
-CCEPR,,,,,Also Known As: CCEPR; CCHE1; lncRNA-CCHE1,1,NR_131782.1,17,17,0,0,VALIDATED,"2(1-C-rich, 1-2G)   ",['-0.939 (C-rich); 0.894 (2G)],,0,0,No PQS found in G4 hunter,
+CCEPR,non small cell lung cancer,"qPCR, Western blot etc.",up-regulated,29630113,Also Known As: CCEPR; CCHE1; lncRNA-CCHE1,1,NR_131782.1,17,17,0,0,VALIDATED,"2(1-C-rich, 1-2G)   ",['-0.939 (C-rich); 0.894 (2G)],,0,0,No PQS found in G4 hunter,
 CEBPA-AS1,lung adenocarcinoma,qPCR,down-regulated,30125988,Also known as: ADINR; CEBPA-DT,1,NR_026887.2,32,26,5,1,VALIDATED,"13 (4-C-rich, ","[-0.721, -0.933, -0.854, 
 -0.796 (C-rich); 0.978, 0.704, 1.055, 1.021 (3G) 0.941 (4G)
 0.898, , 
@@ -950,7 +944,7 @@ GAS5,non small cell lung cancer,"qPCR, RNAi, Western blot etc.",down-regulated,2
 
 Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",REVIEWED,0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter,
 GAS5-AS1,non small cell lung cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",down-regulated,27489122,,1,NR_037605.1,2,2,0,0,VALIDATED,0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter,
-GATA6-AS,,,,,Also known as: BM742401; locus5689,1,NR_102763.1,14,12,2,0,VALIDATED,"4 (2-C-rich, 2-2G)","['-0.958, -0.885 (C-rich), 0.935, 0.967 (2G)]",No similarity to any PQS  from QGRS mapper,0,0,No PQS found in G4 hunter,
+GAS6-AS1,non small cell lung cancer,qPCR etc.,down-regulated,23979857,,,,,,,,,,,,,,,
 "GASL1 
 GASAL1",non small cell lung cancer,"qPCR, Western-Blot, other",down-regulated,30468472,Also Known As: GASAL1; GASL1 ,1 (GASAL1),NR_149020.1 (GASAL1),45 (GASAL1),37 (GASAL1),6 (GASAL1),2 (GASAL1),VALIDATED,"22 (9-C-rich, 2-4G, 3-2G, 7-3G)","[-1, -0.833, -0.925,
 -0.911, -0.911, -1.065,
@@ -3625,8 +3619,8 @@ LINC01614,non small cell lung cancer,PCR,down-regulated,30980423,Also known as: 
 LINC01614,non small cell lung cancer,qPCR,up-regulated,31348244,Also known as: LCAL4,1,NR_132383.1,12,12,0,0,VALIDATED,2 (2G),"[0.933, 0.597 (2G)",,0,0,No PQS found in G4 hunter,
 LINC02418,non small cell lung cancer,"RT-qPCR, Western blot, Luciferase Activity Reporter Assay",up-regulated,31841189,,1,"
 NR_024457.2",20,20,0,0,VALIDATED,,,,,,,
-"LINK A
-LINC01139",,,,,Also known as: LINKA; LINK-A;  LINC01139,1 (LINC01139),LINC01139 (NR_015407.1),8 (LINC01139),8 (LINC01139),0 (LINC01139),0 (LINC01139),VALIDATED (LINC01139),"4 (1 - 2G, 3 - C-rich)","[0.73 (2G); -1.021, -0.913, -0.882 (C-rich)]",No similarity to any PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter,
+"LINK-A 
+LINC01139",non small cell lung cancer,"qPCR, Western blot, other",up-regulated,31404323,Also known as: LINKA; LINK-A;  LINC01139,1 (LINC01139),LINC01139 (NR_015407.1),8 (LINC01139),8 (LINC01139),0 (LINC01139),0 (LINC01139),VALIDATED (LINC01139),"4 (1 - 2G, 3 - C-rich)","[0.73 (2G); -1.021, -0.913, -0.882 (C-rich)]",No similarity to any PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter,
 lncRNA-ATB,non small cell lung cancer,"qRT-PCR, Western blot",up-regulated,32092085,,1,NR_160525.1,17,16,,,VALIDATED,"4 (1 - 2G, 3 - C-rich)","[-0.87, -0.913, -0.917 (C-rich), 0.729 (2G)]  
 ","No similarity to any PQS (2G) from QGRS mapper.
 ",0,0,No PQS found in G4 Hunter,
@@ -3661,8 +3655,12 @@ lncRNA-NEF,small cell lung cancer,"RT-qPCR, Western blotting etc.",down-regulate
 lncRNA-NEF,non small cell lung cancer,"qPCR, Western blot",up-regulated,30854054,"Also known as: LINC01384; lncRNA-NEF, LNCNEF",1,NR_109883.1,4,4,0,0,VALIDATED,1 (C-rich),[-0.913 (C-rich)],No similarity to any PQS (2G) from QGRS mapper,0,0,No PQS found in G4 Hunter,
 "lncTCF7
 WSPAR",non small cell lung cancer,"qPCR, RNAi, ChIP, Dual luciferase reporter assay etc.",up-regulated,27766570,Also Known As: WSPAR; LncTCF7; TCONS_00009511,1 (WSPAR),WSPAR (NR_131252.1),6 (WSPAR),6 (WSPAR),0 (WSPAR),0 (WSPAR),VALIDATED (WSPAR),0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter,
-"loc285194
-TUSC7",,,,,"Also Known As: TUSC7; LSAMPAS3; LINC00902; LSAMP-AS1; LSAMP-AS3; NCRNA00295. LOC285194 mentioned in title of papers [PubMed-31494574 (TUSC7) and 27683121 (RPL34-DT)] referred in TUSC7 (NR_015391.1) and RPL34-DT (NR_026968.1). Aliases for TUSC7 Gene (From GeneCards database - GCID: GC03P116709)
+"LOC285194
+TUSC7",non small cell lung cancer,"qPCR, Western blot, in vitro knockdown, etc.",down-regulated,30542733,"Also Known As: TUSC7; LSAMPAS3; LINC00902; LSAMP-AS1; LSAMP-AS3; NCRNA00295. LOC285194 mentioned in title of papers [PubMed-31494574 (TUSC7) and 27683121 (RPL34-DT)] referred in TUSC7 (NR_015391.1) and RPL34-DT (NR_026968.1). Aliases for TUSC7 Gene (From GeneCards database - GCID: GC03P116709)
+Tumor Suppressor Candidate 7
+TUSC7",1 (TUSC7),TUSC7 (NR_015391.1),9 (TUSC7),9 (TUSC7),0 (TUSC7),0 (TUSC7),VALIDATED,4 (2G),"[0.911, 0.776, 0.935, 0.891 [2G]]",No similarity to any PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter,
+"LOC285194
+TUSC7",non small cell lung cancer,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay, Cell proliferation assay, ISH etc.",differential expression,23558749,"Also Known As: TUSC7; LSAMPAS3; LINC00902; LSAMP-AS1; LSAMP-AS3; NCRNA00295. LOC285194 mentioned in title of papers [PubMed-31494574 (TUSC7) and 27683121 (RPL34-DT)] referred in TUSC7 (NR_015391.1) and RPL34-DT (NR_026968.1). Aliases for TUSC7 Gene (From GeneCards database - GCID: GC03P116709)
 Tumor Suppressor Candidate 7
 TUSC7",1 (TUSC7),TUSC7 (NR_015391.1),9 (TUSC7),9 (TUSC7),0 (TUSC7),0 (TUSC7),VALIDATED,4 (2G),"[0.911, 0.776, 0.935, 0.891 [2G]]",No similarity to any PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter,
 "LOC554202
@@ -6200,8 +6198,39 @@ MIR31 Host Gene",4 (MIR31HG),"MIR31HG (NR_027054.2, NR_152877.1, NR_152878.1, NR
 [-0.956, -0.9, -0.789, -0.911, -0.936 (C-rich)];
 [-0.9, -0.789, -0.911, -0.936 (C-rich)];
 [1.034, 0.94 (2G); -0.9, -0.789, -0.911, -0.936 (C-rich)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 Hunter,
-"
-MIR4435-2HG",,,,,Also Known As: MIR4435-2HG; AGD2; MORRBID; LINC00978; MIR4435-1HG; lncRNA-AWPPH,8 (MIR4435-2HG),"MIR4435-2HG (NR_015395.2, NR_024373.2, NR_136161.1, NR_136162.1, NR_136163.1, NR_136164.1, NR_136165.1, NR_136166.1)","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","0, 0, 0, 0, 0, 0, 0, 0 (MIR4435-2HG)","0, 0, 0, 0, 0, 0, 0, 0 (MIR4435-2HG)",VALIDATED (MIR4435-2HG),"3 (C-rich);
+MIR4435-2HG,lung cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29872866,Also Known As: MIR4435-2HG; AGD2; MORRBID; LINC00978; MIR4435-1HG; lncRNA-AWPPH,8 (MIR4435-2HG),"MIR4435-2HG (NR_015395.2, NR_024373.2, NR_136161.1, NR_136162.1, NR_136163.1, NR_136164.1, NR_136165.1, NR_136166.1)","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","0, 0, 0, 0, 0, 0, 0, 0 (MIR4435-2HG)","0, 0, 0, 0, 0, 0, 0, 0 (MIR4435-2HG)",VALIDATED (MIR4435-2HG),"3 (C-rich);
+1 (C-rich);
+0;
+5 (C-rich);
+2 (C-rich);
+2 (C-rich);
+0;
+3 (C-rich)
+","[-0.957, -0.922, -0.774 (C-rich)];
+[-0.726 (C-rich)];
+0;
+[-0.957, -0.922, -0.774, -0.759, -0.872 (C-rich)];
+[-0.859, -0.872 (C-rich)];
+[-0.859, -0.872 (C-rich)];
+0;
+[-0.957, -0.922, -0.774 (C-rich)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 Hunter,
+MIR4435-2HG,non small cell lung cancer,"qRT-PCR, Western blot, Luciferase reporter analysis, RIP, RNA-seq",up-regulated,31875359,Also Known As: MIR4435-2HG; AGD2; MORRBID; LINC00978; MIR4435-1HG; lncRNA-AWPPH,8 (MIR4435-2HG),"MIR4435-2HG (NR_015395.2, NR_024373.2, NR_136161.1, NR_136162.1, NR_136163.1, NR_136164.1, NR_136165.1, NR_136166.1)","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","0, 0, 0, 0, 0, 0, 0, 0 (MIR4435-2HG)","0, 0, 0, 0, 0, 0, 0, 0 (MIR4435-2HG)",VALIDATED (MIR4435-2HG),"3 (C-rich);
+1 (C-rich);
+0;
+5 (C-rich);
+2 (C-rich);
+2 (C-rich);
+0;
+3 (C-rich)
+","[-0.957, -0.922, -0.774 (C-rich)];
+[-0.726 (C-rich)];
+0;
+[-0.957, -0.922, -0.774, -0.759, -0.872 (C-rich)];
+[-0.859, -0.872 (C-rich)];
+[-0.859, -0.872 (C-rich)];
+0;
+[-0.957, -0.922, -0.774 (C-rich)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 Hunter,
+MIR4435-2HG,lung cancer,"qPCR, RIP, Western blot etc.",up-regulated,29872866,Also Known As: MIR4435-2HG; AGD2; MORRBID; LINC00978; MIR4435-1HG; lncRNA-AWPPH,8 (MIR4435-2HG),"MIR4435-2HG (NR_015395.2, NR_024373.2, NR_136161.1, NR_136162.1, NR_136163.1, NR_136164.1, NR_136165.1, NR_136166.1)","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","0, 0, 0, 0, 0, 0, 0, 0 (MIR4435-2HG)","0, 0, 0, 0, 0, 0, 0, 0 (MIR4435-2HG)",VALIDATED (MIR4435-2HG),"3 (C-rich);
 1 (C-rich);
 0;
 5 (C-rich);
@@ -7944,8 +7973,7 @@ TP73-AS1,non small cell lung cancer,"qPCR, Western blot, RIP, Luciferase reporte
 [1.408, 1.404, 1.391 [3G]
 -1.053, -1.4, -1.435, -1.457 (C-rich)];
 [1.408, 1.404 (3G)] ",Some PQS from QGRS mapper is similar to / a part of PQS (3G) from G4 hunter,
-"TRERNA
-TRERNA1",,,,,Also Known As: TRERNA1; treRNA; LINC00651,1 (TRERNA1),TRERNA1 (NR_051976.1),6 (TRERNA1),6 (TRERNA1),0 (TRERNA1),0 (TRERNA1),VALIDATED (TRERNA1),0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter,
+TRERNA1,non small cell lung cancer,qRT-PCR,up-regulated,32096153,Also Known As: TRERNA1; treRNA; LINC00651,1 (TRERNA1),TRERNA1 (NR_051976.1),6 (TRERNA1),6 (TRERNA1),0 (TRERNA1),0 (TRERNA1),VALIDATED (TRERNA1),0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter,
 TRPM2-AS,non small cell lung cancer,"qPCR, Western blot etc.",up-regulated,28678322,Also Known As: TRPM2-AS1,1,NR_109964.1,10,9,1,0,VALIDATED,2 (C-rich),"[-0.923, -0.898 [C-rich]]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter,
 TRPM2-AS,non small cell lung cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, CCK-8 assay etc.",up-regulated,28231726,Also Known As: TRPM2-AS1,1,NR_109964.1,10,9,1,0,VALIDATED,2 (C-rich),"[-0.923, -0.898 [C-rich]]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter,
 "TSlnc8

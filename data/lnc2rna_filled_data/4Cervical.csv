@@ -1,5 +1,5 @@
 LncRNA name,Cancer name,Methods,Expression pattern,Pubmed ID,Remarks,No. of Transcript variants,NCBI Reference Number,Total No. of PQS,No. of 2G PQS,No. of 3G PQS,No. of 4G PQS,RefSeq status,Total No. of PQS.1,G4Hunter Scores of PQS,Similarity between PQS from QGRS mapper vs PQS from G4 hunter,Total No. of PQS.2,G4Hunter Scores of PQS.1,Similarity between PQS from QGRS mapper vs PQS from G4 hunter.1
-AFAP1-AS1,Cervical Cancer,RNA-seq,up-regulated,30816545,"Also Known As: AFAP1-AS, AFAP1AS",1,NR_026892.1,37,36,1,0,VALIDATED,"9 (1-3G,8-C-rich) ","['-0.872, -0.898, -0.855, -0.894, -0.958, -0.796, -0.672, -0.872(C-rich);  0.911 (3G)]",The 3G PQS of G4 Hunter and QGRS mapper is similar and the main G tract of both PQS is the same with additional nucleotides surrounding in the G4 hunter PQS,0,0,No PQS found in G4 hunter
+AFAP1-AS1,cervical cancer,RNA-seq,up-regulated,30816545,"Also Known As: AFAP1-AS, AFAP1AS",1,NR_026892.1,37,36,1,0,VALIDATED,"9 (1-3G,8-C-rich) ","['-0.872, -0.898, -0.855, -0.894, -0.958, -0.796, -0.672, -0.872(C-rich);  0.911 (3G)]",The 3G PQS of G4 Hunter and QGRS mapper is similar and the main G tract of both PQS is the same with additional nucleotides surrounding in the G4 hunter PQS,0,0,No PQS found in G4 hunter
 ANRASSF1,cervical cancer,"RNA-seq, qPCR, RNAi, Western blot, RIP, ChIP, Cell proliferation assay etc.",differential expression,23990798,Also known as: RASSF1-AS1,1,NR_109831.1,11,8,3,0,VALIDATED,"10 (2-3G, 2-2G, 6-C-rich)","['0.911, 0.911 (3G); 0.82, 0.92 (2G); '-0.911, -0.872, -0.911, -0.683, -0.854, -0.924 (C-rich)]",The PQS 1 (3G) of QGRS mapper and the PQS 1 of G4 Hunter are both 3G and have the same G tracts with a right frame shift in G4 hunter compared to QGRS mapper.,0,0,No PQS found in G4 hunter
 "ANRIL
 CDKN2B-AS1",cervical cancer,"qPCR, RNAi etc.",up-regulated,26408699,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
@@ -112,7 +112,7 @@ CALML3-AS1,cervical cancer,"qPCR, Western blot, Luciferase reporter assay",up-re
 CASC11,cervical cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31255182,Also Known As: MYMLR; CARLO7; CARLo-7; LINC00990; TCONS_00014535,2,"NR_117101.1, NR_117102.1","3,3","0,0","0,0","0,0",VALIDATED,"1 (C-rich)
 0",-0.724 (C-rich),,0,0,No PQS found in G4 hunter
 CASC15,cervical cancer,"RT-qPCR, RIP",up-regulated,32016962,Also Known As: CACS15 [mentioned in title of paper (PubMed-31665008) refereed in NR_015410.2]; CASC15; CANT; LINC00340; lnc-SOX4-1,1,NR_015410.2,18,18,0,0,REVIEWED,0,0,,0,0,No PQS found in G4 hunter
-CASC15,Cervical Cancer,qPCR,up-regulated,30720157,Also Known As: CACS15 [mentioned in title of paper (PubMed-31665008) refereed in NR_015410.2]; CASC15; CANT; LINC00340; lnc-SOX4-1,1,NR_015410.2,18,18,0,0,REVIEWED,0,0,,0,0,No PQS found in G4 hunter
+CASC15,cervical cancer,qPCR,up-regulated,30720157,Also Known As: CACS15 [mentioned in title of paper (PubMed-31665008) refereed in NR_015410.2]; CASC15; CANT; LINC00340; lnc-SOX4-1,1,NR_015410.2,18,18,0,0,REVIEWED,0,0,,0,0,No PQS found in G4 hunter
 CASC2,cervical cancer,"qRT-PCR , Western blot etc.",down-regulated,31081078,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17,17,9","15,5,7","2,2,2",0,VALIDATED,"7 (4- 3G, 3-2G);
 7 (4- 3G, 3-2G);
 6 (4 -3G, 2-2G)","[1.043, 0.746, 0.956, 0.956 (3G) 0.933, 0.891 0.707(2G)] ;
@@ -327,11 +327,11 @@ GAS5,cervical cancer,"qPCR, RNAi",down-regulated,29509242,"Also Known As: SNHG2;
 Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",REVIEWED,0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter
 GAS5-AS1,cervical cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP, etc.",down-regulated,31497208,,1,NR_037605.1,2,2,0,0,VALIDATED,0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter
 GATA6-AS,cervical squamous cell carcinoma,"qPCR, Western blot, other",up-regulated,31404324,Also known as: BM742401; locus5689,1,NR_102763.1,14,12,2,0,VALIDATED,"4 (2-C-rich, 2-2G)","['-0.958, -0.885 (C-rich), 0.935, 0.967 (2G)]",No similarity to any PQS  from QGRS mapper,0,0,No PQS found in G4 hunter
-GHET1,Cervical Cancer,qPCR,up-regulated,30948501,Also Known As: ncRNA-GHET1,1,NR_130107.1,10,9,1,0,REVIEWED,"5 (3-C-rich, 1-2G, 1-3G)
+GHET1,cervical cancer,qPCR,up-regulated,30948501,Also Known As: ncRNA-GHET1,1,NR_130107.1,10,9,1,0,REVIEWED,"5 (3-C-rich, 1-2G, 1-3G)
 ","['-0.911, -0.79, -0.959 (C-rich); 0.891, 0.644 (2G); 0.973 (3G)]",The PQS 10 (3G) of QGRS Mapper is similar to PQS 6 (3G) of G4 hunter with a left frame shift in G4 hunter,1,1.413,The PQS 10 (3G) of QGRS Mapper is similar to PQS 1 (3G) of G4 hunter with the same main G4 tracts.
 GHET1,cervical cancer,"qRT-PCR, Western blot, RIP",up-regulated,31682716,Also Known As: ncRNA-GHET1,1,NR_130107.1,10,9,1,0,REVIEWED,"5 (3-C-rich, 1-2G, 1-3G)
 ","['-0.911, -0.79, -0.959 (C-rich); 0.891, 0.644 (2G); 0.973 (3G)]",The PQS 10 (3G) of QGRS Mapper is similar to PQS 6 (3G) of G4 hunter with a left frame shift in G4 hunter,1,1.413,The PQS 10 (3G) of QGRS Mapper is similar to PQS 1 (3G) of G4 hunter with the same main G4 tracts.
-GIHCG,Cervical Cancer,qPCR,up-regulated,30719165,,1,NR_038269.1,4,0,0,0,VALIDATED,0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter
+GIHCG,cervical cancer,qPCR,up-regulated,30719165,,1,NR_038269.1,4,0,0,0,VALIDATED,0,0,No PQS found in G4 hunter,0,0,No PQS found in G4 hunter
 H19,cervical cancer,qPCR,down-regulated,31229557,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008.Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38,37,12","27,26,11","9,9,1","2,2,0",REVIEWED,"32 (24 - 2G, 8 - C-rich); 
 32 (24 - 2G, 8 - C-rich); 
 5 (C-rich)","[1.305, 0.837, 0.962, 0.882, 0.891, 0.93, 0.833, 0.934 (2G), -0.911, -0.911, -0.957, -0.621, (C-rich), 0.607, 0.894, 0.803, 0.911, 0.859, 0.804, 0.933, 0.824, 0.978, 0.958, 0.891, 0.933, 0.911, 1.061,  0.953 (2G), -0.911, -0.911, -1, -0.8, -0.71 (C-rich)]; 
@@ -803,7 +803,7 @@ HIPK1-AS,cervical cancer,"Microarray, qPCR, in vitro knockdown",up-regulated,299
 
 ",,0,0,No PQS found in G4 hunter
 HNF1A-AS1,cervical cancer,"Dual luciferase reporter gene assay, RIP, RT-qPCR, Western blot assay",up-regulated,31827397,Also Known As: HAS1; C12orf27; NCRNA00262,1,NR_024345.1,15,15,0,0,VALIDATED,4 (C-rich);,"[-0.933, -0.808, -0.911, -0.792 (C-rich)]",,0,0,No PQS found in G4 hunter
-HOTAIR,Cervical Cancer,RNA-seq,up-regulated,30981759,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072. Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18,17,16","17,16,15","1,1,1","0,0,0",REVIEWED,"9 (7 - 2G, 2 - C-rich);
+HOTAIR,cervical cancer,RNA-seq,up-regulated,30981759,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072. Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18,17,16","17,16,15","1,1,1","0,0,0",REVIEWED,"9 (7 - 2G, 2 - C-rich);
 
 8 (7 - 2G, 1 - C-rich)
 
@@ -1644,7 +1644,7 @@ LINC00511,cervical cancer,"RT-qPCR, in vitro knockdown, Western blot etc.",up-re
 ",,0,0,No PQS found in G4 Hunter
 LINC00511,cervical cancer,"qPCR, other",up-regulated,31434692,Also Known As: LCAL5; onco-lncRNA-12,1,NR_033876.1,18,16,2,0,VALIDATED,"7 (6 - 2G, 1 - C-rich)","[1, 0.878, 0.891, 0.911, 0.531, 0.855 (2G), -0.864 (C-rich)] 
 ",,0,0,No PQS found in G4 Hunter
-LINC00518,Cervical Cancer,"qPCR, Western blot",up-regulated,30720156,Also known as: C6orf218,1,NR_027793.1,8,8,0,0,VALIDATED,2 (C-rich) ,"['-0.771, -0.814 (C-rich)]",No similarity to any PQS  from QGRS mapper,0,0,No PQS found in G4 hunter
+LINC00518,cervical cancer,"qPCR, Western blot",up-regulated,30720156,Also known as: C6orf218,1,NR_027793.1,8,8,0,0,VALIDATED,2 (C-rich) ,"['-0.771, -0.814 (C-rich)]",No similarity to any PQS  from QGRS mapper,0,0,No PQS found in G4 hunter
 LINC00958 BLACAT2,cervical cancer,"RT-qPCR, Luciferase reporter assay, RIP, Western blot analysis",up-regulated,31691355,"Also Known As: BLACAT2: LINC00958. Some (older) bladder associated transcript 2 variant 1, 2 and 3 lncRNA ""lncRNA"" ncRNA (complete sequence-MF435912.1, MF435913.1 and MF435914.1 respectively) with PQS- 4, 4, 5 respectively, were also there in result.",1 (BLACAT2),BLACAT2 (NR_038904.1),10 (BLACAT2),10 (BLACAT2),0 (BLACAT2),0 (BLACAT2),VALIDATED (BLACAT2),,,,,,
 LINC00958 BLACAT2,cervical cancer,"Luciferase reporter assay , Western blot etc.",up-regulated,31169309,"Also Known As: BLACAT2: LINC00958. Some (older) bladder associated transcript 2 variant 1, 2 and 3 lncRNA ""lncRNA"" ncRNA (complete sequence-MF435912.1, MF435913.1 and MF435914.1 respectively) with PQS- 4, 4, 5 respectively, were also there in result.",1 (BLACAT2),BLACAT2 (NR_038904.1),10 (BLACAT2),10 (BLACAT2),0 (BLACAT2),0 (BLACAT2),VALIDATED (BLACAT2),,,,,,
 LINC01101,cervical cancer,"Microarray analysis, qRT-PCR, Western blot, RNAi",down-regulated,28767188,,1,NR_027181.1,24,24,0,0,VALIDATED,"3 (2-C-rich, 1-2G)","[-0.933, -0.888 (C-rich); 
@@ -1696,7 +1696,7 @@ surrounding the G4 sequence.
 Similarly, the PQS 2 (3G) 
 of QGRS Mapper is similar to PQS 2 (3G) of G4 hunter with a few additional nucleotides 
 surrounding the G4 sequence. ",0,0,No PQS found in G4 hunter
-LINP1,cervical Cancer,"qPCR, Western blot, RIP etc.",up-regulated,32348690,,1,NR_138480.1,7,5,2,0,VALIDATED,"4 (1 - 2G, 3 - C-rich)","[-0.915, -0.911, -0.847 (C-rich), 0.808 (2G)] 
+LINP1,cervical cancer,"qPCR, Western blot, RIP etc.",up-regulated,32348690,,1,NR_138480.1,7,5,2,0,VALIDATED,"4 (1 - 2G, 3 - C-rich)","[-0.915, -0.911, -0.847 (C-rich), 0.808 (2G)] 
 ","PQS 6 (3G) of QGRS mapper and the PQS 4 (3G) of G4 hunter have similar G tracts.
 ",1 (3G),[1.4 (3G)],"PQS 6 (3G) of QGRS mapper and the PQS 1 (3G) of G4 hunter have similar G tracts.
 "
@@ -1753,7 +1753,7 @@ MIR31 Host Gene",4 (MIR31HG),"MIR31HG (NR_027054.2, NR_152877.1, NR_152878.1, NR
 LUCAT1,cervical cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc",up-regulated,32207530,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3,2","3,2","0,0","0,0",VALIDATED,"0;
 3 (2G)","0;
 [0.876, 0.911, 0.911 (2G)]",No similarity to any PQS (2G) from QGRS mapper,0,0,No PQS found in G4 Hunter
-LUCAT1,Cervical Cancer,"qPCR, RNA-seq",up-regulated,30831032,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3,2","3,2","0,0","0,0",VALIDATED,"0;
+LUCAT1,cervical cancer,"qPCR, RNA-seq",up-regulated,30831032,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3,2","3,2","0,0","0,0",VALIDATED,"0;
 3 (2G)","0;
 [0.876, 0.911, 0.911 (2G)]",No similarity to any PQS (2G) from QGRS mapper,0,0,No PQS found in G4 Hunter
 LUCAT1,cervical cancer,"qPCR, Western blot, etc.",up-regulated,31486481,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3,2","3,2","0,0","0,0",VALIDATED,"0;
@@ -3043,7 +3043,7 @@ PQS 8 (3G) from QGRS mapper is similar to / a part of PQS 3 (3G) from G4 hunter
 PQS 3 (3G) from G4 Hunter has a left frame-shift as compared to PQS 8 (3G) from QGRS mapper.
  
 By looking at  PQS 4, 5 (3G) from G4 hunter, it appears that at a time only 1 GQ can be formed as both PQS have few common G-tracts due to overlap amongst all of these PQS."
-MFI2-AS1 MELTF-AS1,,,,,Also Known As: MELTF-AS1; MFI2-AS1,1 (MELTF-AS1),NR_038285.1 (MELTF-AS1),8 (MELTF-AS1),7 (MELTF-AS1),1 (MELTF-AS1),0 (MELTF-AS1),VALIDATED (MELTF-AS1),"10 (9-C-rich, 1-3G)]","[-0.894, -0.933, -0.854,
+MFI2-AS1 MELTF-AS1,cervical cancer,"qPCR, Western blot",up-regulated,31210294,Also Known As: MELTF-AS1; MFI2-AS1,1 (MELTF-AS1),NR_038285.1 (MELTF-AS1),8 (MELTF-AS1),7 (MELTF-AS1),1 (MELTF-AS1),0 (MELTF-AS1),VALIDATED (MELTF-AS1),"10 (9-C-rich, 1-3G)]","[-0.894, -0.933, -0.854,
  -0.755, -1.1, -0.935, 
 -0.742, -0.857, -0.911
  (C-rich); 0.853 (3G)]","The PQS 1 (3G) of QGRS
@@ -3219,7 +3219,7 @@ PQS 5, 7, 8, 9, 10, 11 from G4 Hunter has no similarity to PQS from QGRS mapper
 PQS 3, 4 (3G) from G4 Hunter has a left frame-shift as compared to PQS 5 (3G) from QGRS mapper. PQS 6 (3G) from G4 Hunter has a left frame-shift as compared to PQS 6 (3G)  from QGRS mapper.
 
 By looking at  PQS 3, 4 (3G) from G4 hunter, it appears that at a time only 1 GQ can be formed as both PQS have few common G-tracts due to overlap amongst all of these PQS."
-NEAT1,cervical Cancer,"qPCR, Western blot",up-regulated,30127216,Also Known As: VINC; TncRNA; LINC00084; NCRNA00084,2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134, 33 (NEAT1_MENbeta and MENepsilon)","16, 8 (NEAT1_MENbeta and MENepsilon)","0, 0 (NEAT1_MENbeta and MENepsilon)",REVIEWED,"64 (39 - 2G, 25 - C-rich);
+NEAT1,cervical cancer,"qPCR, Western blot",up-regulated,30127216,Also Known As: VINC; TncRNA; LINC00084; NCRNA00084,2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134, 33 (NEAT1_MENbeta and MENepsilon)","16, 8 (NEAT1_MENbeta and MENepsilon)","0, 0 (NEAT1_MENbeta and MENepsilon)",REVIEWED,"64 (39 - 2G, 25 - C-rich);
 25 (23 - 2G, 2 - C-rich )",,No similarity to PQS (2G) from QGRS mapper,"11 (9 - 3G, 2 - C-rich);
 8 (3G)","[1.4, 1.37, 1.306, 1.231, 1.38, 1.391, 1.404, 1.153, 1.377 (3G); -1.296, -1.316 (C-rich)];
 [1.4, 1.37, 1.306, 1.231, 1.38, 1.391, 1.404, 1.153 (3G)]
@@ -3387,7 +3387,7 @@ PVT1,cervical cancer,"qPCR, RNAi, Luciferase reporter assay, Cell proliferation 
 PVT1,cervical cancer,"qPCR, RNAi, Western blot, RIP, ChIP, RNA pull-down assay etc.",up-regulated,27272214,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100.Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,"4 (2 - 2G, 2 - C-rich)","[0.933, 0.82 (2G); -0.959, -1.083 (C-rich)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter
 RHPN1-AS1,cervical cancer,"qPCR, western blot",up-regulated,31525429,Also known as: C8orf51,1,NR_026785.1,16,16,0,0,VALIDATED,6 (C-rich),"[-0.911, -0.978, -0.918, -0.933, -0.818 (C-rich)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter
 ROR1-AS1,cervical cancer,"qPCR, Western blot etc",up-regulated,32271410,,2,"NR_110665.1, NR_110666.1","7,11","7,11","0,0","0,0",VALIDATED,0,0,,,,
-SBF2-AS1,Cervical Cancer,qPCR,up-regulated,30856345,,1,NR_036485.1,13,11,2,0,VALIDATED,3 (2G),"[0.956, 0.84, 0.85 (2G)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter
+SBF2-AS1,cervical cancer,qPCR,up-regulated,30856345,,1,NR_036485.1,13,11,2,0,VALIDATED,3 (2G),"[0.956, 0.84, 0.85 (2G)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter
 SNHG1,cervical cancer,"Microarray, qRT-PCR",up-regulated,28930646,Also Known As: UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1, NR_152582.1, NR_152583.1, NR_152584.1, NR_152585.1","5, 9, 9, 4, 4, 4, 4, 4, 5, 3, 7, 7","5, 9, 9, 4, 4, 4, 4, 4, 5, 3, 7, 7","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0","0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",REVIEWED,"0;
 0;
 0;
@@ -3578,7 +3578,7 @@ SNHG7,cervical cancer,"qPCR, Western blot etc",up-regulated,31773679,Also Known 
 [1.348, 1.292 (3G)];
 [1.348, 1.292 (3G)]",Some PQS from QGRS mapper is similar to / a part of PQS (2G) from G4 hunter
 SNHG8,cervical cancer,"qRT-PCR, Western blot assay, RIP",up-regulated,31961005,Also known as: LINC00060; NCRNA00060,3,"NR_003584.3,NR_034010.1,NR_034011.1","5,4,2","5,3,2","0,1,0","0,0,0",VALIDATED,0,0,,,,
-SOX21-AS1,Cervical Cancer,qPCR,up-regulated,30912129,,1,NR_046514.1,21,20,1,0,VALIDATED,"5 (1 - 2G, 4 - C-rich)","[-0.911, -.0913, 0.746, -1, -0.911 (C-rich)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter
+SOX21-AS1,cervical cancer,qPCR,up-regulated,30912129,,1,NR_046514.1,21,20,1,0,VALIDATED,"5 (1 - 2G, 4 - C-rich)","[-0.911, -.0913, 0.746, -1, -0.911 (C-rich)]",No similarity to PQS (2G) from QGRS mapper,0,0,No PQS found in G4 hunter
 SOX2OT,cervical cancer,"qPCR, Western blot etc.",differential expressed,32286144,"Some (older) SOX2OT transcript variant 7 lncRNA ""lncRNA"" ncRNA (complete sequence-KF981435.1) was also there in result.
 ","6 (SOX2-OT_Variant 1-6)
 +
@@ -3897,7 +3897,7 @@ For Variant 1, PQS 2 (3G) from QGRS mapper is similar to / a part of PQS 2 (3G) 
  0","[1.457 (3G); -1.422 (C-rich)]; 
 [-1.422 (C-rich)]","For Variant 1,
 The PQS 1 (3G) from QGRS mapper is similar to / a part of PQS 1 (3G) from G4 hunter"
-WT1-AS,Cervical Cancer,"qPCR, Luciferase reporter assay",down-regulated,30720155,Also Known As: WT1-AS; WIT1; WIT-1; WT1AS; WT1-AS1,5,"WT1-AS (NR_120546.1, NR_120547.1, NR_023920.2, NR_120548.1, NR_120549.1)","32, 24, 13, 13, 10","29, 22, 11, 12, 9","2, 1, 1, 1, 1 (WT1-AS)
+WT1-AS,cervical cancer,"qPCR, Luciferase reporter assay",down-regulated,30720155,Also Known As: WT1-AS; WIT1; WIT-1; WT1AS; WT1-AS1,5,"WT1-AS (NR_120546.1, NR_120547.1, NR_023920.2, NR_120548.1, NR_120549.1)","32, 24, 13, 13, 10","29, 22, 11, 12, 9","2, 1, 1, 1, 1 (WT1-AS)
 
 PQS 1 and 2 of 1st variant is diferent from other variants.
 PQS of 2nd, 3rd, 4th and 5th variants are same","1, 1, 1, 0, 0 (WT1-AS)",VALIDATED,"12 ( 3 - 2G, 2 - 3G, 2 - 4G, 5 - C-rich);
@@ -4061,7 +4061,7 @@ PQS of 3rd variant and PQS 2 of 4th variant are different from each other and ot
 0; 
 0; 
 0",No similarity to PQS from QGRS mapper
-ZFAS1,Cervical Cancer,qPCR,up-regulated,30738960,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11, 8, 10, 11, 4","2, 1, 2, 2, 0","0, 0, 0, 0, 0",REVIEWED,"2 (2G);
+ZFAS1,cervical cancer,qPCR,up-regulated,30738960,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11, 8, 10, 11, 4","2, 1, 2, 2, 0","0, 0, 0, 0, 0",REVIEWED,"2 (2G);
 1 (2G);
 2 (2G);
 2 (2G);
