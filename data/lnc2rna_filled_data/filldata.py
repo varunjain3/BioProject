@@ -14,7 +14,7 @@ mapping = {
     "9. Database-LncRNAs-Prostate Cancer.xlsx": "Prostate.csv",
 }
 
-
+index = 0
 for key, value in mapping.items():
         
     database = pd.read_excel(f"./data/orignal_data/{key}",sheet_name="Validated & Reviewed GQ LncRNAs",header=1)
@@ -30,6 +30,7 @@ for key, value in mapping.items():
         
         flag = 0
         if pd.isnull(row).all():
+
             continue
         
         if pd.isnull(row["Cancer name"]):
@@ -41,6 +42,13 @@ for key, value in mapping.items():
         if pd.isnull(row["Pubmed ID"]):
             flag = 1
         
+        if pd.isnull(row["LncRNA name"]) and i>0:
+            temp = new.iloc[-1]
+            temp[["Cancer name","Methods","Expression pattern","Pubmed ID"]] = row[["Cancer name","Methods","Expression pattern","Pubmed ID"]]
+            row = temp
+            
+
+
         if flag:
             data = search[search["Lnc/ CircRNA name"] == row["LncRNA name"]]
             if pd.isnull(row["LncRNA name"]) or isinstance(row["LncRNA name"],int):
@@ -72,8 +80,8 @@ for key, value in mapping.items():
             filled += 1
             new = new.append(row)
 
-
+    index += 1 
     print("For file {}: {} success, {} fail, {} already filled".format(key, success, fail, filled))
-    new.to_excel("./data/lnc2rna_filled_data/{}".format(value.split()[0]+".xlsx"),sheet_name="Validated & Reviewed GQ LncRNAs",header=1,index=False)
+    new.to_csv("./data/lnc2rna_filled_data/{}{}".format(index,value),index=False)
 
 
