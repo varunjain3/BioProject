@@ -39,7 +39,7 @@ CCAT2,pancreatic ductal adenocarcinoma,"qRT-PCR, Western blot, Luciferase report
 Some (older-not checked for PQS) CCAT2 short and long variants ncRNA; ""other"" ncRNA (complete sequence - GQ911591.1 and GQ911592.1 respectively) were also there in result.",1,NR_109834.1,6,6,0,0,REVIEWED
 CRNDE,pancreatic cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,28940804.0,Also Known As: CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180,5,"NR_034105.4, NR_034106.3, NR_110453.2, NR_110454.2, NR_170995.1","5, 9, 5, 9, 9","5, 7, 5, 7, 7","0, 2, 0, 2, 2","0, 0, 0, 0, 0",VALIDATED
 CRNDE,pancreatic ductal adenocarcinoma,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,27628540.0,Also Known As: CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180,5,"NR_034105.4, NR_034106.3, NR_110453.2, NR_110454.2, NR_170995.1","5, 9, 5, 9, 9","5, 7, 5, 7, 7","0, 2, 0, 2, 2","0, 0, 0, 0, 0",VALIDATED
-CUDR ,pancreatic ductal adenocarcinoma,"qPCR, Western blot, Microarray, other",up-regulated,30272271.0,also reviewed as UCA1. Also known as CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36. Sequence has been updated since last check. No other ncRNA transcripts (mentioned for UCA1) found,1,NR_015379.3,10,10,0,0,
+CUDR ,pancreatic ductal adenocarcinoma,"qPCR, Western blot, Microarray, other",up-regulated,30272271.0,also reviewed as UCA1. Also known as CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36. Sequence has been updated since last check. No other ncRNA transcripts (mentioned for UCA1) found,1,NR_015379.3,10,10,0,0,REVIEWED
 "ANCR
 DANCR",pancreatic cancer,"qRT-PCR, Western blot",up-regulated,31804607.0,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
 
