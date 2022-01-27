@@ -18,8 +18,6 @@ for filename in os.listdir(QGRS_PATH):
     if '.csv' in filename and 'parsed_' not in filename:
         files.append(filename)
 
-sheet_ncbi_num = {}
-
 for filename in files:
     curdf = pd.read_csv(os.path.join(QGRS_PATH, 'parsed_'+filename))
     curdf[N2G] = curdf[N2G].astype(int)
@@ -30,6 +28,7 @@ for filename in files:
 
 mismatches = {}
 absentees = {}
+correct = 0
 
 for filename in files:
     scrapeddf = pd.read_csv(os.path.join(QGRS_PATH, filename))
@@ -37,15 +36,28 @@ for filename in files:
         curtup = (row['# of 2g'], row['# of 3g'], row['# of 4g'])
         curncbi = row[NCBIRNO]
 
-        if curncbi not in sheet_ncbi_num:
+        if curncbi not in ncbi_to_num:
             absentees[curncbi] = curtup
 
         else:
-            if curtup != sheet_ncbi_num[curncbi]:
+            if curtup != ncbi_to_num[curncbi]:
                 mismatches[curncbi] = {
-                    'scraped_qgrs': curtup,
-                    'our_sheet': sheet_ncbi_num[curncbi]
+                    'automated': curtup,
+                    'hand-scraped': ncbi_to_num[curncbi],
+                    'sheet_name': filename,
+                    'qgrs_url': row['tableURL'],
+                    'fast_url': row['fasta_url']
                 }
+            else:
+                correct += 1
 
-print(mismatches)
-# print(absentees)
+
+import json
+# dump mismatches to json
+with open('data/qgrs/mismatches.json', 'w') as f:
+    json.dump(mismatches, f)
+
+
+print(f"Number of mismatches among hand-scraped and automated: {len(mismatches)}")
+print(f"Number of matching: {correct}")
+print(f"Number of values not present in hand-scrapped: {len(absentees)}")

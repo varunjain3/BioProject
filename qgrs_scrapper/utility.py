@@ -72,3 +72,5 @@ def get_QGRS_data(NCBI_ID):
 
     return results
 
+if __name__ == '__main__':
+    get_QGRS_data("NR_152759.1")
