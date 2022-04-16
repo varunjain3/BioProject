@@ -1,3 +1,5 @@
 ~$*
 *msedgedriver.exe
 *.pyc*
+*.pkl
+
