@@ -97,7 +97,7 @@ if __name__ == "__main__":
 
 
     # for item in mapping:
-    #         pool.apply_async(get_qgrs, (item,))
+    #         pool.apply_async(get_QGRS_data, (item,))
 
     # pool.close()
     # pool.join()
