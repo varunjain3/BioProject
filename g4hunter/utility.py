@@ -64,7 +64,8 @@ def get_QGRS_data(NCBI_ID):
     results["# of 3g"] = gees[3]
     results["# of 4g"] = gees[4]
     if gees[5] > 0:
-        raise Exception("5g sequence found")
+        print(f"5g sequence found, please check manually for: {NCBI_ID}")
+        # raise Exception("5g sequence found")
         results["# of 5g"] = gees[5]
     if gees[6] > 0:
         raise Exception("6g sequence found")
