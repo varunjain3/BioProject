@@ -1,0 +1,782 @@
+LncRNA name,Cancer name,Methods,Expression pattern,Pubmed ID,Remarks,No. of Transcript variants,NCBI Reference Number,Total No. of PQS,No. of 2G PQS,No. of 3G PQS,No. of 4G PQS,RefSeq status,aka,"G4 Hunter, thres:0.9 TOTAL PQS","G4 Hunter, thres:0.9 2G PQS","G4 Hunter, thres:0.9 3G PQS","G4 Hunter, thres:0.9 4G PQS","G4 Hunter, thres:1.4 TOTAL PQS","G4 Hunter, thres:1.4 2G PQS","G4 Hunter, thres:1.4 3G PQS","G4 Hunter, thres:1.4 4G PQS"
+ABHD11-AS1,Ovarian Cancer,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",up-regulated,31568657.0,Also Known As: WBSCR26; LINC00035; NCRNA00035,1,NR_026690.1,8,8,0,0,VALIDATED,WBSCR26; LINC00035; NCRNA00035,5,5,0,0,0,0,0,0
+ABHD11-AS1,Ovarian Cancer,"qPCR, Western blot",up-regulated,28818073.0,Also Known As: WBSCR26; LINC00035; NCRNA00035,1,NR_026690.1,8,8,0,0,VALIDATED,WBSCR26; LINC00035; NCRNA00035,5,5,0,0,0,0,0,0
+ADAMTS9-AS2,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, RNAi, other",down-regulated,30268751.0,,1,NR_038264.1,12,11,1,0,VALIDATED,ADAMTS9 antisense RNA 2;ADAMTS9 antisense RNA 2 (non-protein coding);NONHSAG035335.2;ADAMTS9-AS2;HSALNG0026583;HSALNG0026595;lnc-ATXN7-15;HSALNG0026585,6,6,0,0,2,2,0,0
+AFAP1-AS1,Ovarian Cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28051261.0,"Also Known As: AFAP1-AS, AFAP1AS",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS,5,4,1,0,0,0,0,0
+AGAP2-AS1,Ovarian Cancer,qPCR,up-regulated,31233485.0,Also Known As: PUNISHER,1,NR_027032.1,16,12,4,0,VALIDATED,PUNISHER,7,5,2,0,4,2,2,0
+"aHIF",Epithelial Ovarian Cancer,"qRT-PCR, Western blotting etc.",up-regulated,31571921.0,Also Known As: HIF1A-AS2; aHIF; 3'aHIF-1A,1 (HIF1A-AS2),HIF1A-AS2 (NR_045406.1),1 (HIF1A-AS2),1,0,0,VALIDATED (HIF1A-AS2),aHIF; 3'aHIF-1A; HIF1A-AS2,0,0,0,0,0,0,0,0
+"aHIF",Epithelial Ovarian Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30588022.0,Also Known As: HIF1A-AS2; aHIF; 3'aHIF-1A,1 (HIF1A-AS2),HIF1A-AS2 (NR_045406.1),1 (HIF1A-AS2),1,0,0,VALIDATED (HIF1A-AS2),aHIF; 3'aHIF-1A; HIF1A-AS2,0,0,0,0,0,0,0,0
+"ANRIL",Ovarian Cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31189742.0,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089; CDKN2B-AS1,"1,1,0,1,0,0,0,0,0,0,0,0,0,0","1,1,0,1,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"ANRIL",Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,27095571.0,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089; CDKN2B-AS1,"1,1,0,1,0,0,0,0,0,0,0,0,0,0","1,1,0,1,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+ASAP1-IT1,Epithelial Ovarian Cancer,qPCR etc.,differential expression,27667152.0,Also Known As: ASAP1IT; HSPC054; ASAP1-IT; ASAP1IT1; DDEF1IT1; NCRNA00050,1,NR_002765.2,5,5,0,0,VALIDATED,ASAP1IT; HSPC054; ASAP1-IT; ASAP1IT1; DDEF1IT1; NCRNA00050,3,3,0,0,0,0,0,0
+"AWPPH",Ovarian Cancer,qPCR,up-regulated,30896797.0,Also Known As: MIR4435-2HG; AGD2; MORRBID; LINC00978; MIR4435-1HG; lncRNA-AWPPH,8 (MIR4435-2HG),"MIR4435-2HG (NR_015395.2, NR_024373.2, NR_136161.1, NR_136162.1, NR_136163.1, NR_136164.1, NR_136165.1, NR_136166.1) ","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","23,5,10,24,15,10,8,21","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0",VALIDATED (MIR4435-2HG),AGD2; MORRBID; LINC00978; MIR4435-1HG; lncRNA-AWPPH; MIR4435-2HG,"6,4,5,6,5,4,4,6","6,4,5,6,5,4,4,6","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0"
+BACE1-AS,Ovarian Cancer,"qPCR, Western blot, Northern blot, MTT assay etc.",up-regulated,26783004.0,"Homo sapiens BACE1 antisense RNA (BACE1-AS), antisense RNA
+
+Also Known As: BACE1-AS; BACE1AS; BACE1-AS1; NCRNA00177
+
+transcribed RNA-antisense ncRNA (mentioned as lncRNA in title of paper; PubMed - 31264051 and others)
+
+Some (older-not checked for PQS) BACE1 antisense RNA clones (FJ573250.1, FJ573251.1, FJ573252.1, FJ573253.1) were also there in result.",1,NR_037803.2,7,6,1,0,REVIEWED,BACE1AS; BACE1-AS1; NCRNA00177,0,0,0,0,1,1,0,0
+"BC200",Ovarian Cancer,"qPCR, RNAi etc.",down-regulated,26893717.0,Also Known As: BCYRN1; BC200; BC200a; LINC00004; NCRNA00004,1 (BCYRN1),BCYRN1 (NR_001568.1),2 (BCYRN1),2,0,0,REVIEWED (BCYRN1),BC200; BC200a; LINC00004; NCRNA00004; BCYRN1,2,2,0,0,0,0,0,0
+"BC200",Ovarian Cancer,"Northern hybridization, ISH etc.",up-regulated,9422992.0,Also Known As: BCYRN1; BC200; BC200a; LINC00004; NCRNA00004,1 (BCYRN1),BCYRN1 (NR_001568.1),2 (BCYRN1),2,0,0,REVIEWED (BCYRN1),BC200; BC200a; LINC00004; NCRNA00004; BCYRN1,2,2,0,0,0,0,0,0
+BLACAT1,Ovarian Cancer,"qRT-qPCR, Western blot",up-regulated,32095930.0,Also Known As: BLACAT1; LINC00912; linc-UBC1; onco-lncRNA-30,1,NR_103783.1,21,21,0,0,VALIDATED,BLACAT1 overlapping LEMD1 locus;linc-UBC1;LINC00912;onco-lncRNA-30;long intergenic noncoding RNA up-regulated in bladder cancer;long intergenic non-protein coding RNA 912;bladder cancer associated transcript 1 (non-protein coding);bladder cancer associated transcript 1;NONHSAG004054.2;HSALNG0009941;BLACAT1;Bladder cancer-associated transcript 1,7,7,0,0,3,3,0,0
+"C17orf91",Ovarian Cancer,"qPCR, RNAi, Western blot, Cell migration and invasion assay etc.",up-regulated,27535740.0,Also Known As: C17orf91; MIR22HG,4,"MIR22HG (NR_028502.1, NR_028503.1, NR_028504.1, NR_028505.1)","22, 16, 10, 10 (MIR22HG)","20,15,9,9","2,1,1,1","0,0,0,0",VALIDATED (MIR22HG),C17orf91; MIR22HG,"7,5,2,2","6,5,2,2","1,0,0,0","0,0,0,0","1,0,0,0","0,0,0,0","1,0,0,0","0,0,0,0"
+CACS15/CASC15,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,31737207.0,Also Known As: CACS15 [mentioned in title of paper (PubMed-31665008) refereed in NR_015410.2]; CASC15; CANT; LINC00340; lnc-SOX4-1,1 (CASC15),CASC15 (NR_015410.2),18 (CASC15),18,0,0,REVIEWED (CASC15),CANT; LINC00340; lnc-SOX4-1,7,7,0,0,0,0,0,0
+CACS15/CASC15,Ovarian Cancer,"RT-qPCR, Dual Luciferase Reporter Assay, Western blot analysis",down-regulated,31695430.0,Also Known As: CACS15 [mentioned in title of paper (PubMed-31665008) refereed in NR_015410.2]; CASC15; CANT; LINC00340; lnc-SOX4-1,1 (CASC15),CASC15 (NR_015410.2),18 (CASC15),18,0,0,REVIEWED (CASC15),CANT; LINC00340; lnc-SOX4-1,7,7,0,0,0,0,0,0
+CASC2,Epithelial Ovarian Cancer,"qPCR, other",down-regulated,30320385.0,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5,"9,9,8","8,8,7","1,1,1","0,0,0","4,4,1","4,4,1","0,0,0","0,0,0"
+CASC2,Epithelial Ovarian Cancer,"qPCR, Western blot, RIP etc.",down-regulated,29571014.0,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5,"9,9,8","8,8,7","1,1,1","0,0,0","4,4,1","4,4,1","0,0,0","0,0,0"
+CCAT1,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32124583.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30250403.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT1,Ovarian Cancer,qPCR,up-regulated,29424889.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28754469.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT1,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT2,Ovarian Cancer,Western blot etc.,up-regulated,32230936.0,"Also Known As: NCCP1; LINC00873
+
+Some (older-not checked for PQS) CCAT2 short and long variants ncRNA; ""other"" ncRNA (complete sequence - GQ911591.1 and GQ911592.1 respectively) were also there in result.",1,NR_109834.1,6,6,0,0,REVIEWED,NCCP1; LINC00873,2,2,0,0,0,0,0,0
+CCAT2,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29435081.0,"Also Known As: NCCP1; LINC00873
+
+Some (older-not checked for PQS) CCAT2 short and long variants ncRNA; ""other"" ncRNA (complete sequence - GQ911591.1 and GQ911592.1 respectively) were also there in result.",1,NR_109834.1,6,6,0,0,REVIEWED,NCCP1; LINC00873,2,2,0,0,0,0,0,0
+CCAT2,Ovarian Cancer,"Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,28550684.0,"Also Known As: NCCP1; LINC00873
+
+Some (older-not checked for PQS) CCAT2 short and long variants ncRNA; ""other"" ncRNA (complete sequence - GQ911591.1 and GQ911592.1 respectively) were also there in result.",1,NR_109834.1,6,6,0,0,REVIEWED,NCCP1; LINC00873,2,2,0,0,0,0,0,0
+CCAT2,Ovarian Cancer,"qPCR, RNAi, MTT assay etc.",up-regulated,27283598.0,"Also Known As: NCCP1; LINC00873
+
+Some (older-not checked for PQS) CCAT2 short and long variants ncRNA; ""other"" ncRNA (complete sequence - GQ911591.1 and GQ911592.1 respectively) were also there in result.",1,NR_109834.1,6,6,0,0,REVIEWED,NCCP1; LINC00873,2,2,0,0,0,0,0,0
+CPS1-IT1,Ovarian Cancer,"qPCR, Western blot, Luciferase report assay etc.",down-regulated,28770969.0,Also Known As: CPS1IT; CPS1-IT; CPS1IT1; PRO0132,1,NR_002763.2,7,7,0,0,VALIDATED,CPS1IT; CPS1-IT; CPS1IT1; PRO0132,1,1,0,0,0,0,0,0
+CRNDE,Ovarian Cancer,"Microarray, qPCR etc.",up-regulated,26556866.0,Also Known As: CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180,5,"NR_034105.4, NR_034106.3, NR_110453.2, NR_110454.2, NR_170995.1","5, 9, 5, 9, 9","5,7,5,7,7","0,2,0,2,2","0,0,0,0,0",VALIDATED,CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180,"0,2,0,2,2","0,0,0,0,0","0,2,0,2,2","0,0,0,0,0","0,1,0,1,1","0,0,0,0,0","0,1,0,1,1","0,0,0,0,0"
+"CTD-2020K17.1",Ovarian Cancer,"Microarray, qPCR, Western blot, in vitro knockdown etc.",up-regulated,29504606.0,"Homo sapiens FMNL1 divergent transcript (FMNL1-DT), long non-coding RNA
+
+Also Known As: FMNL1-DT; CTD-2020K17.1 [mentioned in paper; PubMed-29504606 referred in FMNL1-DT (NR_147507.1) and the reference sequence was derived from AC008105.32 (Homo sapiens chromosome 17, clone CTD-2020K17, complete sequence)].",1 (FMNL1-DT),FMNL1-DT (NR_147507.1),11 (FMNL1-DT),8,3,0,VALIDATED (FMNL1-DT),FMNL1 divergent transcript;HSALNG0116830;lnc-SPATA32-2;NONHSAG021970.2; FMNL1-DT,6,4,2,0,6,3,3,0
+DANCR,Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,31545000.0,"Also Known As: AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3,"NR_024031.2, NR_145129.1, NR_145130.1","6, 7, 7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR,"4,3,3","3,2,2","1,1,1","0,0,0","1,0,0","1,0,0","0,0,0","0,0,0"
+DANCR,Ovarian Cancer,"qRT-PCR, RIP",up-regulated,31858532.0,"Also Known As: AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3,"NR_024031.2, NR_145129.1, NR_145130.1","6, 7, 7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR,"4,3,3","3,2,2","1,1,1","0,0,0","1,0,0","1,0,0","0,0,0","0,0,0"
+DANCR,Ovarian Cancer,"qRT-PCR , Western blot etc.",up-regulated,31114986.0,"Also Known As: AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3,"NR_024031.2, NR_145129.1, NR_145130.1","6, 7, 7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR,"4,3,3","3,2,2","1,1,1","0,0,0","1,0,0","1,0,0","0,0,0","0,0,0"
+"DARS-AS1",Ovarian Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,30964159.0,Also Known As: DARS1-AS1; DARS-AS1,2 (DARS1-AS1),"DARS1-AS1 (NR_110199.1, NR_110200.1)","8, 8 (DARS1-AS1)","8,8","0,0","0,0",VALIDATED (DARS1-AS1),DARS-AS1; DARS1-AS1,"3,3","3,3","0,0","0,0","0,0","0,0","0,0","0,0"
+DLEU1,Ovarian Cancer,"qPCR, Western blotting etc.",up-regulated,28598010.0,"Also Known As: BCMS; DLB1; LEU1; LEU2; XTP6; BCMS1; DLEU2; LINC00021; NCRNA00021
+
+Some (not checked for PQS) DLEU1-AS1 ""lncRNA"" ncRNA (NR_125753.1) was also there in result.",3,"NR_109973.1, NR_002605.2, NR_109974.1","10, 9, 8","10,9,8","0,0,0","0,0,0",VALIDATED,BCMS; DLB1; LEU1; LEU2; XTP6; BCMS1; DLEU2; LINC00021; NCRNA00021,"2,2,2","2,2,2","0,0,0","0,0,0","1,1,0","1,1,0","0,0,0","0,0,0"
+DLX6-AS1,Ovarian Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31081076.0,Also Known As: Evf-2; DLX6AS; DLX6-AS; NCRNA00212,1,NR_015448.1,9,9,0,0,VALIDATED,Evf-2; DLX6AS; DLX6-AS; NCRNA00212,4,4,0,0,0,0,0,0
+DLX6-AS1,Ovarian Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31378881.0,Also Known As: Evf-2; DLX6AS; DLX6-AS; NCRNA00212,1,NR_015448.1,9,9,0,0,VALIDATED,Evf-2; DLX6AS; DLX6-AS; NCRNA00212,4,4,0,0,0,0,0,0
+DNM3OS,Epithelial Ovarian Cancer,qPCR etc.,up-regulated,20400975.0,Also Known As: DNM3-AS1; MIR199A2HG,2,"NR_038397.2, NR_103486.1","22, 10","20,10","2,0","0,0",VALIDATED,DNM3-AS1; MIR199A2HG,"6,4","5,4","1,0","0,0","1,0","0,0","1,0","0,0"
+DSCAM-AS1,Ovarian Cancer,"qRT-PCR , Western blot etc.",up-regulated,31173284.0,Also Known As: M41,4,"NR_038896.1, NR_038898.1, NR_038899.1, NR_038900.1","12, 7, 8, 7","12,7,8,7","0,0,0,0","0,0,0,0",VALIDATED,M41,"2,0,0,0","2,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0"
+DUXAP10,Ovarian Cancer,qPCR,up-regulated,29424918.0,"Homo sapiens double homeobox A pseudogene 10 (DUXAP10), non-coding RNA
+
+transcribed RNA-misc_RNA (mentioned as lncRNA in title of paper; PubMed - 31576658)
+
+Gene type - pseudo
+
+Some LINC01297-DUXAP10-NBEAP6 readthrough (LINC01297-DUXAP10-NBEAP6), transcript variant 1, 2 and 3; ""lncRNA"" ncRNA (NR_164308.1, NR_164309.1 and NR_164310.1 respectively) with PQS-57, 29, 60 respectively were also there in result.
+
+LINC01297-DUXAP10-NBEAP6 readthrough (This locus represents naturally occurring readthrough transcription between the neighboring LINC01297 (long intergenic non-protein coding RNA 1297), DUXAP10 (double homeobox A pseudogene 10) and NBEAP6 (neurobeachin pseudogene 6) genes on chromosome 14. The readthrough transcripts at this locus contain multiple, short ORFs and are unlikely to produce a protein product-provided by RefSeq, Sep 2019).",1,NR_110526.1,12,12,0,0,VALIDATED,double homeobox A pseudogene 10,1,1,0,0,0,0,0,0
+"ElncRNA1",Epithelial Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,28714515.0,Also Known As: ERLNC1; ElncRNA1; TC0101441,1 (ERLNC1),ERLNC1 (NR_123739.1),11 (ERLNC1),11,0,0,VALIDATED (ERLNC1),ElncRNA1; TC0101441; ERLNC1,5,5,0,0,1,1,0,0
+EMX2OS,Ovarian Cancer,"qPCR, Luciferase reporter assay, RIP etc.",up-regulated,32273754.0,"Homo sapiens EMX2 opposite strand/antisense RNA (EMX2OS), transcript variant 1 and 2, antisense RNA
+
+Also Known As: EMX2-AS1; NCRNA00045
+
+transcribed RNA-antisense RNA (mentioned as lncRNA in title of paper; PubMed - 30576338)
+
+Some (older-not checked for PQS) Long non-coding antisense RNA emx2os (emx2os gene) ""antisense RNA"" ncRNA (TPA: HG975393.1) was also there in result.",2,"NR_002791.2, NR_144378.1","56, 53","55,52","1,1","0,0",VALIDATED,EMX2-AS1; NCRNA00045,"20,15","19,14","1,1","0,0","2,1","1,0","1,1","0,0"
+"EPB41L4A-AS2",Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31645082.0,Also Known As: EPB41L4A-DT; EPB41L4A-AS2,1 (EPB41L4A-DT),EPB41L4A-DT (NR_027706.1),17 (EPB41L4A-DT),15,2,0,VALIDATED (EPB41L4A-DT),EPB41L4A-AS2; EPB41L4A-DT,16,14,2,0,8,7,1,0
+EWSAT1,Ovarian Cancer,Western blot etc.,up-regulated,28979684.0,Also Known As: TMEM84; LINC00277; NCRNA00277,1,NR_026949.1,15,14,1,0,VALIDATED,TMEM84; LINC00277; NCRNA00277,7,6,1,0,4,3,1,0
+"FAL1",Ovarian Cancer,"RT-qPCR, Western blot analysis",down-regulated,31957817.0,Also Known As: FALEC; FAL1; ncRNA-a1; LINC00568,1 (FALEC),FALEC (NR_051960.1),8 (FALEC),8,0,0,VALIDATED,FAL1; ncRNA-a1; LINC00568; FALEC,1,1,0,0,1,1,0,0
+"FAL1",Ovarian Cancer,"qPCR, RNA pull-down assay etc.",up-regulated,25203321.0,Also Known As: FALEC; FAL1; ncRNA-a1; LINC00568,1 (FALEC),FALEC (NR_051960.1),8 (FALEC),8,0,0,VALIDATED,FAL1; ncRNA-a1; LINC00568; FALEC,1,1,0,0,1,1,0,0
+FAM215A,Epithelial Ovarian Cancer,qPCR etc.,differential expression,27667152.0,Also Known As: APR-2; C17orf88; LINC00530,1,NR_026770.1,9,9,0,0,VALIDATED,APR-2; C17orf88; LINC00530,3,3,0,0,1,1,0,0
+FAS-AS1,High Grade Ovarian Serous Cancer,"Microarray, qPCR etc.",up-regulated,29577163.0,Also Known As: SAF; FASAS; FAS-AS,1,NR_028371.1,5,5,0,0,VALIDATED,SAF; FASAS; FAS-AS,0,0,0,0,0,0,0,0
+FER1L4,Ovarian Cancer,"qPCR, other",up-regulated,30444026.0,"Homo sapiens fer-1 like family member 4 (pseudogene) (FER1L4), non-coding RNA
+
+Also Known As: C20orf124
+
+transcribed RNA-misc_RNA (mentioned as lncRNA in title of papers; PubMed - 31473323 and 31115514)
+
+Gene type - pseudo",1,NR_119376.1,85,83,2,0,VALIDATED,C20orf124,42,40,2,0,5,3,2,0
+FEZF1-AS1,Epithelial Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32135030.0,,1,NR_036484.1,22,21,1,0,VALIDATED,FEZF1 antisense RNA 1;FEZF1 antisense RNA 1 (non-protein coding);HSALNG0060982;FEZF1-AS1;NONHSAG048666.2,7,7,0,0,1,1,0,0
+FEZF1-AS1,Ovarian Cancer,"qPCR, RNAi, Western blot, other",up-regulated,30416194.0,,1,NR_036484.1,22,21,1,0,VALIDATED,FEZF1 antisense RNA 1;FEZF1 antisense RNA 1 (non-protein coding);HSALNG0060982;FEZF1-AS1;NONHSAG048666.2,7,7,0,0,1,1,0,0
+"FLJ33360",Ovarian Cancer,qPCR,down-regulated,31239715.0,"Homo sapiens long intergenic non-protein coding RNA 2145 (LINC02145), long non-coding RNA
+
+Also Known As: LINC02145; FLJ33360 [mentioned in paper; PubMed-31239715 referred in LINC02145 (NR_028351.1)] (Gene Cards).
+
+Aliases for LINC02145 Gene (From GeneCards database - GCID: GC05M006311)
+Long Intergenic Non-Protein Coding RNA 2145
+LINC02145
+NONHSAG039744.2
+CTD-2324F15.2
+FLJ33360
+
+Alias symbols for LINC02145 (From HGNC databse - HGNC ID - HGNC:53005)
+FLJ33360
+
+Gene Synonyms for LINC02145 (From Ensembl database - Ensembl version - ENSG00000250490.1)
+FLJ33360",1 (LINC02145),LINC02145 (NR_028351.1),15 (LINC02145),15,0,0,VALIDATED (LINC02145),long intergenic non-protein coding RNA 2145;FLJ33360;CTD-2324F15.2;LINC02145;HSALNG0039890;NONHSAG039744.2; LINC02145,2,2,0,0,0,0,0,0
+"FLVCR1-AS1",Ovarian Cancer,"qPCR, Western blot, other",up-regulated,31412903.0,Also Known As: FLVCR1-DT; LQK1; FLVCR1-AS1; NCRNA00292,2 (FLVCR1-DT),"FLVCR1-DT (NR_027285.1, NR_027286.1)","8, 5 (FLVCR1-DT)","7,4","1,1","0,0",VALIDATED (FLVCR1-DT),LQK1; FLVCR1-AS1; NCRNA00292; FLVCR1-DT,"5,5","4,4","1,1","0,0","2,2","2,2","0,0","0,0"
+GAS5,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",down-regulated,29896229.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Ovarian Cancer,"qPCR, Luciferase reporter assay, other",down-regulated,30201235.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Epithelial Ovarian Cancer,"Microarray, qPCR, Western blot, in vitro knockdown, RIP",down-regulated,31391118.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31314588.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",down-regulated,29229673.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Ovarian Cancer,"qPCR, Cell transfection, Western blot, Cell proliferation assay etc.",down-regulated,27779700.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Ovarian Cancer,"Microarray, qPCR, RNAi etc.",down-regulated,26503132.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Ovarian Cancer,"qPCR, luciferase reporter assay, Western blot, etc.",down-regulated,29896229.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"GEHT1",Ovarian Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,30988076.0,Also Known As: GHET1; lncRNA-GHET1; GEHT1 [mentioned in paper; PubMed-30988076 referred in GHET1 (NR_130107.1)].,1 (GHET1),GHET1 (NR_130107.1),10 (GHET1),9,1,0,REVIEWED,lncRNA-GHET1; GHET1,5,4,1,0,2,2,0,0
+GIHCG,Ovarian Cancer,"qPCR, etc.",up-regulated,30556850.0,,1,NR_038269.1,4,4,0,0,VALIDATED,"GIHCG inhibitor of miR-200b/200a/429 expression;lncRNA-GIHCG;lncRNA gradually increased during hepatocarcinogenesis;GIHCG, inhibitor of miR-200b/200a/429 expression;HSALNG0091676;lnc-CTDSP2-2;NONHSAG011461.2",0,0,0,0,0,0,0,0
+"GTSE1-AS1",High Grade Ovarian Serous Cancer,"Microarray, qPCR etc.",down-regulated,29577163.0,Also Known As: GTSE1-DT; CN5H6.4; GTSE1-AS1; LL22NC03-5H6.6,1 (GTSE1-DT),GTSE1-DT (NR_024009.1),17 (GTSE1-DT),14,3,0,VALIDATED (GTSE1-DT),CN5H6.4; GTSE1-AS1; LL22NC03-5H6.6; GTSE1-DT,17,17,0,0,7,7,0,0
+H19,Ovarian Cancer,"RT-qPCR, Western blot",up-regulated,31934077.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30481782.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Ovarian Cancer,"RT-PCR, Western blot, in vitro knockdown",up-regulated,29468525.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Epithelial Ovarian Cancer,ISH etc.,up-regulated,10428315.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Ovarian Cancer,"RNA-seq, qPCR, Western blot etc.",up-regulated,27193186.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Ovarian Cancer,"Microarray, qPCR, Western blot etc.",down-regulated,25205099.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Ovarian Cancer,"qPCR, RNAi etc.",up-regulated,19656414.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Ovarian Cancer,qPCR etc.,differential expression,9856569.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Ovarian Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26617715.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+HAGLROS,Ovarian Cancer,qPCR,up-regulated,31197441.0,,1,NR_110457.1,6,6,0,0,VALIDATED,HAGLR opposite strand lncRNA;HAGLR opposite strand (non-protein coding);HAGLROS;HSALNG0020595;NONHSAG029907.2,3,3,0,0,2,2,0,0
+HAND2-AS1,Ovarian Cancer,"qPCR, Western blot",down-regulated,31222748.0,Also Known As: UPH; DEIN; NBLA00301,11,"NR_003679.2, NR_136192.1, NR_136193.1, NR_136194.1, NR_136195.1, NR_136196.1, NR_136197.1, NR_136198.1, NR_136199.1, NR_136200.1, NR_136201.1","1, 19, 22, 21, 11, 5, 19, 18, 20, 22, 24","1,17,20,19,10,4,18,16,18,20,22","0,2,2,2,1,1,1,2,2,2,2","0,0,0,0,0,0,0,0,0,0,0",VALIDATED,UPH; DEIN; NBLA00301,"0,4,6,5,2,1,3,4,4,6,7","0,2,4,3,1,0,2,2,2,4,5","0,2,2,2,1,1,1,2,2,2,2","0,0,0,0,0,0,0,0,0,0,0","0,4,5,4,0,0,3,4,4,5,5","0,2,3,2,0,0,2,2,2,3,3","0,2,2,2,0,0,1,2,2,2,2","0,0,0,0,0,0,0,0,0,0,0"
+HAS2-AS1,Ovarian Cancer,"RT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31082772.0,"Homo sapiens HAS2 antisense RNA 1 (HAS2-AS1), antisense RNA
+
+Also Known As: HASNT; HAS2AS; HAS2-AS; NCRNA00077
+
+transcribed RNA-antisense RNA (mentioned as lncRNA in title of papers; PubMed - 31932306 and 28485478)",1,NR_002835.2,15,14,1,0,VALIDATED,HASNT; HAS2AS; HAS2-AS; NCRNA00077,4,3,1,0,3,1,2,0
+HMMR-AS1,Epithelial Ovarian Cancer,"qPCR, etc.",up-regulated,30556852.0,,1,NR_109892.1,5,5,0,0,VALIDATED,HMMR antisense RNA 1;HMMR-AS1;HSALNG0046325;NONHSAG042138.2,0,0,0,0,0,0,0,0
+"HOST2",Ovarian Cancer,"RT-qPCR, Western blot analyses",up-regulated,31701766.0,Also Known As: CERNA2; HOST2; lncRNA-HOST2,1 (CERNA2),CERNA2 (NR_134505.1),9 (CERNA2),9,0,0,REVIEWED (CERNA2),HOST2; lncRNA-HOST2; CERNA2,1,1,0,0,0,0,0,0
+"HOST2",Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,25292198.0,Also Known As: CERNA2; HOST2; lncRNA-HOST2,1 (CERNA2),CERNA2 (NR_134505.1),9 (CERNA2),9,0,0,REVIEWED (CERNA2),HOST2; lncRNA-HOST2; CERNA2,1,1,0,0,0,0,0,0
+HOTAIR,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30205383.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30570864.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Epithelial Ovarian Cancer,"qPCR, Genotyping etc.",differential expression,27166268.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,26826873.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, Western blot etc.",down-regulated,26117268.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,qPCR etc.,differential expression,29667992.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, RNAi, Luciferase reporter assay",differential expression,28420874.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,27041570.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, RNAi etc.",up-regulated,25824616.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,25792974.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,qPCR etc.,up-regulated,26497652.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,qPCR etc.,up-regulated,23600210.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, RNAi, Cell migration assay etc.",up-regulated,27484896.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,29455183.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,26341496.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Ovarian Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,24662839.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIRM1,Ovarian Cancer,"qRT-PCR, Western blot, RIP, Luciferase activity assay",down-regulated,31935390.0,"Also Known As: HOXA-AS1; HOXA1-AS1; NCRNA00179
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIRM1 (HOTAIRM1 gene) and; HOXA cluster antisense intergenic RNA myeloid 1 antisense RNA (HOTAIRM1); ""antisense RNA"" ncRNA   (TPA: HG975399.1; complete sequence-GQ479958.1 respectively) were also there in result.",2,"NR_038366.1, NR_038367.1","7, 5","6,4","1,1","0,0",REVIEWED,HOXA-AS1; HOXA1-AS1; NCRNA00179,"3,2","2,1","1,1","0,0","3,2","3,2","0,0","0,0"
+HOTTIP,Ovarian Cancer,qPCR,up-regulated,31533774.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213,27,26,1,0,4,3,1,0
+HOTTIP,Ovarian Cancer,"qPCR, Western blot, other",up-regulated,30452402.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213,27,26,1,0,4,3,1,0
+HOXA11-AS,Ovarian Cancer,"qPCR, Western blot etc.",down-regulated,26430965.0,Also Known As: HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076,1,NR_002795.2,18,16,2,0,REVIEWED,HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076,6,5,1,0,0,0,0,0
+"HOXD-AS1",Ovarian Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,30823895.0,Also Known As: HAGLR; Mdgt; HOXD-AS1; MIR7704HG,12 (HAGLR),"HAGLR (NR_110458.1, NR_110459.1, NR_110460.1, NR_110461.1, NR_110462.1, NR_110463.1, NR_110464.1, NR_110465.1, NR_110466.1, NR_033979.2, NR_110467.1, NR_110468.1)","27, 25, 25, 23, 27, 25, 25, 23, 23, 22, 24, 24 (HAGLR)","25,23,23,22,25,24,24,21,21,20,23,23","2,2,2,1,2,1,1,2,2,2,1,1","0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,Mdgt; HOXD-AS1; MIR7704HG; HAGLR,"13,9,8,7,13,8,8,8,8,9,9,8","13,8,7,7,13,8,8,7,7,9,9,8","0,1,1,0,0,0,0,1,1,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","7,8,8,6,7,6,6,8,8,6,6,6","7,6,6,6,7,6,6,6,6,6,6,6","0,2,2,0,0,0,0,2,2,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0"
+"HOXD-AS1",Ovarian Cancer,"qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29416930.0,Also Known As: HAGLR; Mdgt; HOXD-AS1; MIR7704HG,12 (HAGLR),"HAGLR (NR_110458.1, NR_110459.1, NR_110460.1, NR_110461.1, NR_110462.1, NR_110463.1, NR_110464.1, NR_110465.1, NR_110466.1, NR_033979.2, NR_110467.1, NR_110468.1)","27, 25, 25, 23, 27, 25, 25, 23, 23, 22, 24, 24 (HAGLR)","25,23,23,22,25,24,24,21,21,20,23,23","2,2,2,1,2,1,1,2,2,2,1,1","0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,Mdgt; HOXD-AS1; MIR7704HG; HAGLR,"13,9,8,7,13,8,8,8,8,9,9,8","13,8,7,7,13,8,8,7,7,9,9,8","0,1,1,0,0,0,0,1,1,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","7,8,8,6,7,6,6,8,8,6,6,6","7,6,6,6,7,6,6,6,6,6,6,6","0,2,2,0,0,0,0,2,2,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0"
+"HOXD-AS1",Epithelial Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29239819.0,Also Known As: HAGLR; Mdgt; HOXD-AS1; MIR7704HG,12 (HAGLR),"HAGLR (NR_110458.1, NR_110459.1, NR_110460.1, NR_110461.1, NR_110462.1, NR_110463.1, NR_110464.1, NR_110465.1, NR_110466.1, NR_033979.2, NR_110467.1, NR_110468.1)","27, 25, 25, 23, 27, 25, 25, 23, 23, 22, 24, 24 (HAGLR)","25,23,23,22,25,24,24,21,21,20,23,23","2,2,2,1,2,1,1,2,2,2,1,1","0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,Mdgt; HOXD-AS1; MIR7704HG; HAGLR,"13,9,8,7,13,8,8,8,8,9,9,8","13,8,7,7,13,8,8,7,7,9,9,8","0,1,1,0,0,0,0,1,1,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","7,8,8,6,7,6,6,8,8,6,6,6","7,6,6,6,7,6,6,6,6,6,6,6","0,2,2,0,0,0,0,2,2,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0"
+HULC,Ovarian Cancer,RT-qPCR,up-regulated,32046413.0,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078,0,0,0,0,0,0,0,0
+HULC,Epithelial Ovarian Cancer,"qPCR, Western blotting etc.",up-regulated,29022892.0,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078,0,0,0,0,0,0,0,0
+JPX,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30556851.0,Also Known As: ENOX; DCBALD06; LINC00183; NCRNA00183,1,NR_024582.1,15,15,0,0,VALIDATED,ENOX; DCBALD06; LINC00183; NCRNA00183,2,2,0,0,0,0,0,0
+KCNMA1-AS1,Epithelial Ovarian Cancer,"qPCR, Western blot",up-regulated,31210304.0,,1,NR_120655.1,5,5,0,0,VALIDATED,KCNMA1 antisense RNA 1;HSALNG0079026;KCNMA1-AS1;NONHSAG006286.2;lnc-LRMDA-3,3,3,0,0,0,0,0,0
+KCNQ1OT1,Ovarian Cancer,"qRT-PCR, Luciferase reporter assay",up-regulated,31909901.0,"Also Known As: LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+
+Some (older-not checked for PQS) Long non-coding sense-intronic RNA Kcnq1ot1 (Kncq1 gene) ""lncRNA"" ncRNA (TPA: HG975405.1) was also there in result.",1,NR_002728.3,581,538,41,2,REVIEWED,LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012,231,209,22,0,65,53,12,0
+KCNQ1OT1,Ovarian Cancer,Western blotting,up-regulated,31696465.0,"Also Known As: LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+
+Some (older-not checked for PQS) Long non-coding sense-intronic RNA Kcnq1ot1 (Kncq1 gene) ""lncRNA"" ncRNA (TPA: HG975405.1) was also there in result.",1,NR_002728.3,581,538,41,2,REVIEWED,LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012,231,209,22,0,65,53,12,0
+"LEF1-AS1?",Ovarian Cancer,qRT-PCR,up-regulated,32099465.0,Also Known As: LEF1NAT,2,"NR_029373.1, NR_029374.1","19, 9","17,9","2,0","0,0",VALIDATED,LEF1NAT; LEF1-AS1,"15,3","14,3","1,0","0,0","1,0","1,0","0,0","0,0"
+"LIMT",Epithelial Ovarian Cancer,"qRT-PCR, Western blotting etc.",down-regulated,31062668.0,Also Known As: LINC01089; LIMT,7 (LINC01089),"LINC01089 (NR_002809.3, NR_152735.1, NR_152736.1, NR_152737.1, NR_152738.1, NR_152739.1, NR_152740.1)","8, 14, 8, 8, 14, 9, 15 (LINC01089)","7,12,8,8,12,9,13","1,2,0,0,2,0,2","0,0,0,0,0,0,0",VALIDATED (LINC01089),LIMT; LINC01089,"4,4,2,2,4,2,4","3,3,2,2,3,2,3","1,1,0,0,1,0,1","0,0,0,0,0,0,0","0,1,0,0,1,0,1","0,0,0,0,0,0,0","0,1,0,0,1,0,1","0,0,0,0,0,0,0"
+LINC-ROR,Ovarian Cancer,qPCR etc.,up-regulated,26314857.0,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3,"5,5","5,5","0,0","0,0","0,0","0,0","0,0","0,0"
+LINC-ROR,Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,29050257.0,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3,"5,5","5,5","0,0","0,0","0,0","0,0","0,0","0,0"
+LINC-ROR,Ovarian Cancer,"qRT-PCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31829305.0,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3,"5,5","5,5","0,0","0,0","0,0","0,0","0,0","0,0"
+LINC00092,Ovarian Cancer,"Microarray, qPCR, RNAi, RNA pull-down assay etc.",up-regulated,28087599.0,Also Known As: NCRNA00092,1,NR_024129.2,19,17,2,0,VALIDATED,NCRNA00092,9,9,0,0,0,0,0,0
+"LINC00152",Ovarian Cancer,"qPCR, Microarray etc",up-regulated,31799647.0,Also Known As: CYTOR; C2orf59; LINC00152; NCRNA00152,5 (CYTOR),"CYTOR (NR_024204.2, NR_024205.3, NR_024206.2, NR_146460.1, NR_146461.1)","4, 6, 4, 4, 3 (CYTOR)","4,6,4,4,3","0,0,0,0,0","0,0,0,0,0",REVIEWED (CYTOR),C2orf59; LINC00152; NCRNA00152; CYTOR,"1,3,1,0,1","1,3,1,0,1","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0"
+"LINC00152",Ovarian Cancer,"qPCR, Western blot, luciferase reporter assay, RIP",up-regulated,30030896.0,Also Known As: CYTOR; C2orf59; LINC00152; NCRNA00152,5 (CYTOR),"CYTOR (NR_024204.2, NR_024205.3, NR_024206.2, NR_146460.1, NR_146461.1)","4, 6, 4, 4, 3 (CYTOR)","4,6,4,4,3","0,0,0,0,0","0,0,0,0,0",REVIEWED (CYTOR),C2orf59; LINC00152; NCRNA00152; CYTOR,"1,3,1,0,1","1,3,1,0,1","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0"
+LINC00161,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30556928.0,Also Known As: C21orf100; Linc-USP16; NCRNA00161,2,"NR_026552.2, NR_026553.2","6, 3","6,3","0,0","0,0",VALIDATED,C21orf100; Linc-USP16; NCRNA00161,"2,0","2,0","0,0","0,0","0,0","0,0","0,0","0,0"
+LINC00312,Ovarian Cancer,"qPCR, Western blot",down-regulated,29952351.0,Also Known As: NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312,1,NR_024065.3,10,9,1,0,REVIEWED,NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312,2,1,1,0,1,1,0,0
+LINC00312,Ovarian Cancer,"qPCR, Western blot, Flow cytometry, etc.",down-regulated,29952351.0,Also Known As: NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312,1,NR_024065.3,10,9,1,0,REVIEWED,NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312,2,1,1,0,1,1,0,0
+LINC00319,Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot, other",up-regulated,30442370.0,Also Known As: PRED49; C21orf125; NCRNA00319,1,NR_152722.1,30,30,0,0,VALIDATED,PRED49; C21orf125; NCRNA00319,8,8,0,0,0,0,0,0
+LINC00339,Ovarian Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,31550677.0,Also Known As: HSPC157; NCRNA00339,6,"NR_023918.2, NR_023919.2, NR_109762.1, NR_109761.1, NR_109760.1, NR_109759.1","5, 5, 7, 7, 5, 5","5,5,7,7,5,5","0,0,0,0,0,0","0,0,0,0,0,0",VALIDATED,HSPC157; NCRNA00339,"0,0,0,0,0,0","0,0,0,0,0,0","0,0,0,0,0,0","0,0,0,0,0,0","0,0,0,0,0,0","0,0,0,0,0,0","0,0,0,0,0,0","0,0,0,0,0,0"
+LINC00460,Epithelial Ovarian Cancer,"qPCR, Western blot, RNAi, Luciferase reporter assay, other",up-regulated,30372802.0,,2,"NR_034119.2, NR_163477.1","4, 4","4,4","0,0","0,0",VALIDATED,long intergenic non-protein coding RNA 460;HSALNG0099182;NONHSAG014130.2;LINC00460,"2,0","2,0","0,0","0,0","0,0","0,0","0,0","0,0"
+LINC00472,Epithelial Ovarian Cancer,qPCR etc.,differential expression,27667152.0,"Also Known As: P53RRA; C6orf155
+
+PQS 1 obtained in 4th variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 3 was taken.",4,"NR_121612.1, NR_026807.2, NR_121613.1, NR_121614.1","43, 43, 42, 43","41,41,40,41","2,2,2,2","0,0,0,0",VALIDATED,P53RRA; C6orf155,"16,16,16,16","16,16,16,16","0,0,0,0","0,0,0,0","4,4,4,4","4,4,4,4","0,0,0,0","0,0,0,0"
+LINC00504,Ovarian Cancer,"qRT-PCR, Western blot, Luciferase reporter assay",up-regulated,31691157.0,,1,NR_126435.1,17,16,0,1,VALIDATED,long intergenic non-protein coding RNA 504;LINC00504;HSALNG0033033;NONHSAG037530.2;HSALNG0033029;NONHSAG037532.2,2,1,1,0,0,0,0,0
+LINC00511,Ovarian Cancer,"qRT-PCR, Western blot analysis, RIP",up-regulated,31920390.0,Also Known As: LCAL5; onco-lncRNA-12,1,NR_033876.1,18,16,2,0,VALIDATED,LCAL5; onco-lncRNA-12,7,6,1,0,2,2,0,0
+LINC00511,Ovarian Cancer,"qRT-PCR , RIP , in vitro knockdown etc.",up-regulated,31016892.0,Also Known As: LCAL5; onco-lncRNA-12,1,NR_033876.1,18,16,2,0,VALIDATED,LCAL5; onco-lncRNA-12,7,6,1,0,2,2,0,0
+LINC00515,Ovarian Cancer,"RNA-seq, qPCR, Western blot etc.",down-regulated,27193186.0,Also Known As: PRED21; C21orf71,1,NR_024092.2,2,2,0,0,VALIDATED,PRED21; C21orf71,0,0,0,0,0,0,0,0
+LINC00565,Ovarian Cancer,"qRT-PCR, Western blot analysis",up-regulated,31819497.0,,1,NR_047495.1,26,25,1,0,VALIDATED,long intergenic non-protein coding RNA 565;HSALNG0099639;NONHSAG014298.2;LINC00565,8,7,1,0,2,1,1,0
+LINC00963,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32021459.0,Also Known As: MetaLnc9,1,NR_038955.1,21,20,1,0,VALIDATED,MetaLnc9,6,6,0,0,1,1,0,0
+LINC01088,Epithelial Ovarian Cancer,"qPCR, other",down-regulated,30280763.0,,1,NR_038342.1,2,2,0,0,VALIDATED,long intergenic non-protein coding RNA 1088;LINC01088;NONHSAG038292.2;HSALNG0035423,0,0,0,0,0,0,0,0
+LINC01088,Ovarian Cancer,"Microarray, RT-qPCR, Western blot, Luciferase reporter assay",down-regulated,29440672.0,,1,NR_038342.1,2,2,0,0,VALIDATED,long intergenic non-protein coding RNA 1088;LINC01088;NONHSAG038292.2;HSALNG0035423,0,0,0,0,0,0,0,0
+LINC01118,Epithelial Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30521855.0,,1,NR_034099.1,11,10,1,0,VALIDATED,long intergenic non-protein coding RNA 1118;NONHSAG027675.2;HSALNG0014713;lnc-SOCS5-4,7,6,1,0,0,0,0,0
+"LINC01125",Ovarian Cancer,"qRT-PCR, Dual luciferase reporter assay, RIP",down-regulated,31865363.0,"Also Known As: C2orf92; LINC01125
+
+Transcript variant 1 is mRNA (NM_001351368.2), transcript variant 2 is noncoding RNA (mentioned in heading) misc RNA (lncRNA as it is more than 200 nts) (NR_038386.2)
+
+Gene type - protein coding","1 (C2orf92)
+(1st variant is mRNA)
+(Total=2)","C2orf92 (_____, NR_038386.2)","___, 8 (C2orf92)",8,0,0,VALIDATED (C2orf92),LINC01125; C2orf92,0,0,0,0,0,0,0,0
+LINC01127,Ovarian Cancer,"qPCR, Western blot",up-regulated,30787997.0,,1,NR_103791.1,10,9,1,0,VALIDATED,long intergenic non-protein coding RNA 1127;NONHSAG028743.2;LINC01127;HSALNG0017393;NONHSAG028744.2,6,6,0,0,0,0,0,0
+LINC01210,Ovarian Cancer,"qPCR, RIP",up-regulated,31514068.0,,1,NR_109987.1,5,5,0,0,VALIDATED,long intergenic non-protein coding RNA 1210;LINC01210;HSALNG0029216;NONHSAG036184.2,2,2,0,0,0,0,0,0
+"LINK-A",Epithelial Ovarian Cancer,qPCR etc.,up-regulated,32333582.0,Also Known As: LINC01139; LINKA; LINK-A,1 (LINC01139),LINC01139 (NR_015407.1),8 (LINC01139),8,0,0,VALIDATED (LINC01139),LINKA; LINK-A; LINC01139,1,1,0,0,0,0,0,0
+"LINK-A",Ovarian Cancer,"qPCR, Western blot",up-regulated,30912527.0,Also Known As: LINC01139; LINKA; LINK-A,1 (LINC01139),LINC01139 (NR_015407.1),8 (LINC01139),8,0,0,VALIDATED (LINC01139),LINKA; LINK-A; LINC01139,1,1,0,0,0,0,0,0
+"LINK-A",Ovarian Cancer,"qPCR, Western blot",up-regulated,30061183.0,Also Known As: LINC01139; LINKA; LINK-A,1 (LINC01139),LINC01139 (NR_015407.1),8 (LINC01139),8,0,0,VALIDATED (LINC01139),LINKA; LINK-A; LINC01139,1,1,0,0,0,0,0,0
+LINP1,Ovarian Cancer,"qRT-PCR, Western blot analysis",up-regulated,31957816.0,,1,NR_138480.1,7,5,2,0,VALIDATED,lncRNA in non-homologous end joining pathway 1;lncRNA in nonhomologous end joining (NHEJ) pathway 1;lncRNA in nonhomologous end joining pathway 1;LINP1;NONHSAG005150.2;HSALNG0075977;HSALNG0075974,4,3,1,0,0,0,0,0
+"lnc-OC1",Ovarian Cancer,"qPCR, luciferase report assay, Western blot, in vitro knockdown",up-regulated,29576507.0,Also Known As: LNCOC1; Lnc-OC1,1 (LNCOC1),LNCOC1 (NR_038925.1),37 (LNCOC1),33,4,0,VALIDATED (LNCOC1),Lnc-OC1; LNCOC1,12,10,2,0,1,1,0,0
+lncRNA-ATB,Ovarian Cancer,"qRT-PCR, Western blot",down-regulated,32021299.0,,1,NR_160525.1,17,16,1,0,VALIDATED,,4,4,0,0,0,0,0,0
+lncRNA-ATB,Ovarian Cancer,"RT-qPCR, Western blot",down-regulated,32010258.0,,1,NR_160525.1,17,16,1,0,VALIDATED,,4,4,0,0,0,0,0,0
+LOXL1-AS1,Ovarian Cancer,"qRT-PCR, RIP",up-regulated,32058209.0,,5,"NR_040066.1, NR_040067.1, NR_040068.1, NR_040069.1, NR_040070.1","15, 13, 11, 9, 11","12,10,11,9,10","3,3,0,0,1","0,0,0,0,0",VALIDATED,LOXL1 antisense RNA 1;LOXL1 antisense RNA 1 (non-protein coding);HSALNG0107133;LOXL1-AS1;NONHSAG017388.2;HSALNG0107136,"5,4,4,3,3","4,3,4,3,3","1,1,0,0,0","0,0,0,0,0","2,2,1,1,1","1,1,1,1,1","1,1,0,0,0","0,0,0,0,0"
+LSINCT5,Ovarian Cancer,"qPCR, Northern blot etc.",up-regulated,21532345.0,"Some (older-not checked for PQS) LSINCT5 non-coding RNA ""other"" ncRNA (partial sequence - GU228577.2) was also there in result.",1,NR_145480.1,24,22,2,0,VALIDATED,long stress-induced non-coding transcript 5;HSALNG0039679;lnc-C5orf38-7,13,12,1,0,3,2,1,0
+LSINCT5,Epithelial Ovarian Cancer,"qPCR, RNAi etc.",up-regulated,29755595.0,"Some (older-not checked for PQS) LSINCT5 non-coding RNA ""other"" ncRNA (partial sequence - GU228577.2) was also there in result.",1,NR_145480.1,24,22,2,0,VALIDATED,long stress-induced non-coding transcript 5;HSALNG0039679;lnc-C5orf38-7,13,12,1,0,3,2,1,0
+LUCAT1,Ovarian Cancer,RT-qPCR,up-regulated,32141534.0,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3, 2","3,2","0,0","0,0",VALIDATED,SCAL1; SCAT5,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+LUCAT1,Ovarian Cancer,"qPCR, Luciferase reporter assay",up-regulated,30107913.0,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3, 2","3,2","0,0","0,0",VALIDATED,SCAL1; SCAT5,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+LUCAT1,Ovarian Cancer,"RNA-seq, qPCR, Western blot etc.",up-regulated,27193186.0,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3, 2","3,2","0,0","0,0",VALIDATED,SCAL1; SCAT5,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+MAGI1-IT1,Epithelial Ovarian Cancer,"Microarray , qRT-PCR , Western blot , in vitro knockdown etc.",down-regulated,31122127.0,,1,NR_145422.1,8,8,0,0,VALIDATED,MAGI1 intronic transcript 1;MAGI1 intronic transcript 1 (non-protein coding);NONHSAG035347.2;HSALNG0026614;MAGI1-IT1,1,1,0,0,0,0,0,0
+MAGI2-AS3,High Grade Ovarian Serous Cancer,"RNA-seq, qRT-PCR",down-regulated,31842477.0,,4,"NR_038343.2, NR_038344.1, NR_038345.1, NR_038346.1","22, 9, 2, 3","21,8,2,3","1,1,0,0","0,0,0,0",VALIDATED,MAGI2 antisense RNA 3;ENST00000414797;MAGI2 antisense RNA 3 (non-protein coding);HSALNG0059170;MAGI2-AS3;NONHSAG048073.2,"10,5,0,1","9,4,0,1","1,1,0,0","0,0,0,0","3,2,0,0","2,1,0,0","1,1,0,0","0,0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, Western blot",up-regulated,29949143.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,qPCR,up-regulated,30003749.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",differential expression,29874124.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, Microarray, other",up-regulated,30294913.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Epithelial Ovarian Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30585260.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, etc.",up-regulated,31496733.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Epithelial Ovarian Cancer,"qPCR, western blot etc.",up-regulated,28770968.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Epithelial Ovarian Cancer,qPCR etc.,up-regulated,27446438.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Epithelial Ovarian Cancer,"qPCR, Western blot, RNAi etc.",up-regulated,29693187.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, Luciferase reporter assay etc.",up-Regulated,28899458.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"Microarray, qPCR, in vitro knockdown etc.",up-regulated,27313681.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,28031721.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, Western blot, RIP etc.",down-regulated,29548748.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,qPCR etc.,up-regulated,28587379.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,27565324.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, Western blot, Flow cytometry assay, Cell proliferation assay, in vitro knockdown etc.",up-regulated,27227769.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, Western blot, Flow cytometry, etc.",up-regulated,29949143.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Ovarian Cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,29874124.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MEG3,Ovarian Cancer,"RT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31161607.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MEG3,Ovarian Cancer,"qPCR, Microarray, other",down-regulated,30310931.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MEG3,Ovarian Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay, RIP",differential expression,31638182.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MEG3,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, Flow cytometry assay, CCK-8 assay etc.",up-regulated,28175963.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MEG3,Epithelial Ovarian Cancer,"qPCR, Western blot, RIP",down-regulated,28423647.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MEG3,Epithelial Ovarian Cancer,"qPCR, MSP-PCR, Western blot, Luciferase reporter assay etc.",down-regulated,24859196.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MIAT,Ovarian Cancer,"Western blot, Luciferase reporter assay etc",up-regulated,32186927.0,Also Known As: RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT,4,"NR_003491.3, NR_033319.2, NR_033320.2, NR_033321.2","122, 118, 118, 119","1,04,10,01,00,101","18,18,18,18","0,0,0,0",REVIEWED,RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT,"74,72,72,70","61,59,59,57","13,13,13,13","0,0,0,0","32,32,32,32","27,27,27,27","5,5,5,5","0,0,0,0"
+MIAT,Ovarian Cancer,"qPCR, Luciferase assay, other",up-regulated,30393480.0,Also Known As: RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT,4,"NR_003491.3, NR_033319.2, NR_033320.2, NR_033321.2","122, 118, 118, 119","1,04,10,01,00,101","18,18,18,18","0,0,0,0",REVIEWED,RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT,"74,72,72,70","61,59,59,57","13,13,13,13","0,0,0,0","32,32,32,32","27,27,27,27","5,5,5,5","0,0,0,0"
+MIF-AS1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32196575.0,Also Known As: MIF-AS,1,NR_038911.1,23,21,2,0,VALIDATED,MIF-AS,13,13,0,0,5,5,0,0
+MIR503HG,Ovarian Cancer,"Dual luciferase assay, qRT-PCR",down-regulated,31907059.0,Also Known As: H19X; MIR503HG2,1,NR_024607.1,6,6,0,0,VALIDATED,H19X; MIR503HG2,1,1,0,0,0,0,0,0
+"MLK7-AS1",Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30249278.0,Also Known As: MAP3K20-AS1; MLK7-AS1,1 (MAP3K20-AS1),MAP3K20-AS1 (NR_033882.1),10 (MAP3K20-AS1),10,0,0,VALIDATED (MAP3K20-AS1),MLK7-AS1; MAP3K20-AS1,2,2,0,0,0,0,0,0
+MNX1-AS1,Ovarian Cancer,qPCR,up-regulated,29271994.0,Also Known As: MAYA; CCAT5,1,NR_038835.1,12,10,2,0,VALIDATED,MAYA; CCAT5,4,3,1,0,0,0,0,0
+MNX1-AS1,Ovarian Cancer,"qPCR, Western blot",up-regulated,28414551.0,Also Known As: MAYA; CCAT5,1,NR_038835.1,12,10,2,0,VALIDATED,MAYA; CCAT5,4,3,1,0,0,0,0,0
+MNX1-AS1,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,Also Known As: MAYA; CCAT5,1,NR_038835.1,12,10,2,0,VALIDATED,MAYA; CCAT5,4,3,1,0,0,0,0,0
+NBAT1,Ovarian Cancer,"qPCR, Western blot etc.",down-regulated,28435289.0,Also Known As: CASC14; NBAT-1,1,NR_034143.1,8,7,1,0,VALIDATED,CASC14; NBAT-1,1,0,1,0,0,0,0,0
+"NCK1-AS1",Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,31761329.0,Also Known As: NCK1-DT; NCK1-AS1; SLC35G2-AS1,3 (NCK1-DT),"NCK1-DT (NR_110175.1, NR_110176.1, NR_110177.1)","9, 8, 7 (NCK1-DT)","9,8,7","0,0,0","0,0,0",VALIDATED (NCK1-DT),NCK1-AS1; SLC35G2-AS1; NCK1-DT,"3,3,3","3,3,3","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+NEAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29790629.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NEAT1,Ovarian Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,30154460.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NEAT1,Ovarian Cancer,"qPCR, luciferase reporter assay, Western blot etc.",up-regulated,29180871.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NEAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,27075229.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NEAT1,Ovarian Cancer,qPCR etc.,up-regulated,27608895.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NEAT1,Ovarian Cancer,"qPCR, western blot etc.",up-regulated,29790629.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NNT-AS1,Ovarian Cancer,"qPCR, in vitro knockdown",down-regulated,29805655.0,,1,NR_073113.1,15,15,0,0,VALIDATED,NNT antisense RNA 1;RP11-159F24.1;NONHSAG040320.2;HSALNG0041522;NNT-AS1,4,4,0,0,0,0,0,0
+NNT-AS1,Ovarian Cancer,qPCR etc.,down-regulated,29805655.0,,1,NR_073113.1,15,15,0,0,VALIDATED,NNT antisense RNA 1;RP11-159F24.1;NONHSAG040320.2;HSALNG0041522;NNT-AS1,4,4,0,0,0,0,0,0
+NORAD,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32141533.0,Also Known As: LINC00657,1,NR_027451.1,30,25,5,0,VALIDATED,LINC00657,19,13,6,0,6,4,2,0
+NORAD,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31299866.0,Also Known As: LINC00657,1,NR_027451.1,30,25,5,0,VALIDATED,LINC00657,19,13,6,0,6,4,2,0
+NORAD,Epithelial Ovarian Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31250987.0,Also Known As: LINC00657,1,NR_027451.1,30,25,5,0,VALIDATED,LINC00657,19,13,6,0,6,4,2,0
+"NR_023915",Ovarian Cancer,qPCR,up-regulated,29805570.0,Also Known As: IPW; NCRNA00002,1 (IPW),IPW (NR_023915.1),10 (IPW),9,1,0,REVIEWED (IPW),NCRNA00002; IPW,4,4,0,0,1,1,0,0
+"NR_038435",Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,28128423.0,Also Known As: HOXD-AS2,1 (HOXD-AS2),HOXD-AS2 (NR_038435.1),10 (HOXD-AS2),9,1,0,VALIDATED (HOXD-AS2),HOXD cluster antisense RNA 2;HOXD cluster antisense RNA 2 (non-protein coding);HOXD-AS2;HSALNG0020588;NONHSAG029903.2;NONHSAG029904.2;HSALNG0020589; HOXD-AS2,5,4,1,0,0,0,0,0
+"NR_038464",Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,28128423.0,Also Known As: LINC00857; HUMT,1 (LINC00857),LINC00857 (NR_038464.1),12 (LINC00857),12,0,0,VALIDATED (LINC00857),HUMT; LINC00857,1,1,0,0,0,0,0,0
+OIP5-AS1,Ovarian Cancer,qPCR etc.,down-regulated,29219179.0,Also Known As: cyrano; linc-OIP5,4,"NR_026757.2, NR_152820.1, NR_152821.1, NR_152822.1","30, 26, 6, 31","30,26,6,31","0,0,0,0","0,0,0,0",REVIEWED,cyrano; linc-OIP5,"6,4,0,6","6,4,0,6","0,0,0,0","0,0,0,0","2,2,0,2","2,2,0,2","0,0,0,0","0,0,0,0"
+"OR3A4",Ovarian Cancer,"qPCR, Western blot, RIP",up-regulated,30964160.0,"Homo sapiens olfactory receptor family 3 subfamily A member 4 pseudogene (OR3A4P), non-coding RNA
+
+Also Known As: OR3A4P; OR24; OR25; OR3A4; OR3A5P; OLFRA05; OLFRA06; OR17-13; OR17-16; OR17-24; OR17-25
+
+Transcribed RNA - misc RNA (mentioned as lncRNA in title of papers; PubMed-32417392, 31486499 and others)
+
+Gene type - pseudo",1 (OR3A4P),OR3A4P (NR_024128.1),7 (OR3A4P),6,1,0,VALIDATED (OR3A4P),OR24; OR25; OR3A4; OR3A5P; OLFRA05; OLFRA06; OR17-13; OR17-16; OR17-24; OR17-25; OR3A4P,3,3,0,0,0,0,0,0
+"OVAL",Ovarian Cancer,"RNA-seq, qPCR etc.",down-regulated,24265805.0,Also Known As: OVAAL; OVAL; LINC01131,1 (OVAAL),OVAAL (NR_125716.1),6 (OVAAL),6,0,0,VALIDATED (OVAAL),OVAL; RMEL2; LINC01131; OVAAL,1,1,0,0,0,0,0,0
+PANDAR,Ovarian Cancer,"qPCR, Western blot, RNAi, RIP, other",up-regulated,30375398.0,Also Known As: PANDA,1,NR_109836.1,6,6,0,0,REVIEWED,PANDA,1,1,0,0,0,0,0,0
+PCAT1,Ovarian Cancer,"qPCR, Luciferase reporter assay",up-regulated,30899305.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Epithelial Ovarian Cancer,"RT-qPCR, Western blotting",up-regulated,31934037.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Ovarian Cancer,"qPCR, Western blot",up-regulated,31210290.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT6,Ovarian Cancer,"qPCR, Western blot",up-regulated,31646553.0,Also Known As: PCAN-R1; KDM5BAS1; ncRNA-a2; KDM5B-AS1; onco-lncRNA-96,2,"NR_046325.1, NR_046326.1","4, 3","3,2","1,1","0,0",VALIDATED,PCAN-R1; KDM5BAS1; ncRNA-a2; KDM5B-AS1; onco-lncRNA-96,"2,2","2,2","0,0","0,0","0,0","0,0","0,0","0,0"
+PCGEM1,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29949791.0,"Also Known As: PCAT9; LINC00071; NCRNA00071
+
+Some (older-not checked for PQS) Long non-coding RNA pcgem1 (pcgem1 gene) ""antisense RNA"" ncRNA (TPA: HG975429.1) was also there in result.",2,"NR_002769.1, NR_152587.1","7, 8","7,8","0,0","0,0",REVIEWED,PCAT9; LINC00071; NCRNA00071,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+PCGEM1,Ovarian Cancer,"qPCR, Western blot, etc.",up-regulated,29949791.0,"Also Known As: PCAT9; LINC00071; NCRNA00071
+
+Some (older-not checked for PQS) Long non-coding RNA pcgem1 (pcgem1 gene) ""antisense RNA"" ncRNA (TPA: HG975429.1) was also there in result.",2,"NR_002769.1, NR_152587.1","7, 8","7,8","0,0","0,0",REVIEWED,PCAT9; LINC00071; NCRNA00071,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+"PTAF",Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29929545.0,"Also Known As: LINC00922?; PTAF [mentioned in title and remarks {GeneRIF: Results revealed that up-regulated LINC00922 (PTAF) induced elevated SNAI2 expression by competitively binding to miR-25,…} of paper; PubMed-29929545]",1 (LINC00922),LINC00922 (NR_027755.1),11 (LINC00922),11,0,0,VALIDATED (LINC00922),Lnc-LALC; LINC00922,3,3,0,0,0,0,0,0
+"PTAF",Ovarian Cancer,"qPCR, Western blot, etc.",up-regulated,29929545.0,"Also Known As: LINC00922?; PTAF [mentioned in title and remarks {GeneRIF: Results revealed that up-regulated LINC00922 (PTAF) induced elevated SNAI2 expression by competitively binding to miR-25,…} of paper; PubMed-29929545]",1 (LINC00922),LINC00922 (NR_027755.1),11 (LINC00922),11,0,0,VALIDATED (LINC00922),Lnc-LALC; LINC00922,3,3,0,0,0,0,0,0
+PVT1,Ovarian Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,29957467.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100,4,3,1,0,3,0,3,0
+PVT1,Ovarian Cancer,"qPCR, Western blot, other",up-regulated,30468460.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100,4,3,1,0,3,0,3,0
+PVT1,Ovarian Cancer,"qPCR, Western blot, RIP, other",up-regulated,30197791.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100,4,3,1,0,3,0,3,0
+PVT1,Ovarian Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31222482.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100,4,3,1,0,3,0,3,0
+PVT1,Ovarian Cancer,"qPCR, RNAi etc.",down-regulated,26097562.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100,4,3,1,0,3,0,3,0
+PVT1,Ovarian Cancer,qPCR etc.,up-regulated,17908964.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100,4,3,1,0,3,0,3,0
+PVT1,Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,26884974.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100,4,3,1,0,3,0,3,0
+PVT1,Ovarian Cancer,"qPCR, Cell proliferation assay, Flow cytometric assay, Luciferase reporter assay, etc.",up-regulated,29957467.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100,4,3,1,0,3,0,3,0
+RAD51-AS1,Epithelial Ovarian Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28667302.0,Also Known As: TODRA,1,NR_040058.1,14,14,0,0,VALIDATED,TODRA,5,5,0,0,0,0,0,0
+RHPN1-AS1,Epithelial Ovarian Cancer,"qRT-PCR, Western blot, Microarray",up-regulated,32163372.0,"Homo sapiens RHPN1 antisense RNA 1 (head to head) (RHPN1-AS1), long non-coding RNA
+
+Also Known As: C8orf51",1,NR_026785.1,16,16,0,0,VALIDATED,C8orf51,0,0,0,0,0,0,0,0
+SNHG1,Ovarian Cancer,"qPCR, Western blot",up-regulated,29424921.0,Also Known As: UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1, NR_152582.1, NR_152583.1, NR_152584.1, NR_152585.1","5, 9, 9, 4, 4, 4, 4, 4, 5, 3, 7, 7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,"1,2,2,1,1,1,1,0,1,0,0,2","1,2,2,1,1,1,1,0,1,0,0,2","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0"
+SNHG12,Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30964158.0,Also Known As: C1orf79; PNAS-123; LINC00100; ASLNC04080; NCRNA00100,8,"NR_024127.2, NR_146381.1, NR_146382.1, NR_146383.1, NR_146384.1, NR_146385.1, NR_146386.1, NR_146387.1","8, 13, 9, 8, 13, 8, 8, 11","8,13,9,8,13,8,8,11","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0",REVIEWED,C1orf79; PNAS-123; LINC00100; ASLNC04080; NCRNA00100,"2,3,2,2,3,2,2,1","2,3,2,2,3,2,2,1","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0"
+SNHG14,Ovarian Cancer,"qRT-PCR, Western blot analysis",up-regulated,31841176.0,Also Known As: 115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN,1,NR_146177.1,176,175,1,0,REVIEWED,115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN,32,32,0,0,2,2,0,0
+SNHG14,Ovarian Cancer,"qRT-PCR , RIP , in vitro knockdown etc.",up-regulated,31173283.0,Also Known As: 115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN,1,NR_146177.1,176,175,1,0,REVIEWED,115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN,32,32,0,0,2,2,0,0
+SNHG16,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29461589.0,Also Known As: SNHG16; ncRAN; Nbla10727; Nbla12061,4 (SNHG16),"SNHG16 (NR_038108.1, NR_038109.1, NR_038110.1, NR_038111.1)","9, 9, 8, 8 (SNHG16)","9,9,8,8","0,0,0,0","0,0,0,0",VALIDATED (SNHG16),ncRAN; Nbla10727; Nbla12061,"1,1,1,1","1,1,1,1","0,0,0,0","0,0,0,0","1,1,1,1","1,1,1,1","0,0,0,0","0,0,0,0"
+SNHG20,Epithelial Ovarian Cancer,"qPCR, Western blot",up-regulated,30846486.0,Also Known As: C17orf86; LINC00338; NCRNA00338; SCARNA16HG,1,NR_027058.1,18,17,1,0,VALIDATED,C17orf86; LINC00338; NCRNA00338; SCARNA16HG,8,7,1,0,0,0,0,0
+SNHG20,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown, RNAi",up-regulated,29101241.0,Also Known As: C17orf86; LINC00338; NCRNA00338; SCARNA16HG,1,NR_027058.1,18,17,1,0,VALIDATED,C17orf86; LINC00338; NCRNA00338; SCARNA16HG,8,7,1,0,0,0,0,0
+SNHG22,Epithelial Ovarian Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31581131.0,Also Known As: SCARNA17; SCARNA17HG,1,NR_117096.1,16,15,1,0,VALIDATED,SCARNA17; SCARNA17HG,4,3,1,0,2,2,0,0
+SNHG3,Ovarian Cancer,"qPCR, Western blot",up-regulated,29921511.0,Also Known As: U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014,2,"NR_036473.1, NR_002909.2","18, 16","18,16","0,0","0,0",VALIDATED,U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014,"6,6","6,6","0,0","0,0","0,0","0,0","0,0","0,0"
+SNHG3,Ovarian Cancer,"qPCR, Western blot, etc.",up-regulated,29921511.0,Also Known As: U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014,2,"NR_036473.1, NR_002909.2","18, 16","18,16","0,0","0,0",VALIDATED,U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014,"6,6","6,6","0,0","0,0","0,0","0,0","0,0","0,0"
+SNHG5,Ovarian Cancer,"qRT-PCR, Luciferase reporter assay, RIP",down-regulated,31884343.0,Also Known As: U50HG; C6orf160; LINC00044; NCRNA00044,1,NR_003038.2,2,2,0,0,REVIEWED,U50HG; C6orf160; LINC00044; NCRNA00044,0,0,0,0,0,0,0,0
+"SOX2OT",Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29434823.0,"Also Known As: SOX2-OT; SOX2OT; NCRNA00043
+
+Some (older) SOX2OT transcript variant 7 lncRNA ""lncRNA"" ncRNA (complete sequence-KF981435.1) was also there in result.
+
+Some (older, not checked for PQS) SOX2OT transcript variant 8 lncRNA ""lncRNA"" ncRNA (partial sequence-KJ415055.1) was also there in result.
+
+Some (older, not checked for PQS) SOX2OT ""other"" ncRNA (complete sequence-JX110620.1; note=""alternatively spliced long noncoding RNA"") was also there in result.
+
+Some (older, not checked for PQS) Sox2OT-S1 and S2 ""other"" ncRNA (complete sequence-JN711430.1 and JN882275.1 respectively) were also there in result.","6 (SOX2-OT_Variant 1-6)
++
+1 [SOX2OT_Variant 7 (older)]
+=7","SOX2-OT_Variant 1-6 (NR_075091.1, NR_075092.1, NR_075093.1, NR_004053.3, NR_075089.1, NR_075090.1)
++
+SOX2OT_Variant 7 (older) (KF981435.1)","18, 16, 13, 16, 15, 11 (SOX2-OT_Variant 1-6)
++
+11 [SOX2OT_Variant 7 (older)]","18,16,13,16,15,11","0,0,0,0,0,0","0,0,0,0,0,0",REVIEWED (SOX2-OT_Variant 1-6),SOX2OT; NCRNA00043; SOX2-OT,"10,10,1,9,9,0","10,10,1,9,9,0","0,0,0,0,0,0","0,0,0,0,0,0","1,1,1,1,1,0","1,1,1,1,1,0","0,0,0,0,0,0","0,0,0,0,0,0"
+SPRY4-IT1,Ovarian Cancer,"qPCR, Western blot etc.",down-regulated,28691641.0,Also Known As: SPRIGHTLY,1,NR_131221.1,5,5,0,0,REVIEWED,SPRIGHTLY,3,3,0,0,0,0,0,0
+SPRY4-IT1,Ovarian Cancer,"qPCR, RNAi, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28129625.0,Also Known As: SPRIGHTLY,1,NR_131221.1,5,5,0,0,REVIEWED,SPRIGHTLY,3,3,0,0,0,0,0,0
+TDRG1,Epithelial Ovarian Cancer,"RT-PCR, Western blot, Luciferase reporter assay",up-regulated,28984384.0,Also Known As: LINC00532; lincRNA-NR_024015,3,"NR_160958.1, NR_160959.1, NR_160960.1","8, 6, 6","8,6,6","0,0,0","0,0,0",VALIDATED,LINC00532; lincRNA-NR_024015,"2,0,0","2,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+TINCR,Ovarian Cancer,qPCR,up-regulated,31545411.0,Also Known As: PLAC2; LINC00036; NCRNA00036; onco-lncRNA-16,1,NR_027064.3,40,30,10,0,REVIEWED,TINCR ubiquitin domain containing;FLJ90734;NCRNA00036;LINC00036;onco-lncRNA-16;non-protein coding RNA 36;long intergenic non-protein coding RNA 36;terminal differentiation-induced ncRNA;placenta-specific 2;placenta-specific 2 (non-protein coding);tissue differentiation-inducing non-protein coding RNA;PLAC2;NONHSAG024566.2;lnc-TINCR-1;HSALNG0123467;HSALNG0123468;Ubiquitin domain-containing protein TINCR;Placenta-specific protein 2;Terminal differentiation-induced cornification regulator,28,21,7,0,12,8,4,0
+TLR8-AS1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,32278547.0,Also Known As: GS1-324M7.6,1,NR_030727.1,13,13,0,0,VALIDATED,GS1-324M7.6,1,1,0,0,0,0,0,0
+TP73-AS1,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29904939.0,Also Known As: PDAM; KIAA0495,5,"NR_033711.1, NR_033710.1, NR_033709.1, NR_033708.1, NR_033712.1","67, 58, 46, 38, 30","61,52,41,33,26","6,6,5,5,4","0,0,0,0,0",VALIDATED,PDAM; KIAA0495,"26,26,21,19,12","22,22,18,16,10","4,4,3,3,2","0,0,0,0,0","8,8,6,6,2","5,5,3,3,1","3,3,3,3,1","0,0,0,0,0"
+TP73-AS1,Epithelial Ovarian Cancer,"RT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,31105851.0,Also Known As: PDAM; KIAA0495,5,"NR_033711.1, NR_033710.1, NR_033709.1, NR_033708.1, NR_033712.1","67, 58, 46, 38, 30","61,52,41,33,26","6,6,5,5,4","0,0,0,0,0",VALIDATED,PDAM; KIAA0495,"26,26,21,19,12","22,22,18,16,10","4,4,3,3,2","0,0,0,0,0","8,8,6,6,2","5,5,3,3,1","3,3,3,3,1","0,0,0,0,0"
+TP73-AS1,Ovarian Cancer,"qPCR, Western blot, etc.",up-regulated,29904939.0,Also Known As: PDAM; KIAA0495,5,"NR_033711.1, NR_033710.1, NR_033709.1, NR_033708.1, NR_033712.1","67, 58, 46, 38, 30","61,52,41,33,26","6,6,5,5,4","0,0,0,0,0",VALIDATED,PDAM; KIAA0495,"26,26,21,19,12","22,22,18,16,10","4,4,3,3,2","0,0,0,0,0","8,8,6,6,2","5,5,3,3,1","3,3,3,3,1","0,0,0,0,0"
+TPT1-AS1,Epithelial Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30941821.0,,1,NR_024458.1,12,12,0,0,VALIDATED,TPT1 antisense RNA 1;TPT1 antisense RNA 1 (non-protein coding);NONHSAG013413.2;HSALNG0096821;TPT1-AS1,2,2,0,0,0,0,0,0
+TTN-AS1,Ovarian Cancer,qRT-PCR,down-regulated,32049388.0,,2,"NR_038272.1, NR_038271.1","32, 13","32,13","0,0","0,0",VALIDATED,TTN antisense RNA 1;TTN antisense RNA 1 (non-protein coding);HSALNG0020713;NONHSAG029956.2,"5,2","5,2","0,0","0,0","2,0","2,0","0,0","0,0"
+TTN-AS1,Ovarian Cancer,"qRT-PCR, Western blot, RIP",up-regulated,32006899.0,,2,"NR_038272.1, NR_038271.1","32, 13","32,13","0,0","0,0",VALIDATED,TTN antisense RNA 1;TTN antisense RNA 1 (non-protein coding);HSALNG0020713;NONHSAG029956.2,"5,2","5,2","0,0","0,0","2,0","2,0","0,0","0,0"
+TUG1,Ovarian Cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32189969.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Ovarian Cancer,"qRT-PCR, Luciferase activity assay, Western blotting",up-regulated,31930662.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Epithelial Ovarian Cancer,"qPCR, Western blot, other",up-regulated,30349317.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Epithelial Ovarian Cancer,"qPCR, Western blot, other",up-regulated,30200102.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Epithelial Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,29742691.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Ovarian Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27693324.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+UCA1,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32016960.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29777711.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Ovarian Cancer,"qRT-PCR , Microarray etc.",up-regulated,31011626.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Epithelial Ovarian Cancer,"RNA-seq, qPCR, Western blot, RIP",differential expression,31307004.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31234009.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Epithelial Ovarian Cancer,"qPCR, RNAi, RIP, Luciferase reporter assay etc.",up-regulated,26867765.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Ovarian Cancer,qPCR etc.,up-regulated,26851957.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Ovarian Cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,25866223.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Ovarian Cancer,qPCR,up-regulated,29953778.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Ovarian Cancer,"qPCR, western blot etc.",up-regulated,29777711.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UNC5B-AS1,Ovarian Cancer,"RT-qPCR, Western blot, Dual Luciferase reporter analysis, RIP",up-regulated,31903696.0,Also Known As: UASR1,1,NR_038453.1,5,5,0,0,VALIDATED,UASR1,7,7,0,0,0,0,0,0
+WDFY3-AS2,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31347170.0,Also Known As: FBI4; C4orf12; NCRNA00247,12,"NR_015359.2, NR_152771.1, NR_152772.1, NR_152773.1, NR_152774.1, NR_152775.1, NR_152776.1, NR_152778.1, NR_152779.1, NR_152780.1, NR_152781.1, NR_152782.1","9, 11, 11, 13, 11, 11, 11, 9, 7, 10, 10, 9","9,10,10,12,10,10,11,9,7,10,10,9","0,1,1,1,1,1,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,FBI4; C4orf12; NCRNA00247,"2,4,4,4,4,4,2,2,2,2,2,2","2,3,3,3,3,3,2,2,2,2,2,2","0,1,1,1,1,1,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,1,1,1,1,1,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,1,1,1,1,1,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0"
+XIST,Epithelial Ovarian Cancer,qPCR,up-regulated,31564909.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,15,15,0,0,0,0,0,0
+XIST,Ovarian Cancer,"qPCR, Dual luciferase reporter assay, Western blotting",down-regulated,31930432.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,15,15,0,0,0,0,0,0
+XIST,Epithelial Ovarian Cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30207107.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,15,15,0,0,0,0,0,0
+XIST,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,17143508.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,15,15,0,0,0,0,0,0
+XIST,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,12492109.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,15,15,0,0,0,0,0,0
+ZFAS1,Ovarian Cancer,qPCR etc.,up-regulated,28154416.0,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11,8,10,11,4","2,1,2,2,0","0,0,0,0,0",REVIEWED,HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,"4,2,4,4,0","2,2,2,2,0","2,0,2,2,0","0,0,0,0,0","4,2,4,4,0","3,2,3,3,0","1,0,1,1,0","0,0,0,0,0"
+ZFAS1,Epithelial Ovarian Cancer,"qPCR, Cell transfection, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,28099946.0,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11,8,10,11,4","2,1,2,2,0","0,0,0,0,0",REVIEWED,HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,"4,2,4,4,0","2,2,2,2,0","2,0,2,2,0","0,0,0,0,0","4,2,4,4,0","3,2,3,3,0","1,0,1,1,0","0,0,0,0,0"
+ZNF300P1,Epithelial Ovarian Cancer,"qPCR, RNAi, MSH-PCR etc.",up-regulated,24393131.0,"Homo sapiens zinc finger protein 300 pseudogene 1 (ZNF300P1), non-coding RNA
+
+Transcribed RNA - misc RNA (lncRNA as it is more than 200 nts) (NR_026867.1)
+
+Gene type - pseudo",1,NR_026867.1,8,8,0,0,VALIDATED,zinc finger protein 300 pseudogene 1;zinc finger protein 300 pseudogene 1 (functional),0,0,0,0,0,0,0,0
+Total no. of LncRNAs having Validated and Reviewed RefSeq status,,,,,,,,,,,,,,,,,,,,,
+135,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,730 @@
+LncRNA name,Cancer name,Methods,Expression pattern,Pubmed ID,Remarks,No. of Transcript variants,NCBI Reference Number,Total No. of PQS,No. of 2G PQS,No. of 3G PQS,No. of 4G PQS,RefSeq status,aka,"G4 Hunter, thres:0.9 TOTAL PQS","G4 Hunter, thres:0.9 2G PQS","G4 Hunter, thres:0.9 3G PQS","G4 Hunter, thres:0.9 4G PQS","G4 Hunter, thres:1.4 TOTAL PQS","G4 Hunter, thres:1.4 2G PQS","G4 Hunter, thres:1.4 3G PQS","G4 Hunter, thres:1.4 4G PQS"
+ADAMTS9-AS1,Prostate Cancer,qRT-PCR,differential expression,32153626.0,,2,"NR_110150.1, NR_110151.1","14, 14","14,14","0,0","0,0",VALIDATED,ADAMTS9 antisense RNA 1;ADAMTS9 antisense RNA 1 (non-protein coding);HSALNG0026576;NONHSAG035332.2;ADAMTS9-AS1,"2,2","2,2","0,0","0,0","0,0","0,0","0,0","0,0"
+AFAP1-AS1,Prostate Cancer,"qRT-PCR, RIP, Luciferase reporter gene assay, Western blot",up-regulated,31669642.0,"Also Known As: AFAP1-AS, AFAP1AS",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS,5,4,1,0,0,0,0,0
+AFAP1-AS1,Prostate Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31081081.0,"Also Known As: AFAP1-AS, AFAP1AS",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS,5,4,1,0,0,0,0,0
+"ANRASSF1 ",Prostate Cancer,"RNA-seq, qPCR, RNAi, Western blot, RIP, ChIP, Cell proliferation assay etc.",up-regulated,23990798.0,Also known as: RASSF1-AS1 ; ANRASSF1,1 (RASSF1-AS1) ,RASSF1-AS1 (NR_109831),11 (RASSF1-AS1) ,0,0,0,VALIDATED (RASSF1-AS1) ,ANRASSF1; RASSF1-AS1,,,,,,,,
+"ANRIL",Prostate Cancer,qPCR etc.,up-regulated,20541999.0,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089; CDKN2B-AS1,"1,1,0,1,0,0,0,0,0,0,0,0,0,0","1,1,0,1,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"ANRIL",Prostate Cancer,"RT-PCR, Western blot, in vitro knockdown",up-regulated,29278879.0,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089; CDKN2B-AS1,"1,1,0,1,0,0,0,0,0,0,0,0,0,0","1,1,0,1,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+ARlnc1,Prostate Cancer,"RNA-seq, Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi, RIP",differential expression,29808028.0,Also Known As: PRCAT47; LINC02170,2,"NR_131947.1, NR_131948.1","12, 12","12,12","0,0","0,0",VALIDATED,PRCAT47; LINC02170,"4,4","4,4","0,0","0,0","0,0","0,0","0,0","0,0"
+ARlnc1,Prostate Cancer,"RNA-seq, qPCR, Northern blot etc.",differential expression,29808028.0,Also Known As: PRCAT47; LINC02170,2,"NR_131947.1, NR_131948.1","12, 12","12,12","0,0","0,0",VALIDATED,PRCAT47; LINC02170,"4,4","4,4","0,0","0,0","0,0","0,0","0,0","0,0"
+BCAR4,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30513511.0,,5,"NR_024049.1, NR_024050.1, NR_131216.1, NR_131217.1, NR_131222.1","5, 2, 1, 2, 2","5,2,1,2,2","0,0,0,0,0","0,0,0,0,0",VALIDATED,"breast cancer anti-estrogen resistance 4;breast cancer anti-estrogen resistance 4 (non-protein coding);breast cancer antiestrogen resistance 4 protein;BCAR4;HSALNG0109621;NONHSAG018621.2;Breast cancer antiestrogen resistance 4 protein;HCG1814062, isoform CRA_a","1,0,0,0,0","1,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0"
+BDNF-AS,Prostate Cancer,"qPCR, in vitro knockdown etc.",down-regulated,29710528.0,Also Known As: BDNF-AS; BDNF; BDNFAS; BDNFOS; BDNF-AS1; ANTI-BDNF; NCRNA00049,"5 (BDNF-AS_Variant BT1A, BT1B, BT1C, BT2A, BT2B)","BDNF-AS_Variant BT1A, BT1B, BT1C, BT2A, BT2B (NR_033313.1, NR_033315.1, NR_033312.1, NR_033314.1, NR_002832.2 respectively)","3, 5, 7, 8, 10 (BDNF-AS_Variant BT1A, BT1B, BT1C, BT2A, BT2B)","3,5,7,7,9","0,0,0,1,1","0,0,0,0,0",VALIDATED,BDNF; BDNFAS; BDNFOS; BDNF-AS1; ANTI-BDNF; NCRNA00049,"0,0,2,3,5","0,0,2,2,4","0,0,0,1,1","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0"
+BLACAT1,Prostate Cancer,"RT-PCR, Western blotting, Luciferase Assays, RIP",down-regulated,31957820.0,Also Known As: BLACAT1; LINC00912; linc-UBC1; onco-lncRNA-30,1,NR_103783.1,21,21,0,0,VALIDATED,BLACAT1 overlapping LEMD1 locus;linc-UBC1;LINC00912;onco-lncRNA-30;long intergenic noncoding RNA up-regulated in bladder cancer;long intergenic non-protein coding RNA 912;bladder cancer associated transcript 1 (non-protein coding);bladder cancer associated transcript 1;NONHSAG004054.2;HSALNG0009941;BLACAT1;Bladder cancer-associated transcript 1,7,7,0,0,3,3,0,0
+"BRE-AS1 ",Prostate Cancer,qPCR,down-regulated,30833361.0,Also Known As: BABAM2-AS1; BRE-AS1,1 (BABAM2-AS1),BABAM2-AS1 (NR_028308.1),16 (BABAM2-AS1),12,4,0,VALIDATED (BABAM2-AS1),BRE-AS1; BABAM2-AS1,13,11,2,0,6,6,0,0
+CASC15,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31646560.0,Also Known As: CACS15 [mentioned in title of paper (PubMed-31665008) refereed in NR_015410.2]; CASC15; CANT; LINC00340; lnc-SOX4-1,1,NR_015410.2,18,18,0,0,REVIEWED,CANT; LINC00340; lnc-SOX4-1,7,7,0,0,0,0,0,0
+CASC2,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",down-regulated,29373811.0,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5,"9,9,8","8,8,7","1,1,1","0,0,0","4,4,1","4,4,1","0,0,0","0,0,0"
+CCAT1,Prostate Cancer,"qRT-PCR, Western blot",up-regulated,32089062.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT1,Prostate Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29863242.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30221381.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31387890.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT1,Prostate Cancer,qPCR etc.,up-regulated,28945760.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT1,Prostate Cancer,qPCR etc.,up-regulated,29863242.0,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40,1,1,0,0,0,0,0,0
+CCAT2,Prostate Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27558961.0,"Also Known As: NCCP1; LINC00873
+
+Some (older-not checked for PQS) CCAT2 short and long variants ncRNA; ""other"" ncRNA (complete sequence - GQ911591.1 and GQ911592.1 respectively) were also there in result.",1,NR_109834.1,6,6,0,0,REVIEWED,NCCP1; LINC00873,2,2,0,0,0,0,0,0
+CRNDE,Prostate Cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32182608.0,Also Known As: CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180,5,"NR_034105.4, NR_034106.3, NR_110453.2, NR_110454.2, NR_170995.1","5, 9, 5, 9, 9","5,7,5,7,7","0,2,0,2,2","0,0,0,0,0",VALIDATED,CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180,"0,2,0,2,2","0,0,0,0,0","0,2,0,2,2","0,0,0,0,0","0,1,0,1,1","0,0,0,0,0","0,1,0,1,1","0,0,0,0,0"
+CTBP1-AS,Prostate Cancer,"qPCR, Western blot, Northern blot, RIP etc.",up-regulated,23644382.0,Also Known As:  PCAT10,1,NR_104331.1,52,46,6,0,VALIDATED,PCAT10,22,19,3,0,8,6,2,0
+DANCR,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,31486484.0,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3,"NR_024031.2, NR_145129.1, NR_145130.1","6, 7, 7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR,"4,3,3","3,2,2","1,1,1","0,0,0","1,0,0","1,0,0","0,0,0","0,0,0"
+DANCR,Prostate Cancer,"qPCR, RNAi, Western blot, ChIP etc.",up-regulated,27191265.0,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3,"NR_024031.2, NR_145129.1, NR_145130.1","6, 7, 7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR,"4,3,3","3,2,2","1,1,1","0,0,0","1,0,0","1,0,0","0,0,0","0,0,0"
+DANCR,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3,"NR_024031.2, NR_145129.1, NR_145130.1","6, 7, 7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR,"4,3,3","3,2,2","1,1,1","0,0,0","1,0,0","1,0,0","0,0,0","0,0,0"
+DGCR5,Prostate Cancer,"RT-qPCR, Western-Blotting",down-regulated,31920375.0,"Also Known As: DGCR9; DGS-A; DGS-B; DGCR10; LINC00037; POM121L5P; NCRNA00037
+
+2 sequences for DGCR5 (NR_026651.1, NR_024159.1) without any mentioning of transcript variants, while 3 sequences of DGCR5 with clear mentioning of transcipt variants.
+
+PREDICTED REFSEQ (NR_026651.1): This record has not been reviewed and the function is unknown. The reference sequence was derived from BU584104.1, AC000095.5, L77559.1 and BM681417.1.
+
+All transcriprt variants of DGCR5 (NR_002733.2, NR_045121.1, NR_110533.1, NR_026651.1 and NR_024159.1) are reported (Gene Cards - GCID: GC22P019556)
+
+PQS 2 obtained in DGCR5_Variant 2 (NR_045121.1) when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3. Rest two PQS were same in both search parameters.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 3 was taken.","3 (DGCR5)
++
+2 (DGCR5 unknown variants)
+=5","DGCR5 (NR_002733.2, NR_045121.1, NR_110533.1)
++
+DGCR5 unknown variants (NR_026651.1, NR_024159.1)","32, 32, 11 (DGCR5)
++
+7, 28 (DGCR5 unknown variants)","29,29,11,5,25","3,3,0,2,3","0,0,0,0,0","VALIDATED (DGCR5)
+
+PREDICTED (DGCR5 unknown variant-NR_026651.1)
+
+VALIDATED (DGCR5 unknown variant-NR_024159.1)",DGCR9; DGS-A; DGS-B; DGCR10; LINC00037; POM121L5P; NCRNA00037,"17,17,5,2,17","16,16,5,1,16","1,1,0,1,1","0,0,0,0,0","6,6,0,2,3","6,6,0,0,3","0,0,0,2,0","0,0,0,0,0"
+DRAIC,Prostate Cancer,"qPCR, RIP",down-regulated,31900260.0,,1,NR_026979.1,10,10,0,0,VALIDATED,"downregulated RNA in cancer, inhibitor of cell invasion and migration;downregulated RNA in androgen independent cells;lnc-RPLP1-12;HSALNG0106873;HSALNG0106861;HSALNG0106864;HSALNG0106856;NONHSAG017288.2;NONHSAG017290.2;HSALNG0106871;NONHSAG017294.2;HSALNG0106875;HSALNG0106878;HSALNG0106865",5,5,0,0,0,0,0,0
+DRAIC,Prostate Cancer,"qPCR, Western blot etc.",down-regulated,25700553.0,,1,NR_026979.1,10,10,0,0,VALIDATED,"downregulated RNA in cancer, inhibitor of cell invasion and migration;downregulated RNA in androgen independent cells;lnc-RPLP1-12;HSALNG0106873;HSALNG0106861;HSALNG0106864;HSALNG0106856;NONHSAG017288.2;NONHSAG017290.2;HSALNG0106871;NONHSAG017294.2;HSALNG0106875;HSALNG0106878;HSALNG0106865",5,5,0,0,0,0,0,0
+DUXAP10,Prostate Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",down-regulated,31114994.0,"Homo sapiens double homeobox A pseudogene 10 (DUXAP10), non-coding RNA
+
+transcribed RNA-misc_RNA (mentioned as lncRNA in title of paper; PubMed - 31576658)
+
+Gene type - pseudo
+
+Some LINC01297-DUXAP10-NBEAP6 readthrough (LINC01297-DUXAP10-NBEAP6), transcript variant 1, 2 and 3; ""lncRNA"" ncRNA (NR_164308.1, NR_164309.1 and NR_164310.1 respectively) with PQS-57, 29, 60 respectively were also there in result.
+
+LINC01297-DUXAP10-NBEAP6 readthrough (This locus represents naturally occurring readthrough transcription between the neighboring LINC01297 (long intergenic non-protein coding RNA 1297), DUXAP10 (double homeobox A pseudogene 10) and NBEAP6 (neurobeachin pseudogene 6) genes on chromosome 14. The readthrough transcripts at this locus contain multiple, short ORFs and are unlikely to produce a protein product-provided by RefSeq, Sep 2019).",1,NR_110526.1,12,12,0,0,VALIDATED,double homeobox A pseudogene 10,1,1,0,0,0,0,0,0
+EGOT,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",down-regulated,23728290.0,"Also Known As: EGO, NCRNA00190",1,NR_004428.1,10,9,1,0,VALIDATED,EGO; NCRNA00190,5,5,0,0,0,0,0,0
+"FAL1 ",Prostate Cancer,"qPCR, RNA pull-down assay etc.",up-regulated,25203321.0,Also Known As: FALEC; FAL1; ncRNA-a1; LINC00568,1 (FALEC),FALEC (NR_051960.1),8 (FALEC),8,0,0,VALIDATED (FALEC),FAL1; ncRNA-a1; LINC00568; FALEC,1,1,0,0,1,1,0,0
+FALEC,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28585762.0,"Also Known As: FAL1, ncRNA-a1; LINC00568",1,NR_051960.1,8,8,0,0,VALIDATED,FAL1; ncRNA-a1; LINC00568,1,1,0,0,1,1,0,0
+FENDRR,Neuroendocrine Prostate Cancer,"RNA-seq, Microarray, qPCR etc.",down-regulated,29757368.0,"Also Known As: FOXF1AS1; FOXF1-AS1; lincFOXF1; TCONS_00024240; onco-lncRNA-21
+
+Some (older) FENDRR transcript variant 3 lncRNA ""lncRNA"" ncRNA (complete sequence-MK522493.1) was also there in result.","2 (FENDRR_Variant 1 and 2)
++
+1 [FENDRR_Variant 3 (older)]
+=3","FENDRR_variant 1 and 2 (NR_033925.1, NR_036444.1)
++
+FENDRR_variant 3 (older) MK522493.1","14, 24 (FENDRR_Variant 1 and 2)
++
+26 [FENDRR_Variant 3 (older)]","14,23","0,1","0,0",REVIEWED (Variant 1 and 2),FOXF1AS1; FOXF1-AS1; lincFOXF1; TCONS_00024240; onco-lncRNA-21,"2,11","2,10","0,1","0,0","1,5","1,4","0,1","0,0"
+FENDRR,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",down-regulated,29465000.0,"Also Known As: FOXF1AS1; FOXF1-AS1; lincFOXF1; TCONS_00024240; onco-lncRNA-21
+
+Some (older) FENDRR transcript variant 3 lncRNA ""lncRNA"" ncRNA (complete sequence-MK522493.1) was also there in result.","2 (FENDRR_Variant 1 and 2)
++
+1 [FENDRR_Variant 3 (older)]
+=3","FENDRR_variant 1 and 2 (NR_033925.1, NR_036444.1)
++
+FENDRR_variant 3 (older) MK522493.1","14, 24 (FENDRR_Variant 1 and 2)
++
+26 [FENDRR_Variant 3 (older)]","14,23","0,1","0,0",REVIEWED (Variant 1 and 2),FOXF1AS1; FOXF1-AS1; lincFOXF1; TCONS_00024240; onco-lncRNA-21,"2,11","2,10","0,1","0,0","1,5","1,4","0,1","0,0"
+FER1L4,Prostate Cancer,"RT-qPCR, Western blot",down-regulated,32140077.0,"Homo sapiens fer-1 like family member 4 (pseudogene) (FER1L4), non-coding RNA
+
+Also Known As: C20orf124
+
+transcribed RNA-misc_RNA (mentioned as lncRNA in title of papers; PubMed - 31473323 and 31115514)
+
+Gene type - pseudo",1,NR_119376.1,85,83,2,0,VALIDATED,C20orf124,42,40,2,0,5,3,2,0
+FEZF1-AS1,Prostate Cancer,"qPCR, Western blot etc",up-regulated,32196579.0,,1,NR_036484.1,22,21,1,0,VALIDATED,FEZF1 antisense RNA 1;FEZF1 antisense RNA 1 (non-protein coding);HSALNG0060982;FEZF1-AS1;NONHSAG048666.2,7,7,0,0,1,1,0,0
+FEZF1-AS1,Prostate Cancer,"qPCR, Western blot",up-regulated,31298365.0,,1,NR_036484.1,22,21,1,0,VALIDATED,FEZF1 antisense RNA 1;FEZF1 antisense RNA 1 (non-protein coding);HSALNG0060982;FEZF1-AS1;NONHSAG048666.2,7,7,0,0,1,1,0,0
+FOXC2-AS1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30389560.0,Also known as: ODRUL,1,NR_125795.1,3,3,0,0,VALIDATED,ODRUL,0,0,0,0,0,0,0,0
+FOXP4-AS1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31209207.0,,3,"NR_126415.1, NR_126416.1, NR_126417.1","2, 2, 1","2,2,1","0,0,0","0,0,0",VALIDATED,FOXP4 antisense RNA 1;FOXP4-AS1;HSALNG0050030;NONHSAG043770.2;HSALNG0050034,"0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+GAS5,Prostate Cancer,"qPCR, other",down-regulated,31423164.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Prostate Cancer,"qPCR, Western blot etc.",down-regulated,28396462.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Prostate Cancer,qPCR etc.,down-regulated,27922078.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Prostate Cancer,"qPCR, RNAi, Cell proliferation assay etc.",down-regulated,25650269.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Prostate Cancer,"qPCR, RNAi etc.",up-regulated,23676682.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Prostate Cancer,qPCR etc.,down-regulated,18836484.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Prostate Cancer,"qPCR, RNAi, Western blot, Dual luciferase reporter assay, Cell proliferation assay, ISH etc.",down-regulated,27743383.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Prostate Cancer,"qPCR, RNA interference and transient transfection etc.",up-regulated,28771526.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+GAS5,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030,"0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,2,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,4,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"GASL1 ",Prostate Cancer,"RT-qPCR, Western blotting  etc.",up-regulated,31186749.0,Also Known As: GASAL1; GASL1,1 (GASAL1),NR_149020.1 (GASAL1),45 (GASAL1),37,6,2,VALIDATED (GASAL1),GASL1; GASAL1,18,12,5,1,14,10,3,1
+GHET1,Prostate Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30609158.0,Also Known As: ncRNA-GHET1,1,NR_130107.1,10,9,1,0,REVIEWED,lncRNA-GHET1,5,4,1,0,2,2,0,0
+GLIDR,Prostate Cancer,qPCR etc.,up-regulated,28211799.0,"Also Known As: LINC01172, TCONS_00015562",4,"NR_015363.2, NR_126044.1, NR_12045.1, NR_126046.1","21, 17, 9, 8","19,15,0,8","2,2,0,0","0,0,0,0",VALIDATED,glioblastoma down-regulated RNA;MGC21881;TCONS_00015562;FAM88A;family with sequence similarity 88 member A;long intergenic non-protein coding RNA 1172;LINC01172;HSALNG0071221;GLIDR;NONHSAG052261.2,,,,,,,,
+H19,Prostate Cancer,"qPCR, Western blot, Microarray",differential expression,32146726.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Prostate Cancer,qPCR etc,up-regulated,32356434.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Prostate Cancer,"qPCR, Western blot, other",down-regulated,31426484.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Neuroendocrine Prostate Cancer,"RNA-seq, Microarray, qPCR etc.",up-regulated,29757368.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Prostate Cancer,"qPCR, Western blot etc.",down-regulated,24988946.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Prostate Cancer,qPCR etc.,down-regulated,24063685.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+H19,Prostate Cancer,"qPCR, ISH etc.",up-regulated,15525575.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008,"37,37,2","30,30,2","6,6,0","1,1,0","19,19,0","16,16,0","3,3,0","0,0,0"
+HCG11,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31228307.0,"Also Known As: CTA-14H9.3, bK14H9.3",1,NR_026790.1,35,31,4,0,VALIDATED,bK14H9.3; CTA-14H9.3,26,23,3,0,4,4,0,0
+HCG11,Prostate Cancer,qPCR etc.,down-regulated,27522256.0,"Also Known As: CTA-14H9.3, bK14H9.3",1,NR_026790.1,35,31,4,0,VALIDATED,bK14H9.3; CTA-14H9.3,26,23,3,0,4,4,0,0
+HCP5,Prostate Cancer,"RT-qPCR, Western blot",up-regulated,31746434.0,Also Known As: P5-1; 6S2650E; D6S2650E,1,NR_040662.1,23,21,2,0,VALIDATED,P5-1; 6S2650E; D6S2650E,7,7,0,0,0,0,0,0
+HOTAIR,Prostate Cancer,"RNA-seq, qPCR, Western blot, in vitro knockdown",up-regulated,29944905.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,29807357.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Prostate Cancer,"qPCR, Western blot, in vitro knockdown etc.",down-regulated,29221985.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Prostate Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,26962687.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Prostate Cancer,"qPCR, Western blot, ChIP, Dot blot etc.",differential expression,27922078.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Prostate Cancer,"qPCR, Western blot, ChIP, Luciferase reporter assay etc.",up-regulated,25895025.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Prostate Cancer,"qPCR, RIP, ChIP, RNA pull-down assay etc.",up-regulated,26411689.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,23936419.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Prostate Cancer,"qPCR, Western blot etc.",differential expression,29807357.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTAIR,Prostate Cancer,"qPCR, RNA-seq, ChIP-Seq, etc.",up-regulated,29944905.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072,"10,9,11","10,9,11","0,0,0","0,0,0","1,1,2","1,1,2","0,0,0","0,0,0"
+HOTTIP,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29884766.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213,27,26,1,0,4,3,1,0
+HOTTIP,Prostate Cancer,"qPCR, Western blot",up-regulated,30809864.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213,27,26,1,0,4,3,1,0
+HOTTIP,Prostate Cancer,qRT-PCR etc.,up-regulated,31570281.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213,27,26,1,0,4,3,1,0
+HOTTIP,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",down-regulated,23728290.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213,27,26,1,0,4,3,1,0
+HOTTIP,Prostate Cancer,"qPCR, Luciferase reporter assay, Western blot, etc.",up-regulated,29884766.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213,27,26,1,0,4,3,1,0
+HOXA11-AS,Prostate Cancer,"qPCR, Western blot",up-regulated,31971633.0,Also Known As: HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076,1,NR_002795.2,18,16,2,0,REVIEWED,HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076,6,5,1,0,0,0,0,0
+HOXD-AS1,Prostate Cancer,"Microarray Analysis, western blot, RNAi, GhIP etc.",up-regulated,28487115.0,Also Known As: HAGLR; HOXD-AS1; MIR7704HG,12,"NR_110458.1, NR_110459.1, NR_110460.1, NR_110461.1, NR_110462.1, NR_110463.1, NR_110464.1, NR_110465.1, NR_110466.1, NR_033979.2, NR_110467.1, NR_110468.1","27, 25, 25, 23, 27, 25, 25, 23, 23, 22, 24, 24","25,0,23,22,25,24,24,21,21,20,23,23","2,0,2,1,2,1,1,2,2,2,1,1","0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,Mdgt; HOXD-AS1; MIR7704HG,,,,,,,,
+HULC,Prostate Cancer,"qPCR, Western blot, RNAi",down-regulated,29694502.0,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078,0,0,0,0,0,0,0,0
+HULC,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29765457.0,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078,0,0,0,0,0,0,0,0
+HULC,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078,0,0,0,0,0,0,0,0
+IDH1-AS1,Prostate Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31570703.0,,1,NR_046452.1,4,4,0,0,VALIDATED,IDH1 antisense RNA 1;IDH1 antisense RNA 1 (non-protein coding);HSALNG0021909;IDH1-AS1;NONHSAG030384.2,2,2,0,0,1,1,0,0
+IGF2AS,Prostate Cancer,"qPCR, other",down-regulated,30423304.0,Also known as: PEG8; IGF2AS; IGF2-AS1,3,"___, NR_028043.2, NR_133657.1","___, 27, 27","24,24","3,3","0,0",REVIEWED,PEG8; IGF2AS; IGF2-AS1,"17,17","16,16","1,1","0,0","7,7","7,7","0,0","0,0"
+"ILF3-AS1 ",Prostate Cancer,RNA-seq,differential expression,30906477.0,Also Known As: ILF3-DT; ILF3-AS1,1 (ILF3-DT),ILF3-DT (NR_024333.1),19 (ILF3-DT),19,0,0,VALIDATED (ILF3-DT),ILF3-AS1; ILF3-DT,9,9,0,0,0,0,0,0
+INXS,Prostate Cancer,"qPCR, RACE-PCR etc.",down-regulated,24992962.0,Also known as: ABALON; Results include sequence for ABALON lncRNA ,1,KC505631.1 ,18,,,,VALIDATED,apoptotic BCL2L1-antisense long non-coding RNA;INXS;apoptotic BCL-X-associated long ncRNA;intronic BCL-XS-inducing lncRNA;HSALNG0129511,,,,,,,,
+KCNQ1OT1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,"Also Known As: LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+
+Some (older-not checked for PQS) Long non-coding sense-intronic RNA Kcnq1ot1 (Kncq1 gene) ""lncRNA"" ncRNA (TPA: HG975405.1) was also there in result.",1,NR_002728.3,581,538,41,2,REVIEWED,LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012,231,209,22,0,65,53,12,0
+LBCS,Prostate Cancer,"qPCR, Western blot, RIP",down-regulated,31221168.0,Also Known As: LNC-LBCS,3,"NR_134649.1, NR_134650.1, NR_134651.1","4,4,3","8,7,6","0,0,0","0,0,0",VALIDATED,LBCS,"0,0,1","0,0,1","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+LINC-PINT,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,"Also Known As: PINT; MKLN1-AS1; LincRNA-Pint
+
+Some (older-not checked for PQS) Linc-pint lncRNA ""lncRNA"" ncRNA (partial sequence - MG322760.1) was also there in result.",13,"NR_015431.2, NR_024153.2, NR_109850.1, NR_109851.1, NR_109852.1, NR_109853.1, NR_109854.1, NR_109855.1, NR_034120.1, NR_110472.1, NR_110473.1, NR_170175.1, NR_170176.1","19, 8, 21, 19, 19, 15, 15, 15, 9, 8, 3, 23, 21","16,7,18,16,16,13,13,13,9,8,3,21,19","3,1,3,3,3,2,2,2,0,0,0,2,2","0,0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,PINT; MKLN1-AS1; LincRNA-Pint,"12,4,12,12,12,11,11,12,1,1,0,12,12","11,3,11,11,11,10,10,11,1,1,0,11,11","1,1,1,1,1,1,1,1,0,0,0,1,1","0,0,0,0,0,0,0,0,0,0,0,0,0","2,0,2,2,2,2,2,2,0,0,0,2,2","1,0,1,1,1,1,1,1,0,0,0,1,1","1,0,1,1,1,1,1,1,0,0,0,1,1","0,0,0,0,0,0,0,0,0,0,0,0,0"
+LINC-ROR,Prostate Cancer,"qPCR, Microarray etc.",down-regulated,28843521.0,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3,"5,5","5,5","0,0","0,0","0,0","0,0","0,0","0,0"
+LINC-ROR,Prostate Cancer,"qPCR, Western blot",up-regulated,30915739.0,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3,"5,5","5,5","0,0","0,0","0,0","0,0","0,0","0,0"
+LINC00304,Prostate Cancer,"qRT-PCR , RNAi etc.",up-regulated,31012142.0,"Also Known As: C16orf81, NCRNA00304",1,NR_024347.2,26,26,3,0,VALIDATED,C16orf81; NCRNA00304,9,7,2,0,4,3,1,0
+LINC00308,Prostate Cancer,qPCR,up-regulated,29923546.0,Also known asPRED16; C21orf74; NCRNA00308,1,NR_038400.1,3,3,0,0,VALIDATED,PRED16; C21orf74; NCRNA00308,0,0,0,0,0,0,0,0
+LINC00355,Prostate Cancer,qPCR,up-regulated,29923546.0,,1,NR_145420.1,14,14,0,0,VALIDATED,long intergenic non-protein coding RNA 355;HSALNG0097622;NONHSAG013685.2;HSALNG0097626;NONHSAG013688.2;LINC00355;HSALNG0097627;NONHSAG013687.2,2,2,0,0,0,0,0,0
+LINC00476,Prostate Cancer,RNA-seq,differential expression,30906477.0,"Also Known As: C9orf130, NAG11, NAG12",2,"NR_023390.1, NR_023389.1","46, 14","43,14","3,0","0,0",VALIDATED,NAG11; NAG12; C9orf130; LINC00476,"21,9","20,9","1,0","0,0","2,0","2,0","0,0","0,0"
+LINC00518,Prostate Cancer,"real-time PCR, Luciferase reporter assay, Western blot, other",up-regulated,30462844.0,Also known as: C6orf218,1,NR_027793.1,8,8,0,0,VALIDATED,C6orf218,0,0,0,0,0,0,0,0
+"LINC00617 ",Neuroendocrine Prostate Cancer,"RNA-seq, Microarray, qPCR etc.",up-regulated,29757368.0,Also Known As: HI-LNC78; TUNAR; TUNA; LINC00617,3 (TUNAR),"TUNAR (NR_132398.1, NR_038861.1, NR_132399.1)","26, 24, 19 (TUNAR)","26,24,19","0,0,0","0,0,0",REVIEWED (TUNAR),TUNA; HI-LNC78; LINC00617; TUNAR,"10,10,9","10,10,9","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+LINC00649,Prostate Cancer,RNA-seq,differential expression,30906477.0,"Also Known As: LINC00650, lnc-ITSN1-2",3,"NR_038883.2, NR_134558.1, NR_134559.1 ","18, 14, 4","18,14,4","0,0,0","0,0,0",VALIDATED,LINC00650; lnc-ITSN1-2,"7,5,0","7,5,0","0,0,0","0,0,0","1,1,0","1,1,0","0,0,0","0,0,0"
+LINC00662,Prostate Cancer,"qRT-PCR , Luciferase reporter assay , in vitro knockdown etc.",up-regulated,31114993.0,,1,NR_027301.1,6,5,1,0,VALIDATED,long intergenic non-protein coding RNA 662;CTC-459F4.2;LINC00662;HSALNG0125113;NONHSAG025376.2;NONHSAG025379.2,0,0,0,0,0,0,0,0
+LINC00663,Prostate Cancer,qPCR etc.,down-regulated,26743782.0,,1,NR_026956.1,22,22,0,0,VALIDATED,long intergenic non-protein coding RNA 663;MGC39821;CTC-559E9.1;LINC00663;NONHSAG025200.2;HSALNG0124755,8,8,0,0,1,1,0,0
+LINC00665,Prostate Cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,32273723.0,,2,"NR_038278.1, NR_038279.1","16, 8","15,7","1,1","0,0",VALIDATED,CIP2A-BP,"7,2","7,2","0,0","0,0","0,0","0,0","0,0","0,0"
+LINC00673,Prostate Cancer,"RT-qPCR, Western blot analysis, Dual luciferase reporter gene assay, RIP",up-regulated,31881124.0,Also known asSLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75,5,"NR_137281.2, NR_137280.2, NR_036488.1,  NR_152515.1, NR_152516.1 ","26, 25, 23, 23, 27","24,23,22,22,25","2,2,1,1,2","0,0,0,0,0",VALIDATED,SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75,"9,9,7,7,11","7,7,6,6,9","2,2,1,1,2","0,0,0,0,0","1,1,1,1,1","0,0,0,0,0","1,1,1,1,1","0,0,0,0,0"
+LINC00683,Prostate Cancer,RNA-seq,down-regulated,30963639.0,,1,NR_120419.1,18,14,4,0,VALIDATED,long intergenic non-protein coding RNA 683;LINC00908;HSALNG0122571;HSALNG0122579;NONHSAG024201.2;LINC00683;NONHSAG024205.2;HSALNG0122581;HSALNG0122573,6,5,1,0,1,0,1,0
+LINC00844,Prostate Cancer,"ChIP-seq, Microarray",down-regulated,30115758.0,,1,NR_108046.1,1,1,0,0,VALIDATED,long intergenic non-protein coding RNA 844;HSALNG0078193;LINC00844;NONHSAG005962.2,0,0,0,0,0,0,0,0
+LINC00908,Prostate Cancer,"Microarray, RT-qPCR, Western blot analysis, Dual luciferase reporter assay, RIP",down-regulated,31938018.0,Also Known As: ASRPS,1,NR_015417.1,19,19,0,0,VALIDATED,ASRPS,13,13,0,0,0,0,0,0
+LINC00963,Prostate Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,24691949.0,Also Known As: MetaLnc9,1,NR_038955.1,21,20,1,0,VALIDATED,MetaLnc9,6,6,0,0,1,1,0,0
+"LINC00969 ",Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,Also Known As: MIR570HG; LINC00969,1 (MIR570HG),MIR570HG (NR_122105.1),7 (MIR570HG),7,0,0,VALIDATED (MIR570HG),LINC00969; MIR570HG,3,3,0,0,0,0,0,0
+"LINC00969 ",Prostate Cancer,"Microarray, qPCR etc.",down-regulated,27556357.0,Also Known As: MIR570HG; LINC00969,1 (MIR570HG),MIR570HG (NR_122105.1),7 (MIR570HG),7,0,0,VALIDATED (MIR570HG),LINC00969; MIR570HG,3,3,0,0,0,0,0,0
+LINC01116,Prostate Cancer,"RNA-seq, qPCR, RNAi etc.",up-regulated,28131897.0,Also Known As: TALNEC2,1,NR_040001.2,2,2,0,0,VALIDATED,TALNEC2,0,0,0,0,0,0,0,0
+LINC01138,Prostate Cancer,"Microarray, qPCR etc.",down-regulated,27556357.0,Also Known As: LINC00875,2,"NR_027468.3, NR_104014.2","10,7","10,7","0,0","0,0",VALIDATED,LINC00875,"2,2","2,2","0,0","0,0","1,1","1,1","0,0","0,0"
+LINC01138,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,Also Known As: LINC00875,2,"NR_027468.3, NR_104014.2","10,7","10,7","0,0","0,0",VALIDATED,LINC00875,"2,2","2,2","0,0","0,0","1,1","1,1","0,0","0,0"
+"LINC01296",Prostate Cancer,"qPCR, Western blot",up-regulated,28392705.0,"Also Known As: DUXAP9; LNMAT1; LINC01296; LncRNA-CTD903 (Gene Cards)
+
+Homo sapiens double homeobox A pseudogene 9 (DUXAP9), transcript variant 1 and 2, non-coding RNA (NR_122111.1 and NR_122112.1)
+
+transcribed RNA-misc_RNA (mentioned as lncRNA in title of papers; PubMed - 31522796 and others) (NR_122111.1 and NR_122112.1)
+
+Gene type - pseudo",2 (DUXAP9),"DUXAP9 (NR_122111.1, NR_122112.1)","19, 9 (DUXAP9)","19,9","0,0","0,0",VALIDATED (DUXAP9),LNMAT1; LINC01296; DUXAP9,"2,0","2,0","0,0","0,0","0,0","0,0","0,0","0,0"
+LINP1,Prostate Cancer,"qPCR, Western blot",up-regulated,30058678.0,,1,NR_138480.1,7,5,2,0,VALIDATED,lncRNA in non-homologous end joining pathway 1;lncRNA in nonhomologous end joining (NHEJ) pathway 1;lncRNA in nonhomologous end joining pathway 1;LINP1;NONHSAG005150.2;HSALNG0075977;HSALNG0075974,4,3,1,0,0,0,0,0
+lncRNA-ATB,Prostate Cancer,"qPCR, Western blot etc.",up-regulated,27176634.0,,1,NR_160525.1,17,16,1,0,VALIDATED,,4,4,0,0,0,0,0,0
+LOXL1-AS1,Prostate Cancer,"qRT-PCR , Microarray , Western blot etc.",down-regulated,31188543.0,,5,"NR_040066.1, NR_040067.1, NR_040068.1, NR_040069.1, NR_040070.1","15, 13, 11, 9, 11","12,10,11,9,10","3,3,0,0,1","0,0,0,0,0",VALIDATED,LOXL1 antisense RNA 1;LOXL1 antisense RNA 1 (non-protein coding);HSALNG0107133;LOXL1-AS1;NONHSAG017388.2;HSALNG0107136,"5,4,4,3,3","4,3,4,3,3","1,1,0,0,0","0,0,0,0,0","2,2,1,1,1","1,1,1,1,1","1,1,0,0,0","0,0,0,0,0"
+LOXL1-AS1,Prostate Cancer,"qPCR, RNA-seq, Luciferase reporter assay, RNAi, other",down-regulated,30278884.0,,5,"NR_040066.1, NR_040067.1, NR_040068.1, NR_040069.1, NR_040070.1","15, 13, 11, 9, 11","12,10,11,9,10","3,3,0,0,1","0,0,0,0,0",VALIDATED,LOXL1 antisense RNA 1;LOXL1 antisense RNA 1 (non-protein coding);HSALNG0107133;LOXL1-AS1;NONHSAG017388.2;HSALNG0107136,"5,4,4,3,3","4,3,4,3,3","1,1,0,0,0","0,0,0,0,0","2,2,1,1,1","1,1,1,1,1","1,1,0,0,0","0,0,0,0,0"
+LSAMP-AS1,Prostate Cancer,"RT-qPCR, Western blot",down-regulated,31727599.0,,1,NR_109998.1,4,4,0,0,VALIDATED,LSAMP antisense RNA 1;LSAMP antisense RNA 1 (non-protein coding);HSALNG0028218;LSAMP-AS1;NONHSAG035803.2,0,0,0,0,0,0,0,0
+LUCAT1,Prostate Cancer,"qRT-PCR , Western blot etc.",up-regulated,31081080.0,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3,2","3,2","0,0","0,0",VALIDATED,SCAL1; SCAT5,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+MALAT1,Prostate Cancer,qPCR etc.,down-regulated,32210615.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,RNA-seq,differential expression,30906477.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,"RT-qPCR, Western blot assay, Luciferase assay, RIP",up-regulated,31935634.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30642743.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,"qPCR, Western blot, ChIP, Dot blot etc.",differential expression,27922078.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27600237.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,"qPCR, RNAi, RIP, ChIP etc.",up-regulated,26516927.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,"RNA-seq, qPCR etc.",up-regulated,22349460.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29633510.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,qPCR etc.,up-regulated,23845456.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MALAT1,Prostate Cancer,"qPCR, Northern blot etc.",up-regulated,23726266.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047,"28,28,27","23,23,23","5,5,4","0,0,0","17,17,16","13,13,12","4,4,4","0,0,0"
+MANCR,Prostate Cancer,"qPCR, RNA-seq etc",down-regulated,32199616.0,Also Known As: LINC00704,1,NR_024475.1,7,7,0,0,PREDICTED,LINC00704,0,0,0,0,0,0,0,0
+MCM3AP-AS1,Prostate Cancer,"qPCR, Western blot, RIP etc",up-regulated,32193153.0,Also known as: C21orf85; MCM3APAS; MCM3AP-AS; MCM3APASB; NCRNA00031,4,"NR_110565.1, NR_002776.4,NR_110566.1,NR_110567.1","9,9,10,11","9,9,10,11","0,0,0,0","0,0,0,0",VALIDATED,C21orf85; MCM3APAS; MCM3AP-AS; MCM3APASB; NCRNA00031,"0,0,1,2","0,0,1,2","0,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0"
+MEG3,Prostate Cancer,"qPCR, Western blot, RIP etc",differential expressed,31790140.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MEG3,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",down-regulated,30565858.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MEG3,Prostate Cancer,"qPCR, ISH etc.",down-regulated,14602737.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MEG3,Prostate Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",down-regulated,26610246.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MEG3,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",down-regulated,23728290.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83,"2,2,2,2,2,2,2,2,2,2,2,2,2,2,45","1,1,1,1,1,1,1,1,1,1,1,1,1,1,39","1,1,1,1,1,1,1,1,1,1,1,1,1,1,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","1,1,1,1,1,1,1,1,1,1,1,1,1,1,13","1,1,1,1,1,1,1,1,1,1,1,1,1,1,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+MIR17HG,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,Also Known As: MIHG1; MIRH1; FGLDS2; MIRHG1; C13orf25; LINC00048; miR-17-92; NCRNA00048,2,"NR_027350.1, NR_027349.1","19, 4","18,3","1,1","0,0",REVIEWED,MIHG1; MIRH1; FGLDS2; MIRHG1; C13orf25; LINC00048; miR-17-92; NCRNA00048,"6,0","6,0","0,0","0,0","0,0","0,0","0,0","0,0"
+MIR222HG,Prostate Cancer,"qPCR, luciferase reporter assay, RIP, in vitro knockdown etc.",up-regulated,29540675.0,Also Known As: Lnc-Ang362,1,NR_170290.1,89,84,3,2,VALIDATED,Lnc-Ang362,30,26,4,0,7,3,4,0
+MNX1-AS1,Prostate Cancer,"qPCR, Western blot",up-regulated,30980513.0,Also Known As: MAYA; CCAT5,1,NR_038835.1,12,10,2,0,VALIDATED,MAYA; CCAT5,4,3,1,0,0,0,0,0
+"MYCLo-5",Prostate Cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26003165.0,"Also Known As: LPP-AS2; MYCLo-5; MYCLo-6
+
+Some (older) MYCLo-5_v1 and v2 long non-coding RNA ""other"" ncRNA (complete sequence-JX046913.1 and JX046914.1 respectively) with PQS-10, 5 respectively were also there in result.
+
+Aliases for LPP-AS2 Gene (From GeneCards database - GCID:GC03M188151)
+LPP Antisense RNA 2
+LPP-AS2
+LPP Antisense RNA 2 (Non-Protein Coding) 2
+MYCLo-5
+MYCLo-6
+NONHSAG036948.2
+HSALNG0031463
+
+Alias symbols for LPP-AS2 (From HGNC databse - HGNC ID - HGNC:27952)
+MYCLo-5
+MYCLo-6
+LPP antisense RNA 2 (non-protein coding)
+
+Gene Synonyms for LPP-AS2 (From Ensembl database - Ensembl version - ENSG00000270959.1)
+MYCLo-5, MYCLo-6",1 (LPP-AS2),LPP-AS2 (NR_036497.1),18 (LPP-AS2),18,0,0,VALIDATED (LPP-AS2),MYCLo-5; MYCLo-6; LPP-AS2,10,10,0,0,1,1,0,0
+"MYCLo-6",Prostate Cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26003165.0,"Also Known As: LPP-AS2; MYCLo-5; MYCLo-6
+
+Some (older) MYCLo-5_v1 and v2 long non-coding RNA ""other"" ncRNA (complete sequence-JX046913.1 and JX046914.1 respectively) with PQS-10, 5 respectively were also there in result.
+
+Aliases for LPP-AS2 Gene (From GeneCards database - GCID:GC03M188151)
+LPP Antisense RNA 2
+LPP-AS2
+LPP Antisense RNA 2 (Non-Protein Coding) 2
+MYCLo-5
+MYCLo-6
+NONHSAG036948.2
+HSALNG0031463
+
+Alias symbols for LPP-AS2 (From HGNC databse - HGNC ID - HGNC:27952)
+MYCLo-5
+MYCLo-6
+LPP antisense RNA 2 (non-protein coding)
+
+Gene Synonyms for LPP-AS2 (From Ensembl database - Ensembl version - ENSG00000270959.1)
+MYCLo-5, MYCLo-6",1 (LPP-AS2),LPP-AS2 (NR_036497.1),18 (LPP-AS2),18,0,0,VALIDATED (LPP-AS2),MYCLo-5; MYCLo-6; LPP-AS2,10,10,0,0,1,1,0,0
+"MYU ",Prostate Cancer,"qPCR, ChIP, Dual luciferase activity assay, Western blot",up-regulated,30132573.0,Also Known As: VPS9D1-AS1; MY,1 (VPS9D1-AS1),VPS9D1-AS1 (NR_036480.1),20 (VPS9D1-AS1),16,4,0,VALIDATED (VPS9D1-AS1),MYU; (VPS9D1-AS1),10,10,0,0,2,2,0,0
+"NCK1-AS1",Prostate Cancer,"RT-qPCR, Western blotting",up-regulated,31807161.0,Also Known As: NCK1-DT; NCK1-AS1; SLC35G2-AS1,3 (NCK1-DT),"NCK1-DT (NR_110175.1, NR_110176.1, NR_110177.1)","9, 8, 7 (NCK1-DT)","9,8,7","0,0,0","0,0,0",VALIDATED (NCK1-DT),NCK1-AS1; SLC35G2-AS1; NCK1-DT,"3,3,3","3,3,3","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+NEAT1,Prostate Cancer,"qRT-PCR, Western blot, RIP, Dual luciferase reporter assay",up-regulated,31672604.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NEAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31481527.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NEAT1,Prostate Cancer,"RNA-seq, qPCR, ChIP etc.",up-regulated,25415230.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NEAT1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084,"83,32","77,27","6,5","0,0","28,15","25,13","3,2","0,0"
+NORAD,Prostate Cancer,"qPCR, Western blot",up-regulated,31342822.0,Also Known As: LINC00657,1,NR_027451.1,30,25,5,0,VALIDATED,LINC00657,19,13,6,0,6,4,2,0
+NR2F2-AS1,Prostate Cancer,"qPCR , Western blot etc.",up-regulated,31566058.0,,3,"NR_102743.1, NR_102744.1, NR_125738.1","9, 4, 3","9,4,3","0,0,0","0,0,0",VALIDATED,NR2F2 antisense RNA 1;NR2F2 antisense RNA 1 (non-protein coding);HSALNG0108391;NR2F2-AS1;NONHSAG017999.2;HSALNG0108393;NONHSAG018003.2;HSALNG0108400;HSALNG0108394;HSALNG0108392;HSALNG0108404;HSALNG0108399,"2,0,0","2,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+OSTN-AS1,Prostate Cancer,qPCR,up-regulated,29923546.0,,1,NR_133663.1,1,1,0,0,VALIDATED,OSTN antisense RNA 1;OSTN antisense RNA 1 (non-protein coding);HSALNG0031592;NONHSAG036974.2;OSTN-AS1,1,1,0,0,0,0,0,0
+PART1,Prostate Cancer,"qPCR, Western blotting, Microarray etc.",up-regulated,29261512.0,Also Known As: NCRNA00206,3,"NR_024617.1, NR_028508.1, NR_028509.1","18, 11, 21","18,11,20","0,0,1","0,0,0",VALIDATED,NCRNA00206,"7,2,7","7,2,6","0,0,1","0,0,0","1,0,3","1,0,2","0,0,1","0,0,0"
+PCA3,Prostate Cancer,"qPCR, Western blot, etc.",up-regulated,30569456.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,PROGENSA PCA3 assay etc.,up-regulated,21883822.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,qPCR etc.,differential expression,21655300.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,qPCR,up-regulated,28938580.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,"qPCR, western blot etc.",differential expression,28739722.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,qPCR etc.,down-regulated,26960690.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,"qPCR, RNAi, Northern blot, Cell apoptosis assay etc.",up-regulated,26080435.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,PCR etc.,up-regulated,25445501.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,"qPCR, in vitro knockdown etc.",up-regulated,23130941.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,"RNA-seq, qPCR etc.",up-regulated,22349460.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,qPCR etc.,up-regulated,20114043.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,qPCR etc.,up-regulated,20332487.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,qPCR etc.,up-regulated,19319183.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,Northern blot etc.,up-regulated,14607216.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,qPCR etc.,up-regulated,11980670.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,"qPCR, Northern blot etc.",up-regulated,10606244.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay, Cell proliferation assay etc.",differential expression,27743381.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCA3,Prostate Cancer,"qPCR, Northern blot etc.",up-regulated,23726266.0,Also known asDD3; PCAT3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCAN-R1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,Also Known As: PCAT6; KDM5BAS1; ncRNA-a2; KDM5B-AS1; onco-lncRNA-96,2,"NR_046325.1, NR_046326.1",03-04-2021 00:00,"3,2","1,1","0,0",VALIDATED,PCAN-R1; KDM5BAS1; ncRNA-a2; KDM5B-AS1; onco-lncRNA-96,"2,2","2,2","0,0","0,0","0,0","0,0","0,0","0,0"
+"PCAN-R2 ",Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,Also Known as: PCAT7; PCAN-R2,4 (PCAT7),"PCAT7 (NR_121566.2, NR_121567.2 , NR_121568.2, NR_121569.2)","16, 15, 11, 15 (PCAT7)","15,14,10,14","1,1,1,1","0,0,0,0",VALIDATED  (PCAT7),PCAN-R2; PCAT7,"11,11,9,10","11,11,9,10","0,0,0,0","0,0,0,0","1,1,1,1","1,1,1,1","0,0,0,0","0,0,0,0"
+PCAT1,Prostate Cancer,"qPCR, RNA-seq, RIP",up-regulated,30773595.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Prostate Cancer,qPCR etc.,up-regulated,28945760.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Prostate Cancer,"qPCR, RNAi, Luciferase reporter assay etc.",up-regulated,25425964.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Prostate Cancer,qPCR etc.,up-regulated,29378170.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Prostate Cancer,"qPCR, in vitro knockdown, Western blot",up-regulated,28884413.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Prostate Cancer,"qPCR, luciferase reporter assays, Western blot etc.",up-regulated,28922730.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Prostate Cancer,"Microarray, qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,24473064.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT1,Prostate Cancer,"RNA-seq, qPCR, Western blot etc.",up-regulated,21804560.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1,2,2,0,0,0,0,0,0
+PCAT14,Prostate Cancer,"RNA-seq, qPCR, RNAi, ISH etc.",up-regulated,27566105.0,,1,NR_109832.1,7,8,0,0,VALIDATED,prostate cancer associated transcript 14;prostate cancer associated transcript 14 (non-protein coding);HSALNG0134403;PCAT14,2,2,0,0,0,0,0,0
+PCAT18,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,24519926.0,Also Known As: LINC01092,1,NR_024259.1 ,8,11,1,0,VALIDATED,LINC01092,3,3,0,0,0,0,0,0
+PCAT19,prostate cancer,"qPCR, Western blot, luciferase reporter assay",,30033362.0,"Also Known As: LINC01190
+
+Variant X1,X2,X3: PREDICTED Sequence,",5,"NR_040109.2, NR_136334.1 (Variant 1 and 2)
++
+XR_001756399.1 , XR_001756400.1 , XR_002958911.1 (Variant X1, X2 and X3)","18, 15 (Variant 1 and 2)
++
+5, 4, 7","18,15","0,0","0,0","VALIDATED (Variant 1 and 2)
++
+PREDICTED (Variant X1, X2, X3)",LINC01190,"3,3","3,3","0,0","0,0","0,0","0,0","0,0","0,0"
+PCAT29,Prostate Cancer,"qPCR, Western blot etc.",down-regulated,28467474.0,,2," NR_126437.1, NR_126438.1",04-07-2021 00:00,"7,4","0,0","0,0",REVIEWED,"prostate cancer associated transcript 29;prostate cancer associated transcript 29 (non-protein coding);DRAIC;downregulated RNA in cancer, inhibitor of cell invasion and migration;NONHSAG017290.2;lnc-RPLP1-12;HSALNG0106856;NONHSAG017288.2;HSALNG0106873;HSALNG0106864;HSALNG0106875;HSALNG0106861;HSALNG0106865;HSALNG0106878;NONHSAG017294.2;HSALNG0106871","3,0","3,0","0,0","0,0","0,0","0,0","0,0","0,0"
+PCAT29,Prostate Cancer,"Microarray, qPCR etc.",down-regulated,25030374.0,,2," NR_126437.1, NR_126438.1",04-07-2021 00:00,"7,4","0,0","0,0",REVIEWED,"prostate cancer associated transcript 29;prostate cancer associated transcript 29 (non-protein coding);DRAIC;downregulated RNA in cancer, inhibitor of cell invasion and migration;NONHSAG017290.2;lnc-RPLP1-12;HSALNG0106856;NONHSAG017288.2;HSALNG0106873;HSALNG0106864;HSALNG0106875;HSALNG0106861;HSALNG0106865;HSALNG0106878;NONHSAG017294.2;HSALNG0106871","3,0","3,0","0,0","0,0","0,0","0,0","0,0","0,0"
+PCAT3,Prostate Cancer,"qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29552304.0,Also known asDD3; PCA3; NCRNA00019; PRUNE2-AS1,3,"NR_132312.1, NR_015342.2 , NR_132313.1 ",11-12-2011 00:00,"11,10,10","1,1,1","0,0,0",REVIEWED,DD3; PCAT3; NCRNA00019; PRUNE2-AS1,"8,7,7","8,7,7","0,0,0","0,0,0","1,1,1","1,1,1","0,0,0","0,0,0"
+PCAT5,Prostate Cancer,"RNA-seq, qPCR, RNAi etc.",up-regulated,26282172.0,"Also Known As: LINC01452, TPCAT-10-36067",1,NR_110138.1,25,25,0,0,VALIDATED,LINC01452; TPCAT-10-36067,4,4,0,0,1,1,0,0
+PCAT7,Prostate Cancer,"qRT-PCR, Western blotting, Luciferase reporter assay, RIP",up-regulated,31925912.0,Also Known As: PCAN-R2,4,"NR_121566.2, NR_121567.2 , NR_121568.2, NR_121569.2","16, 15, 11, 15","15,14,10,14","1,1,1,1","0,0,0,0",VALIDATED ,PCAN-R2,"11,11,9,10","11,11,9,10","0,0,0,0","0,0,0,0","1,1,1,1","1,1,1,1","0,0,0,0","0,0,0,0"
+PCAT9,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29552304.0,"Also Known As: PCGEM1 ; LINC00071; NCRNA00071
+ 
+ Some (older-not checked for PQS) Long non-coding RNA pcgem1 (pcgem1 gene) ""antisense RNA"" ncRNA (TPA: HG975429.1) was also there in result.",2,"NR_002769.1, NR_152587.1",08-07-2021 00:00,"7,8","0,0","0,0",REVIEWED,PCAT9; LINC00071; NCRNA00071,"0,0","0,0","0,0","0,0","0,0","0,0","0,0","0,0"
+PCGEM1,Prostate Cancer,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay, MTT assay etc.",up-regulated,27682980.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,"qPCR, Flow cytometry assay etc.",down-regulated,25619388.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,qPCR etc.,up-regulated,25512540.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,qPCR etc.,differential expression,23459097.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,qPCR etc.,up-regulated,20868494.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,qPCR etc.,up-regulated,19186008.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,Northern blot etc.,up-regulated,16569192.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,qPCR etc.,up-regulated,16515751.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,qPCR etc.,up-regulated,14724589.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,"RNA-seq, qPCR etc.",up-regulated,25744782.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,"qPCR, Western blot, RIP etc.",up-regulated,24727738.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,"qPCR, RIP etc.",up-regulated,23945587.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCGEM1,Prostate Cancer,"qPCR, Northern blot, FISH, ISH etc.",up-regulated,11050243.0,,Refer PCAT9,,,,,,REVIEWED,"PCGEM1 prostate-specific transcript;NCRNA00071;LINC00071;PCAT9;non-protein coding RNA 71;long intergenic non-protein coding RNA 71;prostate cancer associated transcript 9;prostate cancer gene expression marker 1;prostate-specific transcript 1 (non-protein coding);PCGEM1, prostate-specific transcript (non-protein coding);PCGEM1, prostate-specific transcript;HSALNG0021209;HSALNG0021208;PCGEM1;NONHSAG030128.2;NONHSAG030129.2",,,,,,,,
+PCSEAT,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29803673.0,Also Known As: PRCAT38,1,NR_164474.1,25,22,3,0,VALIDATED,PRCAT38,11,11,0,0,1,1,0,0
+PCSEAT,Prostate Cancer,"qPCR, Western blot etc.",up-regulated,29803673.0,Also Known As: PRCAT38,1,NR_164474.1,25,22,3,0,VALIDATED,PRCAT38,11,11,0,0,1,1,0,0
+"PlncRNA-1",Prostate Cancer,"qPCR, Western blot etc.",up-regulated,22264502.0,Also Known As: CBR3-AS1; PlncRNA1; PlncRNA-1,3 (CBR3-AS1),"CBR3-AS1 (NR_038892.1, NR_038893.1, NR_038894.1)","10, 9, 6 (CBR3-AS1)","10,9,6","0,0,0","0,0,0",VALIDATED (CBR3-AS1),PlncRNA1; PlncRNA-1; CBR3-AS1,"0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+"PlncRNA-1",Prostate Cancer,"qPCR, Western blot, Northern blot, RIP, ChIP, Flow cytometry assay etc.",up-regulated,26808578.0,Also Known As: CBR3-AS1; PlncRNA1; PlncRNA-1,3 (CBR3-AS1),"CBR3-AS1 (NR_038892.1, NR_038893.1, NR_038894.1)","10, 9, 6 (CBR3-AS1)","10,9,6","0,0,0","0,0,0",VALIDATED (CBR3-AS1),PlncRNA1; PlncRNA-1; CBR3-AS1,"0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+"PlncRNA-1",Prostate Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,28212533.0,Also Known As: CBR3-AS1; PlncRNA1; PlncRNA-1,3 (CBR3-AS1),"CBR3-AS1 (NR_038892.1, NR_038893.1, NR_038894.1)","10, 9, 6 (CBR3-AS1)","10,9,6","0,0,0","0,0,0",VALIDATED (CBR3-AS1),PlncRNA1; PlncRNA-1; CBR3-AS1,"0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+PRCAT38,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,31405024.0,Also Known As: PRCAT38,1,NR_164474.1,25,22,3,0,VALIDATED,PRCAT38,11,11,0,0,1,1,0,0
+PRCAT38,Prostate Cancer,qPCR etc.,up-regulated,29671889.0,Also Known As: PRCAT38,1,NR_164474.1,25,22,3,0,VALIDATED,PRCAT38,11,11,0,0,1,1,0,0
+PRNCR1,Prostate Cancer,"qPCR, Northern blot etc.",up-regulated,20874843.0,Also Known As: PCAT8; CARLo-3,1,NR_109833.1,61,60,1,0,VALIDATED,PCAT8; CARLo-3,26,26,0,0,7,7,0,0
+PRNCR1,Prostate Cancer,"qPCR, RIP etc.",up-regulated,23945587.0,Also Known As: PCAT8; CARLo-3,1,NR_109833.1,61,60,1,0,VALIDATED,PCAT8; CARLo-3,26,26,0,0,7,7,0,0
+PROX1-AS1,Prostate Cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32271411.0,,1,NR_037850.2,30,30,0,0,VALIDATED,PROX1 antisense RNA 1;PROX1 antisense RNA 1 (non-protein coding);PROX1-AS1;HSALNG0010460;NONHSAG004261.2,13,13,0,0,5,5,0,0
+PRRT3-AS1,Prostate Cancer,"RT-qPCR, Western blot, Microarray",up-regulated,32086850.0,,1,NR_046734.1,3,3,0,0,VALIDATED,PRRT3 antisense RNA 1;PRRT3 antisense RNA 1 (non-protein coding);HSALNG0024078;NONHSAG034409.2,2,2,0,0,0,0,0,0
+PSLNR,Prostate Cancer,"qPCR, Western blot, RNAi",down-regulated,31269242.0,Also Known As: LA16c-83F12.6,1,NR_132385.2,6,6,0,0,VALIDATED,LA16c-83F12.6,0,0,0,0,0,0,0,0
+PTENP1,Prostate Cancer,"qPCR, Western blot, Dual luciferase reporter assay, Cell proliferation assay etc.",down-regulated,20577206.0,"Processed pseudogene;
+Also known as
+PTH2; PTEN2; PTEN-rs; PTENpg1; psiPTEN;
+Search Results for PTENP1-AS also displayed",1,HG975434.1,20,,,,REVIEWED,"phosphatase and tensin homolog pseudogene 1;PTEN2;psiPTEN;PTH2;PTEN-rs;PTENpg1;phosphatase and tensin homolog pseudogene 1 (functional);PTEN/MMAC1 pseudogene;phosphatase and tensin homolog (mutated in multiple advanced cancers 1), pseudogene 1",,,,,,,,
+PVT1,Prostate Cancer,"qPCR, Western blot, RNAi, other",down-regulated,30250582.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488",,,,,,,,
+PVT1,Prostate Cancer,"qPCR, ChIP etc.",differential expression,21814516.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488",,,,,,,,
+PVT1,Prostate Cancer,"RNA-seq, qPCR, Western blot etc.",up-regulated,29452232.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488",,,,,,,,
+PVT1,Prostate Cancer,"qPCR, MSP-PCR, RNAi etc.",up-regulated,27794184.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488",,,,,,,,
+PVT1,Prostate Cancer,"qPCR, RNAi",up-regulated,29050519.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488",,,,,,,,
+PVT1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488",,,,,,,,
+RBMS3-AS3,Prostate Cancer,"RT-qPCR, Western blot, RIP",down-regulated,31712637.0,,1,NR_109804.1,5,5,0,0,VALIDATED,RBMS3 antisense RNA 3;RBMS3 antisense RNA 3 (non-protein coding);HSALNG0024874;NONHSAG034659.2;RBMS3-AS3;HSALNG0024869,0,0,0,0,0,0,0,0
+"RNCR3",Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29887969.0,Also Known As: MIR124-1HG; Rncr3; neuroLNC; LINC00599,1 (MIR124-1HG),MIR124-1HG (NR_024281.1),25 (MIR124-1HG),23,2,0,VALIDATED (MIR124-1HG),Rncr3; neuroLNC; LINC00599; MIR124-1HG,10,9,1,0,7,7,0,0
+"RNCR3",Prostate Cancer,"qPCR, Luciferase reporter assay, Western blot, etc.",up-regulated,29887969.0,Also Known As: MIR124-1HG; Rncr3; neuroLNC; LINC00599,1 (MIR124-1HG),MIR124-1HG (NR_024281.1),25 (MIR124-1HG),23,2,0,VALIDATED (MIR124-1HG),Rncr3; neuroLNC; LINC00599; MIR124-1HG,10,9,1,0,7,7,0,0
+SAP30L-AS1,Prostate Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30599235.0,Also Known As: GALNT10-AS1,1,NR_037897.1,27,25,2,0,VALIDATED,GALNT10-AS1,15,15,0,0,0,0,0,0
+SAP30L-AS1,Prostate Cancer,"qPCR, Western blot",up-regulated,29614511.0,Also Known As: GALNT10-AS1,1,NR_037897.1,27,25,2,0,VALIDATED,GALNT10-AS1,15,15,0,0,0,0,0,0
+SChLAP1,Prostate Cancer,"qPCR, Western blot",up-regulated,29614511.0,Also known asPCAT11; PCAT114; LINC00913,7,"NR_104319.1, NR_104320.1, NR_104321.1 , NR_104322.1, NR_104323.1 , NR_104324.1, NR_104325.1","5, 4, 2, 6, 6, 4, 5","4,3,1,5,5,3,4","1,1,1,1,1,1,1","0,0,0,0,0,0,0",VALIDATED,PCAT11; PCAT114; LINC00913,"2,2,1,2,2,2,2","2,2,1,2,2,2,2","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0"
+SChLAP1,Prostate Cancer,ISH etc.,up-regulated,26724257.0,Also known asPCAT11; PCAT114; LINC00913,7,"NR_104319.1, NR_104320.1, NR_104321.1 , NR_104322.1, NR_104323.1 , NR_104324.1, NR_104325.1","5, 4, 2, 6, 6, 4, 5","4,3,1,5,5,3,4","1,1,1,1,1,1,1","0,0,0,0,0,0,0",VALIDATED,PCAT11; PCAT114; LINC00913,"2,2,1,2,2,2,2","2,2,1,2,2,2,2","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0"
+SChLAP1,Prostate Cancer,"Microarray, ISH etc.",up-regulated,25499224.0,Also known asPCAT11; PCAT114; LINC00913,7,"NR_104319.1, NR_104320.1, NR_104321.1 , NR_104322.1, NR_104323.1 , NR_104324.1, NR_104325.1","5, 4, 2, 6, 6, 4, 5","4,3,1,5,5,3,4","1,1,1,1,1,1,1","0,0,0,0,0,0,0",VALIDATED,PCAT11; PCAT114; LINC00913,"2,2,1,2,2,2,2","2,2,1,2,2,2,2","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0"
+SChLAP1,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,25456366.0,Also known asPCAT11; PCAT114; LINC00913,7,"NR_104319.1, NR_104320.1, NR_104321.1 , NR_104322.1, NR_104323.1 , NR_104324.1, NR_104325.1","5, 4, 2, 6, 6, 4, 5","4,3,1,5,5,3,4","1,1,1,1,1,1,1","0,0,0,0,0,0,0",VALIDATED,PCAT11; PCAT114; LINC00913,"2,2,1,2,2,2,2","2,2,1,2,2,2,2","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0"
+SChLAP1,Prostate Cancer,"RNA-seq, qPCR, in vitro knockdown etc.",up-regulated,24076601.0,Also known asPCAT11; PCAT114; LINC00913,7,"NR_104319.1, NR_104320.1, NR_104321.1 , NR_104322.1, NR_104323.1 , NR_104324.1, NR_104325.1","5, 4, 2, 6, 6, 4, 5","4,3,1,5,5,3,4","1,1,1,1,1,1,1","0,0,0,0,0,0,0",VALIDATED,PCAT11; PCAT114; LINC00913,"2,2,1,2,2,2,2","2,2,1,2,2,2,2","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0","0,0,0,0,0,0,0"
+SNHG1,Prostate Cancer,"qPCR, Western blot, Luciferase Reporter Assays",up-regulated,28400279.0,Also Known As: UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1, NR_152582.1, NR_152583.1, NR_152584.1, NR_152585.1","5, 9, 9, 4, 4, 4, 4, 4, 5, 3, 7, 7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,"1,2,2,1,1,1,1,0,1,0,0,2","1,2,2,1,1,1,1,0,1,0,0,2","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0"
+SNHG1,Prostate Cancer,"Microarray, qPCR etc.",down-regulated,27556357.0,Also Known As: UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1, NR_152582.1, NR_152583.1, NR_152584.1, NR_152585.1","5, 9, 9, 4, 4, 4, 4, 4, 5, 3, 7, 7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,"1,2,2,1,1,1,1,0,1,0,0,2","1,2,2,1,1,1,1,0,1,0,0,2","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0"
+SNHG1,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,Also Known As: UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1, NR_152582.1, NR_152583.1, NR_152584.1, NR_152585.1","5, 9, 9, 4, 4, 4, 4, 4, 5, 3, 7, 7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,"1,2,2,1,1,1,1,0,1,0,0,2","1,2,2,1,1,1,1,0,1,0,0,2","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0"
+SNHG11,Prostate Cancer,RNA-seq,differential expression,30906477.0,Also Known As: C20orf198; LINC00101; NCRNA00101,1,NR_003239.1,12,10,2,0,VALIDATED,C20orf198; LINC00101; NCRNA00101,5,5,0,0,0,0,0,0
+SNHG12,Prostate Cancer,"qPCR, Luciferase reporter assay, Western blot",down-regulated,30945357.0,Also Known As: C1orf79; PNAS-123; LINC00100; ASLNC04080; NCRNA00100,8,"NR_024127.2, NR_146381.1, NR_146382.1, NR_146383.1, NR_146384.1, NR_146385.1, NR_146386.1, NR_146387.1","8, 13, 9, 8, 13, 8, 8, 11","8,13,9,8,13,8,8,11","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0",REVIEWED,C1orf79; PNAS-123; LINC00100; ASLNC04080; NCRNA00100,"2,3,2,2,3,2,2,1","2,3,2,2,3,2,2,1","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0"
+SNHG12,Prostate Cancer,"RT-qPCR, Dual luciferase reporter assay and RNA binding protein immunoprecipitation (RIP), Western blot",up-regulated,31933941.0,Also Known As: C1orf79; PNAS-123; LINC00100; ASLNC04080; NCRNA00100,8,"NR_024127.2, NR_146381.1, NR_146382.1, NR_146383.1, NR_146384.1, NR_146385.1, NR_146386.1, NR_146387.1","8, 13, 9, 8, 13, 8, 8, 11","8,13,9,8,13,8,8,11","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0",REVIEWED,C1orf79; PNAS-123; LINC00100; ASLNC04080; NCRNA00100,"2,3,2,2,3,2,2,1","2,3,2,2,3,2,2,1","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0"
+SNHG12,Prostate Cancer,qPCR,up-regulated,31267540.0,Also Known As: C1orf79; PNAS-123; LINC00100; ASLNC04080; NCRNA00100,8,"NR_024127.2, NR_146381.1, NR_146382.1, NR_146383.1, NR_146384.1, NR_146385.1, NR_146386.1, NR_146387.1","8, 13, 9, 8, 13, 8, 8, 11","8,13,9,8,13,8,8,11","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0",REVIEWED,C1orf79; PNAS-123; LINC00100; ASLNC04080; NCRNA00100,"2,3,2,2,3,2,2,1","2,3,2,2,3,2,2,1","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0"
+SNHG14,Prostate Cancer,"RT-qPCR, RIP",up-regulated,32016964.0,Also Known As: 115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN,1,NR_146177.1,176,175,1,0,REVIEWED,115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN,32,32,0,0,2,2,0,0
+SNHG15,Prostate Cancer,qPCR,up-regulated,30981837.0,Also Known As: C7orf40; MYO1GUT; Linc-Myo1g,5,"NR_003697.2, NR_152594.1, NR_152595.1, NR_152596.1, NR_152597.1","8, 7, 7, 8, 6","8,7,7,8,6","0,0,0,0,0","0,0,0,0,0",REVIEWED,C7orf40; MYO1GUT; Linc-Myo1g,"0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0","0,0,0,0,0"
+SNHG16,Prostate Cancer,qPCR etc.,up-regulated,32210616.0,,Refer (Nbla12061),,,,,,VALIDATED,small nucleolar RNA host gene 16;ncRAN;Nbla12061;Nbla10727;non-coding RNA expressed in aggressive neuroblastoma;small nucleolar RNA host gene 16 (non-protein coding);HSALNG0118855;SNHG16;NONHSAG022825.2,,,,,,,,
+SNHG17,Prostate Cancer,qPCR etc.,up-regulated,32351538.0,,14,"NR_015366.5, NR_027241.3, NR_152753.1, NR_152754.1, NR_152755.1, NR_152756.1, NR_152757.1, NR_152758.1, NR_152759.1, NR_152760.1, NR_152761.1, NR_152762.1, NR_152763.1, NR_152764.1","12, 12, 9, 14, 10, 10, 8, 12, 11, 11, 10, 8, 11, 10","12,12,9,14,10,10,8,12,11,11,10,8,11,10","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,small nucleolar RNA host gene 17;small nucleolar RNA host gene 17 (non-protein coding);NONHSAG031749.2;HSALNG0129982;SNHG17;HSALNG0129980;NONHSAG031748.2,"4,6,3,6,4,4,3,6,5,3,5,3,3,3","4,6,3,6,4,4,3,6,5,3,5,3,3,3","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+SNHG20,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,31497231.0,Also Known As: C17orf86; LINC00338; NCRNA00338; SCARNA16HG,1,NR_027058.1,18,17,1,0,VALIDATED,C17orf86; LINC00338; NCRNA00338; SCARNA16HG,8,7,1,0,0,0,0,0
+SNHG3,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32248648.0,Also Known As: U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014,2,"NR_036473.1, NR_002909.2","18, 16","18,16","0,0","0,0",VALIDATED,U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014,"6,6","6,6","0,0","0,0","0,0","0,0","0,0","0,0"
+SNHG4,Prostate Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31608997.0,"Also Known As: NCRNA00059, U19H",2,"NR_003141.3, NR_036536.1 ",08-10-2021 00:00,"10,8","0,0","0,0",VALIDATED,U19H; NCRNA00059,"4,3","4,3","0,0","0,0","4,0","4,0","0,0","0,0"
+SNHG5,Prostate Cancer,"Microarray, qPCR etc.",down-regulated,27556357.0,Also Known As: U50HG; C6orf160; LINC00044; NCRNA00044,1,NR_003038.2,2,2,0,0,REVIEWED,U50HG; C6orf160; LINC00044; NCRNA00044,0,0,0,0,0,0,0,0
+SNHG5,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,Also Known As: U50HG; C6orf160; LINC00044; NCRNA00044,1,NR_003038.2,2,2,0,0,REVIEWED,U50HG; C6orf160; LINC00044; NCRNA00044,0,0,0,0,0,0,0,0
+SNHG6,Prostate Cancer,RNA-seq,up-regulated,30911973.0,Also Known As: U87HG; HBII-276HG; NCRNA00058,4,"NR_002599.2, NR_152598.1, NR_152599.1, NR_152600.1","4, 5, 3, 5","4,5,3,5","0,0,0,0","0,0,0,0",VALIDATED,U87HG; HBII-276HG; NCRNA00058,"2,2,2,2","2,2,2,2","0,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0","0,0,0,0"
+SNHG7,Prostate Cancer,qRT-PCR,up-regulated,32049793.0,Also Known As: NCRNA00061,3,"NR_003672.2, NR_024542.1, NR_024543.1","28, 13, 12","23,10,9","5,3,3","0,0,0",VALIDATED,NCRNA00061,"23,12,11","19,11,10","4,1,1","0,0,0","4,3,3","4,3,3","0,0,0","0,0,0"
+SNHG7,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31324390.0,Also Known As: NCRNA00061,3,"NR_003672.2, NR_024542.1, NR_024543.1","28, 13, 12","23,10,9","5,3,3","0,0,0",VALIDATED,NCRNA00061,"23,12,11","19,11,10","4,1,1","0,0,0","4,3,3","4,3,3","0,0,0","0,0,0"
+SNHG7,Prostate Cancer,"qPCR, Western blot etc.",up-regulated,29571017.0,Also Known As: NCRNA00061,3,"NR_003672.2, NR_024542.1, NR_024543.1","28, 13, 12","23,10,9","5,3,3","0,0,0",VALIDATED,NCRNA00061,"23,12,11","19,11,10","4,1,1","0,0,0","4,3,3","4,3,3","0,0,0","0,0,0"
+SOCS2-AS1,Prostate Cancer,"RNA-seq, qPCR, RIP, ChIP etc.",up-regulated,27342777.0,,1,NR_038263.1,5,5,0,0,VALIDATED,SOCS2 antisense RNA 1;SOCS2 antisense RNA 1 (non-protein coding);NONHSAG011928.2;HSALNG0093119;SOCS2-AS1,0,0,0,0,0,0,0,0
+SPRY4-IT1,Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,Also Known As: SPRIGHTLY,1,NR_131221.1,5,5,0,0,REVIEWED,SPRIGHTLY,3,3,0,0,0,0,0,0
+TINCR,Prostate Cancer,"qPCR, Western blot",down-regulated,30154672.0,Also Known As: PLAC2; LINC00036; NCRNA00036; onco-lncRNA-16,1,NR_027064.3,40,30,10,0,REVIEWED,TINCR ubiquitin domain containing;FLJ90734;NCRNA00036;LINC00036;onco-lncRNA-16;non-protein coding RNA 36;long intergenic non-protein coding RNA 36;terminal differentiation-induced ncRNA;placenta-specific 2;placenta-specific 2 (non-protein coding);tissue differentiation-inducing non-protein coding RNA;PLAC2;NONHSAG024566.2;lnc-TINCR-1;HSALNG0123467;HSALNG0123468;Ubiquitin domain-containing protein TINCR;Placenta-specific protein 2;Terminal differentiation-induced cornification regulator,28,21,7,0,12,8,4,0
+TMPO-AS1,Prostate Cancer,"qPCR, ChIP",up-regulated,30105831.0,,1,NR_027157.1,18,17,1,0,VALIDATED,TMPO antisense RNA 1;TMPO antisense RNA 1 (non-protein coding);NONHSAG012025.2;HSALNG0093383;TMPO-AS1,12,11,1,0,0,0,0,0
+TRPM2-AS,Prostate Cancer,"Microarray, qPCR etc.",differential expression,26484139.0,Also Known As: TRPM2-AS1,1,NR_109964.1,10,9,1,0,VALIDATED,TRPM2-AS1,3,3,0,0,1,1,0,0
+TRPM2-AS,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,24931166.0,Also Known As: TRPM2-AS1,1,NR_109964.1,10,9,1,0,VALIDATED,TRPM2-AS1,3,3,0,0,1,1,0,0
+TTN-AS1,Prostate Cancer,"RT-qPCR, Dual Luciferase Reporter Gene Assay",up-regulated,31858535.0,,2,"NR_038272.1, NR_038271.1","32,13","32,13","0,0","0,0",VALIDATED,TTN antisense RNA 1;TTN antisense RNA 1 (non-protein coding);HSALNG0020713;NONHSAG029956.2,"5,2","5,2","0,0","0,0","2,0","2,0","0,0","0,0"
+TTTY15,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30527798.0,,2,"NR_038272.1, NR_038271.1","32, 13","32,13","0,0","0,0",VALIDATED,"testis-specific transcript, Y-linked 15;DKFZP434I143;NCRNA00138;non-protein coding RNA 138;testis-specific transcript, Y-linked 15 (non-protein coding);USP9Y;ubiquitin specific peptidase 9 Y-linked;AZFA;DFFRY;NONHSAG055784.2;TTTY15;HSALNG0141211","5,2","5,2","0,0","0,0","2,0","2,0","0,0","0,0"
+"TUC338 ",Prostate Cancer,qRT-PCR etc.,up-regulated,31085276.0,"Also Known As: TUC.338, TUC338, uc.338 (PCBP2-OT1)",1 (PCBP2-OT1),PCBP2-OT1 (NR_109828.1),5 (PCBP2-OT1),5,0,0,VALIDATED (PCBP2-OT1),TUC338; uc.338; TUC.338; PCBP2-OT1,1,1,0,0,0,0,0,0
+TUG1,Prostate Cancer,"qRT-PCR, Western blot",up-regulated,32057513.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Prostate Cancer,"qRT-PCR, Western blot",up-regulated,32016963.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi",down-regulated,29967294.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Prostate Cancer,"qPCR, Western blot etc.",up-regulated,32256083.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Prostate Cancer,"qPCR, Western blot",up-regulated,30964164.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Prostate Cancer,qPCR,up-regulated,31210308.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Prostate Cancer,qPCR,up-regulated,31210296.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Prostate Cancer,"qPCR, Western blot, RIP, Dual luciferase reporter assay etc.",up-regulated,26975529.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+TUG1,Prostate Cancer,"qPCR, Flow cytometry assay, Western blot, Luciferase reporter assay, etc.",up-regulated,29967294.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1,"16,16,16,2,2,16,16,16","13,13,13,2,2,13,13,13","3,3,3,0,0,3,3,3","0,0,0,0,0,0,0,0","6,6,6,0,0,6,6,6","5,5,5,0,0,5,5,5","1,1,1,0,0,1,1,1","0,0,0,0,0,0,0,0"
+UCA1,Prostate Cancer,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30940776.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Prostate Cancer,"Western blotting, Luciferase Reporter Assay, RIP, qRT-PCR",up-regulated,31954329.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Prostate Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,28209917.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Prostate Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27902466.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Prostate Cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,28337266.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Prostate Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26550172.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UCA1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",down-regulated,23728290.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36,3,3,0,0,0,0,0,0
+UNC5B-AS1,Prostate Cancer,Luciferase reporter assay etc,up-regulated,32196578.0,Also Known As: UASR1,1,NR_038453.1,5,5,0,0,VALIDATED,UASR1,7,7,0,0,0,0,0,0
+VPS9D1-AS1,Prostate Cancer,"RT-qPCR, Luciferase reporter assay",up-regulated,31918265.0,Also Known As: VPS9D1-AS1; MY,1,(NR_036480.1),20,16,4,0,VALIDATED ,MYU,10,10,0,0,2,2,0,0
+XIST,Prostate Cancer,"qPCR, Luciferase reporter assays, Western blot etc.",down-regulated,29212233.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,15,15,0,0,0,0,0,0
+XIST,Prostate Cancer,"qPCR, Southern blot etc.",up-regulated,16261845.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,15,15,0,0,0,0,0,0
+"XLOC_005327",Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,Also known as LINC01564; XLOC_005327; TCONS_00011314,1 (LINC01564),LINC01564 (NR_125841.1 ),2 (LINC01564),2,0,0,VALIDATED (LINC01564),XLOC_005327; TCONS_00011314; LINC01564,0,0,0,0,0,0,0,0
+"XLOC_005327",Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,25513185.0,Also known as LINC01564; XLOC_005327; TCONS_00011314,1 (LINC01564),LINC01564 (NR_125841.1 ),2 (LINC01564),2,0,0,VALIDATED (LINC01564),XLOC_005327; TCONS_00011314; LINC01564,0,0,0,0,0,0,0,0
+XLOC_007697,Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,,1,NR_131213,1,1,0,0,VALIDATED ,uncharacterized LOC105500239;lnc-SPATA31A6-60;NONHSAG052316.2,0,0,0,0,0,0,0,0
+XLOC_007697,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,25513185.0,,1,NR_131213,1,1,0,0,VALIDATED ,uncharacterized LOC105500239;lnc-SPATA31A6-60;NONHSAG052316.2,0,0,0,0,0,0,0,0
+XLOC_008559,Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,,1,NR_131214.1,1,1,0,0,VALIDATED,uncharacterized LOC105378427;lnc-RPP30-2;HSALNG0079635;NONHSAG006512.2;HSALNG0079639,0,0,0,0,0,0,0,0
+XLOC_008559,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,25513185.0,,1,NR_131214.1,1,1,0,0,VALIDATED,uncharacterized LOC105378427;lnc-RPP30-2;HSALNG0079635;NONHSAG006512.2;HSALNG0079639,0,0,0,0,0,0,0,0
+XLOC_009911,Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,,1,NR_131215.1,4,4,0,0,VALIDATED,uncharacterized LOC105500240;HSALNG0094550;lnc-HNF1A-1;NONHSAG012533.2,0,0,0,0,0,0,0,0
+XLOC_009911,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,25513185.0,,1,NR_131215.1,4,4,0,0,VALIDATED,uncharacterized LOC105500240;HSALNG0094550;lnc-HNF1A-1;NONHSAG012533.2,0,0,0,0,0,0,0,0
+ZEB1-AS1,Prostate Cancer,"qPCR, Western blot etc",up-regulated,32275162.0,,6,"NR_024284.1, NR_148975.1, NR_148976.1, NR_148977.1, NR_148978.1, NR_148979.1","7, 5, 11, 14, 5, 5, ","6,5,10,12,4,4","1,0,1,2,1,1","0,0,0,0,0,0",REVIEWED,ZEB1 antisense RNA 1;ZEB1 antisense RNA 1 (non-protein coding);HSALNG0077083;NONHSAG005548.2;ZEB1-AS1,"3,1,7,6,3,2","3,1,6,6,3,2","0,0,1,0,0,0","0,0,0,0,0,0","2,0,3,4,1,1","2,0,2,4,1,1","0,0,1,0,0,0","0,0,0,0,0,0"
+ZEB1-AS1,Prostate Cancer,"Western blot, Luciferase reporter, RIP",up-regulated,28830551.0,,6,"NR_024284.1, NR_148975.1, NR_148976.1, NR_148977.1, NR_148978.1, NR_148979.1","7, 5, 11, 14, 5, 5, ","6,5,10,12,4,4","1,0,1,2,1,1","0,0,0,0,0,0",REVIEWED,ZEB1 antisense RNA 1;ZEB1 antisense RNA 1 (non-protein coding);HSALNG0077083;NONHSAG005548.2;ZEB1-AS1,"3,1,7,6,3,2","3,1,6,6,3,2","0,0,1,0,0,0","0,0,0,0,0,0","2,0,3,4,1,1","2,0,2,4,1,1","0,0,1,0,0,0","0,0,0,0,0,0"
+ZFAS1,Prostate Cancer,"qPCR, Western blot",up-regulated,32104094.0,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11,8,10,11,4","2,1,2,2,0","0,0,0,0,0",REVIEWED,HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,"4,2,4,4,0","2,2,2,2,0","2,0,2,2,0","0,0,0,0,0","4,2,4,4,0","3,2,3,3,0","1,0,1,1,0","0,0,0,0,0"
+Total no. of LncRNAs having Validated and Reviewed RefSeq status,,,,,,,,,,,,,,,,,,,,,
+145,,,,,,,,,,,,,,,,,,,,,

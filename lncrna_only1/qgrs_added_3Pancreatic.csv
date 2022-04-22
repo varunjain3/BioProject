@@ -1,0 +1,748 @@
+LncRNA name,Cancer name,Methods,Expression pattern,Pubmed ID,Remarks,No. of Transcript variants,NCBI Reference Number,Total No. of PQS,No. of 2G PQS,No. of 3G PQS,No. of 4G PQS,RefSeq status,aka
+ABHD11-AS1,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30575903.0,Also Known As: WBSCR26; LINC00035; NCRNA00035,1,NR_026690.1,8,8,0,0,VALIDATED,WBSCR26; LINC00035; NCRNA00035
+ABHD11-AS1,Pancreatic Cancer,qPCR,up-regulated,31333792.0,Also Known As: WBSCR26; LINC00035; NCRNA00035,1,NR_026690.1,8,8,0,0,VALIDATED,WBSCR26; LINC00035; NCRNA00035
+ADARB2-AS1,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,"Also Known As: C10orf109, NCRNA00168",2,"NR_033387.2, NR_152792.1 ","2,2","2,2","0,0","0,0",VALIDATED,C10orf109; NCRNA00168
+ADPGK-AS1,Pancreatic Cancer,"Microarray, qPCR, Western blot etc.",up-regulated,29667486.0,,1,NR_040107.1,24,22,2,0,VALIDATED,ADPGK antisense RNA 1;ADPGK antisense RNA 1 (non-protein coding);NONHSAG017366.2;ADPGK-AS1;HSALNG0107094
+AFAP1-AS1,Pancreatic Cancer,"qPCR, Western blo, Luciferase reporter assay, other",down-regulated,30206930.0,"Also Known As: AFAP1-AS, AFAP1AS",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+AFAP1-AS1,Pancreatic Ductal Adenocarcinoma,qPCR etc.,up-regulated,25925763.0,"Also Known As: AFAP1-AS, AFAP1AS",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+AFAP1-AS1,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,27628540.0,"Also Known As: AFAP1-AS, AFAP1AS",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+AFAP1-AS1,Pancreatic Cancer,"qPCR, RNA-seq",up-regulated,30814490.0,"Also Known As: AFAP1-AS, AFAP1AS",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+ANRIL,Pancreatic Cancer,"Luciferase, etc.",differentially expressed,30604909.0,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,"qPCR, etc.",differential expression,28874676.0,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Pancreatic Cancer,"qPCR, Cell transfection, Western blot, Cell migration and invasion assay etc.",up-regulated,28344092.0,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+BANCR,Pancreatic Cancer,"qPCR, Western blot etc.",up-regulated,31769353.0,Also Known As: LINC00586,1,NR_047671.2,4,4,0,0,REVIEWED,LINC00586
+CASC2,Pancreatic Cancer,"qRT-PCR, Western blot",up-regulated,32104955.0,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5
+CASC2,Pancreatic Cancer,"Dual luciferase reporter assay, RT-qPCR, Western blotting",down-regulated,31894271.0,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5
+CASC2,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",down-regulated,30675129.0,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5
+CASC2,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay , ChIP etc.",down-regulated,28865121.0,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5
+CASC9,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, RNAi, MTT assay etc.",up-regulated,28220683.0,Also Known As: ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1,3,"NR_103848.1, NR_103850.2, NR_103849.2","5, 4, 4","5,4,4","0,0,0","0,0,0",VALIDATED,ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1
+CCAT2,Pancreatic Ductal Adenocarcinoma,"qRT-PCR, Western blot, Luciferase reporter assay",up-regulated,29298720.0,"Also Known As: NCCP1; LINC00873
+
+Some (older-not checked for PQS) CCAT2 short and long variants ncRNA; ""other"" ncRNA (complete sequence - GQ911591.1 and GQ911592.1 respectively) were also there in result.",1,NR_109834.1,6,6,0,0,REVIEWED,NCCP1; LINC00873
+CRNDE,Pancreatic Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,28940804.0,Also Known As: CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180,5,"NR_034105.4, NR_034106.3, NR_110453.2, NR_110454.2, NR_170995.1","5, 9, 5, 9, 9","5,7,5,7,7","0,2,0,2,2","0,0,0,0,0",VALIDATED,CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180
+CRNDE,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,27628540.0,Also Known As: CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180,5,"NR_034105.4, NR_034106.3, NR_110453.2, NR_110454.2, NR_170995.1","5, 9, 5, 9, 9","5,7,5,7,7","0,2,0,2,2","0,0,0,0,0",VALIDATED,CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180
+CUDR ,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Microarray, other",up-regulated,30272271.0,also reviewed as UCA1. Also known as CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36. Sequence has been updated since last check. No other ncRNA transcripts (mentioned for UCA1) found,1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+"ANCR",Pancreatic Cancer,"qRT-PCR, Western blot",up-regulated,31804607.0,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3 (DANCR),"DANCR (NR_024031.2, NR_145129.1, NR_145130.1)","6, 7, 7 (DANCR)","5,6,6","1,1,1","0,0,0",REVIEWED (DANCR),AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR; DANCR
+"ANCR",Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30519037.0,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3 (DANCR),"DANCR (NR_024031.2, NR_145129.1, NR_145130.1)","6, 7, 7 (DANCR)","5,6,6","1,1,1","0,0,0",REVIEWED (DANCR),AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR; DANCR
+"ANCR",Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31267381.0,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3 (DANCR),"DANCR (NR_024031.2, NR_145129.1, NR_145130.1)","6, 7, 7 (DANCR)","5,6,6","1,1,1","0,0,0",REVIEWED (DANCR),AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR; DANCR
+"ANCR",Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31213582.0,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result. ",3 (DANCR),"DANCR (NR_024031.2, NR_145129.1, NR_145130.1)","6, 7, 7 (DANCR)","5,6,6","1,1,1","0,0,0",REVIEWED (DANCR),AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR; DANCR
+DGCR5,Pancreatic Ductal Adenocarcinoma,qPCR,differential expression,29207609.0,"Also Known As: DGCR9; DGS-A; DGS-B; DGCR10; LINC00037; POM121L5P; NCRNA00037
+
+2 sequences for DGCR5 (NR_026651.1, NR_024159.1) without any mentioning of transcript variants, while 3 sequences of DGCR5 with clear mentioning of transcipt variants.
+
+PREDICTED REFSEQ (NR_026651.1): This record has not been reviewed and the function is unknown. The reference sequence was derived from BU584104.1, AC000095.5, L77559.1 and BM681417.1.
+
+All transcriprt variants of DGCR5 (NR_002733.2, NR_045121.1, NR_110533.1, NR_026651.1 and NR_024159.1) are reported (Gene Cards - GCID: GC22P019556)
+
+PQS 2 obtained in DGCR5_Variant 2 (NR_045121.1) when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3. Rest two PQS were same in both search parameters.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 3 was taken.","3 (DGCR5)
++
+2 (DGCR5 unknown variants)
+=5","DGCR5 (NR_002733.2, NR_045121.1, NR_110533.1)
++
+DGCR5 unknown variants (NR_026651.1, NR_024159.1)","32, 32, 11 (DGCR5)
++
+7, 28 (DGCR5 unknown variants)","29,29,11,5,25","3,3,0,2,3","0,0,0,0,0","VALIDATED (DGCR5)
+
+PREDICTED (DGCR5 unknown variant-NR_026651.1)
+
+VALIDATED (DGCR5 unknown variant-NR_024159.1)",DGCR9; DGS-A; DGS-B; DGCR10; LINC00037; POM121L5P; NCRNA00037
+DIO3OS,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31384177.0,DIO3-OS; DIO3-AS1; C14orf134; NCRNA00041,6,"NR_152588.1, NR_152589.1, NR_152590.1, NR_152591.1, NR_152592.1, NR_152593.1 ","6, 6,17,6,21,9","6,6,15,6,19,9","0,0,2,0,2,0","0,0,0,0,0,0",VALIDATED,DIO3-OS; DIO3-AS1; C14orf134; NCRNA00041
+DLEU1 (aka DLEU2),Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30382579.0,"Also Known As: BCMS; DLB1; LEU1; LEU2; XTP6; BCMS1; DLEU2; LINC00021; NCRNA00021
+
+Some (not checked for PQS) DLEU1-AS1 ""lncRNA"" ncRNA (NR_125753.1) was also there in result.",3,"NR_109973.1, NR_002605.2, NR_109974.1","10, 9, 8","10,9,8","0,0,0","0,0,0",VALIDATED,BCMS; DLB1; LEU1; LEU2; XTP6; BCMS1; DLEU2; LINC00021; NCRNA00021
+DLX6-AS1,Pancreatic Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31118816.0,Also Known As: Evf-2; DLX6AS; DLX6-AS; NCRNA00212,1,NR_015448.1,9,9,0,0,VALIDATED,Evf-2; DLX6AS; DLX6-AS; NCRNA00212
+DLX6-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30250401.0,Also Known As: Evf-2; DLX6AS; DLX6-AS; NCRNA00212,1,NR_015448.1,9,9,0,0,VALIDATED,Evf-2; DLX6AS; DLX6-AS; NCRNA00212
+DNAH17-AS1,Pancreatic Cancer,"qPCR, Western blot, luciferase reporter assay etc.",up-regulated,32351291.0,-,1,NR_102401.1 ,55,50,4,1,VALIDATED,DNAH17 antisense RNA 1;NONHSAG022893.2;HSALNG0119037
+DUXAP10,Pancreatic Cancer,"qPCR, in vitro knockdown etc.",up-regulated,29286182.0,"Homo sapiens double homeobox A pseudogene 10 (DUXAP10), non-coding RNA
+
+transcribed RNA-misc_RNA (mentioned as lncRNA in title of paper; PubMed - 31576658)
+
+Gene type - pseudo
+
+Some LINC01297-DUXAP10-NBEAP6 readthrough (LINC01297-DUXAP10-NBEAP6), transcript variant 1, 2 and 3; ""lncRNA"" ncRNA (NR_164308.1, NR_164309.1 and NR_164310.1 respectively) with PQS-57, 29, 60 respectively were also there in result.
+
+LINC01297-DUXAP10-NBEAP6 readthrough (This locus represents naturally occurring readthrough transcription between the neighboring LINC01297 (long intergenic non-protein coding RNA 1297), DUXAP10 (double homeobox A pseudogene 10) and NBEAP6 (neurobeachin pseudogene 6) genes on chromosome 14. The readthrough transcripts at this locus contain multiple, short ORFs and are unlikely to produce a protein product-provided by RefSeq, Sep 2019).",1,NR_110526.1,12,12,0,0,VALIDATED,double homeobox A pseudogene 10
+DUXAP8,Pancreatic Cancer,"qPCR, RIP, Western blot, other",up-regulated,30367681.0,"Homo sapiens double homeobox A pseudogene 8 (DUXAP8), non-coding RNA
+
+transcribed RNA-misc_RNA (mentioned as lncRNA in title of papers; PubMed - 30367681, 30317248 and others)
+
+Gene type - pseudo",1,NR_122113.1,11,11,0,0,VALIDATED,double homeobox A pseudogene 8
+EPIC1,Pancreatic Cancer,"qRT-PCR, Western blotting, RIP",up-regulated,31810603.0,also known as: LOC284930 (uncharacterized) in NCBI,1,NR_122046.1,12,12,0,0,VALIDATED,Lnc-EPIC1
+F11-AS1,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,28220683.0,-,2,"NR_033901.2, NR_033900.1","8,4","8,4","0,0","0,0",VALIDATED,F11 antisense RNA 1;NONHSAG039542.2;HSALNG0039173;F11-AS1
+FEZF1-AS1,Pancreatic Ductal Adenocarcinoma,"Microarray, qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29348628.0,,1,NR_036484.1,22,21,1,0,VALIDATED,FEZF1 antisense RNA 1;FEZF1 antisense RNA 1 (non-protein coding);HSALNG0060982;FEZF1-AS1;NONHSAG048666.2
+GAS5,Pancreatic Cancer,"Luciferase reporter assays, Western blots, RT-PCR, other",up-regulated,30388621.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030
+GAS5,Pancreatic Cancer,"qPCR, Western blot, RIP",down-regulated,29112934.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030
+GAS5,Pancreatic Cancer,"qPCR, Western blot, RIP",down-regulated,29225772.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030
+GAS5,Pancreatic Cancer,"qPCR, Western blot etc.",down-regulated,24026436.0,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030
+GHET1,Pancreatic Cancer,qPCR etc.,up-regulated,29228419.0,Also Known As: ncRNA-GHET1,1,NR_130107.1,10,9,1,0,REVIEWED,lncRNA-GHET1
+GLIS3-AS1,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,Also Known As: C9orf70,1,NR_026663.1,5,5,0,0,VALIDATED,C9orf70
+H19,Pancreatic Neuroendocrine Tumor,"qRT-PCR , RNA-seq , Western blot , RIP , in vitro knockdown etc.",up-regulated,31117050.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Pancreatic Cancer,"qPCR, other",up-regulated,30410672.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase reporter assay, RIP, etc.",up-regulated,30474270.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Pancreatic Cancer,"Microarray, qPCR etc.",up-regulated,29581580.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29344285.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,24920070.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,27573434.0,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+HMGA2-AS1,Pancreatic Cancer,qRT-PCR,down-regulated,32010621.0,-,3,"NR_158984.1, NR_158985.1, NR_120478.1 ","28,9,5","27,8,5","1,1,0","0,0,0",VALIDATED,HMGA2 antisense RNA 1;RP11-366L20.2;HSALNG0092015;lnc-LLPH-2
+HMLINCRNA717,Pancreatic Cancer,qPCR etc.,down-regulated,27338046.0,"Also known as:  MTCL1AS1; MTCL1-AS1, HMlincRNA717",1,NR_120598.1,7,7,0,0,VALIDATED,MTCL1AS1; MTCL1-AS1
+HOST2,Pancreatic Cancer,"qPCR, other",up-regulated,30406400.0,"also known as CERNA2 (competing endogenous lncRNA 2 for microRNA let-7b),  lncRNA-HOST2",1,NR_134505.1,9,9,0,0,reviewed,HOST2; lncRNA-HOST2
+HOTAIR,Pancreatic Cancer,"qPCR, other",up-regulated,30464623.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Pancreatic Cancer,qPCR etc.,up-regulated,29201179.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Pancreatic Cancer,qPCR etc.,up-regulated,27028998.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, ChIP, MTT assay etc.",differential expression,27594424.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26482614.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Pancreatic Cancer,qPCR etc.,down-regulated,28476883.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Pancreatic Cancer,"qPCR, RNAi, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,22614017.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28415631.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Pancreatic Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,27895308.0,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16, ","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIRM1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdow, etc.",up-regulated,30613920.0,"Also Known As: HOXA-AS1; HOXA1-AS1; NCRNA00179
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIRM1 (HOTAIRM1 gene) and; HOXA cluster antisense intergenic RNA myeloid 1 antisense RNA (HOTAIRM1); ""antisense RNA"" ncRNA   (TPA: HG975399.1; complete sequence-GQ479958.1 respectively) were also there in result.",2,"NR_038366.1, NR_038367.1","7, 5","6,4","1,1","0,0",REVIEWED,HOXA-AS1; HOXA1-AS1; NCRNA00179
+HOTAIRM1,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR etc.",up-regulated,26676849.0,"Also Known As: HOXA-AS1; HOXA1-AS1; NCRNA00179
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIRM1 (HOTAIRM1 gene) and; HOXA cluster antisense intergenic RNA myeloid 1 antisense RNA (HOTAIRM1); ""antisense RNA"" ncRNA   (TPA: HG975399.1; complete sequence-GQ479958.1 respectively) were also there in result.",2,"NR_038366.1, NR_038367.1","7, 5","6,4","1,1","0,0",REVIEWED,HOXA-AS1; HOXA1-AS1; NCRNA00179
+HOTTIP,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32280243.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOTTIP,Pancreatic Cancer,"qPCR, Western blot, RIP",up-regulated,28947139.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOTTIP,Pancreatic Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,25912306.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOTTIP,Pancreatic Cancer,"Microarray, qPCR, RNAi, Western blot, Cell growth assay, Cell cycle assay etc.",up-regulated,25889214.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOTTIP,Pancreatic Cancer,"qPCR, Luciferase reporter assay",down-regulated,28818070.0,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOXA-AS2,Pancreatic Cancer,"qPCR, RIP",up-regulated,29312501.0,Also Known As: HOXA3as,1,NR_122069.1,4,4,0,0,REVIEWED,HOXA3as
+HULC,Pancreatic Ductal Adenocarcinoma,PCR,up-regulated,31715081.0,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078
+HULC,Pancreatic Cancer,"qRT-PCR, Western blot assay",up-regulated,31857775.0,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078
+HULC,Pancreatic Cancer,"qPCR, Western blot, etc.",up-regulated,30593805.0,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078
+HULC,Pancreatic Cancer,"qPCR, RNAi etc.",up-regulated,25412939.0,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078
+IRAIN,Pancreatic Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,27644252.0,IGF1R-AS,1,NR_126453.1,52,38,11,3,REVIEWED,IGF1R antisense imprinted non-protein coding RNA;IGF1R-AS;IGF1R antisense RNA;IGF1RAS;HSALNG0108507;NONHSAG018053.2;IRAIN
+ITGB2-AS1,Pancreatic Ductal Adenocarcinoma,"Dual luciferase reporter assay, RIP, qRT-PCR, Western blot analysis",up-regulated,31957875.0,-,6,"NR_038311.1, NR_038312.1, NR_038313.1, NR_038314.1, NR_038315.1, NR_038316.1 ","29, 28, 29, 28, 29,29","26,25,27,26,26,26","3,3,2,2,3,3","0,0,0,0,0,0",VALIDATED,ITGB2 antisense RNA 1;ITGB2 antisense RNA 1 (non-protein coding);HSALNG0133581;NONHSAG033056.2;ITGB2-AS1
+LINC-PINT,Pancreatic Cancer,"qPCR, ISH etc.",down-regulated,27708234.0,"Also Known As: PINT; MKLN1-AS1; LincRNA-Pint
+
+Some (older-not checked for PQS) Linc-pint lncRNA ""lncRNA"" ncRNA (partial sequence - MG322760.1) was also there in result.",13,"NR_015431.2, NR_024153.2, NR_109850.1, NR_109851.1, NR_109852.1, NR_109853.1, NR_109854.1, NR_109855.1, NR_034120.1, NR_110472.1, NR_110473.1, NR_170175.1, NR_170176.1","19, 8, 21, 19, 19, 15, 15, 15, 9, 8, 3, 23, 21","16,7,18,16,16,13,13,13,9,8,3,21,19","3,1,3,3,3,2,2,2,0,0,0,2,2","0,0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,PINT; MKLN1-AS1; LincRNA-Pint
+LINC-ROR,Pancreatic Cancer,"qPCR, RNAi, Western blot, Northern blot, Flow cytometry assay, FISH etc.",up-regulated,26636540.0,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3
+LINC-ROR,Pancreatic Cancer,"qPCR, RIP etc.",up-regulated,28580169.0,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3
+LINC-ROR,Pancreatic Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,26898939.0,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3
+LINC-UFC1 (LOC112543491),Pancreatic Cancer,qRT-PCR,up-regulated,31933809.0,,1,NR_156734.1,20,20,0,0,VALIDATED,linc-UFC1;NONHSAG003243.2;lnc-NIT1-1
+"LINC00152",Pancreatic Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,25910082.0,Also Known As: C2orf59; LINC00152; NCRNA00152; CYTOR,5 (CYTOR),"CYTOR (NR_024204.2, NR_024205.3, NR_024206.2, NR_146460.1, NR_146461.1)","4, 6, 4, 4, 3 (CYTOR)","4,6,4,4,3","0,0,0,0,0","0,0,0,0,0",REVIEWED (CYTOR),C2orf59; LINC00152; NCRNA00152; CYTOR
+"LINC00152",Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, RNAi, MTT assay etc.",up-regulated,28220683.0,Also Known As: C2orf59; LINC00152; NCRNA00152; CYTOR,5 (CYTOR),"CYTOR (NR_024204.2, NR_024205.3, NR_024206.2, NR_146460.1, NR_146461.1)","4, 6, 4, 4, 3 (CYTOR)","4,6,4,4,3","0,0,0,0,0","0,0,0,0,0",REVIEWED (CYTOR),C2orf59; LINC00152; NCRNA00152; CYTOR
+LINC00162,Pancreatic Ductal Adenocarcinoma,"RNA-seq, in vitro knockdown etc",up-regulated,32364285.0,Also known as : NLC1C; NLC1-C; PRED74; C21orf113; LINC00162; NCRNA00162,1,NR_024089.2,10,9,1,0,VALIDATED,NLC1C; NLC1-C; PRED74; C21orf113; LINC00162; NCRNA00162
+LINC00226,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,28220683.0,"Also known as: C14orf97, NCRNA00226",1,NR_033375.2,5,5,0,0,VALIDATED,C14orf97; NCRNA00226
+LINC00261,Pancreatic Cancer,"qPCR, other",down-regulated,30210701.0,Also Known As: ALIEN; DEANR1; FALCOR; HCCDR1; C20orf56; NCRNA00261; TCONS_00027846; onco-lncRNA-17,1,NR_001558.3,31,31,0,0,REVIEWED,ALIEN; DEANR1; FALCOR; HCCDR1; C20orf56; NCRNA00261; TCONS_00027846; onco-lncRNA-17
+LINC00261,Pancreatic Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,25910082.0,Also Known As: ALIEN; DEANR1; FALCOR; HCCDR1; C20orf56; NCRNA00261; TCONS_00027846; onco-lncRNA-17,1,NR_001558.3,31,31,0,0,REVIEWED,ALIEN; DEANR1; FALCOR; HCCDR1; C20orf56; NCRNA00261; TCONS_00027846; onco-lncRNA-17
+LINC00346,Pancreatic Cancer,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30728036.0,"Also known as
+C13orf29; LINC00346; NCRNA00346",1,NR_027701.1,52,45,7,0,VALIDATED,C13orf29; LINC00346; NCRNA00346
+LINC00346,Pancreatic Cancer,"qPCR, other",up-regulated,30210701.0,"Also known as
+C13orf29; LINC00346; NCRNA00346",1,NR_027701.1,52,45,7,0,VALIDATED,C13orf29; LINC00346; NCRNA00346
+LINC00346,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31391552.0,"Also known as
+C13orf29; LINC00346; NCRNA00346",1,NR_027701.1,52,45,7,0,VALIDATED,C13orf29; LINC00346; NCRNA00346
+LINC00462,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29899418.0,-,1,NR_051983.1,7,7,0,0,VALIDATED,long intergenic non-protein coding RNA 462;NONHSAG013485.2;HSALNG0097004;LINC00462
+LINC00462,Pancreatic Cancer,"qPCR, Western blot, etc.",up-regulated,29899418.0,-,1,NR_051983.1,7,7,0,0,VALIDATED,long intergenic non-protein coding RNA 462;NONHSAG013485.2;HSALNG0097004;LINC00462
+LINC00472,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,"Also Known As: P53RRA; C6orf155
+
+PQS 1 obtained in 4th variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 3 was taken.",4,"NR_121612.1, NR_026807.2, NR_121613.1, NR_121614.1","43, 43, 42, 43","41,41,40,41","2,2,2,2","0,0,0,0",VALIDATED,P53RRA; C6orf155
+LINC00473,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31206665.0,Also Known As: LNC473; C6orf176; bA142J11.1,2,"NR_026860.1, NR_026861.1","12, 5","12,5","0,0","0,0",VALIDATED,LNC473; C6orf176; bA142J11.1
+LINC00511,Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,28984028.0,Also Known As: LCAL5; onco-lncRNA-12,1,NR_033876.1,18,16,2,0,VALIDATED,LCAL5; onco-lncRNA-12
+LINC00578,Pancreatic Cancer,"qPCR, other",up-regulated,30210701.0,-,11,NR_047568.1 ,11,11,0,0,VALIDATED,long intergenic non-protein coding RNA 578;HSALNG0030884;NONHSAG036724.2;NONHSAG036729.2;LINC00578;NONHSAG036727.2;lnc-KCNMB2-3
+"LINC00657",Pancreatic Ductal Adenocarcinoma,"RT-qPCR, Western blot",up-regulated,32116086.0,Also Known As: LINC00657; NORAD,1 (NORAD),NORAD (NR_027451.1),30 (NORAD),25,5,0,VALIDATED (NORAD),LINC00657; NORAD
+LINC00663,Pancreatic Cancer,qPCR etc.,down-regulated,26743782.0,-,1,NR_026956.1,22,22,0,0,VALIDATED,long intergenic non-protein coding RNA 663;MGC39821;CTC-559E9.1;LINC00663;NONHSAG025200.2;HSALNG0124755
+LINC00671,Pancreatic Cancer,"qPCR, other",down-regulated,30210701.0,-,1,NR_027254.1,16,13,3,0,VALIDATED,long intergenic non-protein coding RNA 671;LINC00671;HSALNG0116587;NONHSAG021862.2
+"lncRNA00673",Pancreatic Cancer,"qPCR, other",up-regulated,30210701.0,Also Known As: lncRNA00673; LINC00673 [mentioned in qRT-PCR primers table in paper for lncRNA00673 (PubMed-29077173)]; SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75,5 (LINC00673),"LINC00673 (NR_137281.2, NR_137280.2, NR_036488.1, NR_152515.1, NR_152516.1)","26, 25, 23, 23, 27 (LINC00673)","24,23,22,22,25","2,2,1,1,2","0,0,0,0,0",REVIEWED (LINC00673),SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75; LINC00673
+"lncRNA00673",Pancreatic Ductal Adenocarcinoma,"RNA-seq, qPCR, Western blot",up-regulated,29440233.0,Also Known As: lncRNA00673; LINC00673 [mentioned in qRT-PCR primers table in paper for lncRNA00673 (PubMed-29077173)]; SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75,5 (LINC00673),"LINC00673 (NR_137281.2, NR_137280.2, NR_036488.1, NR_152515.1, NR_152516.1)","26, 25, 23, 23, 27 (LINC00673)","24,23,22,22,25","2,2,1,1,2","0,0,0,0,0",REVIEWED (LINC00673),SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75; LINC00673
+"lncRNA00673",Pancreatic Cancer,"qPCR, Flow cytometry assay etc.",up-regulated,27213290.0,Also Known As: lncRNA00673; LINC00673 [mentioned in qRT-PCR primers table in paper for lncRNA00673 (PubMed-29077173)]; SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75,5 (LINC00673),"LINC00673 (NR_137281.2, NR_137280.2, NR_036488.1, NR_152515.1, NR_152516.1)","26, 25, 23, 23, 27 (LINC00673)","24,23,22,22,25","2,2,1,1,2","0,0,0,0,0",REVIEWED (LINC00673),SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75; LINC00673
+"BLACAT2",Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30639194.0,"Also Known As: BLACAT2: LINC00958
+
+Some (older) bladder associated transcript 2 variant 1, 2 and 3 lncRNA ""lncRNA"" ncRNA (complete sequence-MF435912.1, MF435913.1 and MF435914.1 respectively) with PQS- 4, 4, 5 respectively, were also there in result.",1 (LINC00958),LINC00958 (NR_038904.1),10 (LINC00958),10,0,0,VALIDATED (LINC00958),BLACAT2; LINC00958
+LINC00960,Pancreatic Ductal Adenocarcinoma,qPCR,up-regulated,29923223.0,-,2,"NR_040004.1, NR_040005.1","13, 14","13,14","0,0","0,0",VALIDATED,long intergenic non-protein coding RNA 960;NONHSAG035456.2;HSALNG0026932;HSALNG0026937;LINC00960
+LINC00976,Pancreatic Cancer,"qRT-PCR, Western blot",up-regulated,31747939.0,-,1,NR_145483.1,2,1,1,0,VALIDATED,long intergenic non-protein coding RNA 976;CCDC26;CCDC26 long non-coding RNA;MGC27434;RAM;HSALNG0068551;NONHSAG051268.2;lnc-GSDMC-34;NONHSAG051275.2;NONHSAG051270.2;HSALNG0068556;HSALNG0068595;HSALNG0068574;lnc-GSDMC-12;HSALNG0068588
+LINC00994,Pancreatic Cancer,"qPCR, Microarray, Luciferase reporter assay, western blot",up-regulated,30739523.0,-,1,NR_033978.1,15,14,1,0,VALIDATED,long intergenic non-protein coding RNA 994;HSALNG0026562;LINC00994;NONHSAG035323.2
+LINC01006,Pancreatic Cancer,"Microarray, RT-qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,31827394.0,also known as: MY040; C7orf13,2,"NR_026865.2, NR_103858.1","30,6","28,6","2,0","0,0",VALIDATED,MY040; C7orf13; LINC01006
+LINC01060,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown, RIP",down-regulated,29913236.0,-,1,NR_033869.1,1,1,0,0,VALIDATED,long intergenic non-protein coding RNA 1060;LINC01060;HSALNG0039283;NONHSAG039581.2;HSALNG0039289
+LINC01060,Pancreatic Cancer,"Microarray, RIP, etc.",down-regulated,29913236.0,-,1,NR_033869.1,1,1,0,0,VALIDATED,long intergenic non-protein coding RNA 1060;LINC01060;HSALNG0039283;NONHSAG039581.2;HSALNG0039289
+LINC01111,Pancreatic Cancer,"Microarray, qPCR, Western blot etc.",down-regulated,31767833.0,-,1,NR_105006.1,3,3,0,0,VALIDATED,long intergenic non-protein coding RNA 1111;HSALNG0066316;NONHSAG050557.2;lnc-ZFHX4-2
+LINC01121,Pancreatic Cancer,"qPCR, Western blot",up-regulated,29843149.0,Also Known As: UNQ6975,1,NR_033831.1,11,11,0,0,VALIDATED,UNQ6975
+LINC01121,Pancreatic Cancer,"qPCR, western blot etc.",up-regulated,29843149.0,Also Known As: UNQ6975,1,NR_033831.1,11,11,0,0,VALIDATED,UNQ6975
+LINC01133,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30580676.0,,1,NR_038849.1,7,7,0,0,VALIDATED,long intergenic non-protein coding RNA 1133;lncRNA-PAGBC;prognosis-associated gallbladder cancer lncRNA;LINC01133;HSALNG0007801;NONHSAG003198.2
+LINC01133,Pancreatic Ductal Adenocarcinoma,qPCR etc.,up-regulated,29458145.0,,1,NR_038849.1,7,7,0,0,VALIDATED,long intergenic non-protein coding RNA 1133;lncRNA-PAGBC;prognosis-associated gallbladder cancer lncRNA;LINC01133;HSALNG0007801;NONHSAG003198.2
+"LINC01296",Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, RNAi, other",up-regulated,30203487.0,"Also Known As: DUXAP9; LNMAT1; LINC01296; LncRNA-CTD903 (Gene Cards)
+
+Homo sapiens double homeobox A pseudogene 9 (DUXAP9), transcript variant 1 and 2, non-coding RNA (NR_122111.1 and NR_122112.1)
+
+transcribed RNA-misc_RNA (mentioned as lncRNA in title of papers; PubMed - 31522796 and others) (NR_122111.1 and NR_122112.1)
+
+Gene type - pseudo",2 (DUXAP9),"DUXAP9 (NR_122111.1, NR_122112.1)","19, 9 (DUXAP9)","19,9","0,0","0,0",VALIDATED (DUXAP9),LNMAT1; LINC01296; DUXAP9
+"CTA-941F9.9",Pancreatic Ductal Adenocarcinoma,qPCR,up-regulated,29923223.0,"CTA-941F9.9 mentioned in title of paper (PubMed-31343781) referred in NR_131244.1
+
+Also Known As: LINC01589; TCONS_00029353; CTA-941F9.9
+
+Aliases for LINC01589 Gene (From GeneCards database - GCID: GC22M045687)
+Long Intergenic Non-Protein Coding RNA 1589
+LINC01589
+TCONS_00029353
+NONHSAG034141.2
+HSALNG0135958
+CTA-941F9.9
+
+Alias symbols for LINC01589 (From HGNC databse - HGNC ID - HGNC:51520)
+CTA-941F9.9
+TCONS_00029353
+
+Gene Synonyms for LINC01589 (From Ensembl database - Ensembl version - ENSG00000238120.1)
+CTA-941F9.9, TCONS_00029353",1 (LINC01589),LINC01589 (NR_131244.1),3 (LINC01589),3,0,0,VALIDATED (LINC01589),TCONS_00029353; LINC01589
+LINC01638,Pancreatic Ductal Adenocarcinoma,"RT-qPCR, Western blot analysis",up-regulated,31702018.0,-,1,NR_171021.1,3,3,0,0,VALIDATED,long intergenic non-protein coding RNA 1638;LINC01638;NONHSAG033593.2;HSALNG0134715;HSALNG0134712
+lncRNA-ATB,Pancreatic Cancer,qPCR etc.,down-regulated,26482611.0,,1,NR_160525.1,17,16,1,0,VALIDATED,
+"LOC285194",Pancreatic Ductal Adenocarcinoma,qPCR etc.,down-regulated,25550852.0,"Also Known As: LOC285194; TUSC7; LSAMPAS3; LINC00902; LSAMP-AS1; LSAMP-AS3; NCRNA00295
+
+LOC285194 mentioned in title of papers [PubMed-31494574 (TUSC7) and 27683121 (RPL34-DT)] referred in TUSC7 (NR_015391.1) and RPL34-DT (NR_026968.1).
+
+Aliases for TUSC7 Gene (From GeneCards database - GCID: GC03P116709)
+Tumor Suppressor Candidate 7
+TUSC7
+Tumor Suppressor Candidate 7 (Non-Protein Coding) 
+LINC00902
+LSAMP Antisense RNA 3 (Non-Protein Coding)
+Non-Protein Coding RNA 295
+LSAMP Antisense RNA 3
+NONHSAG035806.2
+HSALNG0028235
+NCRNA00295
+LSAMP-AS1
+LSAMP-AS3
+LOC285194
+LSAMPAS3
+
+Alias symbols for TUSC7 (From HGNC databse - HGNC ID - HGNC:27701)
+NCRNA00295
+LSAMP-AS3
+LINC00902
+LOC285194
+non-protein coding RNA 295 
+LSAMP antisense RNA 3 
+tumor suppressor candidate 7 (non-protein coding) 
+
+Gene Synonyms for TUSC7 (From Ensembl database - Ensembl version - ENSG00000243197.8)
+LINC00902, LOC285194, LSAMP-AS3, NCRNA00295
+
+mRNA clones (cDNA) sequences (BC104180.1 and BC104179.1) available, not for lncRNA.
+
+LOC285194 mentioned in title of paper (PubMed-27683121) referred in RPL34-DT (NR_026968.1).",1 (TUSC7),TUSC7 (NR_015391.1),9 (TUSC7),9,0,0,VALIDATED (TUSC7),LSAMPAS3; LINC00902; LSAMP-AS1; LSAMP-AS3; NCRNA00295; TUSC7
+LOC389641,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,26708505.0,-,1,NR_033928.1,13,13,0,0,VALIDATED,TNFRSF10A divergent transcript;LOC389641;lnc-CHMP7-1;HSALNG0063968;NONHSAG049754.2
+LUCAT1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,31789465.0,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3, 2","3,2","0,0","0,0",VALIDATED,SCAL1; SCAT5
+MALAT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30352575.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, RIP, RNA pull-down assay etc.",up-regulated,27371730.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Cancer,"Microarray, qPCR, Western blot etc.",up-regulated,29215734.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Cancer,"qPCR, Western blot etc.",up-regulated,25811929.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Cancer,qPCR etc.,up-regulated,25481511.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay etc.",up-regulated,28034748.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase report assay etc.",up-regulated,28701723.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Ductal Adenocarcinoma,qPCR etc.,up-regulated,24815433.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Cancer,"Microarray, RT-PCR, Western blot, in vitro knockdown, RNAi",up-regulated,29389953.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Cancer,"qPCR, RNAi, Western blot, RIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26848980.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Pancreatic Cancer,"qPCR, Western blot, Flow cytometry assay etc.",up-regulated,25269958.0,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MCM3AP-AS1,Pancreatic Cancer,"qRT-PCR, Western blot analysis, Dual luciferase reporter assay, RIP",up-regulated,31830901.0,also known as: C21orf85; MCM3APAS; MCM3AP-AS; MCM3APASB; NCRNA00031,4,"NR_110565.1, NR_002776.4 , NR_110566.1 , NR_110567.1","9, 9, 10, 11","9,9,10,11","0,0,0,0","0,0,0,0",VALIDATED,C21orf85; MCM3APAS; MCM3AP-AS; MCM3APASB; NCRNA00031
+MEG3,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Pancreatic Neuroendocrine Tumor,"qPCR, Western blot",down-regulated,29132136.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown",down-regulated,29328401.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Pancreatic Neuroendocrine Tumor,qPCR etc.,up-regulated,28847847.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Pancreatic Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,26850851.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Pancreatic Cancer,"qPCR, Cell transfection, Western blot etc.",down-regulated,28320094.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Pancreatic Neuroendocrine Tumor,"Microarray, qPCR, Luciferase reporter assay etc.",down-regulated,25565142.0,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG8,Pancreatic Cancer,"qPCR, RIP, other",up-regulated,30262664.0,"Also known as: Bsr, Irm, LINC00024, NCRNA00024, Rian, SNHG23, SNHG24, lnc-MGC",1,NR_146000.1,34,33,1,0,REVIEWED,Bsr; Irm; Rian; SNHG23; SNHG24; lnc-MGC; LINC00024; NCRNA00024
+MIAT,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29772434.0,Also Known As: RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT,4,"NR_003491.3, NR_033319.2, NR_033320.2, NR_033321.2","122, 118, 118, 119","104,100,100,101","18,18,18,18","0,0,0,0",REVIEWED,RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT
+MIAT,Pancreatic Cancer,"qPCR, western blot, Luciferase reporter assay etc.",down-regulated,29772434.0,Also Known As: RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT,4,"NR_003491.3, NR_033319.2, NR_033320.2, NR_033321.2","122, 118, 118, 119","104,100,100,101","18,18,18,18","0,0,0,0",REVIEWED,RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT
+MIR100HG,Pancreatic Ductal Adenocarcinoma,"RNA-seq, qPCR, Western blot etc.",up-regulated,29748571.0,Also Known As: AGD1; lncRNA-N2; linc-NeD125,23,"NR_024430.2, NR_137175.1, NR_137176.1, NR_137177.1, NR_137178.1, NR_137179.1, NR_137180.1, NR_137181.1, NR_137182.1, NR_137183.1, NR_137184.1, NR_137185.1, NR_137186.1, NR_137187.1, NR_137188.1, NR_137189.1, NR_137190.1, NR_137191.1, NR_137192.1, NR_137193.1, NR_137194.1, NR_137195.1, NR_137196.1","8, 10, 6, 6, 7, 6, 7, 8, 8, 4, 4, 4, 3, 3, 4, 7, 7, 7, 3, 5, 4, 8, 8","8,10,6,6,7,6,7,8,8,4,4,4,5,5,7,10,11,12,4,7,7,7,7","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,AGD1; lncRNA-N2; linc-NeD125
+MIR155HG,Pancreatic Cancer,"qPCR , Luciferase reporter assay , in vitro knockdown etc.",up-regulated,31161625.0,Also Known As: BIC; MIRHG2; NCRNA00172,1,NR_001458.3,5,5,0,0,REVIEWED,BIC; MIRHG2; miPEP155; NCRNA00172
+"LOC554202",Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot, RIP, Dual luciferase reporter assay, ISH etc.",up-regulated,26549028.0,"Also Known As: LOC554202; MIR31HG; LncHIFCAR; hsa-lnc-31
+
+LOC554202 mentioned in title of paper (PubMed-22289355 and others) referred in MIR31HG_variants (NR_027054.2, NR_152877.1, NR_152878.1, NR_152879.1).
+
+Aliases for MIR31HG Gene (From GeneCards database - GCID: GC09M021439)
+MIR31 Host Gene
+MIR31HG
+MIR31 Host Gene (Non-Protein Coding)
+Hsa-Lnc-31
+LncHIFCAR
+Long Noncoding HIF-1alpha Co-Activating RNA
+Long Noncoding HIF-1I+/- Co-Activating RNA
+Long Noncoding HIF-1α Co-Activating RNA
+NONHSAG051889.2
+HSALNG0070363
+LOC554202
+
+Alias symbols for MIR31HG (From HGNC databse - HGNC ID - HGNC:37187)
+LOC554202
+hsa-lnc-31
+LncHIFCAR
+MIR31 host gene (non-protein coding)
+long noncoding HIF-1α co-activating RNA
+
+Gene Synonyms for MIR31HG (From Ensembl database - Ensembl version - ENSG00000171889.5)
+LOC554202, LncHIFCAR, hsa-lnc-31
+
+mRNA clones (cDNA) sequences (BC021861.1 and BC011715.2) available, not for lncRNA.",4 (MIR31HG),"MIR31HG (NR_027054.2, NR_152877.1, NR_152878.1, NR_152879.1)","20, 13, 12, 19 (MIR31HG)","19,13,12,18","1,0,0,1","0,0,0,0",REVIEWED (MIR31HG),LncHIFCAR; hsa-lnc-31; MIR31HG
+MSC-AS1,Pancreatic Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,30915884.0,-,2,"NR_033652.1, NR_033651.1","17, 13","17,13","0,0","0,0",VALIDATED,MSC antisense RNA 1;MSC-AS1;HSALNG0066117;NONHSAG050493.2
+NEAT1,Pancreatic Cancer,"qRT-PCR, RIP",up-regulated,32064164.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NEAT1,Pancreatic Cancer,"qPCR, RNAi, Dual luciferase reporter assay, Cell proliferation assay etc.",up-regulated,27888106.0,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NORAD,Pancreatic Cancer,"qPCR, Western blot etc.",up-regulated,29121972.0,Also Known As: LINC00657,1,NR_027451.1,30,25,5,0,VALIDATED,LINC00657
+"NR_036488",Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,27628540.0,Also Known As: lncRNA00673; LINC00673 [mentioned in qRT-PCR primers table in paper for lncRNA00673 (PubMed-29077173)]; SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75,"1
+(Variant 1st, 2nd, 4th and 5th are also LncRNAs)
+(Total=5)"," LINC00673 (_____, _____, NR_036488.1, _____, _____)"," _____, _____, 23, _____,  _____ (LINC00673)",22,1,0,REVIEWED (LINC00673),SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75; LINC00673_Variant 3
+OIP5-AS1,Pancreatic Cancer,"qRT-PCR, Western blot",up-regulated,32157498.0,Also Known As: cyrano; linc-OIP5,4,"NR_026757.2, NR_152820.1, NR_152821.1, NR_152822.1","30, 26, 6, 31","30,26,6,31","0,0,0,0","0,0,0,0",REVIEWED,cyrano; linc-OIP5
+PANDAR,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,Also Known As: PANDA,1,NR_109836.1,6,6,0,0,REVIEWED,PANDA
+PANDAR,Pancreatic Ductal Adenocarcinoma,"qPCR, western blot etc.",up-regulated,28886528.0,Also Known As: PANDA,1,NR_109836.1,6,6,0,0,REVIEWED,PANDA
+PCAT1,Pancreatic Cancer,"qPCR, western blot",up-regulated,31539121.0,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1
+PVT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,30001707.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29845201.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay etc",up-regulated,32201527.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Cancer,qPCR etc.,up-regulated,27028998.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Ductal Adenocarcinoma,qPCR etc.,up-regulated,25668599.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Cancer,"qPCR, Western blot etc.",up-regulated,29048549.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Cancer,qPCR etc.,up-regulated,21316338.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Cancer,qPCR etc.,up-regulated,28657147.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Cancer,"qPCR, Western blot",up-regulated,28355965.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Cancer,"qPCR, western blot etc.",up-regulated,29845201.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PVT1,Pancreatic Ductal Adenocarcinoma,"qRT-PCR, Western blot assay, Luciferase reporter assay, RNA pull-down assay, RIP",up-regulated,30001707.0,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1, PVT1,14,,,,REVIEWED,"Pvt1 oncogene;NCRNA00079;LINC00079;onco-lncRNA-100;MIR1204HG;non-protein coding RNA 79;long intergenic non-protein coding RNA 79;MIR1204, MIR1205, MIR1206 and MIR1207 host gene;plasmacytoma variant translocation 1;pvt-1 (murine) oncogene homolog, MYC activator;Pvt1 oncogene homolog (mouse);Pvt1 oncogene (non-protein coding);CXCR4/PVT1 fusion;HIST1H2BD/PVT1 fusion;MIR1204, MIR1205, MIR1206 and MIR1207 host;Oncogene PVT-1 (MYC activator);PVT1/CASC8 fusion;PVT1/CCDC26 fusion;PVT1/IFRD1 fusion;PVT1/IRF2BP2 fusion;PVT1/LINC00824 fusion;PVT1/MYC fusion;PVT1/NFIL3 fusion;PVT1/NSMCE2 fusion;PVT1/SPRY2 fusion;PVT1/UBB fusion;RP11-89K10/PVT1 fusion;PVT1;HSALNG0068494;HSALNG0068477;NONHSAG051258.2;HSALNG0068505;HSALNG0068503;HSALNG0068496;HSALNG0068488"
+PXN-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",down-regulated,31488171.0,also known as EyeLinc4,2,NR_038924.1,8,8,0,0,VALIDATED,EyeLinc4
+RP11-567G11.1,Pancreatic Cancer,"qPCR, Western blot",up-regulated,30802827.0,also known as LINC02041,1,NR_146716.2,5,5,0,0,VALIDATED,long intergenic non-protein coding RNA 2041;RP11-567G11.1;HSALNG0031422;LINC02041;NONHSAG036938.2
+RP11-567G11.1,Pancreatic Cancer,"Microarray, qPCR etc.",up-regulated,26447755.0,also known as LINC02041,1,NR_146716.2,5,5,0,0,VALIDATED,long intergenic non-protein coding RNA 2041;RP11-567G11.1;HSALNG0031422;LINC02041;NONHSAG036938.2
+SBF2-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",differential expressed,32301277.0,,1,NR_036485.1,13,11,2,0,VALIDATED,SBF2 antisense RNA 1;SBF2 antisense RNA 1 (non-protein coding);NONHSAG007631.2;HSALNG0082631
+SLC7A11-AS1,Pancreatic Ductal Adenocarcinoma,"qRT-PCR, Western blot, RIP",up-regulated,32036249.0,-,1,NR_038380.1 ,18,18,0,0,VALIDATED,SLC7A11 antisense RNA 1;ENST00000512786;SLC7A11 antisense RNA 1 (non-protein coding);SLC7A11-AS1;HSALNG0037356;NONHSAG038927.2
+SNHG1,Pancreatic Cancer,"RT-qPCR, Western blot analysis, Dual luciferase reporter assay",up-regulated,31933880.0,Also Known As: UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1, NR_152582.1, NR_152583.1, NR_152584.1, NR_152585.1","5, 9, 9, 4, 4, 4, 4, 4, 5, 3, 7, 7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057
+SNHG1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot",up-regulated,30087712.0,Also Known As: UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1, NR_152582.1, NR_152583.1, NR_152584.1, NR_152585.1","5, 9, 9, 4, 4, 4, 4, 4, 5, 3, 7, 7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057
+SNHG1,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30520072.0,Also Known As: UHG; U22HG; lncRNA16; LINC00057; NCRNA00057,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1, NR_152582.1, NR_152583.1, NR_152584.1, NR_152585.1","5, 9, 9, 4, 4, 4, 4, 4, 5, 3, 7, 7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057
+SNHG14,Pancreatic Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,31513352.0,Also Known As: 115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN,1,NR_146177.1,176,175,1,0,REVIEWED,115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN
+SNHG14,Pancreatic Ductal Adenocarcinoma,"RT-qPCR, Western blot analysis, RIP",up-regulated,31929143.0,Also Known As: 115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN,1,NR_146177.1,176,175,1,0,REVIEWED,115HG; LNCAT; UBE3A-AS; UBE3AATS; UBE3A-AS1; UBE3A-ATS; NCRNA00214; U-UBE3A-ATS; IC-SNURF-SNRPN
+SNHG15,Pancreatic Ductal Adenocarcinoma,"qPCR, other",up-regulated,30280769.0,Also Known As: C7orf40; MYO1GUT; Linc-Myo1g,5,"NR_003697.2, NR_152594.1, NR_152595.1, NR_152596.1, NR_152597.1","8, 7, 7, 8, 6","8,7,7,8,6","0,0,0,0,0","0,0,0,0,0",REVIEWED,C7orf40; MYO1GUT; Linc-Myo1g
+SNHG15,Pancreatic Cancer,"Western blot, RIP",up-regulated,29137412.0,Also Known As: C7orf40; MYO1GUT; Linc-Myo1g,5,"NR_003697.2, NR_152594.1, NR_152595.1, NR_152596.1, NR_152597.1","8, 7, 7, 8, 6","8,7,7,8,6","0,0,0,0,0","0,0,0,0,0",REVIEWED,C7orf40; MYO1GUT; Linc-Myo1g
+"Nbla12061",Pancreatic Cancer,RT-qPCR,up-regulated,32141539.0,Also Known As: SNHG16; ncRAN; Nbla10727; Nbla12061,4 (SNHG16),"SNHG16 (NR_038108.1, NR_038109.1, NR_038110.1, NR_038111.1)","9, 9, 8, 8 (SNHG16)","9,9,8,8","0,0,0,0","0,0,0,0",VALIDATED (SNHG16),ncRAN; Nbla10727; Nbla12061; SNHG16
+"Nbla12061",Pancreatic Cancer,qPCR,up-regulated,30981105.0,Also Known As: SNHG16; ncRAN; Nbla10727; Nbla12061,4 (SNHG16),"SNHG16 (NR_038108.1, NR_038109.1, NR_038110.1, NR_038111.1)","9, 9, 8, 8 (SNHG16)","9,9,8,8","0,0,0,0","0,0,0,0",VALIDATED (SNHG16),ncRAN; Nbla10727; Nbla12061; SNHG16
+"Nbla12061",Pancreatic Cancer,"Dual luciferase reporter assay, RT-qPCR, , Western blotting",up-regulated,31664866.0,Also Known As: SNHG16; ncRAN; Nbla10727; Nbla12061,4 (SNHG16),"SNHG16 (NR_038108.1, NR_038109.1, NR_038110.1, NR_038111.1)","9, 9, 8, 8 (SNHG16)","9,9,8,8","0,0,0,0","0,0,0,0",VALIDATED (SNHG16),ncRAN; Nbla10727; Nbla12061; SNHG16
+SNHG6,Pancreatic Cancer,"qPCR, Luciferase reporter assay, RIP etc",up-regulated,32265427.0,Also Known As: U87HG; HBII-276HG; NCRNA00058,4,"NR_002599.2, NR_152598.1, NR_152599.1, NR_152600.1","4, 5, 3, 5","4,5,3,5","0,0,0,0","0,0,0,0",VALIDATED,U87HG; HBII-276HG; NCRNA00058
+SNHG7,Pancreatic Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30949340.0,Also Known As: NCRNA00061,3,"NR_003672.2, NR_024542.1, NR_024543.1","28, 13, 12","23,10,9","5,3,3","0,0,0",VALIDATED,NCRNA00061
+SNHG9,Pancreatic Cancer,"qPCR, other",down-regulated,30210701.0,,1,NR_003142.2 ,1,1,0,0,PROVISIONAL,NCRNA00062
+"SOX2OT",Pancreatic Ductal Adenocarcinoma,"qRT-PCR, RIP, western blotting",up-regulated,31837005.0,"Also Known As: SOX2-OT; SOX2OT; NCRNA00043
+
+Some (older) SOX2OT transcript variant 7 lncRNA ""lncRNA"" ncRNA (complete sequence-KF981435.1) was also there in result.
+
+Some (older, not checked for PQS) SOX2OT transcript variant 8 lncRNA ""lncRNA"" ncRNA (partial sequence-KJ415055.1) was also there in result.
+
+Some (older, not checked for PQS) SOX2OT ""other"" ncRNA (complete sequence-JX110620.1; note=""alternatively spliced long noncoding RNA"") was also there in result.
+
+Some (older, not checked for PQS) Sox2OT-S1 and S2 ""other"" ncRNA (complete sequence-JN711430.1 and JN882275.1 respectively) were also there in result.","6 (SOX2-OT_Variant 1-6)
++
+1 [SOX2-OT_Variant 7 (older)]
+=7","SOX2-OT_Variant 1-6 (NR_075091.1, NR_075092.1, NR_075093.1, NR_004053.3, NR_075089.1, NR_075090.1)
++
+SOX2OT_Variant 7 (older) (KF981435.1)","18, 16, 13, 16, 15, 11 (SOX2-OT_Variant 1-6)
++
+11 [SOX2OT_Variant 7 (older)]","18,16,13,16,15,11","0,0,0,0,0,0","0,0,0,0,0,0",REVIEWED (SOX2-OT_Variant 1-6),SOX2OT; NCRNA00043; SOX2-OT
+"SOX2OT",Pancreatic Ductal Adenocarcinoma,"Microarray, RIP etc.",up-regulated,29643475.0,"Also Known As: SOX2-OT; SOX2OT; NCRNA00043
+
+Some (older) SOX2OT transcript variant 7 lncRNA ""lncRNA"" ncRNA (complete sequence-KF981435.1) was also there in result.
+
+Some (older, not checked for PQS) SOX2OT transcript variant 8 lncRNA ""lncRNA"" ncRNA (partial sequence-KJ415055.1) was also there in result.
+
+Some (older, not checked for PQS) SOX2OT ""other"" ncRNA (complete sequence-JX110620.1; note=""alternatively spliced long noncoding RNA"") was also there in result.
+
+Some (older, not checked for PQS) Sox2OT-S1 and S2 ""other"" ncRNA (complete sequence-JN711430.1 and JN882275.1 respectively) were also there in result.","6 (SOX2-OT_Variant 1-6)
++
+1 [SOX2-OT_Variant 7 (older)]
+=7","SOX2-OT_Variant 1-6 (NR_075091.1, NR_075092.1, NR_075093.1, NR_004053.3, NR_075089.1, NR_075090.1)
++
+SOX2OT_Variant 7 (older) (KF981435.1)","18, 16, 13, 16, 15, 11 (SOX2-OT_Variant 1-6)
++
+11 [SOX2OT_Variant 7 (older)]","18,16,13,16,15,11","0,0,0,0,0,0","0,0,0,0,0,0",REVIEWED (SOX2-OT_Variant 1-6),SOX2OT; NCRNA00043; SOX2-OT
+SPRY4-IT1,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29489909.0,Also Known As: SPRIGHTLY,1,NR_131221.1,5,5,0,0,REVIEWED,SPRIGHTLY
+SPRY4-IT1,Pancreatic Ductal Adenocarcinoma,qPCR etc.,down-regulated,29551494.0,Also Known As: SPRIGHTLY,1,NR_131221.1,5,5,0,0,REVIEWED,SPRIGHTLY
+SUMO1P3,Pancreatic Cancer,"qPCR, Western blot, RNAi, other",up-regulated,30333879.0,"Homo sapiens SUMO1 pseudogene 3 (SUMO1P3), non-coding RNA
+
+Transcribed RNA - misc RNA (mentioned as lncRNA in title of paper; PubMed - 30799082)
+
+Gene type - pseudo",1,NR_002190.1,6,6,0,0,VALIDATED,SUMO1 pseudogene 3;SUMO1 pseudogene 3 (functional)
+THAP9-AS1,Pancreatic Ductal Adenocarcinoma,"RIP, qRT-PCR",up-regulated,31831555.0,,3,"NR_034075.1 , NR_034076.1  , NR_034077.1  ","12,12, 10","12,12,10","0,0,0","0,0,0",VALIDATED,THAP9 antisense RNA 1;THAP9 antisense RNA 1 (non-protein coding);HSALNG0035549;THAP9-AS1;HSALNG0035547
+TP73-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30643007.0,Also Known As: PDAM; KIAA0495,5,"NR_033711.1, NR_033710.1, NR_033709.1, NR_033708.1, NR_033712.1","67, 58, 46, 38, 30","61,52,41,33,26","6,6,5,5,4","0,0,0,0,0",VALIDATED,PDAM; KIAA0495
+TUG1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,29960845.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,0,30,31","4,4,4,0,0,0,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Pancreatic Cancer,"qPCR, RIP",up-regulated,30787623.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,0,30,31","4,4,4,0,0,0,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30595764.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,0,30,31","4,4,4,0,0,0,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Pancreatic Cancer,"qPCR, Western blot",up-regulated,28617552.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,0,30,31","4,4,4,0,0,0,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,28813705.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,0,30,31","4,4,4,0,0,0,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Flow cytometry assay, etc.",up-regulated,29960845.0,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,0,30,31","4,4,4,0,0,0,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+"LOC285194",Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",down-regulated,30714151.0,"Also Known As: LOC285194; TUSC7; LSAMPAS3; LINC00902; LSAMP-AS1; LSAMP-AS3; NCRNA00295
+
+LOC285194 mentioned in title of papers [PubMed-31494574 (TUSC7) and 27683121 (RPL34-DT)] referred in TUSC7 (NR_015391.1) and RPL34-DT (NR_026968.1).
+
+Aliases for TUSC7 Gene (From GeneCards database - GCID: GC03P116709)
+Tumor Suppressor Candidate 7
+TUSC7
+Tumor Suppressor Candidate 7 (Non-Protein Coding) 
+LINC00902
+LSAMP Antisense RNA 3 (Non-Protein Coding)
+Non-Protein Coding RNA 295
+LSAMP Antisense RNA 3
+NONHSAG035806.2
+HSALNG0028235
+NCRNA00295
+LSAMP-AS1
+LSAMP-AS3
+LOC285194
+LSAMPAS3
+
+Alias symbols for TUSC7 (From HGNC databse - HGNC ID - HGNC:27701)
+NCRNA00295
+LSAMP-AS3
+LINC00902
+LOC285194
+non-protein coding RNA 295 
+LSAMP antisense RNA 3 
+tumor suppressor candidate 7 (non-protein coding) 
+
+Gene Synonyms for TUSC7 (From Ensembl database - Ensembl version - ENSG00000243197.8)
+LINC00902, LOC285194, LSAMP-AS3, NCRNA00295
+
+mRNA clones (cDNA) sequences (BC104180.1 and BC104179.1) available, not for lncRNA.
+
+LOC285194 mentioned in title of paper (PubMed-27683121) referred in RPL34-DT (NR_026968.1).",1 (TUSC7),TUSC7 (NR_015391.1),9 (TUSC7),9,0,0,VALIDATED (TUSC7),LSAMPAS3; LINC00902; LSAMP-AS1; LSAMP-AS3; NCRNA00295; TUSC7
+UCA1,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,27628540.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, RIP etc.",up-regulated,29510195.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Pancreatic Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27562722.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Pancreatic Cancer,"qPCR, RNAi, Northern blot, Luciferase reporter assay, Flow cytometry assay etc.",up-regulated,28315290.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29500870.0,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+XIST,Pancreatic Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31163263.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Pancreatic Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31013436.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31213574.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29371940.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Pancreatic Cancer,"qPCR, Luciferase reporter assay, Cell proliferation assay, MTT assay etc.",up-regulated,28295543.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Pancreatic Cancer,"qPCR, RNAi, in vitro knockdown, Luciferase reporter assay etc.",up-regulated,29393501.0,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+ZEB2-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,29753015.0,Also Known As: ZEB2AS; ZEB2-AS; ZEB2NAT,1,NR_040248.2,4,4,0,0,VALIDATED,ZEB2AS; ZEB2-AS; ZEB2NAT
+Total no. of LncRNAs having Validated and Reviewed RefSeq status,,,,,,,,,,,,,
+106,,,,,,,,,,,,,

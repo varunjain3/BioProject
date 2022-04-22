@@ -1,0 +1,1105 @@
+LncRNA name,Cancer name,Methods,Expression pattern,Pubmed ID,Remarks,No. of Lnc Transcript variants,NCBI Reference Number,Total No. of PQS,No. of 2G PQS,No. of 3G PQS,No. of 4G PQS,RefSeq status,aka
+AATBC,Nasopharyngeal Cancer,"Western blot, qRT-PCR, Luciferase reporter assay etc.",up-regulated,32364663,,1,NR_026961.1,66,59,7,0,VALIDATED,apoptosis associated transcript in bladder cancer;apoptosis-associated transcript in bladder cancer;AATBC;HSALNG0133454;NONHSAG032997.2;HSALNG0133458
+ADAMTS9-AS2,Tongue Squamous Cell Carcinoma,"qPCR, Microarray, Western blot",up-regulated,30970517,,1,NR_038264.1,12,11,1,0,VALIDATED,ADAMTS9 antisense RNA 2;ADAMTS9 antisense RNA 2 (non-protein coding);NONHSAG035335.2;ADAMTS9-AS2;HSALNG0026583;HSALNG0026595;lnc-ATXN7-15;HSALNG0026585
+AFAP1-AS1,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,29971915,"Also Known As: AFAP1-AS, AFAP1AS
+",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+AFAP1-AS1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31875436,"Also Known As: AFAP1-AS, AFAP1AS
+",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+AFAP1-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30326930,"Also Known As: AFAP1-AS, AFAP1AS
+",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+AFAP1-AS1,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,29310682,"Also Known As: AFAP1-AS, AFAP1AS
+",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+AFAP1-AS1,Nasopharyngeal Cancer,qPCR etc.,down-regulated,28467811,"Also Known As: AFAP1-AS, AFAP1AS
+",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+AFAP1-AS1,Nasopharyngeal Cancer,"Microarray, qPCR, RNAi, Western blot, ISH etc.",up-regulated,26246469,"Also Known As: AFAP1-AS, AFAP1AS
+",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+AFAP1-AS1,Laryngeal Squamous Cell Cancer,"qPCR, Luciferase reporter assay, Western blot, etc.",up-regulated,29971915,"Also Known As: AFAP1-AS, AFAP1AS
+",1,NR_026892.1,37,36,1,0,REVIEWED,AFAP1AS; AFAP1-AS
+ANCR,Nasopharyngeal Cancer,"qPCR, Western blot, RIP, etc.",up-regulated,30568463,"Also Known As: AGU2; ANCR; DANCR; 
+SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, 
+Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete 
+sequence-LC128577.1, LC128578.1 and 
+LC128579.1 respectively) with PQS- 7, 7, 7 
+respectively, were also there in result.",3 (DANCR),"DANCR (NR_024031.2, NR_145129.1, NR_145130.1)","6, 7, 7 (DANCR)","5,6,6","1,1,1","0,0,0",REVIEWED (DANCR),AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR
+ANRIL,Laryngeal Squamous Cell Cancer,"RT-qPCR, Western blot, Dual luciferase reporter assay",up-regulated,31960744,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Laryngeal Squamous Cell Cancer,"Dual luciferase reporter assay, qRT-PCR, Western blotting",up-regulated,31667207,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30555745,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Oral Squamous Cell Carcinoma,"RNA-seq, qPCR, Western blot",up-regulated,31364119,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Oral Squamous Cancer,"qPCR, Western blot, etc.",down-regulated,29176691,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Laryngeal Squamous Cell Cancer,qPCR etc.,up-regulated,25257554,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Oral Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29635126,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Nasopharyngeal Cancer,"RT-qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29463902,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Nasopharyngeal Cancer,"qPCR, RNAi, Luciferase reporter assay, MTT assay etc.",up-regulated,28117929,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assays",up-regulated,28402230,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+ANRIL,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,27557514,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14 (CDKN2B-AS1),"CDKN2B-AS1 (NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6 (CDKN2B-AS1)","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED (CDKN2B-AS1),ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+BANCR,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,31654433,Also Known As: LINC00586,1,NR_047671.2,4,4,0,0,REVIEWED,LINC00586
+BC200,Tongue Cancer,"Northern hybridization, ISH etc.",up-regulated,9422992,Also Known As: BCYRN1; BC200; BC200a; LINC00004; NCRNA00004,1 (BCYRN1),BCYRN1 (NR_001568.1),2 (BCYRN1),2,0,0,REVIEWED (BCYRN1),BC200; BC200a; LINC00004; NCRNA00004
+BLACAT1,Head And Neck Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31944856,Also Known As: BLACAT1; LINC00912; linc-UBC1; onco-lncRNA-30,1,NR_103783.1,21,21,0,0,VALIDATED,BLACAT1 overlapping LEMD1 locus;linc-UBC1;LINC00912;onco-lncRNA-30;long intergenic noncoding RNA up-regulated in bladder cancer;long intergenic non-protein coding RNA 912;bladder cancer associated transcript 1 (non-protein coding);bladder cancer associated transcript 1;NONHSAG004054.2;HSALNG0009941;BLACAT1;Bladder cancer-associated transcript 1
+BLACAT1,Oral Squamous Cell Carcinoma,"qRT-PCR, Luciferase Reporter Assay, Western blot Assay",up-regulated,31841186,Also Known As: BLACAT1; LINC00912; linc-UBC1; onco-lncRNA-30,1,NR_103783.1,21,21,0,0,VALIDATED,BLACAT1 overlapping LEMD1 locus;linc-UBC1;LINC00912;onco-lncRNA-30;long intergenic noncoding RNA up-regulated in bladder cancer;long intergenic non-protein coding RNA 912;bladder cancer associated transcript 1 (non-protein coding);bladder cancer associated transcript 1;NONHSAG004054.2;HSALNG0009941;BLACAT1;Bladder cancer-associated transcript 1
+C5orf66-AS1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, other",down-regulated,30280186,Also known as: Epist,2,"NR_105049.1, NR_105050.1","9,9","8,8","1,1","0,0",VALIDATED,C5orf66-AS1
+C5orf66-AS1,Oral Squamous Cell Carcinoma,qPCR,differential expression,28415559,Also known as: Epist,2,"NR_105049.1, NR_105050.1","9,9","8,8","1,1","0,0",VALIDATED,C5orf66-AS1
+CACS15,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,31793142,Also Known As: CACS15 [mentioned in title of paper (PubMed-31665008) refereed in NR_015410.2]; CASC15; CANT; LINC00340; lnc-SOX4-1,1 (CASC15),CASC15 (NR_015410.2),18 (CASC15),18,0,0,REVIEWED (CASC15),CANT; LINC00340; lnc-SOX4-1
+CASC2,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot",down-regulated,32009793,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5
+CASC2,Oral Squamous Cell Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31123403,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5
+CASC2,Oral Squamous Cell Carcinoma,"qPCR, other",down-regulated,30467776,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5
+CASC2,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, RIP, etc.",down-regulated,30569153,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5
+CASC2,Oral Squamous Cell Carcinoma,"qPCR, Western blot",down-regulated,31210307,Also Known As: C10orf5,3,"NR_026939.1, NR_026940.1, NR_026941.1","17, 17, 9","15,15,7","2,2,2","0,0,0",VALIDATED,C10orf5
+CASC9,Tongue Squamous Cell Carcinoma,qRT-PCR,up-regulated,32021442,Also Known As: ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1,3,"NR_103848.1, NR_103850.2, NR_103849.2","5,4,4","5,4,4","0,0,0","0,0,0",VALIDATED,ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1
+CASC9,Nasopharyngeal Cancer,"qRT-PCR, Western blot, Luciferase activity assay, RIP",up-regulated,31933798,Also Known As: ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1,3,"NR_103848.1, NR_103850.2, NR_103849.2","5,4,4","5,4,4","0,0,0","0,0,0",VALIDATED,ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1
+CASC9,Laryngeal Cancer,qRT-PCR,up-regulated,31669650,Also Known As: ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1,3,"NR_103848.1, NR_103850.2, NR_103849.2","5,4,4","5,4,4","0,0,0","0,0,0",VALIDATED,ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1
+CASC9,Head And Neck Squamous Cell Carcinoma,"qPCR, other",down-regulated,31412811,Also Known As: ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1,3,"NR_103848.1, NR_103850.2, NR_103849.2","5,4,4","5,4,4","0,0,0","0,0,0",VALIDATED,ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1
+CASC9,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30674868,Also Known As: ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1,3,"NR_103848.1, NR_103850.2, NR_103849.2","5,4,4","5,4,4","0,0,0","0,0,0",VALIDATED,ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1
+CASC9,Nasopharyngeal Cancer,"qPCR, Western blot",up-regulated,28398871,Also Known As: ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1,3,"NR_103848.1, NR_103850.2, NR_103849.2","5,4,4","5,4,4","0,0,0","0,0,0",VALIDATED,ESSCAL1; ESCCAL-1; LINC00981; linc-JPH1
+CCAT1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot, RIP",down-regulated,32009633,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40
+CCAT1,Nasopharyngeal Cancer,"qPCR, other",up-regulated,30013670,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40
+CCAT1,Oral Squamous Cell Carcinoma,"qPCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31599709,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40
+CCAT1,Head And Neck Squamous Cell Carcinoma,"Microarray, qPCR etc.",differential expression,28159935,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40
+CCAT1,Oral Squamous Cell Carcinoma,qPCR,up-regulated,28413645,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40
+CCAT1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot",up-regulated,27830017,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40
+CCAT1,Nasopharyngeal Cancer,"qPCR, western blot, luciferase reporter assay, MIT",differential expression,28358263,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40
+CCAT1,Laryngeal Squamous Cell Cancer,"qPCR, western blot, Luciferase reporter assays etc.",up-regulated,28631575,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40
+CCAT1,Nasopharyngeal Cancer,"qRT-PCR, ect.",up-regulated,30013670,"Also Known As: CARLO5; CARLo-5; onco-lncRNA-40
+
+Some (older-not checked for PQS) colon cancer associated transcript 1 (CCAT1) RNA ""other"" ncRNA (RNA, complete sequence - HM358356.1) was also there in result.",1,NR_108049.1,9,9,0,0,REVIEWED,CARLO5; CARLo-5; onco-lncRNA-40
+CCAT2,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,27220388,"Also Known As: NCCP1; LINC00873
+
+Some (older-not checked for PQS) CCAT2 short and long variants ncRNA; ""other"" ncRNA (complete sequence - GQ911591.1 and GQ911592.1 respectively) were also there in result.",1,NR_109834.1,6,6,0,0,REVIEWED,NCCP1; LINC00873
+CCAT2,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28671055,"Also Known As: NCCP1; LINC00873
+
+Some (older-not checked for PQS) CCAT2 short and long variants ncRNA; ""other"" ncRNA (complete sequence - GQ911591.1 and GQ911592.1 respectively) were also there in result.",1,NR_109834.1,6,6,0,0,REVIEWED,NCCP1; LINC00873
+CCHE1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31981240,Also Known As: CCEPR; CCHE1; lncRNA-CCHE1,1 (CCEPR),CCEPR (NR_131782.1),17 (CCEPR),17,0,0,VALIDATED (CCEPR),CCHE1; lncRNA-CCHE1
+CDKN2B-AS1,Laryngeal Squamous Cell Cancer,"qRT-PCR, Western blot, RIP",up-regulated,31754305,"Also Known As: ANRIL; p15AS; PCAT12; CDKN2B-AS1; CDKN2BAS; CDKN2B-AS; NCRNA00089
+
+Some (older) ANRIL ncRNA for antisense noncoding RNA in the INK4 locus transcript ""antisense RNA"" ncRNA (AB548314.1) with PQS-15 was also there in result.
+
+Some (older-not checked for PQS) antisense noncoding RNA in the INK4 locus splice variant (ANRIL) ""antisense RNA"" ncRNA (partial sequence, alternatively spliced-EU741058.1; note=""similar to GenBank Accession Number BF002632; contains exons 1, 5, 6, 7, and 13; alternatively spliced"") was also there in result.
+
+Some (older-not checked for PQS) CDKNBAS ""antisense RNA"" ncRNA [TPA(CDKN2B-AS1 gene): HG975381.1] and ""antisense RNA: ncRNA alternatively spliced variants (complete sequnece-GQ495918.1, GQ495919.1, GQ495920.1, GQ495921.1, GQ495922.1, GQ495923.1, GQ495924.1, GQ495925.1, GQ495926.1) were also there in result.",14,"(NR_003529.3, NR_047532.1, NR_047543.1, NR_047534.1, NR_047535.1, NR_047536.1, NR_047537.1, NR_047538.1, NR_047539.1, NR_047540.1, NR_047541.1, NR_047542.1, NR_047533.1, NR_120536.1)","21, 16, 10, 10, 9, 7, 9, 7, 17, 10, 10, 8, 6, 6","21,16,10,10,9,7,9,7,17,10,10,8,6,6","0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,ANRIL; p15AS; PCAT12; CDKN2BAS; CDKN2B-AS; NCRNA00089
+CEBPA-AS1,Oral Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, in vitro knockdown etc.",up-regulated,29281558,Also known as: ADINR; CEBPA-AS1,1,NR_026887.2,,26,5,1,VALIDATED,ADINR; CEBPA-AS1
+CRNDE,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, other",up-regulated,30242873,Also Known As: CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180,5,"NR_034105.4, NR_034106.3, NR_110453.2, NR_110454.2, NR_170995.1","5, 9, 5, 9, 9","5,7,5,7,7","0,2,0,2,2","0,0,0,0,0",VALIDATED,CRNDEP; PNAS-108; lincIRX5; LINC00180; NCRNA00180
+DANCR,Nasopharyngeal Cancer,qPCR,up-regulated,30849642,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result.",3,"NR_024031.2, NR_145129.1, NR_145130.1","6,7,7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR
+DANCR,Nasopharyngeal Cancer,"qPCR, Western blot",up-regulated,30720067,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result.",3,"NR_024031.2, NR_145129.1, NR_145130.1","6,7,7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR
+DANCR,Tongue Squamous Cell Carcinoma,"qRT-PCR, Luciferase reporter assay, Western blot",up-regulated,31827393,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result.",3,"NR_024031.2, NR_145129.1, NR_145130.1","6,7,7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR
+DANCR,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30555573,"Also Known As: AGU2; ANCR; DANCR; SNHG13; KIAA0114; lncRNA-ANCR
+
+Some (older) transcribed RNA, ANCR, Variant 1, 2 and 3 ""lncRNA"" ncRNA (complete sequence-LC128577.1, LC128578.1 and LC128579.1 respectively) with PQS- 7, 7, 7 respectively, were also there in result.",3,"NR_024031.2, NR_145129.1, NR_145130.1","6,7,7","5,6,6","1,1,1","0,0,0",REVIEWED,AGU2; ANCR; SNHG13; KIAA0114; lncRNA-ANCR
+DGCR5,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, RIP",up-regulated,30980388,"Also Known As: DGCR9; DGS-A; DGS-B; DGCR10; LINC00037; POM121L5P; NCRNA00037
+
+2 sequences for DGCR5 (NR_026651.1, NR_024159.1) without any mentioning of transcript variants, while 3 sequences of DGCR5 with clear mentioning of transcipt variants.
+
+PREDICTED REFSEQ (NR_026651.1): This record has not been reviewed and the function is unknown. The reference sequence was derived from BU584104.1, AC000095.5, L77559.1 and BM681417.1.
+
+All transcriprt variants of DGCR5 (NR_002733.2, NR_045121.1, NR_110533.1, NR_026651.1 and NR_024159.1) are reported (Gene Cards - GCID: GC22P019556)
+
+PQS 2 obtained in DGCR5_Variant 2 (NR_045121.1) when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3. Rest two PQS were same in both search parameters.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 3 was taken.","3 (DGCR5)
++
+2 (DGCR5 unknown variants)
+=5","DGCR5 (NR_002733.2, NR_045121.1, NR_110533.1)
++
+DGCR5 unknown variants (NR_026651.1, NR_024159.1)","32, 32, 11 (DGCR5)
++
+7, 28 (DGCR5 unknown variants)","29,29,11,5,25","3,3,0,2,3","0,0,0,0,0","VALIDATED (DGCR5)
+
+PREDICTED (DGCR5 unknown variant-NR_026651.1)
+
+VALIDATED (DGCR5 unknown variant-NR_024159.1)
+",DGCR9; DGS-A; DGS-B; DGCR10; LINC00037; POM121L5P; NCRNA00037
+DGCR5,Laryngeal Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30549038,"Also Known As: DGCR9; DGS-A; DGS-B; DGCR10; LINC00037; POM121L5P; NCRNA00037
+
+2 sequences for DGCR5 (NR_026651.1, NR_024159.1) without any mentioning of transcript variants, while 3 sequences of DGCR5 with clear mentioning of transcipt variants.
+
+PREDICTED REFSEQ (NR_026651.1): This record has not been reviewed and the function is unknown. The reference sequence was derived from BU584104.1, AC000095.5, L77559.1 and BM681417.1.
+
+All transcriprt variants of DGCR5 (NR_002733.2, NR_045121.1, NR_110533.1, NR_026651.1 and NR_024159.1) are reported (Gene Cards - GCID: GC22P019556)
+
+PQS 2 obtained in DGCR5_Variant 2 (NR_045121.1) when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3. Rest two PQS were same in both search parameters.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 3 was taken.","3 (DGCR5)
++
+2 (DGCR5 unknown variants)
+=5","DGCR5 (NR_002733.2, NR_045121.1, NR_110533.1)
++
+DGCR5 unknown variants (NR_026651.1, NR_024159.1)","32, 32, 11 (DGCR5)
++
+7, 28 (DGCR5 unknown variants)","29,29,11,5,25","3,3,0,2,3","0,0,0,0,0","VALIDATED (DGCR5)
+
+PREDICTED (DGCR5 unknown variant-NR_026651.1)
+
+VALIDATED (DGCR5 unknown variant-NR_024159.1)
+",DGCR9; DGS-A; DGS-B; DGCR10; LINC00037; POM121L5P; NCRNA00037
+DLEU1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32214823,"Also Known As: BCMS; DLB1; LEU1; LEU2; XTP6; BCMS1; DLEU2; LINC00021; NCRNA00021
+
+Some (not checked for PQS) DLEU1-AS1 ""lncRNA"" ncRNA (NR_125753.1) was also there in result.",3,"NR_109973.1, NR_002605.2, NR_109974.1","10,9,8","10,9,8","0,0,0","0,0,0",VALIDATED,BCMS; DLB1; LEU1; LEU2; XTP6; BCMS1; DLEU2; LINC00021; NCRNA00021
+DLEU1,Oral Squamous Cell Carcinoma,"Microarray, qPCR, Western blot",up-regulated,30069008,"Also Known As: BCMS; DLB1; LEU1; LEU2; XTP6; BCMS1; DLEU2; LINC00021; NCRNA00021
+
+Some (not checked for PQS) DLEU1-AS1 ""lncRNA"" ncRNA (NR_125753.1) was also there in result.",3,"NR_109973.1, NR_002605.2, NR_109974.1","10,9,8","10,9,8","0,0,0","0,0,0",VALIDATED,BCMS; DLB1; LEU1; LEU2; XTP6; BCMS1; DLEU2; LINC00021; NCRNA00021
+DLEU2,Laryngeal Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown etc.",down-regulated,29687850,"Also Known As: ALT1; DLB2; LEU2; RFP2; 
+BCMSUN; RFP2OS; MIR15AHG; TRIM13OS; 
+LINC00022; NCRNA00022
+
+DLEU2 is another name for DLEU1 but not the other way around.",7,"NR_152566.1, NR_152567.1,
+NR_152568.1, NR_152569.1,
+NR_152571.1, NR_152570.1,
+NR_152572.1
+
+","20,2,2,2,8,2,8","18,2,2,2,8,2,8","1,0,0,0,0,0,0","1,0,0,0,0,0,0",REVIEWED,ALT1; DLB2; LEU2; RFP2; BCMSUN; RFP2OS; MIR15AHG; TRIM13OS; LINC00022; NCRNA00022
+DLX6-AS1,Laryngeal Cancer,"qPCR, Western blot etc.",up-regulated,32368147,Also Known As: Evf-2; DLX6AS; DLX6-AS; NCRNA00212,1,NR_015448.1,9,9,0,0,VALIDATED,Evf-2; DLX6AS; DLX6-AS; NCRNA00212
+DLX6-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,31782911,Also Known As: Evf-2; DLX6AS; DLX6-AS; NCRNA00212,1,NR_015448.1,9,9,0,0,VALIDATED,Evf-2; DLX6AS; DLX6-AS; NCRNA00212
+DLX6-AS1,Laryngeal Squamous Cell Cancer,qRT-PCR,up-regulated,31814904,Also Known As: Evf-2; DLX6AS; DLX6-AS; NCRNA00212,1,NR_015448.1,9,9,0,0,VALIDATED,Evf-2; DLX6AS; DLX6-AS; NCRNA00212
+DRAIC,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31497998,,1,NR_026979.1,10,10,0,0,VALIDATED,"downregulated RNA in cancer, inhibitor of cell invasion and migration;downregulated RNA in androgen independent cells;lnc-RPLP1-12;HSALNG0106873;HSALNG0106861;HSALNG0106864;HSALNG0106856;NONHSAG017288.2;NONHSAG017290.2;HSALNG0106871;NONHSAG017294.2;HSALNG0106875;HSALNG0106878;HSALNG0106865"
+DUXAP8,Oral Cancer,"qPCR, RIP etc.",up-regulated,32304409,"""Homo sapiens double homeobox A pseudogene 8 (DUXAP8), non-coding RNA
+
+transcribed RNA-misc_RNA (mentioned as lncRNA in title of papers; PubMed - 30367681, 30317248 and others)
+
+Gene type - pseudo""",1,NR_122113.1,,11,0,0,VALIDATED,double homeobox A pseudogene 8
+ELF3-AS1,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,31686842,Also Known As: SCAT7,1,NR_146472.1,8,6,2,0,VALIDATED,SCAT7
+EPB41L4A-AS2,Head And Neck Squamous Cell Carcinoma,"RNA-seq, Microarray, qPCR, Western blot",down-regulated,29490660,Also Known As: EPB41L4A-AS2,1,NR_027706.1,17,15,2,0,VALIDATED,EPB41L4A-AS2
+EWSAT1,Nasopharyngeal Cancer,"qPCR, Western blot",up-regulated,29966979,Also Known As: TMEM84; LINC00277; NCRNA00277,1,NR_026949.1,15,14,1,0,VALIDATED,TMEM84; LINC00277; NCRNA00277
+EWSAT1,Nasopharyngeal Cancer,"qPCR, Cell transfection, Western blot, Luciferase reporter assay, RNA pull-down assay etc.",up-regulated,27816050,Also Known As: TMEM84; LINC00277; NCRNA00277,1,NR_026949.1,15,14,1,0,VALIDATED,TMEM84; LINC00277; NCRNA00277
+FAL1,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,31298329,Also Known As: FALEC; FAL1; ncRNA-a1; LINC00568,1,NR_051960.1,8,8,0,0,VALIDATED,FAL1; ncRNA-a1; LINC00568
+FALEC,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, RIP",down-regulated,31335317,Also Known As: FAL1; ncRNA-a1; LINC00568,1,NR_051960.1,8,8,0,0,VALIDATED,FAL1; ncRNA-a1; LINC00568
+FAM225A,Nasopharyngeal Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31331909,"Also Known As: C9orf109; LINC00256A; 
+NCRNA00256A",1,NR_024366.1,64,56,7,1,VALIDATED,C9orf109; LINC00256A; NCRNA00256A
+FAM87A,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833,,1,NR_103537.1,37,36,1,0,VALIDATED,"family with sequence similarity 87 member A;family with sequence similarity 87, member A;HSALNG0062877;FAM87A;NONHSAG049338.2;Protein FAM87A"
+FEZF1-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30355645,,1,NR_036484.1,22,21,1,0,VALIDATED,FEZF1 antisense RNA 1;FEZF1 antisense RNA 1 (non-protein coding);HSALNG0060982;FEZF1-AS1;NONHSAG048666.2
+FEZF1-AS1,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay",up-regulated,31378890,,1,NR_036484.1,22,21,1,0,VALIDATED,FEZF1 antisense RNA 1;FEZF1 antisense RNA 1 (non-protein coding);HSALNG0060982;FEZF1-AS1;NONHSAG048666.2
+FGD5-AS1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot, Luciferase Reporter Assay",up-regulated,31899825,,5,"NR_046251.1, NR_046252.1, NR_046253.1, NR_046254.1, NR_046255.1","18, 21, 20, 20, 17","17,21,20,20,15","1,0,0,0,2","0,0,0,0,0",VALIDATED,FGD5 antisense RNA 1;FGD5 antisense RNA 1 (non-protein coding);FGD5-AS1;NONHSAG034508.2;HSALNG0024364;HSALNG0024365;HSALNG0024362
+FLJ22447,Oral Squamous Cell Carcinoma,"RNA-seq, qPCR, RIP",up-regulated,29346528,,1,NR_039985.1,4,4,0,0,VALIDATED,uncharacterized LOC400221;HSALNG0101773
+FOXCUT,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,24889262,Also Known As: LINC01379; TCONS_00011636,1,NR_125804.1,15,13,2,0,VALIDATED,LINC01379; TCONS_00011636
+FOXD2-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,29248577,,1,NR_026878.1,24,21,3,0,VALIDATED,FOXD2 adjacent opposite strand RNA 1;MGC12982;FOXD2 antisense RNA 1 (non-protein coding);FOXD2 antisense RNA 1;FOXD2 antisense RNA 1 (head to head);HSALNG0003395;FOXD2-AS1;NONHSAG001375.2
+FOXD3-AS1,Nasopharyngeal Cancer,"RT-qPCR, Western blot, Microarray",up-regulated,32073875,"Also Known As: pasFOXD3
+
+Some (older-not checked for PQS) FOXD3 antisense RNA 1 ""antisense RNA"" ncRNA (complete sequence - KF925349.1) was also there in result.",4,"NR_121634.1, NR_121635.1, NR_121636.1, NR_121637.1","11, 7, 8, 8","11,6,8,8","0,1,0,0","0,0,0,0",VALIDATED,FAST; pasFOXD3
+FRMD6-AS1,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,27886062,Also Known As: C14orf82,1,NR_037676.1,23,23,0,0,VALIDATED,C14orf82
+GAS5,Oral Squamous Cell Carcinoma,"qRT-PCR , Luciferase reporter assay , RNAi , in vitro knockdown etc.",up-regulated,31583913,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030
+GAS5,Laryngeal Squamous Cell Cancer,"qRT-PCR, Western blotting etc.",down-regulated,31572003,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030
+GAS5,Oral Squamous Cell Carcinoma,"qPCR, Western blot, etc.",down-regulated,30576678,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030
+GAS5,Head And Neck Cancer,qPCR etc.,down-regulated,26482616,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030
+GAS5,Nasopharyngeal Cancer,"DNA Extraction and genotyping, SNPs selections etc.",differential expression,28977945,"Also Known As: SNHG2; NCRNA00030
+
+Some (older-not checked for PQS) GAS5 ""snoRNA"" ncRNA (TPA: HG975395.1) was also there in result.",15,"NR_002578.3, NR_152521.1, NR_152522.1, NR_152523.1, NR_152524.1, NR_152525.1, NR_152526.1, NR_152527.1, NR_152528.1, NR_152529.1, NR_152530.1, NR_152531.1, NR_152532.1, NR_152533.1, NR_152534.1","5, 6, 5, 5, 5, 5, 5, 3, 4, 3, 5, 5, 5, 5, 5","5,6,5,5,5,5,5,3,4,3,5,5,5,5,5","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,SNHG2; NCRNA00030
+GHET1,Head And Neck Cancer,qPCR etc.,up-regulated,29725422,Also Known As: ncRNA-GHET1,1,NR_130107.1,10,9,1,0,REVIEWED,lncRNA-GHET1
+GIHCG,Tongue Squamous Cell Carcinoma,qPCR,up-regulated,29953645,,1,NR_038269.1,4,4,0,0,VALIDATED,"GIHCG inhibitor of miR-200b/200a/429 expression;lncRNA-GIHCG;lncRNA gradually increased during hepatocarcinogenesis;GIHCG, inhibitor of miR-200b/200a/429 expression;HSALNG0091676;lnc-CTDSP2-2;NONHSAG011461.2"
+GNAS-AS1,Nasopharyngeal Cancer,"qPCR, Western blot etc",up-regulated,32271425,Also known as: SANG; GNASAS; NESPAS; GNAS-AS; GNAS1AS; NESP-AS; NCRNA00075,1,NR_002785.2,13,10,3,0,REVIEWED,SANG; GNASAS; NESPAS; GNAS-AS; GNAS1AS; NESP-AS; NCRNA00075
+H19,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay",differential expression,29844862,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,31556327,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29344674,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Nasopharyngeal Cancer,"qPCR, Western blot, RIP etc.",up-regulated,27040767,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,26872375,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29523225,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Head And Neck Squamous Cell Carcinoma,qPCR etc.,down-regulated,11592232,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Head And Neck Squamous Cell Carcinoma,qPCR etc.,differential expression,10597307,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Nasopharyngeal Cancer,"qPCR, Northern blot, ISH etc.",up-regulated,12569573,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+H19,Head And Neck Squamous Cell Carcinoma,"qPCR, Cell transfection, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,27994496,"Also Known As: ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+
+Some (older-not checked for PQS) H19 ""other"" ncRNA endogenous virus human endogenous retrovirus H clone (partial sequence-MG598802.1) with note - non-coding HERV-H transcript, was also there in result.
+
+PQS 6 [Position-625 (3G)] obtained in 1st and 2nd variants when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+
+H19 1st and 2nd variants showed 2 (4G) PQS in QGRS mapper when search parameter was set to Min G-Group Size: 2, while it showed 2 (3G) and 1 (4G) PQS when search parameter was set to Min G-Group Size: 3, as PQS 1 (3G) 2 (4G) obtained when search parameter was set to Min G-Group Size: 3 was replaced by 1 PQS (4G) of different G-score (by taking PQS 1, flanking region and parts from PQS 2), while PQS 2 (4G) and 3 (3G) were replaced by 1 PQS (4G) of different G-score (by taking parts from PQS 2 and; flanking region and; parts from PQS 3) when search parameter was set to Min G-Group Size: 2.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.",3,"NR_002196.2, NR_131223.1, NR_131224.1","38, 37, 12","27,26,11","9,9,1","2,2,0",REVIEWED,ASM; BWS; WT2; ASM1; D11S813E; MIR675HG; LINC00008; NCRNA00008
+HAGLROS,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31334669,,1,NR_110457.1,6,6,0,0,VALIDATED,HAGLR opposite strand lncRNA;HAGLR opposite strand (non-protein coding);HAGLROS;HSALNG0020595;NONHSAG029907.2
+HAS2-AS1,Oral Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28485478,Also known as: HASNT; HAS2AS; HAS2-AS; NCRNA00077,1,NR_002835.2,15,14,1,0,VALIDATED,HASNT; HAS2AS; HAS2-AS; NCRNA00077
+HCG11,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",down-regulated,32271435,"Also Known As: CTA-14H9.3, bK14H9.3",1,NR_026790.1,35,31,4,0,VALIDATED,bK14H9.3; CTA-14H9.3
+HCG18,Nasopharyngeal Cancer,"RT-PCR, Western blot, Luciferase Reporter Assays",up-regulated,31841193,,4,"NR_024052.2, NR_024053.2,
+NR_102326.1, NR_102327.1","46,45,56,30","39,38,48,24","7,7,8,6","0,0,0,0",VALIDATED,HLA complex group 18;FLJ31598;FLJ25550;Em:AB014087.1;HLA complex group 18 (non-protein coding);HSALNG0049132;NONHSAG046574.2;lnc-TRIM26-2;NONHSAG045872.2;NONHSAG043403.2;NONHSAG045570.2;NONHSAG046390.2;NONHSAG045682.2;NONHSAG046057.2
+HCG22,Oral Squamous Cell Carcinoma,qPCR,differential expression,28415559,"Also known as: PBMUCL2, Panbronchiolitis-Related Mucin-Like Protein, HLA Complex Group 22 (Non-Protein Coding)",2,"NR_003948.3, NR_145427.2",,"14,11","0,0","0,0",VALIDATED,PBMUCL2
+HCP5,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot analysis, Dual Luciferase Reporter Assay",up-regulated,31849534,Also Known As: P5-1; 6S2650E; D6S2650E,1,NR_040662.1,23,21,2,0,VALIDATED,P5-1; 6S2650E; D6S2650E
+HNF1A-AS1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30404566,Also Known As: 5'aHIF-1A; 5'aHIF1alpha,1,NR_047116.1,4,4,0,0,VALIDATED,5'aHIF-1A; 5'aHIF1alpha
+HOTAIR,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31995261,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Laryngeal Cancer,"RT-qPCR, Western blot analysis, Dual Luciferase Reporter Gene Assay, RIP",up-regulated,31849488,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Laryngeal Squamous Cell Cancer,"qRT-PCR , Western blot etc.",up-regulated,31171714,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,30053324,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30314699,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31297902,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Laryngeal Squamous Cell Cancer,"qPCR, Western blot etc.",up-regulated,25099764,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Head And Neck Squamous Cell Carcinoma,"Microarray, qPCR etc.",differential expression,28159935,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Nasopharyngeal Cancer,"qPCR, Western blotting etc.",up-regulated,29228426,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay etc.",up-regulated,26717040,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Nasopharyngeal Cancer,"qPCR, ISH etc.",up-regulated,23281836,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27904675,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Oral Squamous Cell Carcinoma,"qPCR, RNAi, MTT assay etc.",up-regulated,26036760,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Flow cytometry assay etc.",differential expression,26592246,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Laryngeal Squamous Cell Cancer,qPCR etc.,up-regulated,25257554,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Laryngeal Squamous Cell Cancer,"qPCR, in vitro knockdown etc.",up-regulated,23141928,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,23292713,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Head And Neck Squamous Cell Carcinoma,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell migration and invasion assay etc.",up-regulated,27941336,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Head And Neck Squamous Cell Carcinoma,"in vitro knockdown, Luciferase reporter assay, qPCR, Western blot, RNA-seq etc.",up-regulated,29540490,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Laryngeal Squamous Cell Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27542077,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIR,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,25901533,"Also Known As: HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIR (HOTAIR gene) ""antisense RNA"" ncRNA (TPA: HG975398.1) was also there in result.",3,"NR_047517.1, NR_003716.3, NR_047518.1","18, 17, 16,","17,16,15","1,1,1","0,0,0",REVIEWED,HOXAS; HOXC-AS4; HOXC11-AS1; NCRNA00072
+HOTAIRM1,Head And Neck Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,29905017,"Also Known As: HOXA-AS1; HOXA1-AS1; NCRNA00179
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIRM1 (HOTAIRM1 gene) and; HOXA cluster antisense intergenic RNA myeloid 1 antisense RNA (HOTAIRM1); ""antisense RNA"" ncRNA (TPA: HG975399.1; complete sequence-GQ479958.1 respectively) were also there in result.",2,"NR_038366.1, NR_038367.1","7, 5","6,4","1,1","0,0",REVIEWED,HOXA-AS1; HOXA1-AS1; NCRNA00179
+HOTAIRM1,Head And Neck Cancer,"qPCR, Western blot, etc.",down-regulated,29905017,"Also Known As: HOXA-AS1; HOXA1-AS1; NCRNA00179
+
+Some (older-not checked for PQS) Long non-coding antisense RNA HOTAIRM1 (HOTAIRM1 gene) and; HOXA cluster antisense intergenic RNA myeloid 1 antisense RNA (HOTAIRM1); ""antisense RNA"" ncRNA (TPA: HG975399.1; complete sequence-GQ479958.1 respectively) were also there in result.",2,"NR_038366.1, NR_038367.1","7, 5","6,4","1,1","0,0",REVIEWED,HOXA-AS1; HOXA1-AS1; NCRNA00179
+HOTTIP,Oral Tongue Squamous Cell Carcinoma,"qRT-PCR, Dual luciferase reporter assay, Western blot assay",up-regulated,31910357,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOTTIP,Head And Neck Squamous Cell Carcinoma,qRT-PCR etc.,up-regulated,31032351,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOTTIP,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30685769,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOTTIP,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31328440,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOTTIP,Tongue Squamous Cell Carcinoma,qPCR etc.,up-regulated,26058875,"Also Known As: HOXA-AS6; HOXA13-AS1; NCRNA00213
+
+Some (older-not checked for PQS) HoxA transcript at the distal tip RNA antisense RNA (HOTTIP) ""antisense RNA"" ncRNA (complete sequence - GU724873.1) was also there in result.",1,NR_037843.3,40,37,3,0,REVIEWED,HOXA-AS6; HOXA13-AS1; NCRNA00213
+HOXA11-AS,Hypopharyngeal Squamous Cell Carcinoma,qRT-PCR,up-regulated,31987067,Also Known As: HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076,1,NR_002795.2,18,16,2,0,REVIEWED,HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076
+HOXA11-AS,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot, RIP",up-regulated,31731187,Also Known As: HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076,1,NR_002795.2,18,16,2,0,REVIEWED,HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076
+HOXA11-AS,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot analysis etc.",up-regulated,31139017,Also Known As: HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076,1,NR_002795.2,18,16,2,0,REVIEWED,HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076
+HOXA11-AS,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay",up-regulated,31275988,Also Known As: HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076,1,NR_002795.2,18,16,2,0,REVIEWED,HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076
+HOXA11-AS,Laryngeal Squamous Cell Cancer,"Microarray, qPCR, in vitro knockdown",up-regulated,29511452,Also Known As: HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076,1,NR_002795.2,18,16,2,0,REVIEWED,HOXA11S; HOXA-AS5; HOXA11AS; HOXA11-AS1; NCRNA00076
+HULC,Oral Squamous Cell Carcinoma,"qPCR, Western blot, RNAi, other",up-regulated,30419657,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078
+HULC,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30677131,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078
+HULC,Nasopharyngeal Cancer,"qPCR, Western blot etc.",up-regulated,28445086,"Also Known As: HCCAT1; LINC00078; NCRNA00078
+
+Some (older-not checked for PQS) Long non-coding RNA HULC (HULC gene) ""lncRNA"" ncRNA (TPA: HG975403.1) was also there in result.",1,NR_004855.2,1,1,0,0,REVIEWED,HCCAT1; LINC00078; NCRNA00078
+INHBA-AS1,Oral Squamous Cell Carcinoma,RT-qPCR,up-regulated,32141551,,2,"NR_027118.2, NR_027119.2","21,7","20,7","1,0","0,0",VALIDATED,INHBA antisense RNA 1;INHBA antisense RNA 1 (non-protein coding);INHBA-AS1;NONHSAG047432.2;HSALNG0057479;NONHSAG047433.2
+KCNQ1OT1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31755091,"Also Known As: LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+
+Some (older-not checked for PQS) Long non-coding sense-intronic RNA Kcnq1ot1 (Kncq1 gene) ""lncRNA"" ncRNA (TPA: HG975405.1) was also there in result.",1,NR_002728.3,581,538,41,2,REVIEWED,LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+KCNQ1OT1,Tongue Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29970910,"Also Known As: LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+
+Some (older-not checked for PQS) Long non-coding sense-intronic RNA Kcnq1ot1 (Kncq1 gene) ""lncRNA"" ncRNA (TPA: HG975405.1) was also there in result.",1,NR_002728.3,581,538,41,2,REVIEWED,LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+KCNQ1OT1,Tongue Squamous Cell Carcinoma,"qRT-PCR, Western blot analysis, Dual Luciferase Reporter Assays, RIP",up-regulated,31957833,"Also Known As: LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+
+Some (older-not checked for PQS) Long non-coding sense-intronic RNA Kcnq1ot1 (Kncq1 gene) ""lncRNA"" ncRNA (TPA: HG975405.1) was also there in result.",1,NR_002728.3,581,538,41,2,REVIEWED,LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+KCNQ1OT1,Hypopharyngeal Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, Cell proliferation assay, Luciferase reporter assay, RIP, etc.",up-regulated,29970910,"Also Known As: LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+
+Some (older-not checked for PQS) Long non-coding sense-intronic RNA Kcnq1ot1 (Kncq1 gene) ""lncRNA"" ncRNA (TPA: HG975405.1) was also there in result.",1,NR_002728.3,581,538,41,2,REVIEWED,LIT1; Kncq1; KvDMR1; KCNQ10T1; KCNQ1-AS2; KvLQT1-AS; NCRNA00012
+KTN1-AS1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay,   etc",up-regulated,32267161,"Also known as: C14orf33, MYCLo-3",1,NR_027123.1,7,7,0,0,VALIDATED,MYCLo-3; C14orf33
+LEF1-AS1,Oral Squamous Cell Carcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,30983488,Also Known As: LEF1NAT,2,"NR_029373.1, NR_029374.1","19, 9","17,9","2,0","0,0",VALIDATED,LEF1NAT
+LINC-PINT,Laryngeal Cancer,"qRT-PCR, Western blot analysis etc.",down-regulated,31131448,"Also Known As: PINT; MKLN1-AS1; LincRNA-Pint
+
+Some (older-not checked for PQS) Linc-pint lncRNA ""lncRNA"" ncRNA (partial sequence - MG322760.1) was also there in result.",13,"NR_015431.2, NR_024153.2, NR_109850.1, NR_109851.1, NR_109852.1, NR_109853.1, NR_109854.1, NR_109855.1, NR_034120.1, NR_110472.1, NR_110473.1, NR_170175.1, NR_170176.1","19, 8, 21, 19, 19, 15, 15, 15, 9, 8, 3, 23, 21","16,7,18,16,0,13,13,13,9,8,3,21,19","3,1,3,3,0,2,2,2,0,0,0,2,2","0,0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,PINT; MKLN1-AS1; LincRNA-Pint
+"LINC-POU3F3",Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30602452,Also Known As: PANTRI1; LINC01158; linc-Brn1a; linc-POU3F3,4 (PANTRI1),"PANTRI1 (NR_037883.1, NR_131233.1, NR_131234.1, NR_131235.1)","13, 5, 5, 6 (PANTRI1)","12,5,6,6","1,0,0,0","0,0,0,0",VALIDATED (PANTRI1),LINC01158; linc-Brn1a; linc-POU3F3; PANTRI1
+LINC-ROR,Oral Cancer,qPCR,up-regulated,28443494,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3
+LINC-ROR,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,27311700,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3
+LINC-ROR,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30601067,"Also Known As: ROR; lincRNA-RoR; lincRNA-ST8SIA3
+
+Some (older) transcribed RNA, LINC-ROR variants (2-14; variant 1 not available in NCBI-NT) ""other"" ncRNA (complete sequence - _____, AB844430.1, AB844431.1, AB844432.1, AB844433.1, AB908956.1, AB932951.1, LC027885.1, LC027886.1, LC027887.1, LC027888.1, LC027889.1, LC027890.1 and LC027884.1 respectively) with PQS-___, 3, 1, 0, 0, 4, 1, 4, 13, 7, 8, 7, 2, 2 respectively were also there in result.
+
+Sequence not available for 1st variant (older).",2,"NR_048536.2, NR_152602.1","15, 13","15,13","0,0","0,0",REVIEWED,ROR; lincRNA-RoR; lincRNA-ST8SIA3
+LINC00052,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833,Also known as: TMEM83; NCRNA00052,1,NR_026869.1,5,5,0,0,VALIDATED,TMEM83; NCRNA00052
+LINC00052,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31639333,Also known as: TMEM83; NCRNA00052,1,NR_026869.1,5,5,0,0,VALIDATED,TMEM83; NCRNA00052
+LINC00114,Nasopharyngeal Cancer,"qPCR, Western blot, luciferase reporter assay etc",up-regulated,32196600,Also Known As: C21orf24; NCRNA00114,2,"NR_027065.2, NR_027066.2","4, 3","4,3","0,0","0,0",VALIDATED,C21orf24; NCRNA00114
+LINC00114,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,27886062,Also Known As: C21orf24; NCRNA00114,2,"NR_027065.2, NR_027066.2","4, 3","4,3","0,0","0,0",VALIDATED,C21orf24; NCRNA00114
+LINC00152,Laryngeal Squamous Cell Cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32266320,Also Known As: C2orf59; LINC00152; NCRNA00152,5,"NR_024204.2, NR_024205.3, NR_024206.2, NR_146460.1, NR_146461.1","4, 6, 4, 4, 3","4,6,4,4,3","0,0,0,0,0","0,0,0,0,0",REVIEWED,C2orf59; LINC00152; NCRNA00152
+LINC00152,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32194700,Also Known As: C2orf59; LINC00152; NCRNA00152,5,"NR_024204.2, NR_024205.3, NR_024206.2, NR_146460.1, NR_146461.1","4, 6, 4, 4, 3","4,6,4,4,3","0,0,0,0,0","0,0,0,0,0",REVIEWED,C2orf59; LINC00152; NCRNA00152
+LINC00152,Oral Squamous Cell Carcinoma,"qPCR, Western blot, other",up-regulated,30310293,Also Known As: C2orf59; LINC00152; NCRNA00152,5,"NR_024204.2, NR_024205.3, NR_024206.2, NR_146460.1, NR_146461.1","4, 6, 4, 4, 3","4,6,4,4,3","0,0,0,0,0","0,0,0,0,0",REVIEWED,C2orf59; LINC00152; NCRNA00152
+LINC00152,Tongue Squamous Cell Carcinoma,qPCR,up-regulated,28367232,Also Known As: C2orf59; LINC00152; NCRNA00152,5,"NR_024204.2, NR_024205.3, NR_024206.2, NR_146460.1, NR_146461.1","4, 6, 4, 4, 3","4,6,4,4,3","0,0,0,0,0","0,0,0,0,0",REVIEWED,C2orf59; LINC00152; NCRNA00152
+LINC00210,Nasopharyngeal Cancer,"qPCR, RNAi, Luciferase reporter assay, RNAi, other",up-regulated,30341249,Also Known As: NCRNA00210,1,NR_048550.1,7,7,0,0,VALIDATED,NCRNA00210
+LINC00210,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,27886062,Also Known As: NCRNA00210,1,NR_048550.1,7,7,0,0,VALIDATED,NCRNA00210
+LINC00261,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833,Also Known As: ALIEN; DEANR1; FALCOR; HCCDR1; C20orf56; NCRNA00261; TCONS_00027846; onco-lncRNA-17,1,NR_001558.3,31,31,0,0,REVIEWED,ALIEN; DEANR1; FALCOR; HCCDR1; C20orf56; NCRNA00261; TCONS_00027846; onco-lncRNA-17
+LINC00261,Laryngeal Cancer,qPCR,down-regulated,29774690,Also Known As: ALIEN; DEANR1; FALCOR; HCCDR1; C20orf56; NCRNA00261; TCONS_00027846; onco-lncRNA-17,1,NR_001558.3,31,31,0,0,REVIEWED,ALIEN; DEANR1; FALCOR; HCCDR1; C20orf56; NCRNA00261; TCONS_00027846; onco-lncRNA-17
+LINC00319,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30243935,Also known as: PRED49; C21orf125; NCRNA00319,1,NR_152722.1,30,30,0,0,VALIDATED,PRED49; C21orf125; NCRNA00319
+LINC00355,Head And Neck Squamous Cell Carcinoma,"Microarray, Dual Luciferase Reporter Gene Assay, qRT-PCR, Western blot analysis",up-regulated,31837606,,1,NR_145420.1,14,14,0,0,VALIDATED,long intergenic non-protein coding RNA 355;HSALNG0097622;NONHSAG013685.2;HSALNG0097626;NONHSAG013688.2;LINC00355;HSALNG0097627;NONHSAG013687.2
+LINC00460,Head And Neck Squamous Cell Carcinoma,"qRT-PCR, Western blot, RIP",up-regulated,31737186,,2,"NR_034119.2, NR_163477.1","4, 4","4,4","0,0","0,0",VALIDATED,long intergenic non-protein coding RNA 460;HSALNG0099182;NONHSAG014130.2;LINC00460
+LINC00460,Head And Neck Squamous Cell Carcinoma,"qRT-PCR , Luciferase reporter assay etc.",up-regulated,31075234,,2,"NR_034119.2, NR_163477.1","4, 4","4,4","0,0","0,0",VALIDATED,long intergenic non-protein coding RNA 460;HSALNG0099182;NONHSAG014130.2;LINC00460
+LINC00460,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, RNAi, RIP, other",up-regulated,31429766,,2,"NR_034119.2, NR_163477.1","4, 4","4,4","0,0","0,0",VALIDATED,long intergenic non-protein coding RNA 460;HSALNG0099182;NONHSAG014130.2;LINC00460
+LINC00460,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,31414345,,2,"NR_034119.2, NR_163477.1","4, 4","4,4","0,0","0,0",VALIDATED,long intergenic non-protein coding RNA 460;HSALNG0099182;NONHSAG014130.2;LINC00460
+LINC00460,Nasopharyngeal Cancer,"RNA-seq, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,28987345,,2,"NR_034119.2, NR_163477.1","4, 4","4,4","0,0","0,0",VALIDATED,long intergenic non-protein coding RNA 460;HSALNG0099182;NONHSAG014130.2;LINC00460
+LINC00467,Head And Neck Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,32159247,Also Known As: C1orf97,1,NR_026761.2,5,5,0,0,VALIDATED,C1orf97
+LINC00472,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833,"Also Known As: P53RRA; C6orf155
+
+PQS 1 obtained in 4th variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQS of same score (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 3 was taken.",4,"NR_121612.1, NR_026807.2, NR_121613.1, NR_121614.1","43, 43, 42, 43","41,41,40,41","2,2,2,2","0,0,0,0",VALIDATED,P53RRA; C6orf155
+LINC00473,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Microarray, other",up-regulated,30468475,Also Known As: LNC473; C6orf176; bA142J11.1,2,"NR_026860.1, NR_026861.1","12, 5","12,5","0,0","0,0",VALIDATED,LNC473; C6orf176; bA142J11.1
+LINC00511,Tongue Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29315846,Also Known As: LCAL5; onco-lncRNA-12,1,NR_033876.1,18,16,2,0,VALIDATED,LCAL5; onco-lncRNA-12
+LINC00520,Nasopharyngeal Cancer,qPCR,up-regulated,30898716,Also Known As: LASSIE; C14orf34,2,"NR_026796.1, NR_026797.1","13, 13","12,12","1,1","0,0",VALIDATED,LASSIE; C14orf34
+LINC00657,Laryngeal Squamous Cell Cancer,"Microarray, qPCR",down-regulated,30128795,Also Known As: LINC00657 (NORAD),1 (NORAD),NR_027451.1 (NORAD),30 (NORAD),25,5,0,VALIDATED (NORAD),LINC00657
+LINC00662,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30705593,,1,NR_027301.1,6,5,1,0,VALIDATED,long intergenic non-protein coding RNA 662;CTC-459F4.2;LINC00662;HSALNG0125113;NONHSAG025376.2;NONHSAG025379.2
+LINC00668,Laryngeal Squamous Cell Cancer,"qPCR, other",up-regulated,30415008,,1,NR_034100.1,15,13,2,0,VALIDATED,long intergenic non-protein coding RNA 668;HSALNG0119819;NONHSAG023287.2;LINC00668
+LINC00668,Oral Squamous Cell Carcinoma,"RNAi, Western blot, qPCR, Luciferase reporter assays, RNA pull-down assays",up-regulated,28564590,,1,NR_034100.1,15,13,2,0,VALIDATED,long intergenic non-protein coding RNA 668;HSALNG0119819;NONHSAG023287.2;LINC00668
+LINC00673,Tongue Squamous Cell Carcinoma,"qPCR, RNAi, Cell migration and invasion assay, ISH etc.",up-regulated,28039470,Also known asSLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75,5,"NR_137281.2, NR_137280.2, NR_036488.1, NR_152515.1, NR_152516.1","26, 25, 23, 23, 27","24,23,22,22,25","2,2,1,1,2","0,0,0,0,0",VALIDATED,SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75
+LINC00886,Laryngeal Cancer,qRT-PCR,down-regulated,32111441,,1,NR_038387.1,13,12,1,0,VALIDATED,long intergenic non-protein coding RNA 886;LINC00886;HSALNG0030069;NONHSAG036477.2
+LINC00958,Nasopharyngeal Cancer,"RT-qPCR, Luciferase Reporter Assay, RIP, Western blot analysis",up-regulated,31819474,"Also Known As: BLACAT2: LINC00958. Some (older) bladder associated transcript 2 variant 1, 2 and 3 lncRNA ""lncRNA"" ncRNA (complete sequence-MF435912.1, MF435913.1 and MF435914.1 respectively) with PQS- 4, 4, 5 respectively, were also there in result.",1,NR_038904.1,10,10,0,0,VALIDATED,BLACAT2
+LINC00958,Oral Squamous Cell Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31161900,"Also Known As: BLACAT2: LINC00958. Some (older) bladder associated transcript 2 variant 1, 2 and 3 lncRNA ""lncRNA"" ncRNA (complete sequence-MF435912.1, MF435913.1 and MF435914.1 respectively) with PQS- 4, 4, 5 respectively, were also there in result.",1,NR_038904.1,10,10,0,0,VALIDATED,BLACAT2
+LINC00958,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,31442551,"Also Known As: BLACAT2: LINC00958. Some (older) bladder associated transcript 2 variant 1, 2 and 3 lncRNA ""lncRNA"" ncRNA (complete sequence-MF435912.1, MF435913.1 and MF435914.1 respectively) with PQS- 4, 4, 5 respectively, were also there in result.",1,NR_038904.1,10,10,0,0,VALIDATED,BLACAT2
+LINC00958,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP, RNAi, other",up-regulated,31413594,"Also Known As: BLACAT2: LINC00958. Some (older) bladder associated transcript 2 variant 1, 2 and 3 lncRNA ""lncRNA"" ncRNA (complete sequence-MF435912.1, MF435913.1 and MF435914.1 respectively) with PQS- 4, 4, 5 respectively, were also there in result.",1,NR_038904.1,10,10,0,0,VALIDATED,BLACAT2
+LINC00963,Head And Neck Cancer,"qPCR, in vitro knockdown",up-regulated,32357409,Also Known As: MetaLnc9,1,NR_038955.1,21,20,1,0,VALIDATED,MetaLnc9
+LINC00974,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,31702382,,1,NR_038442.1,12,12,0,0,VALIDATED,long intergenic non-protein coding RNA 974;NONHSAG021780.2;LINC00974;HSALNG0141637
+LINC01116,Nasopharyngeal Cancer,"qRT-PCR, Western blot",up-regulated,31703161,Also Known As: TALNEC2,1,NR_040001.2,2,2,0,0,VALIDATED,TALNEC2
+LINC01116,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, other",up-regulated,31452270,Also Known As: TALNEC2,1,NR_040001.2,2,2,0,0,VALIDATED,TALNEC2
+LINC01116,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31308744,Also Known As: TALNEC2,1,NR_040001.2,2,2,0,0,VALIDATED,TALNEC2
+LINC01133,Nasopharyngeal Cancer,"qRT-PCR , Western blot , RIP , RNAi , in vitro knockdown etc.",down-regulated,31106003,,1,NR_038849.1,7,7,0,0,VALIDATED,long intergenic non-protein coding RNA 1133;lncRNA-PAGBC;prognosis-associated gallbladder cancer lncRNA;LINC01133;HSALNG0007801;NONHSAG003198.2
+LINC01133,Oral Squamous Cell Carcinoma,"qPCR, Western blot, other",down-regulated,30332510,,1,NR_038849.1,7,7,0,0,VALIDATED,long intergenic non-protein coding RNA 1133;lncRNA-PAGBC;prognosis-associated gallbladder cancer lncRNA;LINC01133;HSALNG0007801;NONHSAG003198.2
+LINC01234,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,32041570,Also Known As: LCAL84; onco-lncRNA-32,2,"NR_110026.1, NR_110025.1","8, 9","7,8","1,1","0,0",VALIDATED,LCAL84; onco-lncRNA-32
+LINCRNA-p21,Head And Neck Cancer,qPCR etc.,down-regulated,26482616,"Also Known As: linc-p21; TRP53COR1; lincRNA-p21
+
+Some (older) hLincRNA-p21_SIsoE1 lncRNA and LIsoE2 lncRNA (TP53COR1); ""lncRNA"" ncRNA (complete sequence-KU881769.1 and KU881768.1 respectively; note=""tumor protein p53 pathway corepressor 1 transcript variant SIsoE1 and LIsoE2"") were there in result.
+
+
+
+
+Complement mentioned in gene, ncRNA, exon, repeat region feature details.
+
+Annotation information: not in current annotation release.
+",2 [TP53COR1 (hLincRNA-p21_SIsoE1 and hLincRNA-p21_LIsoE2)],"TP53COR1 (older) (hLincRNA-p21_SIsoE1 and hLincRNA-p21_LIsoE2) (KU881769.1, KU881768.1 respectively)","18, 19 [TP53COR1 (hLincRNA-p21_SIsoE1 and hLincRNA-p21_LIsoE2)]",,,,,
+LINCRNA-p21,Head And Neck Squamous Cell Carcinoma,qPCR,down-regulated,30857539,"Also Known As: linc-p21; TRP53COR1; lincRNA-p21
+
+Some (older) hLincRNA-p21_SIsoE1 lncRNA and LIsoE2 lncRNA (TP53COR1); ""lncRNA"" ncRNA (complete sequence-KU881769.1 and KU881768.1 respectively; note=""tumor protein p53 pathway corepressor 1 transcript variant SIsoE1 and LIsoE2"") were there in result.
+
+
+
+
+Complement mentioned in gene, ncRNA, exon, repeat region feature details.
+
+Annotation information: not in current annotation release.
+",2 [TP53COR1 (hLincRNA-p21_SIsoE1 and hLincRNA-p21_LIsoE2)],"TP53COR1 (older) (hLincRNA-p21_SIsoE1 and hLincRNA-p21_LIsoE2) (KU881769.1, KU881768.1 respectively)","18, 19 [TP53COR1 (hLincRNA-p21_SIsoE1 and hLincRNA-p21_LIsoE2)]",,,,,
+lnc-C22orf32-1,Nasopharyngeal Cancer,qPCR,up-regulated,28588717,Also Known As: C22orf32-1; lnc-C22orf32-1,3,"NR_120595.1, NR_120596.1, 
+NR_120597.1","13,9,3","12,8,2","1,1,1","0,0,0",VALIDATED,C22orf32-1; lnc-C22orf32-1
+lnc-C22orf32-1,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,24822202,Also Known As: C22orf32-1; lnc-C22orf32-1,3,"NR_120595.1, NR_120596.1, 
+NR_120597.1","13,9,3","12,8,2","1,1,1","0,0,0",VALIDATED,C22orf32-1; lnc-C22orf32-1
+lnc-KCTD6-3,Tongue Cancer,"RNA-seq, qPCR etc.",down-regulated,25904139,Also Known As: lnc-KCTD6-3,1,NR_134853.1,7,7,0,0,VALIDATED,lnc-KCTD6-3
+lnc-KCTD6-3,Laryngeal Cancer,"RNA-seq, qPCR etc.",down-regulated,25904139,Also Known As: lnc-KCTD6-3,1,NR_134853.1,7,7,0,0,VALIDATED,lnc-KCTD6-3
+lncAROD,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, RIP etc",up-regulated,32216017,Also Known As: A-ROD; LINC01468; lnc-MBL2-4,2,"NR_120641.1, NR_120642.1","4,6","4,6","0,0","0,0",VALIDATED,A-ROD; LINC01468; lnc-MBL2-4
+lncHIFCAR,Oral Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,28639619,Also Known As: MIR31HG; hsa-lnc-31,4,"NR_027054.2, NR_152877.1,
+NR_152878.1, NR_152879.1","20,13,12,19","19,13,12,18","1,0,0,1","0,0,0,0",REVIEWED,LncHIFCAR; hsa-lnc-31
+lncRNA-LET,Nasopharyngeal Cancer,"qPCR, Western blot, RIP etc.",down-regulated,28615956,,1,NR_103844.1,13,13,0,0,VALIDATED,lncRNA-LET
+lncRNA-LET,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,26243049,,1,NR_103844.1,13,13,0,0,VALIDATED,lncRNA-LET
+lncRNA-NEF,Laryngeal Squamous Cell Cancer,"qRT-PCR , Western blot etc.",down-regulated,31186702,Also Known As: LINC01384; lncRNA-NEF,1,NR_109883.1,4,4,0,0,VALIDATED,LINC01384; lncRNA-NEF
+lncRNA-SRA1,Laryngeal Squamous Cell Cancer,qPCR etc.,down-regulated,25257554,Also Known As: lncRNA00673; LINC00673 [mentioned in qRT-PCR primers table in paper for lncRNA00673 (PubMed-29077173)]; SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75,5 (LINC00673),"LINC00673 (NR_137281.2, NR_137280.2, NR_036488.1, NR_152515.1, NR_152516.1)","26, 25, 23, 23, 27 (LINC00673)","24,23,22,22,25","2,2,1,1,2","0,0,0,0,0",REVIEWED (LINC00673),SLNCR; SLNCR1; ERRLR01; HILNC75; LUCAIR1; HI-LNC75
+LOC100129148,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, CCK-8 assay etc.",up-regulated,28328537,,1,NR_033999.1,3,3,0,0,VALIDATED,uncharacterized LOC100129148;HSALNG0061734;lnc-KLRG2-2;NONHSAG048937.2
+LOC553103,Nasopharyngeal Cancer,"Microarray, qPCR, RNAi, Luciferase reporter assay etc.",up-regulated,27584792,Also Known As: SLC22A5-AS1,1,NR_110997.1,13,11,2,0,VALIDATED,SLC22A5-AS1
+LOC554202,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, RNAi etc.",up-regulated,29737563,"Also Known As: LOC554202; MIR31HG; LncHIFCAR; hsa-lnc-31
+
+LOC554202 mentioned in title of paper (PubMed-22289355 and others) referred in MIR31HG_variants (NR_027054.2, NR_152877.1, NR_152878.1, NR_152879.1).
+
+Aliases for MIR31HG Gene (From GeneCards database - GCID: GC09M021439)
+MIR31 Host Gene
+MIR31HG
+MIR31 Host Gene (Non-Protein Coding)
+Hsa-Lnc-31
+LncHIFCAR
+Long Noncoding HIF-1alpha Co-Activating RNA
+Long Noncoding HIF-1I+/- Co-Activating RNA
+Long Noncoding HIF-1α Co-Activating RNA
+NONHSAG051889.2
+HSALNG0070363
+LOC554202
+
+Alias symbols for MIR31HG (From HGNC databse - HGNC ID - HGNC:37187)
+LOC554202
+hsa-lnc-31
+LncHIFCAR
+MIR31 host gene (non-protein coding)
+long noncoding HIF-1α co-activating RNA
+
+Gene Synonyms for MIR31HG (From Ensembl database - Ensembl version - ENSG00000171889.5)
+LOC554202, LncHIFCAR, hsa-lnc-31
+
+mRNA clones (cDNA) sequences (BC021861.1 and BC011715.2) available, not for lncRNA.",4 (MIR31HG),"MIR31HG (NR_027054.2, NR_152877.1, NR_152878.1, NR_152879.1)","20, 13, 12, 19 (MIR31HG)","19,13,12,18","1,0,0,1","0,0,0,0",REVIEWED (MIR31HG),LncHIFCAR; hsa-lnc-31
+LUCAT1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown",down-regulated,31210306,Also Known As: SCAL1; SCAT5,2,"NR_103548.1, NR_103549.1","3, 2","3,2","0,0","0,0",VALIDATED,SCAL1; SCAT5
+MALAT1,Head And Neck Squamous Cell Carcinoma,"qPCR, in vitro knockdown",up-regulated,32366409,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Laryngeal And Hypopharyngeal Carcinoma,"qPCR, RNAi etc",up-regulated,31792655,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Tongue Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30863103,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Laryngeal Squamous Cell Cancer,"RT-PCR, Western blotting",up-regulated,31837057,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, ChIP",up-regulated,30118844,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, etc.",up-regulated,30657561,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Oral Squamous Cell Carcinoma,qPCR,up-regulated,31360193,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Laryngeal Squamous Cell Cancer,qPCR etc.,up-regulated,25257554,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Tongue Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,28260102,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP etc.",up-regulated,28926115,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Tongue Squamous Cell Carcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27586393,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Tongue Squamous Cell Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,27353727,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,26522444,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28857668,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Nasopharyngeal Cancer,"Microarray, qPCR, Luciferase reporter assay, Cell migration and invasion assay etc.",differential expression,27584791,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Nasopharyngeal Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,26482776,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Nasopharyngeal Cancer,qPCR etc.,down-regulated,28467811,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MALAT1,Nasopharyngeal Cancer,"qPCR, Western blot etc.",up-regulated,23688988,"Also Known As: HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+
+Some (older-not checked for PQS) scRNA mascRNA (MALAT1 gene) ""scRNA"" ncRNA (TPA: HG975416.1) was also there in result.
+
+PQS 1 obtained in 1st variant was replaced by another PQS of same score (by shifting a G-Group within the same G-Group/Quartet frame) in 2nd and 3rd variants.",3,"NR_002819.4, NR_144567.1, NR_144568.1","53, 54, 53","46,47,47","7,7,6","0,0,0",REVIEWED,HCN; NEAT2; PRO2853; LINC00047; NCRNA00047
+MEG3,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc",down-regulated,32277605,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Laryngeal Squamous Cell Cancer,"qPCR, Western blot",down-regulated,30915750,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Oral Squamous Cell Carcinoma,qPCR,up-regulated,30809930,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, etc.",down-regulated,30556872,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Nasopharyngeal Cancer,"qPCR, MSP-PCR, Western blot, FISH etc.",down-regulated,27597634,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Tongue Squamous Cell Carcinoma,"Microarray, MSP-PCR, RNAi, Western blot etc.",down-regulated,24343426,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Oral Squamous Cell Carcinoma,qPCR etc.,down-regulated,23292713,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MEG3,Oral Squamous Cell Carcinoma,"qPCR, Western blot etc.",down-regulated,28953964,"Also Known As: GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+
+Sequence not available for 11th variant.
+
+Some (older-not checked for PQS) Long non-coding RNA containing retained intron meg3 (MEG3 gene); and maternally expressed 3 transcript variant lncRNA (MEG3) ""lncRNA"" ncRNA (TPA: HG975417.1 and complete sequence - MH929320.1 respectively) were also there in result.
+
+Some (older-not checked for PQS) MEG3 isoforms ncRNA ""other"" ncRNA (complete sequence, alternatively spliced) were also there in result.
+
+PQS 7 and 9 obtained in 16th Variant when search parameter was set to Min G-Group Size: 2 was replaced by another PQSs of same scores (by shifting G-Group/Quartet frame) when search parameter was set to Min G-Group Size: 3.
+For further consideration, PQS when search parameter was set to Min G-Group Size: 2 was taken.","15
+(11th Variant not available)
+(Total=16)","NR_002766.2, NR_003530.2, NR_003531.3, NR_033358.1, NR_033359.1, NR_033360.1, NR_046464.1, NR_046465.2, NR_046466.1, NR_046467.1, _____, NR_046469.1, NR_046470.2, NR_046471.1, NR_046472.1, NR_046473.1","16, 19, 18, 17, 17, 17, 17, 17, 17, 18, ___, 17, 19, 17, 18, 93","14,17,16,15,15,15,15,15,15,16,15,17,15,16,81","2,2,2,2,2,2,2,2,2,2,2,2,2,2,12","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,GTL2; FP504; prebp1; PRO0518; PRO2160; LINC00023; NCRNA00023; onco-lncRNA-83
+MIAT,Tongue Squamous Cell Carcinoma,"qRT-PCR , Western blot etc.",up-regulated,31166624,Also Known As: RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT,4,"NR_003491.3, NR_033319.2, NR_033320.2, NR_033321.2","122, 118, 118, 119","1,04,10,01,00,101","18,18,18,18","0,0,0,0",REVIEWED,RNCR2; GOMAFU; C22orf35; LINC00066; NCRNA00066; lncRNA-MIAT
+MINCR,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,31760895,Also Known As: LINC01604,2,"NR_120682.1 ,NR_120683.1","3,3","3,3","0,0","0,0",REVIEWED,LINC01604
+MINCR,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30777615,Also Known As: LINC01604,2,"NR_120682.1 ,NR_120683.1","3,3","3,3","0,0","0,0",REVIEWED,LINC01604
+MIR100HG,Laryngeal Squamous Cell Cancer,qRT-PCR etc.,up-regulated,31114240,Also Known As: AGD1; lncRNA-N2; linc-NeD125,23,"NR_024430.2, NR_137175.1, NR_137176.1, NR_137177.1, NR_137178.1, NR_137179.1, NR_137180.1, NR_137181.1, NR_137182.1, NR_137183.1, NR_137184.1, NR_137185.1, NR_137186.1, NR_137187.1, NR_137188.1, NR_137189.1, NR_137190.1, NR_137191.1, NR_137192.1, NR_137193.1, NR_137194.1, NR_137195.1, NR_137196.1","8, 10, 6, 6, 7, 6, 7, 8, 8, 4, 4, 4, 3, 3, 4, 7, 7, 7, 3, 5, 4, 8, 8","8,10,6,6,7,6,7,8,8,4,4,4,5,5,7,10,11,12,4,7,7,7,7","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1","0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",REVIEWED,AGD1; lncRNA-N2; linc-NeD125
+miR143HG,Laryngeal Squamous Cell Cancer,RT-qPCR,down-regulated,31872875,"Also Known As: CARMEN, MIR143HG",2 (CARMN),"NR_105059.1, NR_105060.1 (CARMN)","13,11(CARMN)","12,10","1,1","0,0",VALIDATED (CARMN),CARMEN; MIR143HG
+MIR155HG,Laryngeal Squamous Cell Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31081043,Also Known As: BIC; MIRHG2; NCRNA00172,1,NR_001458.3,5,5,0,0,REVIEWED,BIC; MIRHG2; miPEP155; NCRNA00172
+MIR22HG,Laryngocarcinoma,"RT-qPCR, Western blot",down-regulated,32094308,Also Known As: C17orf91,4,"NR_028502.1, NR_028503.1, NR_028504.1, NR_028505.1","22, 16, 10, 10","20,15,9,9","2,1,1,1","0,0,0,0",VALIDATED,C17orf91
+MIR31HG,Head And Neck Cancer,"qPCR, Western blot, other",up-regulated,30458787,Also Known As: LncHIFCAR; hsa-lnc-31,4,"NR_027054.2, NR_152877.1,
+NR_152878.1, NR_152879.1","20,13,12,19","19,13,12,18","1,0,0,1","0,0,0,0",REVIEWED,LncHIFCAR; hsa-lnc-31
+MIR31HG,Laryngeal Squamous Cell Cancer,"Microarray, qPCR etc.",up-regulated,28033431,Also Known As: LncHIFCAR; hsa-lnc-31,4,"NR_027054.2, NR_152877.1,
+NR_152878.1, NR_152879.1","20,13,12,19","19,13,12,18","1,0,0,1","0,0,0,0",REVIEWED,LncHIFCAR; hsa-lnc-31
+MIR4435-2HG,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,32016787,Also Known As: MIR4435-2HG; AGD2; MORRBID; LINC00978; MIR4435-1HG; lncRNA-AWPPH,8 (MIR4435-2HG),"MIR4435-2HG (NR_015395.2, NR_024373.2, NR_136161.1, NR_136162.1, NR_136163.1, NR_136164.1, NR_136165.1, NR_136166.1) ","23, 5, 10, 24, 15, 10, 8, 21 (MIR4435-2HG)","23,5,10,24,15,10,8,21","0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0",VALIDATED (MIR4435-2HG),AGD2; MORRBID; LINC00978; MIR4435-1HG; lncRNA-AWPPH
+MORT,Oral Squamous Cell Carcinoma,qPCR,down-regulated,30805944,Also Known As: ZNF667-AS1; MORT,2 (ZNF667-AS1),ZNF667-AS1 (NR_036521.1; NR_036522.1),"10, 5 (ZNF667-AS1)","9,4","1,1","0,0",VALIDATED (ZNF667-AS1),MORT
+MRVI1-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",differential expression,31273338,Also Known As: IRAG1-AS1,4,"NR_046374.1, NR_046375.1,
+NR_034093.2, NR_034094.2","7,6,6,6","7,6,6,6","0,0,0,0","0,0,0,0",VALIDATED,MRVI1-AS1
+MYOSLID,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,31238980,,1,NR_146555.1,7,7,0,0,VALIDATED,"myocardin-induced smooth muscle lncRNA, inducer of differentiation;MYOSLID;HSALNG0021858;NONHSAG030360.2;HSALNG0021850"
+NAG7,Nasopharyngeal Cancer,"Microarray, ISH etc.",down-regulated,23529758,Also known as: NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312,1,NR_024065.3,10,9,1,0,REVIEWED,NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312
+NAG7,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, ISH etc.",up-regulated,19591174,Also known as: NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312,1,NR_024065.3,10,9,1,0,REVIEWED,NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312
+NAG7,Nasopharyngeal Cancer,"Western blot, Northern blot etc.",down-regulated,12452030,Also known as: NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312,1,NR_024065.3,10,9,1,0,REVIEWED,NAG7; ERR10; NAG-7; ERR-10; LMCD1DN; LOH3CR2A; NCRNA00312
+NCK1-AS1,Nasopharyngeal Cancer,qRT-PCR,up-regulated,31908525,Also Known As: NCK1-DT; NCK1-AS1; SLC35G2-AS1,3 (NCK1-DT),"NCK1-DT (NR_110175.1, NR_110176.1, NR_110177.1)","9, 8, 7 (NCK1-DT)","9,8,7","0,0,0","0,0,0",VALIDATED (NCK1-DT),NCK1-AS1; SLC35G2-AS1
+NEAT1,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30900419,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NEAT1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter gene assay.",up-regulated,30186464,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NEAT1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,26822763,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NEAT1,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,23292713,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NEAT1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29484420,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NEAT1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,27020592,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NEAT1,Nasopharyngeal Cancer,"qPCR, Western blot etc.",down-regulated,29565706,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NEAT1,Nasopharyngeal Cancer,"qPCR, Western blot etc.",down-regulated,29050268,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NEAT1,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,29270022,"Also Known As: VINC; TncRNA; LINC00084; NCRNA00084
+
+Some (older, not checked for PQS) NEAT1 lncRNA ""lncRNA"" ncRNA (complete sequence-MK562403.1; experiment-RACE) was also there in result.",2 (NEAT1_MENbeta and MENepsilon),"NEAT1_MENbeta and MENepsilon (NR_131012.1,NR_028272.1 respectively)","150, 41 (NEAT1_MENbeta and MENepsilon)","134,33","16,8","0,0",REVIEWED,VINC; TncRNA; LINC00084; NCRNA00084
+NKILA,Nasopharyngeal Cancer,"qPCR, other",down-regulated,31430288,,1,NR_131157.1,28,26,2,0,VALIDATED,NF-kappaB interacting lncRNA;NF-kappaB interacting long non-coding RNA;HSALNG0131196;lnc-PCK1-5;NONHSAG032126.2
+NKILA,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",down-regulated,29573243,,1,NR_131157.1,28,26,2,0,VALIDATED,NF-kappaB interacting lncRNA;NF-kappaB interacting long non-coding RNA;HSALNG0131196;lnc-PCK1-5;NONHSAG032126.2
+NKILA,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, ISH etc.",down-regulated,27613832,,1,NR_131157.1,28,26,2,0,VALIDATED,NF-kappaB interacting lncRNA;NF-kappaB interacting long non-coding RNA;HSALNG0131196;lnc-PCK1-5;NONHSAG032126.2
+NR2F2-AS1,Nasopharyngeal Cancer,"RT-qPCR, Western blotting",up-regulated,31966043,,3,"NR_102743.1, NR_102744.1, NR_125738.1","9,4,3","9,4,3","0,0,0","0,0,0",VALIDATED,NR2F2 antisense RNA 1;NR2F2 antisense RNA 1 (non-protein coding);HSALNG0108391;NR2F2-AS1;NONHSAG017999.2;HSALNG0108393;NONHSAG018003.2;HSALNG0108400;HSALNG0108394;HSALNG0108392;HSALNG0108404;HSALNG0108399
+NR_003949 FKBP9P1_Variant 4,Laryngeal Squamous Cell Cancer,"Microarray, qPCR etc.",up-regulated,28033431,also known as: FKBP9L; FKBP9P1,"1
+(Variants 1st, 2nd and 3rd are also lncRNAs)
+(Total = 4) (FKBP9P1)","FKBP9P1 (_____, _____, _____, NR_003949.1)",,17,1,0,VALIDATED (FKBP9P1),FKBP9L
+NR_027358 LINC00592,Nasopharyngeal Cancer,"Microarray, qPCR etc.",down-regulated,25406670,,1 (LINC00592),LINC00592 (NR_027358.2),,8,0,0,VALIDATED (LINC00592),long intergenic non-protein coding RNA 592;LINC00592;HSALNG0091158;NONHSAG011187.2
+OIP5-AS1,Laryngeal Squamous Cell Cancer,"RT-qPCR, Western blot",up-regulated,32009213,Also Known As: cyrano; linc-OIP5,4,"NR_026757.2, NR_152820.1, NR_152821.1, NR_152822.1","30, 26, 6, 31","30,26,6,31","0,0,0,0","0,0,0,0",REVIEWED,cyrano; linc-OIP5
+OIP5-AS1,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31369989,Also Known As: cyrano; linc-OIP5,4,"NR_026757.2, NR_152820.1, NR_152821.1, NR_152822.1","30, 26, 6, 31","30,26,6,31","0,0,0,0","0,0,0,0",REVIEWED,cyrano; linc-OIP5
+OIP5-AS1,Oral Cancer,"RNA-seq, Microarray, qPCR, Luciferase reporter assay, RIP etc.",up-regulated,29728583,Also Known As: cyrano; linc-OIP5,4,"NR_026757.2, NR_152820.1, NR_152821.1, NR_152822.1","30, 26, 6, 31","30,26,6,31","0,0,0,0","0,0,0,0",REVIEWED,cyrano; linc-OIP5
+PANDAR,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,31938389,Also Known As: PANDA,1,NR_109836.1,6,6,0,0,REVIEWED,PANDA
+PAPAS,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot analysis etc.",up-regulated,31099126,Also known as: H-PIP; PAPAS; CD2BP1; PSTPIP; CD2BP1L; CD2BP1S,"1
+(Variants 1st, 2nd 3rd and 4th are mRNA)
+(Total = 5)","____,____,____,____,NR_029708.1",,1,0,0,REVIEWED,MIRN188; miR-188
+PART1,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833,Also Known As: NCRNA00206,3,"NR_024617.1, NR_028508.1, NR_028509.1","18, 11, 21","18,11,20","0,0,1","0,0,0",VALIDATED,NCRNA00206
+PCAT1,Laryngeal Cancer,"RT-qPCR, RIP",up-regulated,31983116,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1
+PCAT1,Tongue Squamous Cell Carcinoma,"qPCR, Western blot etc",up-regulated,32218838,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1
+PCAT1,Head And Neck Squamous Cell Carcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,30987615,"Also Known As: PCA1; PiHL; PCAT-1
+
+Some (older, not checked for PQS) PCAT1 long non-coding RNA ""other"" ncRNA (complete sequence-HQ605084.1) was also there in result.",1,NR_045262.2,14,14,0,0,REVIEWED,PCA1; PiHL; PCAT-1
+PCAT7,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28728844,,4,"NR_121566.2, NR_121567.2 , NR_121568.2, NR_121569.2 ","16, 15, 11, 15","15,14,10,14","1,1,1,1","0,0,0,0",VALIDATED,PCAN-R2
+PCAT7,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi etc.",up-regulated,28728844,,4,"NR_121566.2, NR_121567.2 , NR_121568.2, NR_121569.2 ","16, 15, 11, 15","15,14,10,14","1,1,1,1","0,0,0,0",VALIDATED,PCAN-R2
+PDIA3P,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, RNAi",up-regulated,29246288,Also known as: ERp60; GRP58P; PDIA3P,1,NR_002305.1,,10,1,0,VALIDATED,ERp60; GRP58P; PDIA3P
+PEG10,Hypopharyngeal Squamous Cell Carcinoma,qPCR,up-regulated,28928830,"Also Known As: Huh7; PGSF1; C19orf30; 
+LINC00306; NCRNA00306; uc002mbe.2",1,NR_027148.1,7,6,1,0,VALIDATED,Huh7; PGSF1; C19orf30; LINC00306; NCRNA00306; uc002mbe.2
+PLAC2,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,30720068,Also Known As: PLAC2; LINC00036; NCRNA00036; onco-lncRNA-16,1,NR_027064.3,40,30,10,0,REVIEWED,TINCR ubiquitin domain containing;FLJ90734;NCRNA00036;LINC00036;onco-lncRNA-16;non-protein coding RNA 36;long intergenic non-protein coding RNA 36;terminal differentiation-induced ncRNA;placenta-specific 2;placenta-specific 2 (non-protein coding);tissue differentiation-inducing non-protein coding RNA;PLAC2;NONHSAG024566.2;lnc-TINCR-1;HSALNG0123467;HSALNG0123468;Ubiquitin domain-containing protein TINCR;Placenta-specific protein 2;Terminal differentiation-induced cornification regulator
+PTCSC3,Laryngeal Squamous Cell Cancer,"qRT-PCR , Western blot etc.",down-regulated,31171714,,1,NR_049735.2,8,8,0,0,VALIDATED,papillary thyroid carcinoma susceptibility candidate 3;papillary thyroid carcinoma susceptibility candidate 3 (non-protein coding);HSALNG0100636;PTCSC3;NONHSAG014723.2
+PTENP1,oral squamous cell carcinoma,"qPCR, other",,30229832,"Processed pseudogene;
+Also known as
+PTH2; PTEN2; PTEN-rs; PTENpg1; psiPTEN;
+Search Results for PTENP1-AS also displayed",1,HG975434.1,20,,,,REVIEWED,"phosphatase and tensin homolog pseudogene 1;PTEN2;psiPTEN;PTH2;PTEN-rs;PTENpg1;phosphatase and tensin homolog pseudogene 1 (functional);PTEN/MMAC1 pseudogene;phosphatase and tensin homolog (mutated in multiple advanced cancers 1), pseudogene 1"
+PTPRG-AS1,Nasopharyngeal Cancer,"qRT-PCR, Western blotting, Microarray data analysis etc.",up-regulated,30993702,,3,"NR_038281.1, NR_038282.1,
+NR_038283.1","6,7,6","6,7,6","0,0,0","0,0,0",VALIDATED,PTPRG antisense RNA 1;PTPRG-AS1;HSALNG0026508;NONHSAG035305.2;HSALNG0026507
+PVT1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,32021271,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+PVT1,Nasopharyngeal Cancer,"qPCR, Western blot",up-regulated,30141114,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+PVT1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, other",up-regulated,30310517,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+PVT1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay, Microarray, other",up-regulated,30304557,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+PVT1,Nasopharyngeal Cancer,"qPCR, Western blot, RIP",up-regulated,31320749,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+PVT1,Nasopharyngeal Cancer,"Microarray, qPCR, Western blot, in vitro knockdown",up-regulated,29445147,"Also Known As: LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+
+Some (older) PVT1 splice variant 1, 2, 3, 4, 5 and 6 lncRNA ""lncRNA"" ncRNA (complete sequence-MG562504.1, MG562505.1, MG562506.1, MG562507.1, MG562508.1 and MG562509.1 respectively; note=""alternatively spliced) with PQS-10, 8, 9, 8, 8, 7 (2G) respectively were also there in result.
+
+Some (older, not checked for PQS) PVT1 lncRNA ""lncRNA"" ncRNA (partial sequence-KY887488.1) was also there in result.",1,NR_003367.3,14,13,1,0,REVIEWED,LINC00079; MIR1204HG; NCRNA00079; onco-lncRNA-100
+PXN-AS1-L,Nasopharyngeal Cancer,"qPCR , Luciferase reporter assay , Western blot etc.",up-regulated,31173488,,1,NR_038924.1,8,8,0,0,VALIDATED,EyeLinc4
+RBM5-AS1,Oral Squamous Cell Carcinoma,"RT-qPCR, Luciferase activity assays, Western blot assay",up-regulated,31869662,"Also Known As: LUST
+
+Some SEMA3F antisense RNA 1 (SEMA3F-AS1), long non-coding RNA ""lncRNA"" ncRNA (NR_135301.1) with PQS-22 (2G), 2 (3G) was also there in result.",1,NR_045388.1,2,1,1,0,REVIEWED,LUST
+RGMB-AS1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31351424,,1,NR_033932.1,17,14,3,0,VALIDATED,RGMB antisense RNA 1;CTC-463N11.3;HSALNG0043698;RGMB-AS1;NONHSAG041111.2
+RHPN1-AS1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, RNAi, other",up-regulated,31417644,"Homo sapiens RHPN1 antisense RNA 1 (head to head) (RHPN1-AS1), long non-coding RNA
+
+Also Known As: C8orf51",1,NR_026785.1,16,16,0,0,VALIDATED,C8orf51
+ROR1-AS1,Nasopharyngeal Cancer,"RT-qPCR, Western blot analysis, Luciferase Assays, RIP",up-regulated,31957830,,2,"NR_110665.1, NR_110666.1","7,11","7,11","0,0","0,0",VALIDATED,ROR1 antisense RNA 1;HSALNG0004143;NONHSAG001712.2;ROR1-AS1
+SATB1-AS1,Laryngeal Squamous Cell Cancer,qRT-PCR,down-regulated,32174248,,1,NR_125803.1,7,5,2,0,VALIDATED,SATB1 antisense RNA 1;HSALNG0024541;SATB1-AS1;NONHSAG034569.2
+SMAD5-AS1,Nasopharyngeal Cancer,Microarray,up-regulated,31557058,Also Known As: DAMS; SMAD5AS; SMAD5OS,1,NR_026763.1,7,7,0,0,VALIDATED,DAMS; SMAD5AS; SMAD5OS
+SMAD5-AS1,Nasopharyngeal Cancer,"RT-qPCR, Dual Luciferase Reporter Gene Assay, RIP, Western blot analysis",up-regulated,31921616,Also Known As: DAMS; SMAD5AS; SMAD5OS,1,NR_026763.1,7,7,0,0,VALIDATED,DAMS; SMAD5AS; SMAD5OS
+SNHG1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, RNAi, RIP, Microarray, other",up-regulated,30323965,Also Known As: C20orf198; LINC00101; NCRNA00101,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1,
+NR_152582.1, NR_152583.1,
+NR_152584.1, NR_152585.1
+
+
+
+","5,9,9,4,4,4,4,4,5,
+3,7,7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057
+SNHG1,Laryngeal Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31378897,Also Known As: C20orf198; LINC00101; NCRNA00101,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1,
+NR_152582.1, NR_152583.1,
+NR_152584.1, NR_152585.1
+
+
+
+","5,9,9,4,4,4,4,4,5,
+3,7,7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057
+SNHG1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, RNAi etc.",up-regulated,29565491,Also Known As: C20orf198; LINC00101; NCRNA00101,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1,
+NR_152582.1, NR_152583.1,
+NR_152584.1, NR_152585.1
+
+
+
+","5,9,9,4,4,4,4,4,5,
+3,7,7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057
+SNHG1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29575772,Also Known As: C20orf198; LINC00101; NCRNA00101,12,"NR_003098.2, NR_152575.1, NR_152576.1, NR_152577.1, NR_152578.1, NR_152579.1, NR_152580.1, NR_152581.1,
+NR_152582.1, NR_152583.1,
+NR_152584.1, NR_152585.1
+
+
+
+","5,9,9,4,4,4,4,4,5,
+3,7,7","5,9,9,4,4,4,4,4,5,3,7,7","0,0,0,0,0,0,0,0,0,0,0,0","0,0,0,0,0,0,0,0,0,0,0,0",VALIDATED,UHG; U22HG; lncRNA16; LINC00057; NCRNA00057
+SNHG16,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30607006,Also Known As: SNHG16; ncRAN; Nbla10727; Nbla12061,4 (SNHG16),"SNHG16 (NR_038108.1, NR_038109.1, NR_038110.1, NR_038111.1)","9, 9, 8, 8 (SNHG16)","9,9,8,8","0,0,0,0","0,0,0,0",VALIDATED (SNHG16),ncRAN; Nbla10727; Nbla12061
+SNHG20,Laryngeal Squamous Cell Cancer,"qPCR , Luciferase reporter assay , in vitro knockdown etc.",up-regulated,31081112,Also Known As: C17orf86; LINC00338; NCRNA00338; SCARNA16HG,1,NR_027058.1,18,17,1,0,VALIDATED,C17orf86; LINC00338; NCRNA00338; SCARNA16HG
+SNHG20,Oral Squamous Cell Carcinoma,"qPCR, Western blot, RNAi, Luciferase reporter assay, other",up-regulated,30394668,Also Known As: C17orf86; LINC00338; NCRNA00338; SCARNA16HG,1,NR_027058.1,18,17,1,0,VALIDATED,C17orf86; LINC00338; NCRNA00338; SCARNA16HG
+SNHG20,Oral Squamous Cell Carcinoma,"qPCR, Western blot, etc.",up-regulated,30655853,Also Known As: C17orf86; LINC00338; NCRNA00338; SCARNA16HG,1,NR_027058.1,18,17,1,0,VALIDATED,C17orf86; LINC00338; NCRNA00338; SCARNA16HG
+SNHG20,Nasopharyngeal Cancer,"qPCR, Western blot, etc.",up-regulated,30546404,Also Known As: C17orf86; LINC00338; NCRNA00338; SCARNA16HG,1,NR_027058.1,18,17,1,0,VALIDATED,C17orf86; LINC00338; NCRNA00338; SCARNA16HG
+SNHG3,Oral Squamous Cell Carcinoma,"qPCR, Western blot, RIP etc",up-regulated,31762107,Also Known As: U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014,2,"NR_036473.1, NR_002909.2","18, 16","18,16","0,0","0,0",VALIDATED,U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014
+SNHG3,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31238052,Also Known As: U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014,2,"NR_036473.1, NR_002909.2","18, 16","18,16","0,0","0,0",VALIDATED,U17HG; RNU17C; RNU17D; U17HG-A; U17HG-AB; NCRNA00014
+SNHG5,Nasopharyngeal Cancer,"RT-qPCR, Western blot",up-regulated,32131767,Also Known As: U50HG; C6orf160; LINC00044; NCRNA00044,1,NR_003038.2,2,2,0,0,REVIEWED,U50HG; C6orf160; LINC00044; NCRNA00044
+SNHG6,Tongue Cancer,"qPCR, Western blot, other",up-regulated,30463652,Also Known As: U87HG; HBII-276HG; NCRNA00058,4,"NR_002599.2, NR_152598.1, NR_152599.1, NR_152600.1","4, 5, 3, 5","4,5,3,5","0,0,0,0","0,0,0,0",VALIDATED,U87HG; HBII-276HG; NCRNA00058
+SNHG7,Nasopharyngeal Cancer,"qPCR, Western blot etc",up-regulated,32218823,Also Known As: NCRNA00061,3,"NR_003672.2, NR_024542.1, NR_024543.1","28, 13, 12","23,10,9","5,3,3","0,0,0",VALIDATED,NCRNA00061
+SNHG7,Nasopharyngeal Cancer,"RT-qPCR, Western blot analysis, Dual luciferase reporter gene assay",up-regulated,31944163,Also Known As: NCRNA00061,3,"NR_003672.2, NR_024542.1, NR_024543.1","28, 13, 12","23,10,9","5,3,3","0,0,0",VALIDATED,NCRNA00061
+SNHG7,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown",down-regulated,31364118,Also Known As: NCRNA00061,3,"NR_003672.2, NR_024542.1, NR_024543.1","28, 13, 12","23,10,9","5,3,3","0,0,0",VALIDATED,NCRNA00061
+SOX2-OT,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32266028,"Some (older) SOX2OT transcript variant 7 lncRNA ""lncRNA"" ncRNA (complete sequence-KF981435.1) was also there in result.
+","6 (SOX2-OT_Variant 1-6)
++
+1 [SOX2-OT_Variant 7 (older)]
+=7","SOX2-OT_Variant 1-6 (NR_075091.1, NR_075092.1, NR_075093.1, NR_004053.3, NR_075089.1, NR_075090.1)
++
+SOX2OT_Variant 7 (older) (KF981435.1)","18, 16, 13, 16, 15, 11 (SOX2-OT_Variant 1-6)
++
+11 [SOX2OT_Variant 7 (older)]","18,16,13,16,15,11","0,0,0,0,0,0","0,0,0,0,0,0",REVIEWED,SOX2OT; NCRNA00043
+SOX2-OT,Laryngeal Squamous Cell Cancer,qPCR,up-regulated,30811870,"Some (older) SOX2OT transcript variant 7 lncRNA ""lncRNA"" ncRNA (complete sequence-KF981435.1) was also there in result.
+","6 (SOX2-OT_Variant 1-6)
++
+1 [SOX2-OT_Variant 7 (older)]
+=7","SOX2-OT_Variant 1-6 (NR_075091.1, NR_075092.1, NR_075093.1, NR_004053.3, NR_075089.1, NR_075090.1)
++
+SOX2OT_Variant 7 (older) (KF981435.1)","18, 16, 13, 16, 15, 11 (SOX2-OT_Variant 1-6)
++
+11 [SOX2OT_Variant 7 (older)]","18,16,13,16,15,11","0,0,0,0,0,0","0,0,0,0,0,0",REVIEWED,SOX2OT; NCRNA00043
+SOX2-OT,Nasopharyngeal Cancer,"qRT-PCR, RIP etc.",up-regulated,31099048,"Some (older) SOX2OT transcript variant 7 lncRNA ""lncRNA"" ncRNA (complete sequence-KF981435.1) was also there in result.
+","6 (SOX2-OT_Variant 1-6)
++
+1 [SOX2-OT_Variant 7 (older)]
+=7","SOX2-OT_Variant 1-6 (NR_075091.1, NR_075092.1, NR_075093.1, NR_004053.3, NR_075089.1, NR_075090.1)
++
+SOX2OT_Variant 7 (older) (KF981435.1)","18, 16, 13, 16, 15, 11 (SOX2-OT_Variant 1-6)
++
+11 [SOX2OT_Variant 7 (older)]","18,16,13,16,15,11","0,0,0,0,0,0","0,0,0,0,0,0",REVIEWED,SOX2OT; NCRNA00043
+SOX2-OT,Laryngeal Squamous Cell Cancer,"Microarray, qPCR etc.",up-regulated,28033431,"Some (older) SOX2OT transcript variant 7 lncRNA ""lncRNA"" ncRNA (complete sequence-KF981435.1) was also there in result.
+","6 (SOX2-OT_Variant 1-6)
++
+1 [SOX2-OT_Variant 7 (older)]
+=7","SOX2-OT_Variant 1-6 (NR_075091.1, NR_075092.1, NR_075093.1, NR_004053.3, NR_075089.1, NR_075090.1)
++
+SOX2OT_Variant 7 (older) (KF981435.1)","18, 16, 13, 16, 15, 11 (SOX2-OT_Variant 1-6)
++
+11 [SOX2OT_Variant 7 (older)]","18,16,13,16,15,11","0,0,0,0,0,0","0,0,0,0,0,0",REVIEWED,SOX2OT; NCRNA00043
+SOX21-AS1,Oral Squamous Cell Carcinoma,"qPCR, Cell migration and invasion assay, In vitro methylation etc.",down-regulated,27933111,,1,NR_046514.1,21,20,1,0,VALIDATED,SOX21 antisense divergent transcript 1;SOX21 antisense RNA 1 (non-protein coding);SOX21 antisense RNA 1;SOX21 antisense RNA 1 (head to head);NONHSAG013973.2;HSALNG0098682;HSALNG0098686;HSALNG0098688;HSALNG0098684;SOX21-AS1;NONHSAG013975.2;lnc-GPR180-2;HSALNG0098680
+"SRRM2-AS ",Nasopharyngeal Cancer,"Western blot, Microarray",up-regulated,31742692,"Also known as: SRRM2-AS; 
+SRRM2-AS1",2 (SRRM2-AS1),"SRRM2-AS1 (NR_027274.1, NR_027275.1)",,"12,9","1,0","0,0",VALIDATED (SRRM2-AS1),SRRM2 antisense RNA 1;SRRM2 antisense RNA 1 (non-protein coding);CTD-2270P14.3;SRRM2-AS1;HSALNG0109055;NONHSAG018356.2; SRRM2-AS1
+ST7-AS1,Laryngeal Squamous Cell Cancer,qPCR,up-regulated,30853182,Also Known As: ST7AS1; ST7OT1,1,NR_002330.1,15,11,4,0,VALIDATED,ST7AS1; ST7OT1
+STEAP3-AS1,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833,,1,NR_046721.1,21,21,0,0,VALIDATED,STEAP3 antisense RNA 1;STEAP3 antisense RNA 1 (non-protein coding);NONHSAG029088.2;HSALNG0018314;STEAP3-AS1
+THOR,Nasopharyngeal Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay, etc.",down-regulation,29959065,Also Known As: THORLNC; THOR,1 (THORLNC),THORLNC (NR_144530.1),4 (THORLNC),4,0,0,VALIDATED (THORLNC),THOR
+THOR,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29959065,Also Known As: THORLNC; THOR,1 (THORLNC),THORLNC (NR_144530.1),4 (THORLNC),4,0,0,VALIDATED (THORLNC),THOR
+THOR,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30503558,Also Known As: THORLNC; THOR,1 (THORLNC),THORLNC (NR_144530.1),4 (THORLNC),4,0,0,VALIDATED (THORLNC),THOR
+THOR,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,31220513,Also Known As: THORLNC; THOR,1 (THORLNC),THORLNC (NR_144530.1),4 (THORLNC),4,0,0,VALIDATED (THORLNC),THOR
+TSPEAR-AS1,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833,Also Known As: C21orf31,1,NR_103707.1,30,30,0,0,VALIDATED,C21orf31
+TUC338,Tongue Squamous Cell Carcinoma,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,27637778,"Also Known As: TUC.338, TUC338, uc.338 (PCBP2-OT1)",1 (PCBP2-OT1),NR_109828.1 (PCBP2-OT1),5(PCBP2-OT1),5,0,0,VALIDATED (PCBP2-OT1),TUC338; uc.338; TUC.338
+TUG1,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,30980391,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Laryngeal Cancer,qPCR,up-regulated,30916820,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30581000,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Tongue Squamous Cell Carcinoma,qPCR etc.,up-regulated,28597931,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,28119088,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+TUG1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28979812,Also Known As: TI-227H; LINC00080; NCRNA00080,8,"NR_110492.1, NR_110493.1, NR_002323.2, NR_152867.1, NR_152868.1, NR_152869.1, NR_152870.1, NR_152871.1","35, 34, 34, 12, 12, 34, 34, 35","31,30,30,12,12,30,30,31","4,4,4,0,0,4,4,4","0,0,0,0,0,0,0,0",REVIEWED,taurine up-regulated 1;FLJ20618;NCRNA00080;LINC00080;non-protein coding RNA 80;long intergenic non-protein coding RNA 80;taurine upregulated 1 (non-protein coding);taurine up-regulated 1 (non-protein coding);TI-227H;taurine upregulated gene 1;TUG1;HSALNG0134930;NONHSAG033691.2;Taurine up-regulated 1
+U47924.27,Nasopharyngeal Cancer,"Microarray, qPCR etc.",down-regulated,27886062,Also Known As: U47924.27,1,NR_135032.1,5,5,0,0,VALIDATED,U47924.27
+UCA1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,32130788,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Nasopharyngeal Cancer,"qPCR, western blot",up-regulated,31537148,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30679991,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Tongue Cancer,"qPCR, Luciferase reporter assay, RIP, etc.",up-regulated,30635938,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30498361,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Hypopharyngeal Carcinoma,"qPCR, RNAi, Cell cycle assay, Cell migration and invasion assay etc.",up-regulated,28327194,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Tongue Squamous Cell Carcinoma,"qPCR, Western blot etc.",up-regulated,29441929,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Tongue Squamous Cell Carcinoma,qPCR etc.,up-regulated,24332332,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,23292713,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29125238,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+UCA1,Oral Squamous Cell Carcinoma,"qPCR, Cell transfection, Cell migration and invasion assay etc.",up-regulated,27560546,"Also Known As: CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+
+Some (older-not checked for PQS) UCA1 clones ""other"" ncRNA (GU799565.1, GU799564.1, GU799563.1, GU799562.1 and GU799561.1) were also there in result.
+
+Some (older, not checked for PQS) urothelial cancer associated 1a non-coding RNA (UCA1) ""other"" ncRNA (complete sequence, alternatively spliced-GU357550.1; note=""UCA1a; alternative splice product"") was also there in result.",1,NR_015379.3,10,10,0,0,REVIEWED,CUDR; UCAT1; LINC00178; NCRNA00178; onco-lncRNA-36
+WWTR1-AS1,Head And Neck Squamous Cell Carcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31172583,,1,NR_040250.1,15,13,2,0,VALIDATED,WWTR1 antisense RNA 1;WWTR1 antisense RNA 1 (non-protein coding);WWTR1-AS1;NONHSAG036362.2;HSALNG0029752
+XIST,Laryngeal Squamous Cell Cancer,"qRT-PCR, Western blot",up-regulated,32149330,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Nasopharyngeal Cancer,"qPCR, Western blot, luciferase reporter assay etc",up-regulated,32196601,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Laryngeal Squamous Cell Cancer,"RT-PCR, luciferase reporter assays, Western blot analysis",up-regulated,31894287,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Nasopharyngeal Cancer,"RT-qPCR, Western blot assay, Luciferase reporter assay, RIP",up-regulated,31810117,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Laryngeal Squamous Cell Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31071316,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, Western blot etc.",up-regulated,28985197,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Nasopharyngeal Cancer,"qPCR, Western blot etc.",up-regulated,29219216,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+XIST,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,27461945,Also Known As: SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001,1,NR_001564.2,71,71,0,0,REVIEWED,SXI1; swd66; DXS1089; DXS399E; LINC00001; NCRNA00001
+ZEB2-AS1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,30950191,Also Known As: ZEB2AS; ZEB2-AS; ZEB2NAT,1,NR_040248.2,4,4,0,0,VALIDATED,ZEB2AS; ZEB2-AS; ZEB2NAT
+ZFAS1,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29917194,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11,8,10,11,4","2,1,2,2,0","0,0,0,0,0",REVIEWED,HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275
+ZFAS1,Nasopharyngeal Cancer,"Microarray, qRT-PCR, Dual luciferase reporter assay, Western blot analysis",up-regulated,31851778,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11,8,10,11,4","2,1,2,2,0","0,0,0,0,0",REVIEWED,HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275
+ZFAS1,Head And Neck Squamous Cell Carcinoma,RT-PCR etc.,up-regulated,31010087,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11,8,10,11,4","2,1,2,2,0","0,0,0,0,0",REVIEWED,HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275
+ZFAS1,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31403940,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11,8,10,11,4","2,1,2,2,0","0,0,0,0,0",REVIEWED,HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275
+ZFAS1,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31307201,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11,8,10,11,4","2,1,2,2,0","0,0,0,0,0",REVIEWED,HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275
+ZFAS1,Nasopharyngeal Cancer,"qPCR, Western blot, etc.",up-regulated,29917194,Also Known As: HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275,5,"NR_003604.3, NR_003605.2, NR_003606.3, NR_036658.2, NR_036659.2","13, 9, 12, 13, 4","11,8,10,11,4","2,1,2,2,0","0,0,0,0,0",REVIEWED,HSUP1; HSUP2; C20orf199; ZNFX1-AS1; NCRNA00275
+ZNF561-AS1,Laryngeal Squamous Cell Cancer,qRT-PCR,down-regulated,32174248,Also Known As: C19orf82,1,NR_122038.1,11,10,1,0,VALIDATED,C19orf82
+ZNF667-AS1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",down-regulated,30684967,Also Known As: ZNF667-AS1; MORT,2,NR_036521.1; NR_036522.1,"10,5","9,4","1,1","0,0",VALIDATED,MORT
+ZNF674-1,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,24822202,,2,"NR_110388.1, NR_036522.1","1,5","1,4","0,1","0,0",VALIDATED,long intergenic non-protein coding RNA 1186;ZNF674-1;HSALNG0137635;LINC01186;HSALNG0137632;NONHSAG054355.2
+ZNF674-1,Nasopharyngeal Cancer,qPCR etc.,up-regulated,29805695,,2,"NR_110388.1, NR_036522.1","1,5","1,4","0,1","0,0",VALIDATED,long intergenic non-protein coding RNA 1186;ZNF674-1;HSALNG0137635;LINC01186;HSALNG0137632;NONHSAG054355.2
+ZNF674-1,Nasopharyngeal Cancer,"qPCR, in vitro knockdown",down-regulated,29805695,,2,"NR_110388.1, NR_036522.1","1,5","1,4","0,1","0,0",VALIDATED,long intergenic non-protein coding RNA 1186;ZNF674-1;HSALNG0137635;LINC01186;HSALNG0137632;NONHSAG054355.2
+"Total no. of 
+LncRNAs having 
+Validated and 
+Reviewed 
+RefSeq status",,,,,,,,,,,,,
+164,,,,,,,,,,,,,
