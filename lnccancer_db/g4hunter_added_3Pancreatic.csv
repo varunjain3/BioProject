@@ -1,0 +1,211 @@
+0,ABHD11-AS1,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30575903.0,1.0
+1,ABHD11-AS1,Pancreatic Cancer,qPCR,up-regulated,31333792.0,1.0
+2,ADARB2-AS1,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,2.0
+3,ADPGK-AS1,Pancreatic Cancer,"Microarray, qPCR, Western blot etc.",up-regulated,29667486.0,1.0
+4,AFAP1-AS1,Pancreatic Cancer,"qPCR, Western blo, Luciferase reporter assay, other",down-regulated,30206930.0,1.0
+5,AFAP1-AS1,Pancreatic Ductal Adenocarcinoma,qPCR etc.,up-regulated,25925763.0,1.0
+6,AFAP1-AS1,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,27628540.0,1.0
+7,AFAP1-AS1,Pancreatic Cancer,"qPCR, RNA-seq",up-regulated,30814490.0,1.0
+8,ANRIL,Pancreatic Cancer,"Luciferase, etc.",differentially expressed,30604909.0,14.0
+9,ANRIL,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,"qPCR, etc.",differential expression,28874676.0,14.0
+10,ANRIL,Pancreatic Cancer,"qPCR, Cell transfection, Western blot, Cell migration and invasion assay etc.",up-regulated,28344092.0,14.0
+11,BANCR,Pancreatic Cancer,"qPCR, Western blot etc.",up-regulated,31769353.0,1.0
+12,CASC2,Pancreatic Cancer,"qRT-PCR, Western blot",up-regulated,32104955.0,3.0
+13,CASC2,Pancreatic Cancer,"Dual luciferase reporter assay, RT-qPCR, Western blotting",down-regulated,31894271.0,3.0
+14,CASC2,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",down-regulated,30675129.0,3.0
+15,CASC2,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay , ChIP etc.",down-regulated,28865121.0,3.0
+16,CASC9,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, RNAi, MTT assay etc.",up-regulated,28220683.0,3.0
+17,CCAT2,Pancreatic Ductal Adenocarcinoma,"qRT-PCR, Western blot, Luciferase reporter assay",up-regulated,29298720.0,1.0
+18,CRNDE,Pancreatic Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,28940804.0,5.0
+19,CRNDE,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,27628540.0,5.0
+20,CUDR ,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Microarray, other",up-regulated,30272271.0,1.0
+21,"ANCR",Pancreatic Cancer,"qRT-PCR, Western blot",up-regulated,31804607.0,3.0
+22,"ANCR",Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30519037.0,3.0
+23,"ANCR",Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31267381.0,3.0
+24,"ANCR",Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31213582.0,3.0
+25,DGCR5,Pancreatic Ductal Adenocarcinoma,qPCR,differential expression,29207609.0,5.0
+26,DIO3OS,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31384177.0,6.0
+27,DLEU1 (aka DLEU2),Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30382579.0,3.0
+28,DLX6-AS1,Pancreatic Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31118816.0,1.0
+29,DLX6-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30250401.0,1.0
+30,DNAH17-AS1,Pancreatic Cancer,"qPCR, Western blot, luciferase reporter assay etc.",up-regulated,32351291.0,1.0
+31,DUXAP10,Pancreatic Cancer,"qPCR, in vitro knockdown etc.",up-regulated,29286182.0,1.0
+32,DUXAP8,Pancreatic Cancer,"qPCR, RIP, Western blot, other",up-regulated,30367681.0,1.0
+33,EPIC1,Pancreatic Cancer,"qRT-PCR, Western blotting, RIP",up-regulated,31810603.0,1.0
+34,F11-AS1,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,28220683.0,2.0
+35,FEZF1-AS1,Pancreatic Ductal Adenocarcinoma,"Microarray, qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29348628.0,1.0
+36,GAS5,Pancreatic Cancer,"Luciferase reporter assays, Western blots, RT-PCR, other",up-regulated,30388621.0,15.0
+37,GAS5,Pancreatic Cancer,"qPCR, Western blot, RIP",down-regulated,29112934.0,15.0
+38,GAS5,Pancreatic Cancer,"qPCR, Western blot, RIP",down-regulated,29225772.0,15.0
+39,GAS5,Pancreatic Cancer,"qPCR, Western blot etc.",down-regulated,24026436.0,15.0
+40,GHET1,Pancreatic Cancer,qPCR etc.,up-regulated,29228419.0,1.0
+41,GLIS3-AS1,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,1.0
+42,H19,Pancreatic Neuroendocrine Tumor,"qRT-PCR , RNA-seq , Western blot , RIP , in vitro knockdown etc.",up-regulated,31117050.0,3.0
+43,H19,Pancreatic Cancer,"qPCR, other",up-regulated,30410672.0,3.0
+44,H19,Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase reporter assay, RIP, etc.",up-regulated,30474270.0,3.0
+45,H19,Pancreatic Cancer,"Microarray, qPCR etc.",up-regulated,29581580.0,3.0
+46,H19,Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29344285.0,3.0
+47,H19,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,24920070.0,3.0
+48,H19,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,27573434.0,3.0
+49,HMGA2-AS1,Pancreatic Cancer,qRT-PCR,down-regulated,32010621.0,3.0
+50,HMLINCRNA717,Pancreatic Cancer,qPCR etc.,down-regulated,27338046.0,1.0
+51,HOST2,Pancreatic Cancer,"qPCR, other",up-regulated,30406400.0,1.0
+52,HOTAIR,Pancreatic Cancer,"qPCR, other",up-regulated,30464623.0,3.0
+53,HOTAIR,Pancreatic Cancer,qPCR etc.,up-regulated,29201179.0,3.0
+54,HOTAIR,Pancreatic Cancer,qPCR etc.,up-regulated,27028998.0,3.0
+55,HOTAIR,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, ChIP, MTT assay etc.",differential expression,27594424.0,3.0
+56,HOTAIR,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26482614.0,3.0
+57,HOTAIR,Pancreatic Cancer,qPCR etc.,down-regulated,28476883.0,3.0
+58,HOTAIR,Pancreatic Cancer,"qPCR, RNAi, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,22614017.0,3.0
+59,HOTAIR,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28415631.0,3.0
+60,HOTAIR,Pancreatic Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,27895308.0,3.0
+61,HOTAIRM1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdow, etc.",up-regulated,30613920.0,2.0
+62,HOTAIRM1,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR etc.",up-regulated,26676849.0,2.0
+63,HOTTIP,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32280243.0,1.0
+64,HOTTIP,Pancreatic Cancer,"qPCR, Western blot, RIP",up-regulated,28947139.0,1.0
+65,HOTTIP,Pancreatic Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,25912306.0,1.0
+66,HOTTIP,Pancreatic Cancer,"Microarray, qPCR, RNAi, Western blot, Cell growth assay, Cell cycle assay etc.",up-regulated,25889214.0,1.0
+67,HOTTIP,Pancreatic Cancer,"qPCR, Luciferase reporter assay",down-regulated,28818070.0,1.0
+68,HOXA-AS2,Pancreatic Cancer,"qPCR, RIP",up-regulated,29312501.0,1.0
+69,HULC,Pancreatic Ductal Adenocarcinoma,PCR,up-regulated,31715081.0,1.0
+70,HULC,Pancreatic Cancer,"qRT-PCR, Western blot assay",up-regulated,31857775.0,1.0
+71,HULC,Pancreatic Cancer,"qPCR, Western blot, etc.",up-regulated,30593805.0,1.0
+72,HULC,Pancreatic Cancer,"qPCR, RNAi etc.",up-regulated,25412939.0,1.0
+73,IRAIN,Pancreatic Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,27644252.0,1.0
+74,ITGB2-AS1,Pancreatic Ductal Adenocarcinoma,"Dual luciferase reporter assay, RIP, qRT-PCR, Western blot analysis",up-regulated,31957875.0,6.0
+75,LINC-PINT,Pancreatic Cancer,"qPCR, ISH etc.",down-regulated,27708234.0,13.0
+76,LINC-ROR,Pancreatic Cancer,"qPCR, RNAi, Western blot, Northern blot, Flow cytometry assay, FISH etc.",up-regulated,26636540.0,2.0
+77,LINC-ROR,Pancreatic Cancer,"qPCR, RIP etc.",up-regulated,28580169.0,2.0
+78,LINC-ROR,Pancreatic Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,26898939.0,2.0
+79,LINC-UFC1 (LOC112543491),Pancreatic Cancer,qRT-PCR,up-regulated,31933809.0,1.0
+80,"LINC00152",Pancreatic Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,25910082.0,5.0
+81,"LINC00152",Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, RNAi, MTT assay etc.",up-regulated,28220683.0,5.0
+82,LINC00162,Pancreatic Ductal Adenocarcinoma,"RNA-seq, in vitro knockdown etc",up-regulated,32364285.0,1.0
+83,LINC00226,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,28220683.0,1.0
+84,LINC00261,Pancreatic Cancer,"qPCR, other",down-regulated,30210701.0,1.0
+85,LINC00261,Pancreatic Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,25910082.0,1.0
+86,LINC00346,Pancreatic Cancer,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30728036.0,1.0
+87,LINC00346,Pancreatic Cancer,"qPCR, other",up-regulated,30210701.0,1.0
+88,LINC00346,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31391552.0,1.0
+89,LINC00462,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29899418.0,1.0
+90,LINC00462,Pancreatic Cancer,"qPCR, Western blot, etc.",up-regulated,29899418.0,1.0
+91,LINC00472,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,4.0
+92,LINC00473,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31206665.0,2.0
+93,LINC00511,Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,28984028.0,1.0
+94,LINC00578,Pancreatic Cancer,"qPCR, other",up-regulated,30210701.0,1.0
+95,"LINC00657",Pancreatic Ductal Adenocarcinoma,"RT-qPCR, Western blot",up-regulated,32116086.0,1.0
+96,LINC00663,Pancreatic Cancer,qPCR etc.,down-regulated,26743782.0,1.0
+97,LINC00671,Pancreatic Cancer,"qPCR, other",down-regulated,30210701.0,1.0
+98,"lncRNA00673",Pancreatic Cancer,"qPCR, other",up-regulated,30210701.0,5.0
+99,"lncRNA00673",Pancreatic Ductal Adenocarcinoma,"RNA-seq, qPCR, Western blot",up-regulated,29440233.0,5.0
+100,"lncRNA00673",Pancreatic Cancer,"qPCR, Flow cytometry assay etc.",up-regulated,27213290.0,5.0
+101,"BLACAT2",Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30639194.0,1.0
+102,LINC00960,Pancreatic Ductal Adenocarcinoma,qPCR,up-regulated,29923223.0,2.0
+103,LINC00976,Pancreatic Cancer,"qRT-PCR, Western blot",up-regulated,31747939.0,1.0
+104,LINC00994,Pancreatic Cancer,"qPCR, Microarray, Luciferase reporter assay, western blot",up-regulated,30739523.0,1.0
+105,LINC01006,Pancreatic Cancer,"Microarray, RT-qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,31827394.0,2.0
+106,LINC01060,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown, RIP",down-regulated,29913236.0,1.0
+107,LINC01060,Pancreatic Cancer,"Microarray, RIP, etc.",down-regulated,29913236.0,1.0
+108,LINC01111,Pancreatic Cancer,"Microarray, qPCR, Western blot etc.",down-regulated,31767833.0,1.0
+109,LINC01121,Pancreatic Cancer,"qPCR, Western blot",up-regulated,29843149.0,1.0
+110,LINC01121,Pancreatic Cancer,"qPCR, western blot etc.",up-regulated,29843149.0,1.0
+111,LINC01133,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30580676.0,1.0
+112,LINC01133,Pancreatic Ductal Adenocarcinoma,qPCR etc.,up-regulated,29458145.0,1.0
+113,"LINC01296",Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, RNAi, other",up-regulated,30203487.0,2.0
+114,"CTA-941F9.9",Pancreatic Ductal Adenocarcinoma,qPCR,up-regulated,29923223.0,1.0
+115,LINC01638,Pancreatic Ductal Adenocarcinoma,"RT-qPCR, Western blot analysis",up-regulated,31702018.0,1.0
+116,lncRNA-ATB,Pancreatic Cancer,qPCR etc.,down-regulated,26482611.0,1.0
+117,"LOC285194",Pancreatic Ductal Adenocarcinoma,qPCR etc.,down-regulated,25550852.0,1.0
+118,LOC389641,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,26708505.0,1.0
+119,LUCAT1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,31789465.0,2.0
+120,MALAT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30352575.0,3.0
+121,MALAT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, RIP, RNA pull-down assay etc.",up-regulated,27371730.0,3.0
+122,MALAT1,Pancreatic Cancer,"Microarray, qPCR, Western blot etc.",up-regulated,29215734.0,3.0
+123,MALAT1,Pancreatic Cancer,"qPCR, Western blot etc.",up-regulated,25811929.0,3.0
+124,MALAT1,Pancreatic Cancer,qPCR etc.,up-regulated,25481511.0,3.0
+125,MALAT1,Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay etc.",up-regulated,28034748.0,3.0
+126,MALAT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Luciferase report assay etc.",up-regulated,28701723.0,3.0
+127,MALAT1,Pancreatic Ductal Adenocarcinoma,qPCR etc.,up-regulated,24815433.0,3.0
+128,MALAT1,Pancreatic Cancer,"Microarray, RT-PCR, Western blot, in vitro knockdown, RNAi",up-regulated,29389953.0,3.0
+129,MALAT1,Pancreatic Cancer,"qPCR, RNAi, Western blot, RIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26848980.0,3.0
+130,MALAT1,Pancreatic Cancer,"qPCR, Western blot, Flow cytometry assay etc.",up-regulated,25269958.0,3.0
+131,MCM3AP-AS1,Pancreatic Cancer,"qRT-PCR, Western blot analysis, Dual luciferase reporter assay, RIP",up-regulated,31830901.0,4.0
+132,MEG3,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,15.0
+133,MEG3,Pancreatic Neuroendocrine Tumor,"qPCR, Western blot",down-regulated,29132136.0,15.0
+134,MEG3,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown",down-regulated,29328401.0,15.0
+135,MEG3,Pancreatic Neuroendocrine Tumor,qPCR etc.,up-regulated,28847847.0,15.0
+136,MEG3,Pancreatic Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,26850851.0,15.0
+137,MEG3,Pancreatic Cancer,"qPCR, Cell transfection, Western blot etc.",down-regulated,28320094.0,15.0
+138,MEG3,Pancreatic Neuroendocrine Tumor,"Microarray, qPCR, Luciferase reporter assay etc.",down-regulated,25565142.0,15.0
+139,MEG8,Pancreatic Cancer,"qPCR, RIP, other",up-regulated,30262664.0,1.0
+140,MIAT,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29772434.0,4.0
+141,MIAT,Pancreatic Cancer,"qPCR, western blot, Luciferase reporter assay etc.",down-regulated,29772434.0,4.0
+142,MIR100HG,Pancreatic Ductal Adenocarcinoma,"RNA-seq, qPCR, Western blot etc.",up-regulated,29748571.0,23.0
+143,MIR155HG,Pancreatic Cancer,"qPCR , Luciferase reporter assay , in vitro knockdown etc.",up-regulated,31161625.0,1.0
+144,"LOC554202",Pancreatic Ductal Adenocarcinoma,"qPCR, RNAi, Western blot, RIP, Dual luciferase reporter assay, ISH etc.",up-regulated,26549028.0,4.0
+145,MSC-AS1,Pancreatic Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,30915884.0,2.0
+146,NEAT1,Pancreatic Cancer,"qRT-PCR, RIP",up-regulated,32064164.0,2.0
+147,NEAT1,Pancreatic Cancer,"qPCR, RNAi, Dual luciferase reporter assay, Cell proliferation assay etc.",up-regulated,27888106.0,2.0
+148,NORAD,Pancreatic Cancer,"qPCR, Western blot etc.",up-regulated,29121972.0,1.0
+149,"NR_036488",Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,27628540.0,1.0
+150,OIP5-AS1,Pancreatic Cancer,"qRT-PCR, Western blot",up-regulated,32157498.0,4.0
+151,PANDAR,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,1.0
+152,PANDAR,Pancreatic Ductal Adenocarcinoma,"qPCR, western blot etc.",up-regulated,28886528.0,1.0
+153,PCAT1,Pancreatic Cancer,"qPCR, western blot",up-regulated,31539121.0,1.0
+154,PVT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,30001707.0,0.0
+155,PVT1,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29845201.0,0.0
+156,PVT1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay etc",up-regulated,32201527.0,0.0
+157,PVT1,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,0.0
+158,PVT1,Pancreatic Cancer,qPCR etc.,up-regulated,27028998.0,0.0
+159,PVT1,Pancreatic Ductal Adenocarcinoma,qPCR etc.,up-regulated,25668599.0,0.0
+160,PVT1,Pancreatic Cancer,"qPCR, Western blot etc.",up-regulated,29048549.0,0.0
+161,PVT1,Pancreatic Cancer,qPCR etc.,up-regulated,21316338.0,0.0
+162,PVT1,Pancreatic Cancer,qPCR etc.,up-regulated,28657147.0,0.0
+163,PVT1,Pancreatic Cancer,"qPCR, Western blot",up-regulated,28355965.0,0.0
+164,PVT1,Pancreatic Cancer,"qPCR, western blot etc.",up-regulated,29845201.0,0.0
+165,PVT1,Pancreatic Ductal Adenocarcinoma,"qRT-PCR, Western blot assay, Luciferase reporter assay, RNA pull-down assay, RIP",up-regulated,30001707.0,0.0
+166,PXN-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",down-regulated,31488171.0,1.0
+167,RP11-567G11.1,Pancreatic Cancer,"qPCR, Western blot",up-regulated,30802827.0,1.0
+168,RP11-567G11.1,Pancreatic Cancer,"Microarray, qPCR etc.",up-regulated,26447755.0,1.0
+169,SBF2-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",differential expressed,32301277.0,1.0
+170,SLC7A11-AS1,Pancreatic Ductal Adenocarcinoma,"qRT-PCR, Western blot, RIP",up-regulated,32036249.0,1.0
+171,SNHG1,Pancreatic Cancer,"RT-qPCR, Western blot analysis, Dual luciferase reporter assay",up-regulated,31933880.0,12.0
+172,SNHG1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot",up-regulated,30087712.0,12.0
+173,SNHG1,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30520072.0,12.0
+174,SNHG14,Pancreatic Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,31513352.0,1.0
+175,SNHG14,Pancreatic Ductal Adenocarcinoma,"RT-qPCR, Western blot analysis, RIP",up-regulated,31929143.0,1.0
+176,SNHG15,Pancreatic Ductal Adenocarcinoma,"qPCR, other",up-regulated,30280769.0,5.0
+177,SNHG15,Pancreatic Cancer,"Western blot, RIP",up-regulated,29137412.0,5.0
+178,"Nbla12061",Pancreatic Cancer,RT-qPCR,up-regulated,32141539.0,4.0
+179,"Nbla12061",Pancreatic Cancer,qPCR,up-regulated,30981105.0,4.0
+180,"Nbla12061",Pancreatic Cancer,"Dual luciferase reporter assay, RT-qPCR, , Western blotting",up-regulated,31664866.0,4.0
+181,SNHG6,Pancreatic Cancer,"qPCR, Luciferase reporter assay, RIP etc",up-regulated,32265427.0,4.0
+182,SNHG7,Pancreatic Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30949340.0,3.0
+183,SNHG9,Pancreatic Cancer,"qPCR, other",down-regulated,30210701.0,1.0
+184,"SOX2OT",Pancreatic Ductal Adenocarcinoma,"qRT-PCR, RIP, western blotting",up-regulated,31837005.0,6.0
+185,"SOX2OT",Pancreatic Ductal Adenocarcinoma,"Microarray, RIP etc.",up-regulated,29643475.0,6.0
+186,SPRY4-IT1,Pancreatic Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29489909.0,1.0
+187,SPRY4-IT1,Pancreatic Ductal Adenocarcinoma,qPCR etc.,down-regulated,29551494.0,1.0
+188,SUMO1P3,Pancreatic Cancer,"qPCR, Western blot, RNAi, other",up-regulated,30333879.0,1.0
+189,THAP9-AS1,Pancreatic Ductal Adenocarcinoma,"RIP, qRT-PCR",up-regulated,31831555.0,3.0
+190,TP73-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30643007.0,5.0
+191,TUG1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,29960845.0,8.0
+192,TUG1,Pancreatic Cancer,"qPCR, RIP",up-regulated,30787623.0,8.0
+193,TUG1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30595764.0,8.0
+194,TUG1,Pancreatic Cancer,"qPCR, Western blot",up-regulated,28617552.0,8.0
+195,TUG1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,28813705.0,8.0
+196,TUG1,Pancreatic Ductal Adenocarcinoma,"qPCR, Western blot, Flow cytometry assay, etc.",up-regulated,29960845.0,8.0
+197,"LOC285194",Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",down-regulated,30714151.0,1.0
+198,UCA1,Intraductal Papillary Mucinous Neoplasms Of The Pancreas,qPCR etc.,differential expression,28874676.0,1.0
+199,UCA1,Pancreatic Ductal Adenocarcinoma,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,27628540.0,1.0
+200,UCA1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, RIP etc.",up-regulated,29510195.0,1.0
+201,UCA1,Pancreatic Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27562722.0,1.0
+202,UCA1,Pancreatic Cancer,"qPCR, RNAi, Northern blot, Luciferase reporter assay, Flow cytometry assay etc.",up-regulated,28315290.0,1.0
+203,UCA1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29500870.0,1.0
+204,XIST,Pancreatic Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31163263.0,1.0
+205,XIST,Pancreatic Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31013436.0,1.0
+206,XIST,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31213574.0,1.0
+207,XIST,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29371940.0,1.0
+208,XIST,Pancreatic Cancer,"qPCR, Luciferase reporter assay, Cell proliferation assay, MTT assay etc.",up-regulated,28295543.0,1.0
+209,XIST,Pancreatic Cancer,"qPCR, RNAi, in vitro knockdown, Luciferase reporter assay etc.",up-regulated,29393501.0,1.0
+210,ZEB2-AS1,Pancreatic Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,29753015.0,1.0

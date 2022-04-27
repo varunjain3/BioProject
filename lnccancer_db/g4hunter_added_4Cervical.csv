@@ -1,0 +1,278 @@
+0,AFAP1-AS1,Cervical Cancer,RNA-seq,up-regulated,30816545.0,1.0
+1,ANRASSF1,Cervical Cancer,"RNA-seq, qPCR, RNAi, Western blot, RIP, ChIP, Cell proliferation assay etc.",differential expression,23990798.0,1.0
+2,"ANRIL",Cervical Cancer,"qPCR, RNAi etc.",up-regulated,26408699.0,14.0
+3,"ANRIL",Cervical Cancer,qPCR etc.,up-regulated,22487937.0,14.0
+4,"ANRIL",Cervical Cancer,"qPCR, Luciferase Reporter Assay",up-regulated,28550682.0,14.0
+5,"ANRIL",Cervical Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27899255.0,14.0
+6,ASB16-AS1,Cervical Cancer,"qRT-PCR, Western blot",up-regulated,32058219.0,2.0
+7,"BC200",Cervical Cancer,"Northern hybridization, ISH etc.",up-regulated,9422992.0,1.0
+8,BCAR4,Cervical Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29937186.0,5.0
+9,BCAR4,Cervical Cancer,"qPCR, Western blot, etc.",up-regulated,29937186.0,5.0
+10,BCYRN1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29552212.0,1.0
+11,BLACAT1,Cervical Squamous Cell Carcinoma,RT-PCR,up-regulated,32046460.0,1.0
+12,BLACAT1,Cervical Cancer,"qPCR, Western blot",up-regulated,29863244.0,1.0
+13,BLACAT1,Cervical Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29456724.0,1.0
+14,BLACAT1,Cervical Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,29863244.0,1.0
+15,C5orf66-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30518760.0,2.0
+16,CALML3-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31298313.0,2.0
+17,CASC11,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31255182.0,2.0
+18,CASC15,Cervical Cancer,"RT-qPCR, RIP",up-regulated,32016962.0,1.0
+19,CASC15,Cervical Cancer,qPCR,up-regulated,30720157.0,1.0
+20,CASC2,Cervical Cancer,"qRT-PCR , Western blot etc.",down-regulated,31081078.0,3.0
+21,CASC2,Cervical Cancer,"qPCR, Western blot, Luciferase Reporter Assays",down-regulated,28495512.0,3.0
+22,CASC9,Cervical Cancer,"RIP, Western blot , RT-qPCR etc.",down-regulated,31178137.0,3.0
+23,CCAT1,Cervical Cancer,"qRT-PCR, Western blot",up-regulated,31935379.0,1.0
+24,CCAT1,Cervical Cancer,"qRT-PCR , in vitro knockdown etc.",up-regulated,31084453.0,1.0
+25,CCAT1,Cervical Cancer,qPCR etc.,up-regulated,28849215.0,1.0
+26,CCAT1,Cervical Cancer,"qPCR, Western blot etc.",up-regulated,28978096.0,1.0
+27,CCAT2,Cervical Cancer,"qPCR, RNAi, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26983975.0,1.0
+28,CCAT2,Cervical Squamous Cell Carcinoma,qPCR etc.,up-regulated,26722527.0,1.0
+29,CCEPR,Cervical Cancer,"qPCR, Western blot etc.",up-regulated,29427865.0,1.0
+34,CRNDE,Cervical Cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31605132.0,5.0
+35,CRNDE,Cervical Cancer,"qPCR, Western blot, other",up-regulated,30334449.0,5.0
+36,CRNDE,Cervical Cancer,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,31202167.0,5.0
+37,CRNDE,Cervical Cancer,"qPCR, Microarray",up-regulated,29194035.0,5.0
+38,DANCR,Cervical Cancer,"qRT-PCR, Western blot",up-regulated,32123519.0,3.0
+39,DANCR,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30362591.0,3.0
+40,DDN-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30582201.0,2.0
+41,DGCR5,Cervical Cancer,"qPCR, Western blot, etc.",down-regulated,30552671.0,5.0
+42,DLEU1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30581456.0,3.0
+43,DLG1-AS1,Cervical Cancer,"qPCR, other",up-regulated,30231238.0,1.0
+44,DLX6-AS1,Cervical Cancer,"RT-qPCR, Western blot",up-regulated,32077747.0,1.0
+45,DLX6-AS1,Cervical Cancer,"qPCR, western blot",up-regulated,31539117.0,1.0
+46,DLX6-AS1,Cervical Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30535431.0,1.0
+47,DSCAM-AS1,Cervical Cancer,"qRT-PCR, Western blot, RIP",up-regulated,31737900.0,4.0
+48,"FAL1",Cervical Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,32046419.0,1.0
+50,FEZF1-AS1,Cervical Cancer,qPCR,up-regulated,29917186.0,1.0
+51,FOXD2-AS1,Cervical Cancer,"RT-qPCR, Western blot, RIP",up-regulated,32082174.0,1.0
+52,FOXD2-AS1,Cervical Cancer,qRT-PCR,up-regulated,31841177.0,1.0
+53,FOXP4-AS1,Cervical Cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,32256085.0,3.0
+54,GAS5,Cervical Cancer,"qRT-PCR, Western blot",down-regulated,32105659.0,15.0
+55,GAS5,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",down-regulated,30579899.0,15.0
+56,GAS5,Cervical Cancer,"qPCR, Western blot",down-regulated,31206689.0,15.0
+57,GAS5,Cervical Cancer,"qPCR, RNAi etc.",down-regulated,25400758.0,15.0
+58,GAS5,Cervical Cancer,qPCR etc.,up-regulated,22487937.0,15.0
+59,GAS5,Cervical Cancer,"qPCR, Western blot, RIP etc.",down-regulated,28671039.0,15.0
+60,GAS5,Cervical Cancer,"qPCR, RNAi",down-regulated,29509242.0,15.0
+61,GAS5-AS1,Cervical Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP, etc.",down-regulated,31497208.0,1.0
+62,GATA6-AS,Cervical Squamous Cell Carcinoma,"qPCR, Western blot, other",up-regulated,31404324.0,1.0
+63,GHET1,Cervical Cancer,qPCR,up-regulated,30948501.0,1.0
+64,GHET1,Cervical Cancer,"qRT-PCR, Western blot, RIP",up-regulated,31682716.0,1.0
+65,GIHCG,Cervical Cancer,qPCR,up-regulated,30719165.0,1.0
+66,H19,Cervical Cancer,qPCR,down-regulated,31229557.0,3.0
+67,H19,Cervical Cancer,"qPCR, RNAi etc.",up-regulated,27633578.0,3.0
+68,H19,Cervical Cancer,"qPCR, Luciferase Reporter Assay, Western blot.",down-regulated,28797320.0,3.0
+69,H19,Cervical Cancer,"qPCR, ISH etc.",down-regulated,8570220.0,3.0
+70,HAND2-AS1,Cervical Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay, RIP etc",down-regulated,32314545.0,11.0
+71,HAND2-AS1,Cervical Squamous Cell Carcinoma,"qPCR, western blot",down-regulated,31555362.0,11.0
+72,HAND2-AS1,Cervical Cancer,"Microarray, Dual luciferase reporter assay, RIP, RT-qPCR, Western blot analysis",down-regulated,31889905.0,11.0
+73,HCP5,Cervical Cancer,"qPCR, Western blot, Luciferase Reporter Gene Assay",up-regulated,30070314.0,1.0
+74,HIPK1-AS,Cervical Cancer,"Microarray, qPCR, in vitro knockdown",up-regulated,29901171.0,2.0
+75,HNF1A-AS1,Cervical Cancer,"Dual luciferase reporter gene assay, RIP, RT-qPCR, Western blot assay",up-regulated,31827397.0,1.0
+76,HOTAIR,Cervical Cancer,RNA-seq,up-regulated,30981759.0,3.0
+77,HOTAIR,Cervical Cancer,qPCR,up-regulated,30134241.0,3.0
+78,HOTAIR,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30367473.0,3.0
+79,HOTAIR,cervical cancer,"qPCR, other",,30275757.0,3.0
+80,HOTAIR,Cervical Cancer,qPCR etc.,up-regulated,25366139.0,3.0
+81,HOTAIR,Cervical Cancer,qPCR etc.,up-regulated,29620291.0,3.0
+82,HOTAIR,Cervical Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,26962687.0,3.0
+83,HOTAIR,Cervical Cancer,"qPCR, Western blot etc.",up-regulated,29572071.0,3.0
+84,HOTAIR,Cervical Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,27323817.0,3.0
+85,HOTAIR,Cervical Cancer,"qPCR, Western blot etc.",up-regulated,26523512.0,3.0
+86,HOTAIR,Cervical Cancer,"qPCR, ELISA etc.",up-regulated,27184657.0,3.0
+87,HOTAIR,Cervical Cancer,qPCR etc.,differential expression,27229487.0,3.0
+88,HOTAIR,Cervical Cancer,"qPCR, RNAi, Cell proliferation assay, Cell invasion assay etc.",up-regulated,25762744.0,3.0
+89,HOTAIR,Cervical Cancer,qPCR etc.,up-regulated,24748337.0,3.0
+90,HOTAIR,Cervical Cancer,qPCR etc.,down-regulated,22487937.0,3.0
+91,HOTAIR,Cervical Cancer,"qPCR, Western blot, Luciferase Reporter Assay",differential expression,28893349.0,3.0
+92,HOTAIR,Cervical Cancer,"qPCR, Western blot, RNAi etc",down-regulated,29130509.0,3.0
+93,HOTAIR,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,29336659.0,3.0
+94,HOTAIR,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29335299.0,3.0
+95,HOTAIR,Cervical Cancer,"qPCR, Luciferase Assay etc.",up-regulated,29163829.0,3.0
+96,HOTAIR,Cervical Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,27574106.0,3.0
+97,HOTAIR,Cervical Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay, RNAi",up-regulated,29391067.0,3.0
+98,HOTAIR,Cervical Cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,27467165.0,3.0
+99,HOTAIR,Cervical Cancer,"qPCR, Luciferase reporter assay etc.",down-regulated,27683269.0,3.0
+100,HOTAIR,Cervical Cancer,"Microarray, qPCR, RIP etc.",down-regulated,26152361.0,3.0
+101,HOTAIR,Cervical Cancer,"qPCR, Western blot etc.",differential expression,25547435.0,3.0
+102,HOTAIR,Cervical Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,25405331.0,3.0
+103,HOXA11-AS,Cervical Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27792998.0,1.0
+104,HOXD-AS1 (HAGLR),Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29896986.0,12.0
+105,HOXD-AS1 (HAGLR),Cervical Cancer,"qPCR, Western blot etc.",up-regulated,29228418.0,12.0
+106,HOXD-AS1 (HAGLR),Cervical Cancer,"qPCR, Western blot, Dual luciferase reporter assay, etc.",up-regulated,29896986.0,12.0
+107,HULC,Cervical Cancer,"qRT-PCR, Western blot",up-regulated,32103980.0,1.0
+108,HULC,Cervical Cancer,qPCR etc.,up-regulated,27775802.0,1.0
+109,LINC-POU3F3 PANTRI1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31252264.0,4.0
+110,LINC-ROR,Cervical Cancer,qPCR etc.,up-regulated,26314857.0,2.0
+111,LINC-UFC1 (LOC112543491),Cervical Cancer,"qPCR, western blot, RIP etc.",up-regulated,29790665.0,1.0
+112,LINC-UFC1 (LOC112543491),Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29790665.0,1.0
+114,LINC00052,Cervical Cancer,"qPCR, Western blot",down-regulated,31210293.0,1.0
+115,LINC00152 CYTOR,Cervical Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31114990.0,5.0
+116,LINC00152 CYTOR,Cervical Cancer,"western blot, in vitro konckdown",up-regulated,28536419.0,5.0
+117,LINC00277 EWSAT1,Cervical Cancer,"Microarray analysis, qRT-PCR, Western blot, RNAi",down-regulated,28767188.0,1.0
+118,LINC00319,Cervical Cancer,"qRT-PCR, Western blot, Luciferase reporter assays, RIP",up-regulated,31942724.0,1.0
+119,LINC00473,Cervical Cancer,"qPCR, Western blotting etc.",up-regulated,29218240.0,2.0
+120,LINC00511,Cervical Cancer,"RT-qPCR, Western blot, Microarray",up-regulated,32067228.0,1.0
+121,LINC00511,Cervical Cancer,"RT-qPCR, in vitro knockdown, Western blot etc.",up-regulated,31180057.0,1.0
+122,LINC00511,Cervical Cancer,"qPCR, other",up-regulated,31434692.0,1.0
+123,LINC00518,Cervical Cancer,"qPCR, Western blot",up-regulated,30720156.0,1.0
+124,LINC00958 BLACAT2,Cervical Cancer,"RT-qPCR, Luciferase reporter assay, RIP, Western blot analysis",up-regulated,31691355.0,1.0
+125,LINC00958 BLACAT2,Cervical Cancer,"Luciferase reporter assay , Western blot etc.",up-regulated,31169309.0,1.0
+126,LINC01101,Cervical Cancer,"Microarray analysis, qRT-PCR, Western blot, RNAi",down-regulated,28767188.0,1.0
+127,LINC01133,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31390932.0,1.0
+128,LINC01139,Cervical Cancer,"Microarray, qPCR etc.",differential expression,27035672.0,1.0
+129,LINC01305,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30697971.0,1.0
+130,LINC01503,Cervical Cancer,"Microarray, qPCR etc.",differential expression,27035672.0,2.0
+131,LINC01535,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31273925.0,3.0
+132,LINC01783,Cervical Cancer,"qRT-PCR, RIP",up-regulated,32021449.0,1.0
+133,LINP1,Cervical Cancer,"qPCR, Western blot, RIP etc.",up-regulated,32348690.0,1.0
+134,LINP1,Cervical Cancer,"qPCR, RIP",up-regulated,29527968.0,1.0
+135,lnc-LIF-AS,Cervical Cancer,"RT-PCR , Western blot etc.",up-regulated,31085454.0,1.0
+136,lncRNA-ATB,Cervical Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30908730.0,1.0
+137,lncRNA-ATB,Cervical Cancer,qPCR,up-regulated,29237907.0,1.0
+138,lncRNA-CTS,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31499118.0,1.0
+139,lncRNA-LET,Cervical Cancer,qPCR etc.,down-regulated,25755778.0,1.0
+140,lncRNA-MIF ODC1-DT       ,Cervical Cancer,"qPCR, Luciferase reporter assay etc.",differential expression,27317567.0,1.0
+141,lncRNA-NEF,Cervical Squamous Cell Carcinoma,"qPCR, Western blot",down-regulated,30910843.0,1.0
+142,lncRNA-SRA1 LINC00673,Cervical Squamous Cell Carcinoma,qPCR,down-regulated,31371629.0,5.0
+143,loc285194 TUSC7,Cervical Squamous Cell Carcinoma,"qPCR, Western blot etc",up-regulated,31774069.0,1.0
+144,LOC554202 (MIR31HG),Cervical Cancer,"qPCR, Western blot etc.",up-regulated,29129878.0,4.0
+145,LUCAT1,Cervical Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc",up-regulated,32207530.0,2.0
+146,LUCAT1,Cervical Cancer,"qPCR, RNA-seq",up-regulated,30831032.0,2.0
+147,LUCAT1,Cervical Cancer,"qPCR, Western blot, etc.",up-regulated,31486481.0,2.0
+148,MAGI2-AS3,Cervical Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,31832086.0,4.0
+149,MALAT1,Cervical Cancer,"qRT-PCR, Western blot",up-regulated,32152961.0,3.0
+150,MALAT1,Cervical Cancer,"RT-PCR, western-blot",up-regulated,32113834.0,3.0
+151,MALAT1,Cervical Cancer,"qPCR, Luciferase reporter assay,",up-regulated,30178834.0,3.0
+152,MALAT1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30633360.0,3.0
+153,MALAT1,Cervical Cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,28252165.0,3.0
+154,MALAT1,Cervical Cancer,"qPCR, Cell transfection, Western blot, Dual luciferase reporter assay, Flow cytometry assay etc.",differential expression,27658300.0,3.0
+155,MALAT1,Cervical Cancer,"qPCR, RNAi, RIP, Flow cytometry assay, RNA pull-down assay etc.",up-regulated,26311052.0,3.0
+156,MALAT1,Cervical Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay etc.",up-regulated,26242259.0,3.0
+157,MALAT1,Cervical Cancer,"qPCR, Western blot etc.",down-regulated,29704494.0,3.0
+158,MALAT1,Cervical Cancer,"qPCR, RNAi, Western blot, Dual luciferase reporter assay etc.",down-regulated,25773124.0,3.0
+159,MALAT1,Cervical Cancer,"qPCR, ELISA etc.",up-regulated,27184657.0,3.0
+160,MALAT1,Cervical Cancer,qPCR etc.,down-regulated,22487937.0,3.0
+161,MALAT1,Cervical Cancer,qPCR etc.,up-regulated,20213048.0,3.0
+162,MALAT1,Cervical Cancer,"qPCR, Northern blot etc.",differential expression,22491206.0,3.0
+163,MALAT1,Cervical Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26798987.0,3.0
+164,MALAT1,Cervical Cancer,"qPCR, RNAi, Luciferase reporter assay, MTT assay etc.",up-regulated,26400521.0,3.0
+165,MALAT1,Cervical Cancer,"qPCR, Cell proliferation assay etc.",up-regulated,26854446.0,3.0
+166,MALAT1,Cervical Cancer,qPCR etc.,up-regulated,24932303.0,3.0
+167,MCM3AP-AS1,Cervical Squamous Cell Carcinoma,RT-qPCR,down-regulated,31985002.0,4.0
+168,MEG3,Cervical Cancer,qPCR,down-regulated,30174437.0,15.0
+169,MEG3,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31320837.0,15.0
+170,MEG3,Cervical Cancer,qPCR etc.,down-regulated,28787698.0,15.0
+171,MEG3,Cervical Cancer,"qPCR, ELISA etc.",down-regulated,27184657.0,15.0
+172,MEG3,Cervical Cancer,qPCR etc.,up-regulated,22487937.0,15.0
+173,MEG3,Cervical Cancer,"qPCR, ISH etc.",down-regulated,14602737.0,15.0
+174,MEG3,Cervical Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,26574780.0,15.0
+175,MEG3,Cervical Cancer,"qPCR, RNAi, MSP-PCR, Western blot etc.",down-regulated,28057015.0,15.0
+176,MEG3,Cervical Cancer,"qPCR, Western blot etc.",down-regulated,23790166.0,15.0
+177,MFI2-AS1 MELTF-AS1,Cervical Cancer,"qPCR, Western blot",up-regulated,31210294.0,1.0
+178,MIAT,Cervical Cancer,qPCR etc.,up-regulated,32239132.0,4.0
+179,MIR100HG,Cervical Cancer,"Microarray, qPCR etc.",differential expression,27035672.0,23.0
+180,MIR205HG,Cervical Cancer,"qRT-PCR, RIP",up-regulated,31655037.0,5.0
+181,MIR205HG,Cervical Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31023531.0,5.0
+182,MIR210HG,Cervical Cancer,"RT-PCR, Western blot",up-regulated,32087604.0,1.0
+183,MIR22HG,Cervical Cancer,qRT-PCR,down-regulated,32099468.0,4.0
+184,MIR503HG,Cervical Squamous Cell Carcinoma,"qPCR, Western blot etc",down-regulated,32184661.0,1.0
+185,MNX1-AS1,Cervical Cancer,"qPCR, Western blot, other",up-regulated,30302806.0,1.0
+186,"NCK1-AS1",Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, RIP, other",up-regulated,30221354.0,3.0
+187,"NCK1-AS1",Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,31410182.0,3.0
+188,"NCK1-AS1",Cervical Cancer,"Microarray, qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29416014.0,3.0
+189,NEAT1,Cervical Cancer,"qRT-PCR, Western blot",up-regulated,32151082.0,2.0
+190,NEAT1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,32368085.0,2.0
+191,NEAT1,Cervical Cancer,"qPCR, Western blot",up-regulated,30127216.0,2.0
+192,NEAT1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,30096244.0,2.0
+193,NEAT1,Cervical Cancer,"qPCR, Western blot",up-regulated,30024596.0,2.0
+194,NEAT1,Cervical Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,29416780.0,2.0
+195,NEAT1,Cervical Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,29207151.0,2.0
+196,NKILA,Cervical Squamous Cell Carcinoma,RT-qPCR,down-regulated,31950510.0,1.0
+197,NNT-AS1,Cervical Cancer,qPCR etc.,up-regulated,28628975.0,1.0
+198,NORAD,Cervical Cancer,"qPCR, RIP, Dual Luciferase Reporter Assay, Western blot",up-regulated,30119219.0,1.0
+199,NR_024008.1 WWC2-AS2,Cervical Cancer,"Microarray, qPCR etc.",up-regulated,26054679.0,1.0
+200,NR_034077.1 THAP9-AS1_Variant 3,Cervical Cancer,"Microarray, qPCR etc.",up-regulated,26054679.0,1.0
+201,NR_037645.1 TMX2_Variant 4,Cervical Cancer,"Microarray, qPCR etc.",up-regulated,26054679.0,1.0
+202,NR_037793.1 LRR1_Variant 5,Cervical Cancer,"Microarray, qPCR etc.",up-regulated,26054679.0,1.0
+203,NR_038940.1  SH3PXD2A-AS1,Cervical Cancer,"Microarray, qPCR etc.",up-regulated,26054679.0,1.0
+204,NR_047677.1  TARS1_Variant 5,Cervical Cancer,"Microarray, qPCR etc.",up-regulated,26054679.0,1.0
+205,OIP5-AS1,Cervical Cancer,"western blot, RT-qPCR, Luciferase reporter assay, RIP",up-regulated,31939597.0,4.0
+206,OIP5-AS1,Cervical Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,30188591.0,4.0
+207,OIP5-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30341904.0,4.0
+208,OIP5-AS1,Cervical Cancer,"qPCR, RIP etc.",differential expression,26819413.0,4.0
+209,PANDAR,Cervical Cancer,qPCR etc.,up-regulated,29131264.0,1.0
+210,PCAT1,Cervical Cancer,"qPCR, in vitro knockdown etc.",down-regulated,29687842.0,1.0
+211,PCAT6,Cervical Cancer,"qRT-PCR, Western blot, RIP",up-regulated,32103984.0,2.0
+212,PCAT6,Cervical Cancer,qPCR,up-regulated,30915737.0,2.0
+213,PCGEM1,Cervical Cancer,"Western blot analysis, qRT-PCR, RIP, Luciferase reporter assays",up-regulated,31832017.0,2.0
+214,PTCSC3,Cervical Cancer,qRT-PCR,down-regulated,31814920.0,1.0
+215,PTCSC3,Cervical Cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31587336.0,1.0
+216,PVT1,Cervical Cancer,"qRT-PCR, Western-blot assays",up-regulated,31943014.0,1.0
+217,PVT1,Cervical Cancer,qPCR,up-regulated,30134241.0,1.0
+218,PVT1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31322217.0,1.0
+219,PVT1,Cervical Squamous Cell Carcinoma,"qPCR, Western blot etc.",up-regulated,29760583.0,1.0
+220,PVT1,Cervical Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Dual luciferase reporter assay, RNA pull-down assay, Cell proliferation assay etc.",up-regulated,28296507.0,1.0
+221,PVT1,Cervical Cancer,qPCR etc.,up-regulated,27775803.0,1.0
+222,PVT1,Cervical Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27232880.0,1.0
+223,PVT1,Cervical Cancer,"qPCR, RNAi, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,28276314.0,1.0
+224,PVT1,Cervical Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, RNA pull-down assay etc.",up-regulated,27272214.0,1.0
+225,RHPN1-AS1,Cervical Cancer,"qPCR, western blot",up-regulated,31525429.0,1.0
+226,ROR1-AS1,Cervical Cancer,"qPCR, Western blot etc",up-regulated,32271410.0,2.0
+227,SBF2-AS1,Cervical Cancer,qPCR,up-regulated,30856345.0,1.0
+228,SNHG1,Cervical Cancer,"Microarray, qRT-PCR",up-regulated,28930646.0,12.0
+229,SNHG12,Cervical Squamous Cell Carcinoma,"qRT-PCR, Western blot analysis",up-regulated,31943193.0,8.0
+230,SNHG12,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, RNAi, other",up-regulated,30246459.0,8.0
+231,SNHG12,Cervical Cancer,"qPCR, Luciferase reporter assay",up-regulated,29533945.0,8.0
+232,SNHG14,Cervical Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31114991.0,1.0
+233,SNHG14,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30611620.0,1.0
+234,SNHG16,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,31774223.0,4.0
+235,SNHG16,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29126969.0,4.0
+236,SNHG20,Cervical Cancer,qPCR etc.,up-regulated,29604594.0,1.0
+237,SNHG4,Cervical Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31590627.0,2.0
+238,SNHG7,Cervical Cancer,"RT-qPCR, Western blot",up-regulated,32161467.0,3.0
+239,SNHG7,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,32275170.0,3.0
+240,SNHG7,Cervical Cancer,"qPCR, Western blot etc",up-regulated,31773679.0,3.0
+241,SNHG8,Cervical Cancer,"qRT-PCR, Western blot assay, RIP",up-regulated,31961005.0,3.0
+242,SOX21-AS1,Cervical Cancer,qPCR,up-regulated,30912129.0,1.0
+243,SOX2OT,Cervical Cancer,"qPCR, Western blot etc.",differential expressed,32286144.0,6.0
+244,SOX2OT,Cervical Cancer,qPCR etc.,up-regulated,26703382.0,6.0
+245,SPRY4-IT1,Cervical Cancer,"qRT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,31092700.0,1.0
+246,SPRY4-IT1,Cervical Cancer,qPCR etc.,up-regulated,27642559.0,1.0
+247,STXBP5-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31212131.0,1.0
+248,TDRG1,Cervical Cancer,"qRT-PCR, Western blot",up-regulated,32106739.0,3.0
+249,TDRG1,Cervical Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,31539116.0,3.0
+250,TDRG1,Cervical Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31164797.0,3.0
+251,TINCR,Cervical Squamous Cell Carcinoma,"qRT-PCR, Western blotting etc.",up-regulated,30993776.0,1.0
+252,TINCR,Cervical Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31388923.0,1.0
+253,TMPO-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32184662.0,1.0
+254,TMPO-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31483914.0,1.0
+255,TOB1-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, other",down-regulated,30210918.0,1.0
+256,TP73-AS1,Cervical Cancer,"qRT-PCR, RIP, Dual luciferase reporter assay, Western blot",up-regulated,31663517.0,5.0
+257,TP73-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31232491.0,5.0
+258,TPT1-AS1,Cervical Cancer,"qPCR, Western blot",up-regulated,30045766.0,1.0
+259,TTN-AS1,Cervical Cancer,"qPCR, Western blot, Luciferase assay, RIP",up-regulated,30135013.0,2.0
+260,TUG1,Cervical Cancer,"qPCR, Western blot, RIP",up-regulated,31646551.0,8.0
+261,TUG1,Cervical Cancer,"qPCR, Western blot etc.",up-regulated,29029428.0,8.0
+262,TUG1,Cervical Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell migration and invasion assay etc.",up-regulated,28088836.0,8.0
+263,TUSC8,Cervical Cancer,"qRT-PCR, Western blotting, RIP etc.",down-regulated,31033083.0,1.0
+264,UCA1,Cervical Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,30015920.0,1.0
+265,UCA1,Cervical Cancer,"qPCR, Luciferase Reporter Assay etc",up-regulated,32329829.0,1.0
+266,UCA1,Cervical Cancer,"Microarray, qPCR, Western blot",up-regulated,31949782.0,1.0
+267,UCA1,Papillomavirus-Mediated Cervical Cancer,RNA-seq etc.,up-regulated,28970820.0,1.0
+268,UCA1,Cervical Cancer,qPCR etc.,up-regulated,29620291.0,1.0
+269,UCA1,Cervical Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,28414550.0,1.0
+270,UCA1,Cervical Cancer,"qPCR, Western blot, Northern blot, Flow cytometry assay etc.",up-regulated,17416635.0,1.0
+271,UCA1,Cervical Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29523226.0,1.0
+272,WT1-AS,Cervical Cancer,"qPCR, Western blot, RIP, luciferase reporter assay etc.",down-regulated,32319820.0,5.0
+273,WT1-AS,Cervical Cancer,"qPCR, Luciferase reporter assay",down-regulated,30720155.0,5.0
+274,WT1-AS,Cervical Squamous Cell Carcinoma,"RT-qPCR, Western-blot",down-regulated,31694597.0,5.0
+275,WT1-AS,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",down-regulated,30666161.0,5.0
+276,XIST,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29909347.0,1.0
+277,XIST,Cervical Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30858762.0,1.0
+278,XIST,Cervical Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,29909347.0,1.0
+279,XLOC_000303 SLC44A3-AS1,Cervical Cancer,qPCR,up-regulated,30134241.0,7.0
+280,ZEB1-AS1,Cervical Cancer,"qPCR, Western blot, other",up-regulated,30425516.0,6.0
+281,ZEB1-AS1,Cervical Cancer,"qPCR, Western blot, other",up-regulated,30253398.0,6.0
+282,ZFAS1,Cervical Cancer,qPCR,up-regulated,30738960.0,5.0
+283,ZNF667-AS1,Cervical Cancer,"qPCR, Microarray, western blot",down-regulated,29243775.0,2.0

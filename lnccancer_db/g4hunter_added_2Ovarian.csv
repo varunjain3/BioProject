@@ -1,0 +1,274 @@
+0,ABHD11-AS1,Ovarian Cancer,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",up-regulated,31568657.0,1.0
+1,ABHD11-AS1,Ovarian Cancer,"qPCR, Western blot",up-regulated,28818073.0,1.0
+2,ADAMTS9-AS2,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, RNAi, other",down-regulated,30268751.0,1.0
+3,AFAP1-AS1,Ovarian Cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28051261.0,1.0
+4,AGAP2-AS1,Ovarian Cancer,qPCR,up-regulated,31233485.0,1.0
+5,"aHIF",Epithelial Ovarian Cancer,"qRT-PCR, Western blotting etc.",up-regulated,31571921.0,1.0
+6,"aHIF",Epithelial Ovarian Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30588022.0,1.0
+7,"ANRIL",Ovarian Cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31189742.0,14.0
+8,"ANRIL",Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,27095571.0,14.0
+9,ASAP1-IT1,Epithelial Ovarian Cancer,qPCR etc.,differential expression,27667152.0,1.0
+10,"AWPPH",Ovarian Cancer,qPCR,up-regulated,30896797.0,8.0
+11,BACE1-AS,Ovarian Cancer,"qPCR, Western blot, Northern blot, MTT assay etc.",up-regulated,26783004.0,1.0
+12,"BC200",Ovarian Cancer,"qPCR, RNAi etc.",down-regulated,26893717.0,1.0
+13,"BC200",Ovarian Cancer,"Northern hybridization, ISH etc.",up-regulated,9422992.0,1.0
+14,BLACAT1,Ovarian Cancer,"qRT-qPCR, Western blot",up-regulated,32095930.0,1.0
+15,"C17orf91",Ovarian Cancer,"qPCR, RNAi, Western blot, Cell migration and invasion assay etc.",up-regulated,27535740.0,4.0
+16,CACS15/CASC15,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,31737207.0,1.0
+17,CACS15/CASC15,Ovarian Cancer,"RT-qPCR, Dual Luciferase Reporter Assay, Western blot analysis",down-regulated,31695430.0,1.0
+18,CASC2,Epithelial Ovarian Cancer,"qPCR, other",down-regulated,30320385.0,3.0
+19,CASC2,Epithelial Ovarian Cancer,"qPCR, Western blot, RIP etc.",down-regulated,29571014.0,3.0
+20,CCAT1,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32124583.0,1.0
+21,CCAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30250403.0,1.0
+22,CCAT1,Ovarian Cancer,qPCR,up-regulated,29424889.0,1.0
+23,CCAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28754469.0,1.0
+24,CCAT1,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,1.0
+25,CCAT2,Ovarian Cancer,Western blot etc.,up-regulated,32230936.0,1.0
+26,CCAT2,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29435081.0,1.0
+27,CCAT2,Ovarian Cancer,"Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,28550684.0,1.0
+28,CCAT2,Ovarian Cancer,"qPCR, RNAi, MTT assay etc.",up-regulated,27283598.0,1.0
+29,CPS1-IT1,Ovarian Cancer,"qPCR, Western blot, Luciferase report assay etc.",down-regulated,28770969.0,1.0
+30,CRNDE,Ovarian Cancer,"Microarray, qPCR etc.",up-regulated,26556866.0,5.0
+31,"CTD-2020K17.1",Ovarian Cancer,"Microarray, qPCR, Western blot, in vitro knockdown etc.",up-regulated,29504606.0,1.0
+32,DANCR,Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,31545000.0,3.0
+33,DANCR,Ovarian Cancer,"qRT-PCR, RIP",up-regulated,31858532.0,3.0
+34,DANCR,Ovarian Cancer,"qRT-PCR , Western blot etc.",up-regulated,31114986.0,3.0
+35,"DARS-AS1",Ovarian Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,30964159.0,2.0
+36,DLEU1,Ovarian Cancer,"qPCR, Western blotting etc.",up-regulated,28598010.0,3.0
+37,DLX6-AS1,Ovarian Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31081076.0,1.0
+38,DLX6-AS1,Ovarian Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31378881.0,1.0
+39,DNM3OS,Epithelial Ovarian Cancer,qPCR etc.,up-regulated,20400975.0,2.0
+40,DSCAM-AS1,Ovarian Cancer,"qRT-PCR , Western blot etc.",up-regulated,31173284.0,4.0
+41,DUXAP10,Ovarian Cancer,qPCR,up-regulated,29424918.0,1.0
+42,"ElncRNA1",Epithelial Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,28714515.0,1.0
+43,EMX2OS,Ovarian Cancer,"qPCR, Luciferase reporter assay, RIP etc.",up-regulated,32273754.0,2.0
+44,"EPB41L4A-AS2",Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31645082.0,1.0
+45,EWSAT1,Ovarian Cancer,Western blot etc.,up-regulated,28979684.0,1.0
+46,"FAL1",Ovarian Cancer,"RT-qPCR, Western blot analysis",down-regulated,31957817.0,1.0
+47,"FAL1",Ovarian Cancer,"qPCR, RNA pull-down assay etc.",up-regulated,25203321.0,1.0
+48,FAM215A,Epithelial Ovarian Cancer,qPCR etc.,differential expression,27667152.0,1.0
+49,FAS-AS1,High Grade Ovarian Serous Cancer,"Microarray, qPCR etc.",up-regulated,29577163.0,1.0
+50,FER1L4,Ovarian Cancer,"qPCR, other",up-regulated,30444026.0,1.0
+51,FEZF1-AS1,Epithelial Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32135030.0,1.0
+52,FEZF1-AS1,Ovarian Cancer,"qPCR, RNAi, Western blot, other",up-regulated,30416194.0,1.0
+53,"FLJ33360",Ovarian Cancer,qPCR,down-regulated,31239715.0,1.0
+54,"FLVCR1-AS1",Ovarian Cancer,"qPCR, Western blot, other",up-regulated,31412903.0,2.0
+55,GAS5,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",down-regulated,29896229.0,15.0
+56,GAS5,Ovarian Cancer,"qPCR, Luciferase reporter assay, other",down-regulated,30201235.0,15.0
+57,GAS5,Epithelial Ovarian Cancer,"Microarray, qPCR, Western blot, in vitro knockdown, RIP",down-regulated,31391118.0,15.0
+58,GAS5,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31314588.0,15.0
+59,GAS5,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",down-regulated,29229673.0,15.0
+60,GAS5,Ovarian Cancer,"qPCR, Cell transfection, Western blot, Cell proliferation assay etc.",down-regulated,27779700.0,15.0
+61,GAS5,Ovarian Cancer,"Microarray, qPCR, RNAi etc.",down-regulated,26503132.0,15.0
+62,GAS5,Ovarian Cancer,"qPCR, luciferase reporter assay, Western blot, etc.",down-regulated,29896229.0,15.0
+63,"GEHT1",Ovarian Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,30988076.0,1.0
+64,GIHCG,Ovarian Cancer,"qPCR, etc.",up-regulated,30556850.0,1.0
+65,"GTSE1-AS1",High Grade Ovarian Serous Cancer,"Microarray, qPCR etc.",down-regulated,29577163.0,1.0
+66,H19,Ovarian Cancer,"RT-qPCR, Western blot",up-regulated,31934077.0,3.0
+67,H19,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30481782.0,3.0
+68,H19,Ovarian Cancer,"RT-PCR, Western blot, in vitro knockdown",up-regulated,29468525.0,3.0
+69,H19,Epithelial Ovarian Cancer,ISH etc.,up-regulated,10428315.0,3.0
+70,H19,Ovarian Cancer,"RNA-seq, qPCR, Western blot etc.",up-regulated,27193186.0,3.0
+71,H19,Ovarian Cancer,"Microarray, qPCR, Western blot etc.",down-regulated,25205099.0,3.0
+72,H19,Ovarian Cancer,"qPCR, RNAi etc.",up-regulated,19656414.0,3.0
+73,H19,Ovarian Cancer,qPCR etc.,differential expression,9856569.0,3.0
+74,H19,Ovarian Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26617715.0,3.0
+75,H19,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,3.0
+76,HAGLROS,Ovarian Cancer,qPCR,up-regulated,31197441.0,1.0
+77,HAND2-AS1,Ovarian Cancer,"qPCR, Western blot",down-regulated,31222748.0,11.0
+78,HAS2-AS1,Ovarian Cancer,"RT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31082772.0,1.0
+79,HMMR-AS1,Epithelial Ovarian Cancer,"qPCR, etc.",up-regulated,30556852.0,1.0
+80,"HOST2",Ovarian Cancer,"RT-qPCR, Western blot analyses",up-regulated,31701766.0,1.0
+81,"HOST2",Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,25292198.0,1.0
+82,HOTAIR,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30205383.0,3.0
+83,HOTAIR,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30570864.0,3.0
+84,HOTAIR,Epithelial Ovarian Cancer,"qPCR, Genotyping etc.",differential expression,27166268.0,3.0
+85,HOTAIR,Ovarian Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,26826873.0,3.0
+86,HOTAIR,Ovarian Cancer,"qPCR, Western blot etc.",down-regulated,26117268.0,3.0
+87,HOTAIR,Ovarian Cancer,qPCR etc.,differential expression,29667992.0,3.0
+88,HOTAIR,Ovarian Cancer,"qPCR, RNAi, Luciferase reporter assay",differential expression,28420874.0,3.0
+89,HOTAIR,Ovarian Cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,27041570.0,3.0
+90,HOTAIR,Ovarian Cancer,"qPCR, RNAi etc.",up-regulated,25824616.0,3.0
+91,HOTAIR,Ovarian Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,25792974.0,3.0
+92,HOTAIR,Ovarian Cancer,qPCR etc.,up-regulated,26497652.0,3.0
+93,HOTAIR,Ovarian Cancer,qPCR etc.,up-regulated,23600210.0,3.0
+94,HOTAIR,Ovarian Cancer,"qPCR, RNAi, Cell migration assay etc.",up-regulated,27484896.0,3.0
+95,HOTAIR,Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,29455183.0,3.0
+96,HOTAIR,Ovarian Cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,26341496.0,3.0
+97,HOTAIR,Ovarian Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,24662839.0,3.0
+98,HOTAIRM1,Ovarian Cancer,"qRT-PCR, Western blot, RIP, Luciferase activity assay",down-regulated,31935390.0,2.0
+99,HOTTIP,Ovarian Cancer,qPCR,up-regulated,31533774.0,1.0
+100,HOTTIP,Ovarian Cancer,"qPCR, Western blot, other",up-regulated,30452402.0,1.0
+101,HOXA11-AS,Ovarian Cancer,"qPCR, Western blot etc.",down-regulated,26430965.0,1.0
+102,"HOXD-AS1",Ovarian Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,30823895.0,12.0
+103,"HOXD-AS1",Ovarian Cancer,"qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29416930.0,12.0
+104,"HOXD-AS1",Epithelial Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29239819.0,12.0
+105,HULC,Ovarian Cancer,RT-qPCR,up-regulated,32046413.0,1.0
+106,HULC,Epithelial Ovarian Cancer,"qPCR, Western blotting etc.",up-regulated,29022892.0,1.0
+107,JPX,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30556851.0,1.0
+108,KCNMA1-AS1,Epithelial Ovarian Cancer,"qPCR, Western blot",up-regulated,31210304.0,1.0
+109,KCNQ1OT1,Ovarian Cancer,"qRT-PCR, Luciferase reporter assay",up-regulated,31909901.0,1.0
+110,KCNQ1OT1,Ovarian Cancer,Western blotting,up-regulated,31696465.0,1.0
+111,"LEF1-AS1?",Ovarian Cancer,qRT-PCR,up-regulated,32099465.0,2.0
+112,"LIMT",Epithelial Ovarian Cancer,"qRT-PCR, Western blotting etc.",down-regulated,31062668.0,7.0
+113,LINC-ROR,Ovarian Cancer,qPCR etc.,up-regulated,26314857.0,2.0
+114,LINC-ROR,Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,29050257.0,2.0
+115,LINC-ROR,Ovarian Cancer,"qRT-PCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31829305.0,2.0
+116,LINC00092,Ovarian Cancer,"Microarray, qPCR, RNAi, RNA pull-down assay etc.",up-regulated,28087599.0,1.0
+117,"LINC00152",Ovarian Cancer,"qPCR, Microarray etc",up-regulated,31799647.0,5.0
+118,"LINC00152",Ovarian Cancer,"qPCR, Western blot, luciferase reporter assay, RIP",up-regulated,30030896.0,5.0
+119,LINC00161,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30556928.0,2.0
+120,LINC00312,Ovarian Cancer,"qPCR, Western blot",down-regulated,29952351.0,1.0
+121,LINC00312,Ovarian Cancer,"qPCR, Western blot, Flow cytometry, etc.",down-regulated,29952351.0,1.0
+122,LINC00319,Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot, other",up-regulated,30442370.0,1.0
+123,LINC00339,Ovarian Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,31550677.0,6.0
+124,LINC00460,Epithelial Ovarian Cancer,"qPCR, Western blot, RNAi, Luciferase reporter assay, other",up-regulated,30372802.0,2.0
+125,LINC00472,Epithelial Ovarian Cancer,qPCR etc.,differential expression,27667152.0,4.0
+126,LINC00504,Ovarian Cancer,"qRT-PCR, Western blot, Luciferase reporter assay",up-regulated,31691157.0,1.0
+127,LINC00511,Ovarian Cancer,"qRT-PCR, Western blot analysis, RIP",up-regulated,31920390.0,1.0
+128,LINC00511,Ovarian Cancer,"qRT-PCR , RIP , in vitro knockdown etc.",up-regulated,31016892.0,1.0
+129,LINC00515,Ovarian Cancer,"RNA-seq, qPCR, Western blot etc.",down-regulated,27193186.0,1.0
+130,LINC00565,Ovarian Cancer,"qRT-PCR, Western blot analysis",up-regulated,31819497.0,1.0
+131,LINC00963,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32021459.0,1.0
+132,LINC01088,Epithelial Ovarian Cancer,"qPCR, other",down-regulated,30280763.0,1.0
+133,LINC01088,Ovarian Cancer,"Microarray, RT-qPCR, Western blot, Luciferase reporter assay",down-regulated,29440672.0,1.0
+134,LINC01118,Epithelial Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30521855.0,1.0
+135,"LINC01125",Ovarian Cancer,"qRT-PCR, Dual luciferase reporter assay, RIP",down-regulated,31865363.0,1.0
+136,LINC01127,Ovarian Cancer,"qPCR, Western blot",up-regulated,30787997.0,1.0
+137,LINC01210,Ovarian Cancer,"qPCR, RIP",up-regulated,31514068.0,1.0
+138,"LINK-A",Epithelial Ovarian Cancer,qPCR etc.,up-regulated,32333582.0,1.0
+139,"LINK-A",Ovarian Cancer,"qPCR, Western blot",up-regulated,30912527.0,1.0
+140,"LINK-A",Ovarian Cancer,"qPCR, Western blot",up-regulated,30061183.0,1.0
+141,LINP1,Ovarian Cancer,"qRT-PCR, Western blot analysis",up-regulated,31957816.0,1.0
+142,"lnc-OC1",Ovarian Cancer,"qPCR, luciferase report assay, Western blot, in vitro knockdown",up-regulated,29576507.0,1.0
+143,lncRNA-ATB,Ovarian Cancer,"qRT-PCR, Western blot",down-regulated,32021299.0,1.0
+144,lncRNA-ATB,Ovarian Cancer,"RT-qPCR, Western blot",down-regulated,32010258.0,1.0
+145,LOXL1-AS1,Ovarian Cancer,"qRT-PCR, RIP",up-regulated,32058209.0,5.0
+146,LSINCT5,Ovarian Cancer,"qPCR, Northern blot etc.",up-regulated,21532345.0,1.0
+147,LSINCT5,Epithelial Ovarian Cancer,"qPCR, RNAi etc.",up-regulated,29755595.0,1.0
+148,LUCAT1,Ovarian Cancer,RT-qPCR,up-regulated,32141534.0,2.0
+149,LUCAT1,Ovarian Cancer,"qPCR, Luciferase reporter assay",up-regulated,30107913.0,2.0
+150,LUCAT1,Ovarian Cancer,"RNA-seq, qPCR, Western blot etc.",up-regulated,27193186.0,2.0
+151,MAGI1-IT1,Epithelial Ovarian Cancer,"Microarray , qRT-PCR , Western blot , in vitro knockdown etc.",down-regulated,31122127.0,1.0
+152,MAGI2-AS3,High Grade Ovarian Serous Cancer,"RNA-seq, qRT-PCR",down-regulated,31842477.0,4.0
+153,MALAT1,Ovarian Cancer,"qPCR, Western blot",up-regulated,29949143.0,3.0
+154,MALAT1,Ovarian Cancer,qPCR,up-regulated,30003749.0,3.0
+155,MALAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",differential expression,29874124.0,3.0
+156,MALAT1,Ovarian Cancer,"qPCR, Microarray, other",up-regulated,30294913.0,3.0
+157,MALAT1,Epithelial Ovarian Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30585260.0,3.0
+158,MALAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, etc.",up-regulated,31496733.0,3.0
+159,MALAT1,Epithelial Ovarian Cancer,"qPCR, western blot etc.",up-regulated,28770968.0,3.0
+160,MALAT1,Epithelial Ovarian Cancer,qPCR etc.,up-regulated,27446438.0,3.0
+161,MALAT1,Epithelial Ovarian Cancer,"qPCR, Western blot, RNAi etc.",up-regulated,29693187.0,3.0
+162,MALAT1,Ovarian Cancer,"qPCR, Luciferase reporter assay etc.",up-Regulated,28899458.0,3.0
+163,MALAT1,Ovarian Cancer,"Microarray, qPCR, in vitro knockdown etc.",up-regulated,27313681.0,3.0
+164,MALAT1,Ovarian Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,28031721.0,3.0
+165,MALAT1,Ovarian Cancer,"qPCR, Western blot, RIP etc.",down-regulated,29548748.0,3.0
+166,MALAT1,Ovarian Cancer,qPCR etc.,up-regulated,28587379.0,3.0
+167,MALAT1,Ovarian Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,27565324.0,3.0
+168,MALAT1,Ovarian Cancer,"qPCR, Western blot, Flow cytometry assay, Cell proliferation assay, in vitro knockdown etc.",up-regulated,27227769.0,3.0
+169,MALAT1,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,3.0
+170,MALAT1,Ovarian Cancer,"qPCR, Western blot, Flow cytometry, etc.",up-regulated,29949143.0,3.0
+171,MALAT1,Ovarian Cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,29874124.0,3.0
+172,MEG3,Ovarian Cancer,"RT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31161607.0,15.0
+173,MEG3,Ovarian Cancer,"qPCR, Microarray, other",down-regulated,30310931.0,15.0
+174,MEG3,Ovarian Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay, RIP",differential expression,31638182.0,15.0
+175,MEG3,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, Flow cytometry assay, CCK-8 assay etc.",up-regulated,28175963.0,15.0
+176,MEG3,Epithelial Ovarian Cancer,"qPCR, Western blot, RIP",down-regulated,28423647.0,15.0
+177,MEG3,Epithelial Ovarian Cancer,"qPCR, MSP-PCR, Western blot, Luciferase reporter assay etc.",down-regulated,24859196.0,15.0
+178,MIAT,Ovarian Cancer,"Western blot, Luciferase reporter assay etc",up-regulated,32186927.0,4.0
+179,MIAT,Ovarian Cancer,"qPCR, Luciferase assay, other",up-regulated,30393480.0,4.0
+180,MIF-AS1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32196575.0,1.0
+181,MIR503HG,Ovarian Cancer,"Dual luciferase assay, qRT-PCR",down-regulated,31907059.0,1.0
+182,"MLK7-AS1",Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30249278.0,1.0
+183,MNX1-AS1,Ovarian Cancer,qPCR,up-regulated,29271994.0,1.0
+184,MNX1-AS1,Ovarian Cancer,"qPCR, Western blot",up-regulated,28414551.0,1.0
+185,MNX1-AS1,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,1.0
+186,NBAT1,Ovarian Cancer,"qPCR, Western blot etc.",down-regulated,28435289.0,1.0
+187,"NCK1-AS1",Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,31761329.0,3.0
+188,NEAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29790629.0,2.0
+189,NEAT1,Ovarian Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,30154460.0,2.0
+190,NEAT1,Ovarian Cancer,"qPCR, luciferase reporter assay, Western blot etc.",up-regulated,29180871.0,2.0
+191,NEAT1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,27075229.0,2.0
+192,NEAT1,Ovarian Cancer,qPCR etc.,up-regulated,27608895.0,2.0
+193,NEAT1,Ovarian Cancer,"qPCR, western blot etc.",up-regulated,29790629.0,2.0
+194,NNT-AS1,Ovarian Cancer,"qPCR, in vitro knockdown",down-regulated,29805655.0,1.0
+195,NNT-AS1,Ovarian Cancer,qPCR etc.,down-regulated,29805655.0,1.0
+196,NORAD,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32141533.0,1.0
+197,NORAD,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31299866.0,1.0
+198,NORAD,Epithelial Ovarian Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31250987.0,1.0
+199,"NR_023915",Ovarian Cancer,qPCR,up-regulated,29805570.0,1.0
+200,"NR_038435",Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,28128423.0,1.0
+201,"NR_038464",Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,28128423.0,1.0
+202,OIP5-AS1,Ovarian Cancer,qPCR etc.,down-regulated,29219179.0,4.0
+203,"OR3A4",Ovarian Cancer,"qPCR, Western blot, RIP",up-regulated,30964160.0,1.0
+204,"OVAL",Ovarian Cancer,"RNA-seq, qPCR etc.",down-regulated,24265805.0,1.0
+205,PANDAR,Ovarian Cancer,"qPCR, Western blot, RNAi, RIP, other",up-regulated,30375398.0,1.0
+206,PCAT1,Ovarian Cancer,"qPCR, Luciferase reporter assay",up-regulated,30899305.0,1.0
+207,PCAT1,Epithelial Ovarian Cancer,"RT-qPCR, Western blotting",up-regulated,31934037.0,1.0
+208,PCAT1,Ovarian Cancer,"qPCR, Western blot",up-regulated,31210290.0,1.0
+209,PCAT6,Ovarian Cancer,"qPCR, Western blot",up-regulated,31646553.0,2.0
+210,PCGEM1,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29949791.0,2.0
+211,PCGEM1,Ovarian Cancer,"qPCR, Western blot, etc.",up-regulated,29949791.0,2.0
+212,"PTAF",Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29929545.0,1.0
+213,"PTAF",Ovarian Cancer,"qPCR, Western blot, etc.",up-regulated,29929545.0,1.0
+214,PVT1,Ovarian Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,29957467.0,1.0
+215,PVT1,Ovarian Cancer,"qPCR, Western blot, other",up-regulated,30468460.0,1.0
+216,PVT1,Ovarian Cancer,"qPCR, Western blot, RIP, other",up-regulated,30197791.0,1.0
+217,PVT1,Ovarian Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31222482.0,1.0
+218,PVT1,Ovarian Cancer,"qPCR, RNAi etc.",down-regulated,26097562.0,1.0
+219,PVT1,Ovarian Cancer,qPCR etc.,up-regulated,17908964.0,1.0
+220,PVT1,Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,26884974.0,1.0
+221,PVT1,Ovarian Cancer,"qPCR, Cell proliferation assay, Flow cytometric assay, Luciferase reporter assay, etc.",up-regulated,29957467.0,1.0
+222,RAD51-AS1,Epithelial Ovarian Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28667302.0,1.0
+223,RHPN1-AS1,Epithelial Ovarian Cancer,"qRT-PCR, Western blot, Microarray",up-regulated,32163372.0,1.0
+224,SNHG1,Ovarian Cancer,"qPCR, Western blot",up-regulated,29424921.0,12.0
+225,SNHG12,Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30964158.0,8.0
+226,SNHG14,Ovarian Cancer,"qRT-PCR, Western blot analysis",up-regulated,31841176.0,1.0
+227,SNHG14,Ovarian Cancer,"qRT-PCR , RIP , in vitro knockdown etc.",up-regulated,31173283.0,1.0
+228,SNHG16,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29461589.0,4.0
+229,SNHG20,Epithelial Ovarian Cancer,"qPCR, Western blot",up-regulated,30846486.0,1.0
+230,SNHG20,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown, RNAi",up-regulated,29101241.0,1.0
+231,SNHG22,Epithelial Ovarian Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31581131.0,1.0
+232,SNHG3,Ovarian Cancer,"qPCR, Western blot",up-regulated,29921511.0,2.0
+233,SNHG3,Ovarian Cancer,"qPCR, Western blot, etc.",up-regulated,29921511.0,2.0
+234,SNHG5,Ovarian Cancer,"qRT-PCR, Luciferase reporter assay, RIP",down-regulated,31884343.0,1.0
+235,"SOX2OT",Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29434823.0,6.0
+236,SPRY4-IT1,Ovarian Cancer,"qPCR, Western blot etc.",down-regulated,28691641.0,1.0
+237,SPRY4-IT1,Ovarian Cancer,"qPCR, RNAi, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28129625.0,1.0
+238,TDRG1,Epithelial Ovarian Cancer,"RT-PCR, Western blot, Luciferase reporter assay",up-regulated,28984384.0,3.0
+239,TINCR,Ovarian Cancer,qPCR,up-regulated,31545411.0,1.0
+240,TLR8-AS1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,32278547.0,1.0
+241,TP73-AS1,Ovarian Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29904939.0,5.0
+242,TP73-AS1,Epithelial Ovarian Cancer,"RT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,31105851.0,5.0
+243,TP73-AS1,Ovarian Cancer,"qPCR, Western blot, etc.",up-regulated,29904939.0,5.0
+244,TPT1-AS1,Epithelial Ovarian Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30941821.0,1.0
+245,TTN-AS1,Ovarian Cancer,qRT-PCR,down-regulated,32049388.0,2.0
+246,TTN-AS1,Ovarian Cancer,"qRT-PCR, Western blot, RIP",up-regulated,32006899.0,2.0
+247,TUG1,Ovarian Cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32189969.0,8.0
+248,TUG1,Ovarian Cancer,"qRT-PCR, Luciferase activity assay, Western blotting",up-regulated,31930662.0,8.0
+249,TUG1,Epithelial Ovarian Cancer,"qPCR, Western blot, other",up-regulated,30349317.0,8.0
+250,TUG1,Epithelial Ovarian Cancer,"qPCR, Western blot, other",up-regulated,30200102.0,8.0
+251,TUG1,Epithelial Ovarian Cancer,"qPCR, Western blot etc.",up-regulated,29742691.0,8.0
+252,TUG1,Ovarian Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27693324.0,8.0
+253,UCA1,Ovarian Cancer,"qRT-PCR, Western blot",up-regulated,32016960.0,1.0
+254,UCA1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29777711.0,1.0
+255,UCA1,Ovarian Cancer,"qRT-PCR , Microarray etc.",up-regulated,31011626.0,1.0
+256,UCA1,Epithelial Ovarian Cancer,"RNA-seq, qPCR, Western blot, RIP",differential expression,31307004.0,1.0
+257,UCA1,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31234009.0,1.0
+258,UCA1,Epithelial Ovarian Cancer,"qPCR, RNAi, RIP, Luciferase reporter assay etc.",up-regulated,26867765.0,1.0
+259,UCA1,Ovarian Cancer,qPCR etc.,up-regulated,26851957.0,1.0
+260,UCA1,Ovarian Cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,25866223.0,1.0
+261,UCA1,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,24379988.0,1.0
+262,UCA1,Ovarian Cancer,qPCR,up-regulated,29953778.0,1.0
+263,UCA1,Ovarian Cancer,"qPCR, western blot etc.",up-regulated,29777711.0,1.0
+264,UNC5B-AS1,Ovarian Cancer,"RT-qPCR, Western blot, Dual Luciferase reporter analysis, RIP",up-regulated,31903696.0,1.0
+265,WDFY3-AS2,Ovarian Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31347170.0,12.0
+266,XIST,Epithelial Ovarian Cancer,qPCR,up-regulated,31564909.0,1.0
+267,XIST,Ovarian Cancer,"qPCR, Dual luciferase reporter assay, Western blotting",down-regulated,31930432.0,1.0
+268,XIST,Epithelial Ovarian Cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30207107.0,1.0
+269,XIST,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,17143508.0,1.0
+270,XIST,Ovarian Cancer,"Microarray, qPCR etc.",down-regulated,12492109.0,1.0
+271,ZFAS1,Ovarian Cancer,qPCR etc.,up-regulated,28154416.0,5.0
+272,ZFAS1,Epithelial Ovarian Cancer,"qPCR, Cell transfection, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,28099946.0,5.0
+273,ZNF300P1,Epithelial Ovarian Cancer,"qPCR, RNAi, MSH-PCR etc.",up-regulated,24393131.0,1.0

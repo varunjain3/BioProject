@@ -1,0 +1,774 @@
+0,ADAMTS9-AS2,Non Small Cell Lung Cancer,"Microarray, qPCR etc.",down-regulated,25590602.0,1.0
+1,ADAMTS9-AS2,Lung Cancer,"Microarray, qPCR, Western blot etc",down-regulated,29707897.0,1.0
+2,AFAP1-AS1,Non Small Cell Lung Cancer,qPCR,up-regulated,29963138.0,1.0
+3,AFAP1-AS1,Non Small Cell Lung Cancer,"RNA-seq, qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29793547.0,1.0
+4,AFAP1-AS1,Non Small Cell Lung Cancer,"RT-PCR, Luciferase Reporter Assay, RIP, Western blot analysis",up-regulated,31696057.0,1.0
+5,AFAP1-AS1,Non Small Cell Lung Cancer,"qRT-PCR , RIP , Western blot , RNAi , in vitro knockdown etc.",up-regulated,31069893.0,1.0
+6,AFAP1-AS1,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, RNA-seq, other",up-regulated,30293090.0,1.0
+7,AFAP1-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, RNAi, other",up-regulated,30278439.0,1.0
+8,AFAP1-AS1,Non Small Cell Lung Cancer,qPCR,up-regulated,29080690.0,1.0
+9,AFAP1-AS1,Lung Squamous Cell Carcinoma,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,27797003.0,1.0
+10,AFAP1-AS1,Lung Cancer,"RNA-seq, qPCR, Western blot etc.",up-regulated,26245991.0,1.0
+11,AFAP1-AS1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,26463625.0,1.0
+12,AFAP1-AS1,Lung Adenocarcinoma,qPCR etc.,up-regulated,28670387.0,1.0
+13,AFAP1-AS1,Lung Adenocarcinoma,"RNA-seq, qPCR etc.",up-regulated,27826625.0,1.0
+14,AFAP1-AS1,Lung Cancer,"qPCR, Western blot",up-regulated,29212176.0,1.0
+15,AFAP1-AS1,Lung Adenocarcinoma,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,27797003.0,1.0
+16,AFAP1-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP etc.",up-regulated,29793547.0,1.0
+17,AFAP1-AS1,Non Small Cell Lung Cancer,"qPCR, etc.",up-regulated,29963138.0,1.0
+18,AGAP2-AS1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,32015683.0,1.0
+19,AGAP2-AS1,Non Small Cell Lung Cancer,qPCR,up-regulated,28617550.0,1.0
+20,AGAP2-AS1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,27195672.0,1.0
+21,"ANCR",Non Small Cell Lung Cancer,"qRT-PCR, RIP",up-regulated,32096155.0,3.0
+22,"ANCR",Non Small Cell Lung Cancer,"qPCR, Western blot",down-regulated,30154397.0,3.0
+23,ANRIL,Lung Cancer,"qPCR, RNAi, Western blot, Cell apoptosis assay etc.",up-regulated,25964559.0,14.0
+24,ANRIL,Lung Adenocarcinoma,"qPCR, Western blot etc.",up-regulated,28402932.0,14.0
+25,ANRIL,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,29504701.0,14.0
+26,ANRIL,Non Small Cell Lung Cancer,"qPCR, RNAi etc.",up-regulated,26408699.0,14.0
+27,ANRIL,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,27307748.0,14.0
+28,ANRIL,Non Small Cell Lung Cancer,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,25889788.0,14.0
+29,ANRIL,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,25504755.0,14.0
+30,ARHGAP22-IT1,Lung Adenocarcinoma,"Microarray, qPCR",up-regulated,30151992.0,1.0
+31,ASAP1-IT1,Non Small Cell Lung Cancer,Western blot,up-regulated,29364481.0,1.0
+32,ASB16-AS1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,32141556.0,2.0
+33,"AWPPH",Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30953582.0,8.0
+34,"AWPPH",Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30942396.0,8.0
+35,BANCR,Non Small Cell Lung Cancer,PCR,down-regulated,30980423.0,1.0
+36,BANCR,Non Small Cell Lung Cancer,"RT-PCR , Western blot etc.",up-regulated,31114383.0,1.0
+37,BANCR,Lung Cancer,"qPCR, Western blot etc.",down-regulated,25661343.0,1.0
+38,BANCR,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,24655544.0,1.0
+39,BC200 (BCYRN1),Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30779077.0,1.0
+40,BC200 (BCYRN1),Non Small Cell Lung Cancer,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,25482516.0,1.0
+41,BC200 (BCYRN1),Lung Cancer,qPCR etc.,up-regulated,28651607.0,1.0
+42,BC200 (BCYRN1),Lung Cancer,"Northern hybridization, ISH etc.",up-regulated,9422992.0,1.0
+43,BCAR4,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,28077810.0,5.0
+44,BCAR4,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,28537678.0,5.0
+45,BCAR4,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29615150.0,5.0
+48,BLACAT1,Non Small Cell Lung Cancer,"RT-qPCR, RNAi, RIP, Western blot, other",up-regulated,30387831.0,1.0
+49,BLACAT1,Small Cell Lung Cancer,"qPCR, other",up-regulated,30203450.0,1.0
+50,BLACAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31359792.0,1.0
+51,BLACAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28885863.0,1.0
+52,BRE-AS1 (BABAM2-AS1),Non Small Cell Lung Cancer,"qPCR, Western blot, RIP, RNAi, other",down-regulated,30227111.0,1.0
+53,CACNA1G-AS1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot, in vitro knockdown",up-regulated,29509247.0,1.0
+54,"CAR10",Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30617305.0,0.0
+55,"CAR10",Non Small Cell Lung Cancer,qPCR etc.,up-regulated,27322209.0,0.0
+56,CASC11,Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30965130.0,2.0
+57,CASC11,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31378894.0,2.0
+58,CASC15,Non Small Cell Lung Cancer,"qRT-PCR , Luciferase reporter assay , in vitro knockdown etc.",up-regulated,31599419.0,1.0
+59,CASC15,Non Small Cell Lung Cancer,"Microarray, qPCR, Western blot, in vitro knockdown",up-regulated,31396336.0,1.0
+60,CASC19,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay",up-regulated,31389608.0,1.0
+61,CASC2,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc",differential expressed,32271431.0,3.0
+62,CASC2,Lung Adenocarcinoma,"qPCR, RIP, Western blot, Luciferase reporter assay, other",down-regulated,30450692.0,3.0
+63,CASC2,Lung Adenocarcinoma,"qPCR, Western blot etc.",down-regulated,29131257.0,3.0
+64,CASC2,Non Small Cell Lung Cancer,"qPCR, Cell transfection, Flow cytometry assay etc.",down-regulated,26790438.0,3.0
+65,CASC9,Lung Cancer,"Western blot, RT-PCR, RIP",up-regulated,31802910.0,3.0
+66,CASC9,Non Small Cell Lung Cancer,"Microarray, qPCR, RNAi, Cell proliferation assay etc.",up-regulated,28040594.0,3.0
+67,CASC9,Lung Adenocarcinoma,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,27797003.0,3.0
+68,CASC9,Lung Squamous Cell Carcinoma,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,27797003.0,3.0
+69,CCAT1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,32084702.0,1.0
+70,CCAT1,Lung Adenocarcinoma,"qPCR, Western blot",up-regulated,30008869.0,1.0
+71,CCAT1,Non Small Cell Lung Cancer,"qPCR, Western blot etc",up-regulated,32323859.0,1.0
+72,CCAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32227563.0,1.0
+73,CCAT1,Non Small Cell Lung Cancer,qRT-PCR,up-regulated,31933793.0,1.0
+74,CCAT1,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,29020498.0,1.0
+75,CCAT1,Lung Adenocarcinoma,"qPCR, RNAi, Western blot, RIP, Dual luciferase reporter assay, Flow cytometry assay etc.",up-regulated,27566568.0,1.0
+76,CCAT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,25129441.0,1.0
+77,CCAT1,Lung Adenocarcinoma,"qRT-PCR, Western blot analysis",up-regulated,30008869.0,1.0
+78,CCAT2,Lung Cancer,"qPCR, Western blot, other",up-regulated,30214594.0,1.0
+79,CCAT2,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30548656.0,1.0
+80,CCAT2,Small Cell Lung Cancer,"qPCR, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,27470400.0,1.0
+81,CCAT2,Non Small Cell Lung Cancer,"qPCR, RNAi, Cell invasion assay etc.",up-regulated,28088736.0,1.0
+82,CCAT2,Non Small Cell Lung Cancer,"qPCR, RNAi etc.",up-regulated,24504682.0,1.0
+83,CCEPR,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,29630113.0,1.0
+84,CEBPA-AS1,Lung Adenocarcinoma,qPCR,down-regulated,30125988.0,1.0
+85,CPS1-IT1,Lung Cancer,"qPCR, Cell transfection etc.",down-regulated,27662619.0,1.0
+86,CRNDE,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30982057.0,5.0
+87,CRNDE,Lung Adenocarcinoma,"qPCR, Western blot, RIP",up-regulated,28550688.0,5.0
+88,CRNDE,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,28477368.0,5.0
+89,"CUDR",Lung Cancer,qPCR etc.,up-regulated,29731641.0,1.0
+90,CYTOR,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30487160.0,5.0
+98,DDX11-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,32298476.0,1.0
+99,DGCR5,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,29790668.0,5.0
+100,DGCR5,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, RIP etc",up-regulated,31799664.0,5.0
+101,DGCR5,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31241800.0,5.0
+102,DGCR5,Lung Adenocarcinoma,"qPCR, Western blot etc.",up-regulated,29030962.0,5.0
+103,DGCR5,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29663359.0,5.0
+104,DGCR5,Lung Cancer,"qPCR, Western blot, Luciferase report assay etc.",down-regulated,28744397.0,5.0
+105,DGCR5,Lung Cancer,"qPCR, western blot etc.",up-regulated,29790668.0,5.0
+106,DLEU1,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP, etc.",up-regulated,30551552.0,3.0
+109,DLX6-AS1,Non Small Cell Lung Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31612030.0,1.0
+110,DLX6-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30551440.0,1.0
+111,DLX6-AS1,Lung Adenocarcinoma,"Microarray, qPCR, Western blot etc.",up-regulated,26052251.0,1.0
+112,DSCAM-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,32280246.0,4.0
+113,DSCAM-AS1,Lung Cancer,"RNA-seq, qPCR",up-regulated,30981459.0,4.0
+114,DSCAM-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30779076.0,4.0
+115,DUXAP10,Non Small Cell Lung Cancer,"qPCR, RNAi, RIP, western blot",up-regulated,28029651.0,1.0
+116,DUXAP8,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32271433.0,1.0
+117,DUXAP8,Non Small Cell Lung Cancer,"qPCR, RNAi, western blot",up-regulated,28131418.0,1.0
+118,EGFR-AS1,Lung Cancer,RNA-seq,up-regulated,31548386.0,1.0
+119,EGFR-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30431074.0,1.0
+120,EGFR-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30664200.0,1.0
+121,EPB41L4A-AS2,Non Small Cell Lung Cancer,"qPCR, Western blot, other",down-regulated,30249102.0,1.0
+122,EPIC1,Lung Cancer,"qPCR, Western blot, RIP",up-regulated,30029875.0,1.0
+123,"ERICH1-AS1",Non Small Cell Lung Cancer,"Microarray, qPCR etc.",up-regulated,26393913.0,1.0
+124,"FAL1 ",Non Small Cell Lung Cancer,"qPCR, RNA pull-down assay etc.",up-regulated,25203321.0,1.0
+125,"FAL1 ",Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,28854421.0,1.0
+126,FAM83A-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, etc.",up-regulated,30659636.0,1.0
+127,"FAM83H-AS1",Lung Adenocarcinoma,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,28198463.0,1.0
+128,FAS-AS1,Non Small Cell Lung Cancer,"qPCR, Luciferase Reporter Assay etc",down-regulated,32329854.0,1.0
+129,FBXL19-AS1,Lung Adenocarcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31566718.0,1.0
+130,FBXL19-AS1,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30610161.0,1.0
+131,FBXL19-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,31210311.0,1.0
+132,FENDRR,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",down-regulated,31749883.0,2.0
+133,FENDRR,Non Small Cell Lung Cancer,"qPCR, Western blot",down-regulated,30981768.0,2.0
+134,FENDRR,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay",down-regulated,31545237.0,2.0
+135,FENDRR,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, etc.",down-regulated,30556873.0,2.0
+136,FENDRR,Lung Adenocarcinoma,qPCR etc.,down-regulated,26918601.0,2.0
+137,FER1L4,Lung Cancer,"qRT-PCR , Western blot etc.",down-regulated,31115514.0,1.0
+138,FER1L4,Lung Adenocarcinoma,"RNA-seq, qPCR etc.",up-regulated,27826625.0,1.0
+139,FEZF1-AS1,Non Small Cell Lung Cancer,"qPCR, Western blotting, RIP etc.",up-regulated,28858731.0,1.0
+140,FEZF1-AS1,Lung Adenocarcinoma,"qPCR, Western bolt, RIP, ChIP etc.",up-regulated,29262540.0,1.0
+141,FEZF1-AS1,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29510777.0,1.0
+142,FGD5-AS1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot, luciferase reporter assay, RIP",up-regulated,31919528.0,5.0
+143,FLVCR1-AS1,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30309647.0,2.0
+144,FLVCR1-AS1,Lung Cancer,"qPCR, Western blot, etc.",up-regulated,30697812.0,2.0
+145,FOXC2-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP",up-regulated,31396359.0,1.0
+146,FOXD2-AS1,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,31534348.0,1.0
+147,FOXD2-AS1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,28132805.0,1.0
+148,FOXD3-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, luciferase reporter assay etc",up-regulated,32196603.0,4.0
+150,FTX,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",down-regulated,32176463.0,1.0
+151,FTX,Lung Adenocarcinoma,"qPCR, RIP etc.",up-regulated,32226311.0,1.0
+152,GACAT3,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporting assay etc.",up-regulated,29565489.0,1.0
+153,GAPLINC,Non Small Cell Lung Cancer,"qPCR, Western blot, other",up-regulated,31447565.0,2.0
+154,GAPLINC,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30522114.0,2.0
+155,GAS5,Lung Cancer,"qPCR, Luciferase reporter assay, RNAi, Western blot, Microarray, RIP",up-regulated,30926767.0,15.0
+156,GAS5,Lung Cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31186629.0,15.0
+157,GAS5,Non Small Cell Lung Cancer,qRT-PCR etc.,down-regulated,31077615.0,15.0
+158,GAS5,Non Small Cell Lung Cancer,"qRT-PCR, Western blotting etc.",down-regulated,31032916.0,15.0
+159,GAS5,Lung Cancer,qPCR etc.,differential expression,29207621.0,15.0
+160,GAS5,Lung Adenocarcinoma,"qPCR, RNAi etc.",differential expression,26336799.0,15.0
+161,GAS5,Lung Adenocarcinoma,"Microarray, qPCR",up-regulated,25061321.0,15.0
+162,GAS5,Lung Cancer,"qPCR, Western blot, Luciferase activity",up-regulated,28686971.0,15.0
+163,GAS5,Non Small Cell Lung Cancer,qPCR etc.,down-regulated,28339045.0,15.0
+164,GAS5,Non Small Cell Lung Cancer,qPCR etc.,down-regulated,27631209.0,15.0
+165,GAS5,Lung Adenocarcinoma,"qPCR, Western blot etc.",down-regulated,25925741.0,15.0
+166,GAS5,Non Small Cell Lung Cancer,"qPCR, RNAi, Luciferase reporter assay, MTT assay etc.",down-regulated,28117028.0,15.0
+167,GAS5,Non Small Cell Lung Cancer,"qPCR, Dual luciferase reporter assay, MTT assay etc.",down-regulated,28059053.0,15.0
+168,GAS5,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,27338051.0,15.0
+169,GAS5,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,24357161.0,15.0
+170,GAS5-AS1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",down-regulated,27489122.0,1.0
+172,"GASL1 ",Non Small Cell Lung Cancer,"qPCR, Western-Blot, other",down-regulated,30468472.0,1.0
+173,GATA2-AS1,Non Small Cell Lung Cancer,"qRT-PCR , Western blot , RNAi , RIP etc.",down-regulated,31607132.0,1.0
+174,GHET1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,29762836.0,1.0
+175,GMDS-AS1,Lung Adenocarcinoma,"RT-qPCR, Western blot, Luciferase assay",down-regulated,31860169.0,1.0
+176,GNAS-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31267263.0,1.0
+177,GNAS-AS1,Non Small Cell Lung Cancer,"Microarray, qPCR etc.",up-regulated,25394782.0,1.0
+178,H19,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",differential expression,29950144.0,3.0
+179,H19,Lung Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30747209.0,3.0
+180,H19,Lung Cancer,"RT-PCR , Western blot etc.",up-regulated,31190899.0,3.0
+181,H19,Lung Cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31187349.0,3.0
+182,H19,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30280776.0,3.0
+183,H19,lung cancer,"PCR, other",,30219045.0,3.0
+184,H19,Non Small Cell Lung Cancer,"qPCR, Western blo, Luciferase reporter assay, other",up-regulated,30214583.0,3.0
+185,H19,non small cell lung cancer,"qPCR, other",,31424642.0,3.0
+186,H19,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30542738.0,3.0
+187,H19,Lung Adenocarcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,31503013.0,3.0
+188,H19,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RNA interference",up-regulated,31317666.0,3.0
+189,H19,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay",up-regulated,31219199.0,3.0
+190,H19,Small Cell Lung Cancer,"qPCR, Northern blot etc.",up-regulated,8674037.0,3.0
+191,H19,Lung Adenocarcinoma,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,27911863.0,3.0
+192,H19,Lung Cancer,qPCR etc.,up-regulated,29470951.0,3.0
+193,H19,Lung Cancer,qPCR etc.,up-regulated,29731641.0,3.0
+194,H19,Lung Cancer,qPCR etc.,down-regulated,24063685.0,3.0
+195,H19,Lung Cancer,qPCR etc.,up-regulated,16707459.0,3.0
+196,H19,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29693721.0,3.0
+197,H19,Non Small Cell Lung Cancer,"qPCR, RNAi, ChIP, Luciferase reporter assay, Flow cytometry assay etc.",up-regulated,26722426.0,3.0
+198,H19,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,28121347.0,3.0
+199,H19,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Cell migration and invasion assay etc.",differential expression,27607135.0,3.0
+200,H19,Non Small Cell Lung Cancer,"Microarray, qPCR, Cell proliferation assay etc.",up-regulated,25482516.0,3.0
+201,H19,Non Small Cell Lung Cancer,"qPCR, RNAi, ChIP, Luciferase reporter assay etc.",up-regulated,26482621.0,3.0
+202,H19,Lung Cancer,"qPCR, Western blot etc.",up-regulated,29219208.0,3.0
+203,H19,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,28799568.0,3.0
+204,H19,Lung Cancer,"qPCR, etc.",up-regulated,29950144.0,3.0
+205,HAGLR,Lung Adenocarcinoma,"Microarray, qPCR , in vitro knockdown , Western blot , RIP etc.",down-regulated,31194977.0,12.0
+206,HAGLR,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,28443464.0,12.0
+207,HAGLROS,Lung Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31378893.0,1.0
+208,HAND2-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP, etc.",down-regulated,30509963.0,11.0
+209,HAS2-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP etc",up-regulated,32269726.0,1.0
+210,HCP5,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,32104093.0,1.0
+211,HCP5,Lung Adenocarcinoma,"qRT-PCR, in vitro knockdown, Western blot analysis, Chromatin immunoprecipitation etc.",up-regulated,31131047.0,1.0
+212,HCP5,Lung Adenocarcinoma,qPCR,down-regulated,28793054.0,1.0
+213,HIF1A-AS1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,26339353.0,1.0
+214,HLA-F-AS1,Lung Adenocarcinoma,"Microarray, qPCR",down-regulated,30151992.0,2.0
+215,HMLINCRNA717,Non Small Cell Lung Cancer,qPCR etc.,down-regulated,25674259.0,2.0
+216,HMMR-AS1,Lung Adenocarcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31128573.0,1.0
+217,HNF1A-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31243821.0,1.0
+218,HNF1A-AS1,Lung Adenocarcinoma,"qPCR, RNAi, Western blot, RIP etc.",up-regulated,25863539.0,1.0
+219,HNF1A-AS1,Non Small Cell Lung Cancer,"qRT-PCR, Luciferase reporter assay",up-regulated,29289833.0,1.0
+220,HOST2,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,31799663.0,1.0
+221,HOTAIR,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,29805510.0,3.0
+222,HOTAIR,Lung Cancer,"qPCR, Luciferase reporter assay, RIP etc.",differential expressed,32248643.0,3.0
+223,HOTAIR,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30720199.0,3.0
+224,HOTAIR,Small Cell Lung Cancer,"qRT-PCR, Western blotting analysis, Luciferase reporter assays",up-regulated,31934137.0,3.0
+225,HOTAIR,Non Small Cell Lung Cancer,"RT-PCR , Northern blot etc.",up-regulated,31173294.0,3.0
+226,HOTAIR,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,30047193.0,3.0
+227,HOTAIR,Lung Cancer,"qPCR, Western blot, RIP, other",up-regulated,30223276.0,3.0
+228,HOTAIR,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",down-regulated,31475459.0,3.0
+229,HOTAIR,Non Small Cell Lung Cancer,qPCR,up-regulated,28784052.0,3.0
+230,HOTAIR,Small Cell Lung Cancer,"qPCR, RNAi, Western blot, RIP, Flow cytometry assay etc.",up-regulated,26707824.0,3.0
+231,HOTAIR,Small Cell Lung Cancer,"qPCR, RNAi etc.",up-regulated,24591352.0,3.0
+232,HOTAIR,Lung Cancer,"qPCR, Western blot, Flow cytometry assay etc.",up-regulated,27186394.0,3.0
+233,HOTAIR,Lung Adenocarcinoma,"qPCR, Western blot, in vitro knockdown, RNAi",up-regulated,29467862.0,3.0
+234,HOTAIR,Lung Cancer,"qPCR, RNAi etc.",up-regulated,25010625.0,3.0
+235,HOTAIR,Lung Adenocarcinoma,"qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,27460077.0,3.0
+236,HOTAIR,Lung Cancer,"RT-qPCR, Western blot, in vitro knockdown",up-regulated,29080835.0,3.0
+237,HOTAIR,Lung Adenocarcinoma,"qPCR, RNAi etc.",up-regulated,26658322.0,3.0
+238,HOTAIR,Lung Adenocarcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,24155936.0,3.0
+239,HOTAIR,Lung Cancer,qPCR etc.,up-regulated,23668363.0,3.0
+240,HOTAIR,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29187267.0,3.0
+241,HOTAIR,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,26962687.0,3.0
+242,HOTAIR,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,29470986.0,3.0
+243,HOTAIR,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,28121347.0,3.0
+244,HOTAIR,Non Small Cell Lung Cancer,"qPCR, Cell transfection, Western blot etc.",up-regulated,28066612.0,3.0
+245,HOTAIR,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,26088446.0,3.0
+246,HOTAIR,Non Small Cell Lung Cancer,"Microarray, qPCR, Cell proliferation assay etc.",down-regulated,25482516.0,3.0
+247,HOTAIR,Non Small Cell Lung Cancer,"qPCR, Western blot, ChIP, Cell proliferation assay etc.",up-regulated,27695348.0,3.0
+248,HOTAIR,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,23743197.0,3.0
+249,HOTAIR,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,24103700.0,3.0
+250,HOTAIR,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,29805510.0,3.0
+251,HOTAIR,Small Cell Lung Cancer,"qPCR, Western blot, etc.",up-regulated,30596070.0,3.0
+252,HOTAIRM1,Lung Cancer,qRT-PCR,down-regulated,32038606.0,2.0
+253,HOTAIRM1,Non Small Cell Lung Cancer,qRT-PCR,up-regulated,31880484.0,2.0
+254,HOTAIRM1,Lung Adenocarcinoma,qPCR etc.,down-regulated,29662483.0,2.0
+255,HOTTIP,Non Small Cell Lung Cancer,RNA-seq,up-regulated,30819158.0,1.0
+256,HOTTIP,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,31422060.0,1.0
+257,HOTTIP,Small Cell Lung Cancer,"Microarray, qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,29041935.0,1.0
+258,HOTTIP,Lung Adenocarcinoma,"qPCR, Western blot",up-regulated,29272003.0,1.0
+259,HOTTIP,Non Small Cell Lung Cancer,"qPCR, RNAi, Flow cytometry assay etc.",up-regulated,27347311.0,1.0
+260,HOTTIP,Lung Cancer,"qPCR, RNAi etc.",up-regulated,26265284.0,1.0
+261,HOTTIP,Small Cell Lung Cancer,"Microarray,  qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi, RIP",up-regulated,29367594.0,1.0
+262,HOXA-AS2,Non Small Cell Lung Cancer,qRT-PCR,up-regulated,32096154.0,1.0
+263,HOXA-AS2,Non Small Cell Lung Cancer,"qRT-PCR, in vitro knockdown, RIP etc.",up-regulated,31064819.0,1.0
+264,HOXA-AS2,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,31389597.0,1.0
+265,HOXA-AS2,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,31210310.0,1.0
+266,HOXA-AS3,Lung Adenocarcinoma,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29899328.0,2.0
+267,HOXA-AS3,Lung Adenocarcinoma,"qPCR, Western blot, RIP, ChIP, etc.",up-regulated,29899328.0,2.0
+268,HOXA10-AS,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29729275.0,1.0
+269,HOXA11-AS,Non Small Cell Lung Cancer,"RT-qPCR, Western blot Assay, Luciferase Reporter Assay",up-regulated,31908486.0,1.0
+270,HOXA11-AS,Lung Adenocarcinoma,"qPCR, Western blot, RIP, Dual luciferase reporter assay",up-regulated,30099826.0,1.0
+271,HOXA11-AS,Lung Cancer,qPCR etc.,up-regulated,29616096.0,1.0
+272,HOXA11-AS,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,28717185.0,1.0
+273,HOXA11-AS,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,29034803.0,1.0
+274,HOXA11-AS,Non Small Cell Lung Cancer,"qPCR, RIP, Western blotting etc.",up-regulated,28615992.0,1.0
+275,HOXB-AS3,Lung Cancer,"qRT-PCR, Western blot",up-regulated,32039488.0,8.0
+276,"HOXD-AS1",Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,29033588.0,12.0
+277,HSPC324,Lung Adenocarcinoma,RT-qPCR,up-regulated,32068121.0,1.0
+278,HULC,Lung Squamous Cell Carcinoma,"qPCR, Western blot, other",down-regulated,31448453.0,1.0
+279,HULC,Non Small Cell Lung Cancer,"qPCR, Western blot, etc.",up-regulated,30575912.0,1.0
+280,IGF2AS,Non Small Cell Lung Cancer,"qPCR, Western blot",down-regulated,28471495.0,2.0
+281,IRAIN,Non Small Cell Lung Cancer,"qPCR, RNAi, Cell proliferation assay, Cell migration assay etc.",up-regulated,26722412.0,1.0
+282,"JHDM1D-AS1",Non Small Cell Lung Cancer,"PCR, Western blot, RIP",up-regulated,31739208.0,1.0
+283,JPX,Lung Cancer,"RT-qPCR, Luciferase reporter assay, western blotting",up-regulated,31941509.0,1.0
+284,JPX,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31253987.0,1.0
+285,KCNK15-AS1,Lung Cancer,"qPCR, Western blot etc.",up-regulated,31788071.0,1.0
+286,KCNQ1OT1,Non Small Cell Lung Cancer,"qPCR, etc.",up-regulated,31486494.0,1.0
+287,KCNQ1OT1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,29504267.0,1.0
+288,KCNQ1OT1,Lung Adenocarcinoma,"qPCR, Western blot etc.",up-regulated,28600629.0,1.0
+289,"KDM5BAS1",Non Small Cell Lung Cancer,qPCR,up-regulated,31562647.0,2.0
+290,LBX2-AS1,Non Small Cell Lung Cancer,"qPCR, western blot",up-regulated,31539129.0,2.0
+291,LCAL1,Lung Cancer,qPCR,up-regulated,30741368.0,1.0
+292,LCAL1,Lung Cancer,"RNA-seq, qPCR, RNAi etc.",up-regulated,25116943.0,1.0
+293,LEF1-AS1,Lung Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30734202.0,2.0
+294,LEF1-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31386568.0,2.0
+295,LIMD1-AS1,Non Small Cell Lung Cancer,"qPCR, RIP etc.",down-regulated,32239804.0,1.0
+296,LIN28B-AS1,Lung Adenocarcinoma,"qPCR, Microarray, RIP, other",up-regulated,30353165.0,1.0
+297,LINC-ITGB1 (IATPR),Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30485693.0,1.0
+298,LINC-PINT,Lung Cancer,"qRT-PCR, Western blot, RIP",down-regulated,31981466.0,13.0
+299,LINC-PINT,Lung Adenocarcinoma,"qPCR, microarry, RIP etc.",down-regulated,29078818.0,13.0
+300,LINC-ROR,Lung Adenocarcinoma,"qPCR, Western blot, RIP etc.",up-regulated,28388536.0,2.0
+301,LINC-ROR,Non Small Cell Lung Cancer,"qPCR, Western blot, MIT etc.",up-regulated,28459375.0,2.0
+302,LINC-ROR,Lung Cancer,qPCR,up-regulated,29028092.0,2.0
+303,LINC-ROR,Lung Cancer,"qPCR, Western blot",up-regulated,28516515.0,2.0
+304,LINC-UFC1 (LOC112543491),Non Small Cell Lung Cancer,"qPCR, Western blot, RIP etc.",up-regulated,32242003.0,1.0
+305,"LINC00035",Lung Adenocarcinoma,"qPCR, RNAi, Cell proliferation assay etc.",down-regulated,27797003.0,1.0
+306,"LINC00035",Lung Squamous Cell Carcinoma,"qPCR, RNAi, Cell proliferation assay etc.",down-regulated,27797003.0,1.0
+307,LINC00113,Lung Adenocarcinoma,"Microarray, qPCR",up-regulated,30151992.0,1.0
+308,LINC00152 (CYTOR),Lung Adenocarcinoma,"qPCR, RNAi, Western blot, RIP, ChIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28109288.0,5.0
+309,LINC00152 (CYTOR),Lung Cancer,"qPCR, Microarray etc.",up-regulated,28592840.0,5.0
+310,LINC00152 (CYTOR),Lung Adenocarcinoma,qPCR etc.,up-regulated,28819405.0,5.0
+311,LINC00152 (CYTOR),Lung Cancer,qPCR etc.,up-regulated,28787699.0,5.0
+312,LINC00163,Lung Cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",down-regulated,30662806.0,1.0
+313,LINC00173,Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31477834.0,2.0
+314,LINC00210,Non Small Cell Lung Cancer,Luciferase reporter assay etc,up-regulated,32266029.0,1.0
+315,LINC00221,Non Small Cell Lung Cancer,"qRT-PCR, Western blotting etc.",up-regulated,31029744.0,1.0
+316,LINC00222,Lung Adenocarcinoma,"qPCR, Western blot",down-regulated,29990868.0,1.0
+317,LINC00222,Lung Adenocarcinoma,"PCR, Western blot analysis",down-regulated,29990868.0,1.0
+318,LINC00243,Non Small Cell Lung Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31595421.0,1.0
+319,LINC00261,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,32305053.0,1.0
+320,LINC00261,Non Small Cell Lung Cancer,"qPCR, Western blot etc",down-regulated,31772674.0,1.0
+321,LINC00261,Non Small Cell Lung Cancer,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",down-regulated,31115010.0,1.0
+322,LINC00261,Lung Cancer,"qPCR, etc.",down-regulated,30597925.0,1.0
+323,LINC00261,Non Small Cell Lung Cancer,qPCR,down-regulated,29272004.0,1.0
+324,LINC00261,Non Small Cell Lung Cancer,"Microarray, qPCR etc.",down-regulated,25590602.0,1.0
+325,"LINC00277",Non Small Cell Lung Cancer,"Microarray, qPCR, RNAi, Cell proliferation assay etc.",down-regulated,28040594.0,1.0
+326,LINC00312,Lung Adenocarcinoma,"qPCR, Western blot, other",up-regulated,30470227.0,1.0
+327,LINC00312,Non Small Cell Lung Cancer,"qPCR, RNAi, ChIP, Cell proliferation assay etc.",down-regulated,28338293.0,1.0
+328,LINC00319,Lung Cancer,"qPCR, Western blot",up-regulated,28800794.0,1.0
+329,LINC00319,Lung Adenocarcinoma,"qPCR, Luciferase reporter assay etc.",up-regulated,29408583.0,1.0
+330,LINC00324,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30556874.0,1.0
+331,LINC00336,Lung Cancer,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30787392.0,1.0
+332,LINC00337,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP",up-regulated,31632575.0,1.0
+333,LINC00339,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,29906749.0,6.0
+334,LINC00339,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP, Luciferase reporter assays, etc.",up-regulated,29906749.0,6.0
+335,LINC00342,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay",up-regulated,31539128.0,1.0
+336,LINC00342,Non Small Cell Lung Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,27299310.0,1.0
+337,LINC00355,Lung Adenocarcinoma,"Dual luciferase reporter gene assay, RIP, RT-qPCR, Western blot analysis",up-regulated,31689506.0,1.0
+338,LINC00426,Non Small Cell Lung Cancer,qPCR,down-regulated,31691516.0,1.0
+339,LINC00460,Lung Adenocarcinoma,"qPCR, Western blot etc",up-regulated,31789388.0,2.0
+340,LINC00460,Lung Adenocarcinoma,"qPCR, Luciferase reporter assay, other",up-regulated,30359741.0,2.0
+341,LINC00460,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30601026.0,2.0
+342,LINC00460,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,29409808.0,2.0
+343,LINC00461,Lung Adenocarcinoma,"Dual luciferase reporter gene assay, RIP, RT-qPCR, Western blot analysis",up-regulated,31967713.0,14.0
+344,LINC00461,Non Small Cell Lung Cancer,"qRT-PCR, Dual luciferase reporter assay, Western blot",up-regulated,31934717.0,14.0
+345,LINC00467,Lung Adenocarcinoma,"RT-PCR, Western blot analysis, Luciferase assay",up-regulated,31686834.0,1.0
+346,LINC00467,Lung Adenocarcinoma,"RT-qPCR, Western blot analysis, RIP, Luciferase reporter assay",up-regulated,31680321.0,1.0
+347,LINC00467,Lung Adenocarcinoma,"Microarray, RT-qPCR, in vitro knockdown, Western blot, RIP etc.",up-regulated,31180543.0,1.0
+348,LINC00467,Lung Adenocarcinoma,"qRT-PCR, Western blotting, RIP etc.",up-regulated,31027730.0,1.0
+349,LINC00472,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",down-regulated,31382188.0,4.0
+350,LINC00472,Lung Squamous Cell Carcinoma,"Microarray, qPCR etc.",down-regulated,26159226.0,4.0
+351,LINC00472,Lung Adenocarcinoma,qPCR,down-regulated,28793054.0,4.0
+352,LINC00472,Lung Adenocarcinoma,"RNA-seq, qPCR etc.",down-regulated,27826625.0,4.0
+353,LINC00473,Lung Cancer,"Microarray, qPCR, RNA-ISH, FISH etc.",up-regulated,27140397.0,2.0
+354,LINC00511,Lung Cancer,"qPCR, Western blot, RNAi, other",down-regulated,31415720.0,1.0
+355,LINC00511,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31646568.0,1.0
+356,LINC00511,Lung Adenocarcinoma,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,27797003.0,1.0
+357,LINC00511,Lung Squamous Cell Carcinoma,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,27797003.0,1.0
+358,LINC00511,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, RNA pull-down assay etc.",up-regulated,27845772.0,1.0
+359,LINC00519,Lung Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,32297697.0,1.0
+360,LINC00524,Non Small Cell Lung Cancer,"Microarray, qPCR etc.",down-regulated,28040594.0,1.0
+361,LINC00607,Non Small Cell Lung Cancer,PCR,down-regulated,30980423.0,1.0
+362,LINC00628,Lung Adenocarcinoma,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,31557618.0,1.0
+363,LINC00641,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31322545.0,2.0
+364,LINC00662,Lung Cancer,"qPCR, RIP, RNAi, other",up-regulated,30256974.0,1.0
+365,LINC00663,Lung Cancer,qPCR etc.,down-regulated,26743782.0,1.0
+366,LINC00665,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30889481.0,2.0
+367,LINC00665,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30692511.0,2.0
+368,LINC00667,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",differential expressed,32281700.0,1.0
+369,LINC00668,Non Small Cell Lung Cancer,"qRT-PCR, in vitro knockdown , Western blot, Chromatin immunoprecipitation (ChIP) assays, RIP etc.",up-regulated,31150989.0,1.0
+370,LINC00673,Non Small Cell Lung Cancer,PCR,down-regulated,30980423.0,5.0
+371,LINC00673,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30499379.0,5.0
+372,LINC00673,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,28697764.0,5.0
+373,LINC00673,Non Small Cell Lung Cancer,"Microarray, qPCR etc.",up-regulated,25590602.0,5.0
+374,LINC00673,Non Small Cell Lung Cancer,"qPCR, RIP etc.",up-regulated,27027352.0,5.0
+375,LINC00702,Non Small Cell Lung Cancer,"qPCR, RNA-seq",down-regulated,30840927.0,1.0
+376,LINC00707,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,31788103.0,1.0
+377,LINC00707,Lung Adenocarcinoma,"qPCR, Western blot, RNAi",up-regulated,29482190.0,1.0
+378,LINC00852,Lung Adenocarcinoma,"qPCR, Western blot, in vitro knockdown, etc.",differentially expressed,30519313.0,1.0
+379,LINC00858,Lung Cancer,"RT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31131637.0,1.0
+380,LINC00858,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, RNA pull-down assay, CCK-8 assay etc.",up-regulated,28177876.0,1.0
+381,LINC00942,Lung Cancer,qPCR,differential expression,28959951.0,1.0
+382,"LINC00958",Lung Adenocarcinoma,"qRT-qPCR, Western blot",up-regulated,31997940.0,1.0
+383,"LINC00958",Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,31752512.0,1.0
+384,"LINC00958",Non Small Cell Lung Cancer,"qRT-PCR, western blot analysis, Luciferase reporter assay",up-regulated,31855084.0,1.0
+385,LINC00968,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,28926089.0,1.0
+386,LINC00968,Lung Adenocarcinoma,"qPCR, RNAi, Cell proliferation assay etc.",down-regulated,27797003.0,1.0
+387,LINC00968,Lung Squamous Cell Carcinoma,"qPCR, RNAi, Cell proliferation assay etc.",down-regulated,27797003.0,1.0
+388,LINC00982,Lung Adenocarcinoma,qPCR,down-regulated,30132554.0,2.0
+389,LINC01088,Non Small Cell Lung Cancer,"RT-qPCR, western blot, RIP",up-regulated,31811854.0,1.0
+390,LINC01093,Non Small Cell Lung Cancer,"qRT-PCR, Western blotting",up-regulated,31957835.0,3.0
+391,LINC01116,Non Small Cell Lung Cancer,"qRT-PCR, Western blot Analyses",up-regulated,31841994.0,1.0
+392,LINC01123,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31488218.0,3.0
+393,LINC01124,Non Small Cell Lung Cancer,qRT-PCR,down-regulated,32099381.0,1.0
+394,LINC01133,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, RIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26840083.0,1.0
+395,LINC01133,Lung Squamous Cell Carcinoma,"Microarray, qPCR, RNAi etc.",up-regulated,25908174.0,1.0
+396,LINC01186,Lung Cancer,"Microarray, qPCR, RNAi, Western blot, Cell migration and invasion assay etc.",down-regulated,28119085.0,1.0
+397,LINC01194,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,32346298.0,1.0
+398,LINC01234,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,32246902.0,2.0
+399,LINC01234,Non Small Cell Lung Cancer,"qRT-PCR, Luciferase reporter assays, RIP, Western blot analysis",up-regulated,31959200.0,2.0
+400,LINC01234,Non Small Cell Lung Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31106421.0,2.0
+401,LINC01288,Non Small Cell Lung Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31054777.0,1.0
+402,LINC01296,Non Small Cell Lung Cancer,qPCR,up-regulated,30899389.0,2.0
+403,LINC01296,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30240003.0,2.0
+404,LINC01354,Lung Adenocarcinoma,RNA-seq,differential expression,31558162.0,1.0
+405,LINC01354,Lung Cancer,qPCR,up-regulated,31538498.0,1.0
+406,LINC01419,Lung Adenocarcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31582214.0,1.0
+407,LINC01433,Non Small Cell Lung Cancer,"qPCR, Western blot, RNAi etc.",up-regulated,29532622.0,1.0
+408,LINC01436,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30614188.0,1.0
+409,"LINC01510",Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30399588.0,3.0
+410,LINC01512,Lung Adenocarcinoma,qPCR etc.,up-regulated,28569418.0,1.0
+411,LINC01537,Lung Cancer,"RNA-seq, qPCR",down-regulated,31374807.0,1.0
+412,LINC01614,Non Small Cell Lung Cancer,PCR,down-regulated,30980423.0,1.0
+413,LINC01614,Non Small Cell Lung Cancer,qPCR,up-regulated,31348244.0,1.0
+414,LINC02418,Non Small Cell Lung Cancer,"RT-qPCR, Western blot, Luciferase Activity Reporter Assay",up-regulated,31841189.0,1.0
+415,"LINK-A ",Non Small Cell Lung Cancer,"qPCR, Western blot, other",up-regulated,31404323.0,1.0
+416,lncRNA-ATB,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,32092085.0,1.0
+417,lncRNA-ATB,Lung Squamous Cell Carcinoma,"Double-luciferase reporter assay, RT-qPCR, Western blotting analysis",up-regulated,31934791.0,1.0
+418,lncRNA-ATB,Lung Cancer,"qPCR, Western blot",up-regulated,30128006.0,1.0
+419,lncRNA-ATB,Non Small Cell Lung Cancer,"RT-PCR, Western blot",up-regulated,31983095.0,1.0
+420,lncRNA-ATB,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",differential expressed,32256108.0,1.0
+421,lncRNA-ATB,Lung Cancer,"qPCR, Western blot etc.",up-regulated,29693289.0,1.0
+422,lncRNA-ATB,Non Small Cell Lung Cancer,"qPCR, RNAi, Flow cytometry assay etc.",up-regulated,27878433.0,1.0
+423,lncRNA-HEIH,Non Small Cell Lung Cancer,"qPCR, Western blot, other",up-regulated,30230600.0,1.0
+424,lncRNA-LET,Non Small Cell Lung Cancer,"qPCR, Western blot",down-regulated,29416684.0,1.0
+425,lncRNA-LET,Lung Adenocarcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",down-regulated,27896272.0,1.0
+426,lncRNA-LET,Lung Squamous Cell Carcinoma,"qPCR, Western blot, RIP, in vitro knockdown etc.",down-regulated,23395002.0,1.0
+427,lncRNA-MIF,Lung Cancer,"qPCR, Luciferase reporter assay etc.",differential expression,27317567.0,1.0
+428,lncRNA-NEF,Small Cell Lung Cancer,"RT-qPCR, Western blotting etc.",down-regulated,31186707.0,1.0
+429,lncRNA-NEF,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30854054.0,1.0
+430,"lncTCF7",Non Small Cell Lung Cancer,"qPCR, RNAi, ChIP, Dual luciferase reporter assay etc.",up-regulated,27766570.0,1.0
+431,"LOC285194",Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, etc.",down-regulated,30542733.0,1.0
+432,"LOC285194",Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay, Cell proliferation assay, ISH etc.",differential expression,23558749.0,1.0
+433,"LOC554202",Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,31762810.0,4.0
+435,LOC730101,Lung Cancer,"qPCR, Western blot etc.",up-regulated,28943432.0,2.0
+436,LOXL1-AS1,Lung Adenocarcinoma,"qRT-PCR, Western blot",up-regulated,31758653.0,5.0
+437,LOXL1-AS1,Non Small Cell Lung Cancer,qRT-PCR,up-regulated,31737192.0,5.0
+438,LSINCT5,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, RNAi, RIP",up-regulated,29883241.0,1.0
+439,LSINCT5,Lung Cancer,"qPCR, Northern blot etc.",up-regulated,20214974.0,1.0
+440,LSINCT5,Non Small Cell Lung Cancer,"qPCR, RIP, Microarray, Western blot, etc.",up-regulated,29883241.0,1.0
+441,LUADT1,Small Cell Lung Cancer,"RT-qPCR, Western blot",up-regulated,31842825.0,1.0
+442,LUADT1,Lung Adenocarcinoma,"Microarray, qPCR, RNAi, Western blot, RIP, Flow cytometry assay etc.",up-regulated,26291312.0,1.0
+443,LUCAT1,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,31298373.0,2.0
+444,LUCAT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28423699.0,2.0
+445,MA-LINC1,Lung Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26337085.0,3.0
+446,"MAFG-AS1",Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30599080.0,1.0
+447,"MAFG-AS1",Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31211984.0,1.0
+448,MAGI2-AS3,Non Small Cell Lung Cancer,"qPCR, Western blot",down-regulated,32138716.0,4.0
+449,MAGI2-AS3,Lung Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,32021443.0,4.0
+450,MAGI2-AS3,Non Small Cell Lung Cancer,qPCR,down-regulated,29922089.0,4.0
+451,MAGI2-AS3,Non Small Cell Lung Cancer,qPCR,down-regulated,31539127.0,4.0
+452,MAGI2-AS3,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",down-regulated,31910343.0,4.0
+453,MAGI2-AS3,Non Small Cell Lung Cancer,"qPCR, etc.",down-regulated,29922089.0,4.0
+454,MALAT1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,32141554.0,3.0
+455,MALAT1,Lung Adenocarcinoma,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29928414.0,3.0
+456,MALAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29916897.0,3.0
+457,MALAT1,Non Small Cell Lung Cancer,qPCR,up-regulated,29805668.0,3.0
+458,MALAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,29782349.0,3.0
+459,MALAT1,Non Small Cell Lung Cancer,qPCR,up-regulated,30841025.0,3.0
+460,MALAT1,Lung Adenocarcinoma,"RT-qPCR, Western blot",up-regulated,31933847.0,3.0
+461,MALAT1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot assay, Dual luciferase reporter gene assay, RIP",up-regulated,31863664.0,3.0
+462,MALAT1,Lung Cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31133357.0,3.0
+463,MALAT1,Lung Cancer,qPCR,down-regulated,30026840.0,3.0
+464,MALAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30250547.0,3.0
+465,MALAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31240979.0,3.0
+466,MALAT1,Non Small Cell Lung Cancer,qPCR etc.,down-regulated,26946307.0,3.0
+467,MALAT1,Lung Adenocarcinoma,qPCR,up-regulated,26139386.0,3.0
+468,MALAT1,Lung Cancer,qPCR etc.,down-regulated,26137228.0,3.0
+469,MALAT1,Lung Adenocarcinoma,"qPCR, Western blot, RIP, Luciferase reporter assayin vitro knockdown etc.",up-regulated,29575609.0,3.0
+470,MALAT1,Lung Adenocarcinoma,qPCR etc.,differential expression,20937273.0,3.0
+471,MALAT1,Lung Adenocarcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,27294002.0,3.0
+472,MALAT1,Lung Cancer,Western blot etc.,up-regulated,29505924.0,3.0
+473,MALAT1,Lung Cancer,qPCR etc.,up-regulated,29731641.0,3.0
+474,MALAT1,Lung Cancer,"RNAi, qPCR etc.",up-regulated,28615056.0,3.0
+475,MALAT1,Lung Cancer,"qPCR, RNAi, Western blot, Dual luciferase reporter assay etc.",down-regulated,25773124.0,3.0
+476,MALAT1,Lung Cancer,qPCR etc.,up-regulated,23243023.0,3.0
+477,MALAT1,Lung Cancer,"qPCR, Northern blot etc.",differential expression,22491206.0,3.0
+478,MALAT1,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,29215698.0,3.0
+479,MALAT1,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,29439314.0,3.0
+480,MALAT1,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,28623135.0,3.0
+481,MALAT1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,28121347.0,3.0
+482,MALAT1,Non Small Cell Lung Cancer,"qPCR, RNAi etc.",up-regulated,26884862.0,3.0
+483,MALAT1,Non Small Cell Lung Cancer,"Microarray, qPCR, Cell proliferation assay etc.",down-regulated,25482516.0,3.0
+484,MALAT1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,24313945.0,3.0
+485,MALAT1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,22088988.0,3.0
+486,MALAT1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,12970751.0,3.0
+487,MALAT1,Lung Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,29484127.0,3.0
+488,MALAT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,27431200.0,3.0
+489,MALAT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Luciferase reporter assay etc.",up-regulated,26265046.0,3.0
+490,MALAT1,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,25217850.0,3.0
+491,MALAT1,Non Small Cell Lung Cancer,"qPCR, western blot, Luciferase reporter assay",up-regulated,29782349.0,3.0
+492,MALAT1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,29805668.0,3.0
+493,MALAT1,Lung Adenocarcinoma,"qPCR, Western blot, RIP, ChIP, etc.",up-regulated,29928414.0,3.0
+494,MALAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Dual luciferase reporter assays, etc.",up-regulated,29916897.0,3.0
+495,MALAT1,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP etc.",up-regulated,29782349.0,3.0
+496,MBNL1-AS1,Non Small Cell Lung Cancer,"qRT-PCR, RIP",down-regulated,32092823.0,2.0
+497,MBNL1-AS1,Non Small Cell Lung Cancer,"RT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31113460.0,2.0
+498,MCM3AP-AS1,Lung Cancer,"qRT-PCR, RIP, Luciferase reporter assay, Western blot analysis",up-regulated,31693222.0,4.0
+499,MED4-AS1,Non Small Cell Lung Cancer,qPCR,up-regulated,31638253.0,1.0
+500,MEG3,Lung Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",down-regulated,31585300.0,15.0
+501,MEG3,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, other",down-regulated,30280775.0,15.0
+502,MEG3,Non Small Cell Lung Cancer,"qPCR, Western blot, luciferase reporter assay, RIP etc.",down-regulated,29123412.0,15.0
+503,MEG3,Lung Adenocarcinoma,"Microarray, qPCR, Western blot etc.",down-regulated,25992654.0,15.0
+504,MEG3,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",down-regulated,24098911.0,15.0
+505,MEG3,Lung Cancer,"qPCR, RIP, ChIP, Cell migration assay etc.",up-regulated,27852821.0,15.0
+506,MEG3,Lung Cancer,"Microarray, qPCR, Cell transfection, Western blot etc.",down-regulated,27832204.0,15.0
+507,MEG3,Lung Cancer,"qPCR, RNAi, Western blot, MTT assay etc.",down-regulated,26059239.0,15.0
+508,MEG3,Lung Cancer,"qPCR, ISH etc.",down-regulated,14602737.0,15.0
+509,MEG3,Lung Cancer,"qRT-PCR, Western blot",down-regulated,29509250.0,15.0
+510,MEG3,Lung Cancer,"qPCR, Western blot, Cell proliferation assay etc.",down-regulated,27453422.0,15.0
+511,MEG8,Lung Cancer,"qPCR, RIP, other",up-regulated,30262664.0,1.0
+512,"Metalnc9",Non Small Cell Lung Cancer,"qPCR, Northern blot, RIP etc.",up-regulated,28923857.0,1.0
+513,MIAT,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay",up-regulated,29795987.0,4.0
+514,MIAT,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,32345777.0,4.0
+515,MIAT,Non Small Cell Lung Cancer,"RT-qPCR, RNAi, Dual luciferase reporter assay, Western blot analysis",up-regulated,31897168.0,4.0
+516,MIAT,Non Small Cell Lung Cancer,"qRT-PCR , in vitro knockdown etc.",up-regulated,31081093.0,4.0
+517,MIAT,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31298331.0,4.0
+518,MIAT,Lung Cancer,"RNA-seq, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29487526.0,4.0
+519,MIAT,Non Small Cell Lung Cancer,"qPCR, luciferase reporter assay etc.",up-regulated,28843520.0,4.0
+520,MIAT,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,29228680.0,4.0
+521,MIAT,Non Small Cell Lung Cancer,qPCR,differential expression,29795987.0,4.0
+522,MINCR,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,31481083.0,2.0
+523,MIR17HG,Non Small Cell Lung Cancer,"qPCR, Western blot etc",down-regulated,32228546.0,2.0
+524,MIR205HG,Lung Squamous Cell Carcinoma,"qPCR, Western blot etc",up-regulated,32188965.0,5.0
+525,MIR205HG,Lung Cancer,RNA-seq,up-regulated,31548386.0,5.0
+526,MIR210HG,Non Small Cell Lung Cancer,"qRT-PCR , Western blot , RIP etc.",up-regulated,31190878.0,1.0
+527,MIR22HG,Lung Squamous Cell Carcinoma,"Microarray, qPCR etc.",down-regulated,26159226.0,4.0
+528,MIR22HG,Lung Cancer,qPCR etc.,down-regulated,29669758.0,4.0
+529,MIR31HG,Lung Adenocarcinoma,qPCR,up-regulated,30125988.0,4.0
+530,MIR31HG,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30659947.0,4.0
+531,MIR31HG,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30655759.0,4.0
+532,MIR31HG,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,28529576.0,4.0
+533,MIR31HG,Lung Adenocarcinoma,"qPCR, in vitro knockdown etc.",up-regulated,29367106.0,4.0
+534,MIR4435-2HG,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29872866.0,8.0
+535,MIR4435-2HG,Non Small Cell Lung Cancer,"qRT-PCR, Western blot, Luciferase reporter analysis, RIP, RNA-seq",up-regulated,31875359.0,8.0
+536,MIR4435-2HG,Lung Cancer,"qPCR, RIP, Western blot etc.",up-regulated,29872866.0,8.0
+537,MIR503HG,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,31983569.0,1.0
+538,MIR503HG,Non Small Cell Lung Cancer,"qPCR, Western blot etc",down-regulated,32184667.0,1.0
+539,MIR503HG,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",down-regulated,31858550.0,1.0
+540,MNX1-AS1,Non Small Cell Lung Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31118668.0,1.0
+541,MNX1-AS1,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30618167.0,1.0
+542,MNX1-AS1,Lung Adenocarcinoma,"qPCR, in vitro knockdown, etc.",up-regulated,30506837.0,1.0
+543,MUC5B-AS1,Lung Cancer,"qPCR, Western blot etc.",up-regulated,29670111.0,1.0
+544,MYCLo-5,Lung Cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26003165.0,1.0
+545,MYCLo-6,Lung Cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26003165.0,0.0
+546,"MYMLR",Lung Adenocarcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",differential expression,31361039.0,2.0
+547,"NAG7",Non Small Cell Lung Cancer,"Microarray, qPCR etc.",down-regulated,25590602.0,1.0
+548,NBAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, RNAi, RIP, other",up-regulated,30323972.0,1.0
+549,NBAT1,Lung Cancer,"qPCR, Western blot etc.",down-regulated,29687849.0,1.0
+550,NBR2,Non Small Cell Lung Cancer,"qRT-PCR , Western blot etc.",down-regulated,31599420.0,2.0
+551,"NCRNA00210",Non Small Cell Lung Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,23741487.0,1.0
+552,NEAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29864936.0,2.0
+553,NEAT1,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29788922.0,2.0
+554,NEAT1,Lung Cancer,"qPCR, Western blot, RIP etc.",up-regulated,32296457.0,2.0
+555,NEAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, other",up-regulated,30291867.0,2.0
+556,NEAT1,Lung Cancer,"qPCR, Luciferase reporter assay",up-regulated,31646570.0,2.0
+557,NEAT1,Lung Adenocarcinoma,qPCR,up-regulated,26139386.0,2.0
+558,NEAT1,Lung Cancer,"qPCR, RNAi etc.",differential expression,25818739.0,2.0
+559,NEAT1,Lung Cancer,"qPCR, Western blot etc.",up-regulated,29152741.0,2.0
+560,NEAT1,Lung Cancer,"RNA-seq, qPCR, RNAi, Luciferase reporter assay, Cell growth assay etc.",up-regulated,28295289.0,2.0
+561,NEAT1,Lung Cancer,"RNAi, qPCR etc.",up-regulated,28615056.0,2.0
+562,NEAT1,Non Small Cell Lung Cancer,"qPCR, Luciferase activity assay, Western blot etc.",up-regulated,29095526.0,2.0
+563,NEAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Dual luciferase reporter assay etc.",up-regulated,27270317.0,2.0
+564,NEAT1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,25854373.0,2.0
+565,NEAT1,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,29085511.0,2.0
+566,NEAT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, RNA pull-down assay etc.",up-regulated,27351135.0,2.0
+567,NEAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,28762332.0,2.0
+568,NEAT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Cell migration and invasion assay, CCK-8 assay etc.",up-regulated,28239820.0,2.0
+569,NEAT1,Lung Adenocarcinoma,"qPCR, Western blot, ChIP etc.",up-regulated,29788922.0,2.0
+570,NEAT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,29864936.0,2.0
+571,NKILA,Non Small Cell Lung Cancer,"RT-qPCR, Western blotting",down-regulated,31934087.0,1.0
+572,NKILA,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP",down-regulated,28412955.0,1.0
+573,NKX2-1-AS1,Lung Cancer,"RNA-seq, qPCR",up-regulated,30981459.0,1.0
+574,NKX2-1-AS1,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, RNAi, Microarray, other",up-regulated,30258080.0,1.0
+575,NNT-AS1,Lung Cancer,"qPCR, in vitro knockdown, RIP",up-regulated,29857296.0,1.0
+576,NNT-AS1,Non Small Cell Lung Cancer,"qRT-PCR, DualLuciferase Reporter Assay, Western blot",up-regulated,31957837.0,1.0
+577,NNT-AS1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot assay, Dual luciferase reporter assay",up-regulated,31923353.0,1.0
+578,NNT-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,30070323.0,1.0
+579,NNT-AS1,Lung Cancer,qPCR etc.,differential expression,29857296.0,1.0
+580,NORAD,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,32110050.0,1.0
+581,NORAD,Lung Cancer,"qPCR, Luciferase reporter assay, RIP",down-regulated,30967631.0,1.0
+582,NORAD,Non Small Cell Lung Cancer,"RT-qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,31894841.0,1.0
+583,NORAD,Non Small Cell Lung Cancer,"RT-qPCR, Western blot analysis, RIP etc.",up-regulated,31059060.0,1.0
+584,NORAD,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31207175.0,1.0
+585,NR2F2-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30592135.0,3.0
+586,"NR_028500",Lung Squamous Cell Carcinoma,"Microarray, qPCR etc.",up-regulated,28076325.0,1.0
+587,"NR_034174",Lung Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,25758555.0,1.0
+588,"NR_046326",Lung Squamous Cell Carcinoma,"Microarray, qPCR etc.",up-regulated,28076325.0,1.0
+589,"NR_047562",Lung Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,25758555.0,1.0
+590,OIP5-AS1,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29897167.0,4.0
+591,OIP5-AS1,Lung Adenocarcinoma,"qRT-PCR, Western blot, Luciferase reporter assay, RIP",up-regulated,29247949.0,4.0
+592,OIP5-AS1,Lung Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay, etc.",up-regulated,29897167.0,4.0
+593,"P53RRA",Non Small Cell Lung Cancer,"qPCR, in vitro knockdown etc.",down-regulated,29588351.0,4.0
+594,PANDAR,Non Small Cell Lung Cancer,qPCR etc.,down-regulated,28121347.0,1.0
+595,PANDAR,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP etc.",down-regulated,25719249.0,1.0
+596,PART1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,28819376.0,3.0
+597,"PCAN-R1",Non Small Cell Lung Cancer,qPCR etc.,up-regulated,27322209.0,2.0
+598,PCAT1,Non Small Cell Lung Cancer,PCR,down-regulated,30980423.0,1.0
+599,PCAT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30569478.0,1.0
+600,PCAT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,26770456.0,1.0
+601,PCAT19,Non Small Cell Lung Cancer,"RT-qPCR, Western blotting",up-regulated,31819778.0,2.0
+602,PCAT6,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30464520.0,2.0
+603,PCAT6,Non Small Cell Lung Cancer,"qPCR, RIP, Western blot, other",up-regulated,30314898.0,2.0
+604,PCAT6,Lung Cancer,qPCR,differential expression,31336224.0,2.0
+605,PCAT6,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,29238201.0,2.0
+606,PCAT6,Lung Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27458097.0,2.0
+607,PCAT7,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29275424.0,4.0
+608,PICART1,Lung Cancer,"qPCR, Western blot, in vitro knockdown",down-regulated,29940776.0,1.0
+609,PICART1,Lung Cancer,"qPCR, Western blot, etc.",down-regulated,30662662.0,1.0
+610,PICART1,Lung Cancer,"qPCR, Western blot, etc.",down-regulated,29940776.0,1.0
+611,PIK3CD-AS2,Lung Adenocarcinoma,"qRT-PCR, Western blot",up-regulated,32165621.0,3.0
+612,"PLAC2",Non Small Cell Lung Cancer,"qPCR, etc.",down-regulated,31500623.0,1.0
+613,PRKCZ-AS1,Lung Adenocarcinoma,"RT-qPCR, Western blot assay, RIP, Luciferase reporter assay",up-regulated,31939714.0,1.0
+614,PRNCR1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot, Dual luciferase reporter assay, RIP",up-regulated,31912882.0,1.0
+615,PVT1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,32021261.0,1.0
+616,PVT1,Non Small Cell Lung Cancer,qRT-qPCR,up-regulated,32002028.0,1.0
+617,PVT1,Non Small Cell Lung Cancer,RT-PCR,up-regulated,31707347.0,1.0
+618,PVT1,Non Small Cell Lung Cancer,"qPCR, Western blot etc",up-regulated,32202906.0,1.0
+619,PVT1,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc",up-regulated,32197208.0,1.0
+620,PVT1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32184617.0,1.0
+621,PVT1,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30861415.0,1.0
+622,PVT1,Lung Cancer,"Western blot, qPCR, luciferase assays",up-regulated,28731781.0,1.0
+623,PVT1,Lung Cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,28972861.0,1.0
+624,PVT1,Small Cell Lung Cancer,"qPCR, RNAi, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,27904703.0,1.0
+625,PVT1,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,29133127.0,1.0
+626,PVT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26493997.0,1.0
+627,PVT1,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,29115513.0,1.0
+628,PVT1,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",differential expression,28848163.0,1.0
+629,PVT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26490983.0,1.0
+630,PVT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Flow cytometry assay etc.",up-regulated,26908628.0,1.0
+631,PVT1,Non Small Cell Lung Cancer,"qPCR, RNAi etc.",up-regulated,25400777.0,1.0
+632,"PXN-AS1-L",Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30679933.0,1.0
+633,"RERT",Lung Cancer,qPCR,up-regulated,30073577.0,1.0
+634,RGMB-AS1,Lung Adenocarcinoma,"Microarray, qPCR, Western blot etc.",down-regulated,26950071.0,1.0
+635,RGMB-AS1,Non Small Cell Lung Cancer,"Microarray, qPCR, Western blot etc.",up-regulated,26055877.0,1.0
+636,RHPN1-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,30010468.0,1.0
+637,RHPN1-AS1,Non Small Cell Lung Cancer,"PCR, RNA pull-down assay, Luciferase reporter assay, Western blot analysis",down-regulated,30010468.0,1.0
+638,RMRP,Non Small Cell Lung Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31050363.0,1.0
+639,RMRP,Lung Cancer,qPCR,up-regulated,30098474.0,1.0
+640,RMRP,Lung Adenocarcinoma,"qPCR, Cell transfection, Western blot etc.",up-regulated,27906963.0,1.0
+641,RMRP,Lung Cancer,qPCR etc.,differential expression,29872497.0,1.0
+642,ROR1-AS1,Lung Adenocarcinoma,"RT-qPCR, Western blot, RIP",up-regulated,31983094.0,2.0
+643,SLC16A1-AS1,Non Small Cell Lung Cancer,"Microarray, qPCR, vWestern blot",down-regulated,31371390.0,2.0
+644,SLC9A3-AS1,Lung Cancer,qPCR,differential expression,31336224.0,1.0
+645,"SlncR1",Non Small Cell Lung Cancer,"qPCR, western blot",up-regulated,31524254.0,5.0
+646,SNHG1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,31788970.0,12.0
+647,SNHG1,Lung Cancer,qPCR,up-regulated,30098474.0,12.0
+648,SNHG1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31288529.0,12.0
+649,SNHG1,Lung Squamous Cell Carcinoma,"qPCR, Western blot, RNAi",up-regulated,28415044.0,12.0
+650,SNHG1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29466052.0,12.0
+651,SNHG1,Non Small Cell Lung Cancer,"qPCR, RNAi etc.",up-regulated,25818744.0,12.0
+652,SNHG1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,28147312.0,12.0
+653,SNHG1,Lung Cancer,qPCR etc.,differential expression,29872497.0,12.0
+654,SNHG11,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32239719.0,1.0
+655,SNHG12,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30719111.0,8.0
+656,SNHG12,Lung Adenocarcinoma,qPCR,up-regulated,28793054.0,8.0
+657,SNHG12,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,29137407.0,8.0
+658,SNHG14,Non Small Cell Lung Cancer,RT-PCR,up-regulated,32153123.0,1.0
+659,SNHG14,Lung Adenocarcinoma,"RT-qPCR, Luciferase Reporter Gene Assay, RIP",up-regulated,31858549.0,1.0
+660,SNHG14,Non Small Cell Lung Cancer,"qRT-PC, Luciferase reporter assay, RNAi, other",up-regulated,30254102.0,1.0
+661,SNHG14,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31252267.0,1.0
+662,SNHG15,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29771418.0,5.0
+663,SNHG15,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay",up-regulated,30840276.0,5.0
+664,SNHG15,Lung Cancer,"qPCR, Luciferase Reporter Gene Assay, RNAi, other",up-regulated,30402848.0,5.0
+665,SNHG15,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29630731.0,5.0
+666,SNHG15,Non Small Cell Lung Cancer,"qPCR, western blot",up-regulated,29771418.0,5.0
+667,SNHG16,Non Small Cell Lung Cancer,"qRT-PCR, Dual luciferase reporter assay, Western blot",up-regulated,31953899.0,4.0
+668,SNHG16,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30287374.0,4.0
+669,SNHG17,Non Small Cell Lung Cancer,"RNA-seq, qPCR, Western blot, RNAi",up-regulated,31310946.0,14.0
+670,SNHG20,Non Small Cell Lung Cancer,qPCR,up-regulated,30780105.0,1.0
+671,SNHG20,Non Small Cell Lung Cancer,"qRT-PCR, Western blotting",up-regulated,31957836.0,1.0
+672,SNHG20,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,28981099.0,1.0
+673,SNHG3,Non Small Cell Lung Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31602642.0,2.0
+674,SNHG3,Lung Adenocarcinoma,qPCR,up-regulated,30154938.0,2.0
+675,SNHG4,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi",up-regulated,31220419.0,2.0
+676,SNHG5,Lung Adenocarcinoma,"Western blot, in vitro knockdown, Luciferase reporter assay, RNAi etc.",down-regulated,29592872.0,1.0
+677,SNHG6,Non Small Cell Lung Cancer,"RT-PCR, Western blot",up-regulated,32147945.0,4.0
+678,SNHG6,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,32099396.0,4.0
+679,SNHG6,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30257360.0,4.0
+680,SNHG7,Lung Adenocarcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay etc",down-regulated,32201260.0,3.0
+681,SNHG7,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,31486493.0,3.0
+682,SNHG7,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,29131440.0,3.0
+683,SNHG7,Lung Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,27666964.0,3.0
+684,SNHG8,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30275712.0,3.0
+685,SOX2OT,Non Small Cell Lung Cancer,qRT-PCR,up-regulated,31933793.0,6.0
+686,SOX2OT,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30214232.0,6.0
+687,SOX2OT,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,29504701.0,6.0
+688,SOX2OT,Lung Squamous Cell Carcinoma,"qPCR, RNAi, Western blot, RIP etc.",up-regulated,24927902.0,6.0
+689,SOX2OT,Lung Squamous Cell Carcinoma,qPCR etc.,up-regulated,20126410.0,6.0
+690,SOX2OT,Non Small Cell Lung Cancer,"qPCR, RNAi, Flow cytometry assay etc.",up-regulated,26846097.0,6.0
+691,SOX21-AS1,Lung Adenocarcinoma,"qPCR, Western blot etc.",up-regulated,28873379.0,1.0
+692,SPRY4-IT1,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",down-regulated,32308413.0,1.0
+693,SPRY4-IT1,Lung Adenocarcinoma,qPCR,up-regulated,28881629.0,1.0
+694,SPRY4-IT1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",down-regulated,24967960.0,1.0
+695,SPRY4-IT1,Lung Adenocarcinoma,"qPCR, Western blot, RIP",down-regulated,28796375.0,1.0
+696,SRGAP3-AS2,Lung Adenocarcinoma,"Microarray, qPCR",down-regulated,30151992.0,2.0
+697,STEAP2-AS1,Non Small Cell Lung Cancer,qPCR,up-regulated,31638253.0,1.0
+698,TARID,Lung Cancer,"Microarray, qPCR etc.",down-regulated,28119085.0,1.0
+699,TBILA,Non Small Cell Lung Cancer,"qRT-PCR, Western blot",up-regulated,32015683.0,1.0
+700,TBILA,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29908210.0,1.0
+701,TDRG1,Non Small Cell Lung Cancer,"qRT-PCR, RIP",up-regulated,31742752.0,3.0
+702,THUMPD3-AS1,Non Small Cell Lung Cancer,"RT-PCR, Dual Luciferase Reporter Assay, Western blotting",up-regulated,31819483.0,3.0
+703,TINCR,Lung Adenocarcinoma,"qPCR, Luciferase reporter assay, etc.",down-regulated,31497197.0,1.0
+704,TINCR,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP etc.",down-regulated,29324317.0,1.0
+705,TINCR,Non Small Cell Lung Cancer,"Microarray, qPCR, RNAi, RIP etc.",up-regulated,29427662.0,1.0
+706,TINCR,Lung Squamous Cell Carcinoma,"qPCR, RNAi, Cell proliferation assay etc.",down-regulated,27797003.0,1.0
+707,TINCR,Lung Adenocarcinoma,qPCR etc.,down-regulated,26918601.0,1.0
+708,TINCR,Lung Adenocarcinoma,"qPCR, RNAi, Cell proliferation assay etc.",down-regulated,27797003.0,1.0
+709,TM4SF1-AS1,Lung Cancer,"Microarray, qPCR etc.",down-regulated,28119085.0,3.0
+710,TMPO-AS1,Lung Adenocarcinoma,"RT-qPCR, Western blot",up-regulated,32062549.0,1.0
+711,TMPO-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31230752.0,1.0
+712,TNK2-AS1,Non Small Cell Lung Cancer,"RIP, qPCR, other",up-regulated,30454892.0,1.0
+713,TP73-AS1,Lung Adenocarcinoma,"RT-PCR, Western blot",up-regulated,32009796.0,5.0
+714,TP73-AS1,Non Small Cell Lung Cancer,RT-PCR,up-regulated,31749884.0,5.0
+715,TP73-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29803931.0,5.0
+716,TP73-AS1,Non Small Cell Lung Cancer,qRT-PCR etc.,up-regulated,31129247.0,5.0
+717,TP73-AS1,Lung Adenocarcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30541897.0,5.0
+718,TP73-AS1,Non Small Cell Lung Cancer,"Microarray, qPCR etc.",down-regulated,25590602.0,5.0
+719,TP73-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,29803931.0,5.0
+720,TRERNA1,Non Small Cell Lung Cancer,qRT-PCR,up-regulated,32096153.0,1.0
+721,TRPM2-AS,Non Small Cell Lung Cancer,"qPCR, Western blot etc.",up-regulated,28678322.0,1.0
+722,TRPM2-AS,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, CCK-8 assay etc.",up-regulated,28231726.0,1.0
+723,"TSlnc8",Non Small Cell Lung Cancer,"qRT-PCR , Western blot etc.",down-regulated,31601776.0,1.0
+724,TTN-AS1,Lung Adenocarcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31173403.0,2.0
+725,TTN-AS1,Lung Adenocarcinoma,"qRT-PCR, Western blotting, in vitro knockdown etc.",down-regulated,31027732.0,2.0
+726,TTN-AS1,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31363080.0,2.0
+727,TTTY15,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP",down-regulated,31311130.0,2.0
+728,"TUC338",Lung Cancer,"qPCR, Western blot",up-regulated,29424901.0,1.0
+729,TUG1,Non Small Cell Lung Cancer,qPCR,down-regulated,31532756.0,8.0
+730,TUG1,Small Cell Lung Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Flow cytometry assay, Cell migration and invasion assay etc.",up-regulated,28069000.0,8.0
+731,TUG1,Non Small Cell Lung Cancer,"RT-PCR, Western blot",up-regulated,29277771.0,8.0
+732,TUG1,Non Small Cell Lung Cancer,qPCR etc.,down-regulated,28121347.0,8.0
+733,TUG1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",down-regulated,24853421.0,8.0
+734,TUG1,Non Small Cell Lung Cancer,"RNA-seq, qPCR, RIP, Cell proliferation assay etc.",down-regulated,27485439.0,8.0
+735,TUSC7,Non Small Cell Lung Cancer,qPCR etc.,down-regulated,27158360.0,1.0
+737,UCA1,Lung Cancer,"qPCR, Western blot",down-regulated,30001775.0,1.0
+738,UCA1,Non Small Cell Lung Cancer,qPCR,up-regulated,31938341.0,1.0
+739,UCA1,Lung Cancer,qPCR,up-regulated,30918102.0,1.0
+740,UCA1,Lung Cancer,qPCR,up-regulated,30868851.0,1.0
+741,UCA1,Non Small Cell Lung Cancer,"Western blotting, qRT-PCR, Luciferase Reporter Assay, RIP",up-regulated,31951852.0,1.0
+742,UCA1,Lung Cancer,"qPCR, RNAi, Western blot, other",up-regulated,30468471.0,1.0
+743,UCA1,Non Small Cell Lung Cancer,"qPCR, Western blot, etc.",up-regulated,30652341.0,1.0
+744,UCA1,Lung Cancer,"qPCR, etc.",up-regulated,30556875.0,1.0
+745,UCA1,Lung Adenocarcinoma,"Microarray, qPCR",differential expression,29279851.0,1.0
+746,UCA1,Non Small Cell Lung Cancer,"Microarray, qPCR etc.",up-regulated,28040594.0,1.0
+747,UCA1,Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi",up-regulated,29355524.0,1.0
+748,UCA1,Lung Cancer,"luciferase reporter assay, qPCR, western blot etc.",up-regulated,28762326.0,1.0
+749,UCA1,Lung Cancer,qPCR etc.,up-regulated,26380024.0,1.0
+750,UCA1,Lung Cancer,"qPCR, Western blot, Northern blot, Flow cytometry assay etc.",up-regulated,17416635.0,1.0
+751,UCA1,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,26655272.0,1.0
+752,UCA1,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26160838.0,1.0
+753,VPS9D1-AS1,Non Small Cell Lung Cancer,qPCR,up-regulated,30119235.0,1.0
+754,WASIR2,Lung Adenocarcinoma,RNA-seq,differential expression,31558162.0,1.0
+755,WDFY3-AS2,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,32275336.0,12.0
+756,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29812958.0,1.0
+757,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot, RIP etc",up-regulated,32209729.0,1.0
+758,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,31553952.0,1.0
+759,XIST,Lung Adenocarcinoma,"qRT-PCR, Dual luciferase reporter assay, RIP, Western blot analysis,",up-regulated,31968395.0,1.0
+760,XIST,Non Small Cell Lung Cancer,"RT-qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31659146.0,1.0
+761,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31292221.0,1.0
+762,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31646569.0,1.0
+763,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31632587.0,1.0
+764,XIST,Lung Adenocarcinoma,"qPCR, Western blot, RNAi, Luciferase reporter assays etc.",up-regulated,28961027.0,1.0
+765,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot",up-regulated,29130102.0,1.0
+766,XIST,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,26339353.0,1.0
+767,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot, in vitro knockdown, RNAi, RIP etc.",up-regulated,29339211.0,1.0
+768,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,29337100.0,1.0
+769,XIST,Non Small Cell Lung Cancer,"qPCR, RNAi, Western blot, Cell migration and invasion assay, CCK-8 assay etc.",up-regulated,28248928.0,1.0
+770,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot, RNAi, Luciferase reporter assay",up-regulated,28448993.0,1.0
+771,XIST,Non Small Cell Lung Cancer,"qPCR, Western blot, RNA pull-down assay etc.",up-regulated,27501756.0,1.0
+772,XIST,Non Small Cell Lung Cancer,"qPCR, western blot, Luciferase reporter assays etc.",up-regulated,29812958.0,1.0
+773,ZEB2-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot etc",up-regulated,32329850.0,1.0
+774,ZEB2-AS1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot analysis, RIP",up-regulated,31695021.0,1.0
+775,ZEB2-AS1,Lung Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,31497237.0,1.0
+776,ZEB2-AS1,Lung Cancer,"Western blot, in vitro knockdown etc.",up-regulated,29552161.0,1.0
+777,ZFAS1,Non Small Cell Lung Cancer,qPCR,down-regulated,29922089.0,5.0
+778,ZFAS1,Non Small Cell Lung Cancer,"qRT-PCR, Western blot analysis, Luciferase reporter assay",up-regulated,31692094.0,5.0
+779,ZFAS1,Non Small Cell Lung Cancer,"qPCR, Luciferase reporter assay",up-regulated,31378891.0,5.0
+780,ZFAS1,Non Small Cell Lung Cancer,qPCR etc.,up-regulated,28051258.0,5.0
+781,ZFAS1,Non Small Cell Lung Cancer,"qPCR, etc.",down-regulated,29922089.0,5.0
+782,ZFPM2-AS1,Lung Adenocarcinoma,"qRT-PCR, Luciferase reporter assay, RIP, Western blot",up-regulated,31919993.0,2.0
+783,ZFPM2-AS1,Lung Adenocarcinoma,"qRT-PCR, Western blot analysis, Luciferase reporter assay, RIP",up-regulated,31692047.0,2.0
+784,ZFPM2-AS1,Lung Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31297866.0,2.0
+785,ZNF205-AS1,Non Small Cell Lung Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30556283.0,2.0
+786,ZNF295-AS1,Lung Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,25089627.0,3.0
+787,"ZXF1",Lung Adenocarcinoma,"qRT-PCR, Western blot",down-regulated,32160453.0,1.0
+788,"ZXF1",Lung Adenocarcinoma,"Microarray, qPCR, RNAi etc.",up-regulated,24721325.0,1.0

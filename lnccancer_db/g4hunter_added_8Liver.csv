@@ -1,0 +1,769 @@
+0,ACTA2-AS1:4,Liver Cancer,"qPCR, Western blot, etc.",up-regulated,30664183.0,1.0
+1,ACVR2B-AS1,Liver Cancer,other,up-regulated,31886217.0,1.0
+2,AFAP1-AS1,Cholangiocarcinoma,"qPCR, Western blot",up-regulated,28535506.0,1.0
+3,AFAP1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Flow cytometry assay etc.",up-regulated,26892468.0,1.0
+4,AFAP1-AS1,Cholangiocarcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,28938565.0,1.0
+5,AFAP1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Cell proliferation assay etc.",up-regulated,26803513.0,1.0
+6,AGAP2-AS1,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31088485.0,1.0
+7,"aHIF ",Hepatocellular Carcinoma,"Microarray, qPCR etc.",down-regulated,27894309.0,1.0
+8,"ANCR ",Hepatocellular Carcinoma,"qRT-PCR, RIP, Western blotting, Dual luciferase reporter gene assay",up-regulated,31868085.0,3.0
+9,"ANRIL ",Hepatocellular Carcinoma,"qRT-PCR, Western blot, Luciferase Activity Assay, RIP",up-regulated,31679275.0,14.0
+10,"ANRIL ",Hepatocellular Carcinoma,"qRT-PCR, Western blotting, Luciferase reporter analysis, RIP",up-regulated,31670868.0,14.0
+11,"ANRIL ",Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31609763.0,14.0
+12,"ANRIL ",Hepatocellular Carcinoma,"qPCR, Western blot, other",down-regulated,30249208.0,14.0
+13,"ANRIL ",Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,27894309.0,14.0
+14,"ANRIL ",Hepatocellular Carcinoma,"qRT-PCR, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29127494.0,14.0
+15,"ANRIL ",Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,29029488.0,14.0
+16,"ANRIL ",Hepatocellular Carcinoma,"qPCR, RNAi etc.",up-regulated,26045820.0,14.0
+17,"ANRIL ",Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP etc.",up-regulated,25966845.0,14.0
+18,"ANRIL ",Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, ChIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27391317.0,14.0
+19,ASAP1-IT1,Cholangiocarcinoma,"qPCR, Western blot etc.",up-regulated,29653361.0,1.0
+20,ASB16-AS1,Hepatocellular Carcinoma,"qRT-PCR, Dual Luciferase Reporter Assay",up-regulated,31807066.0,2.0
+21,"AWPPH ",Hepatocellular Carcinoma,"qPCR, Western blot, RIP, ChIP etc.",up-regulated,28428004.0,8.0
+22,"BAIAP2-AS1 ",Hepatocellular Carcinoma,"Microarray, qPCR, RNAi etc.",up-regulated,27285756.0,1.0
+23,BANCR,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,29085476.0,1.0
+24,BANCR,Hepatocellular Carcinoma,qPCR etc.,down-regulated,29725471.0,1.0
+25,BANCR,Hepatocellular Carcinoma,"qPCR, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26758762.0,1.0
+26,"BC200 ",Hepatocellular Carcinoma,"RT-qPCR, Western blot analysis",up-regulated,31894342.0,1.0
+27,BCAR4,Liver Cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32319544.0,5.0
+28,BCYRN1,Hepatocellular Carcinoma,"qRT-PCR, Dual luciferase reporter assay, Western bolt",up-regulated,31920461.0,1.0
+29,BCYRN1,Hepatocellular Carcinoma,qPCR,up-regulated,31339046.0,1.0
+30,BLACAT1,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay  etc.",up-regulated,31174090.0,1.0
+31,"BZRAP1-AS1 ",Hepatocellular Carcinoma,"RT-qPCR, Western blot analysis, RIP, Dual luciferase reporter gene assay",up-regulated,31847842.0,9.0
+32,"C10orf91 ",Hepatocellular Carcinoma,RNA-seq,up-regulated,30916406.0,1.0
+33,C1QTNF1-AS1,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31069760.0,2.0
+34,C1QTNF1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,31222560.0,2.0
+35,CACNA1G-AS1,Hepatocellular Carcinoma,qPCR,up-regulated,30908634.0,1.0
+36,"CARLo-5 ",Hepatocellular Carcinoma,"qPCR, Western blot, RIP, ChIP etc.",up-regulated,29050269.0,1.0
+37,CASC11,Hepatocellular Carcinoma,qPCR etc,up-regulated,32194694.0,2.0
+38,CASC11,Hepatocellular Carcinoma,qPCR,up-regulated,30910841.0,2.0
+39,CASC11,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30503497.0,2.0
+40,CASC15,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,29075788.0,1.0
+41,CASC2,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot",down-regulated,31538425.0,3.0
+42,CASC2,Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,31301261.0,3.0
+43,CASC2,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29476051.0,3.0
+44,CASC2,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,29091305.0,3.0
+45,CASC2,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,28716020.0,3.0
+46,CASC2,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",down-regulated,29319182.0,3.0
+47,CASC2,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,28621238.0,3.0
+48,CASC9,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29790588.0,3.0
+49,CASC9,Hepatocellular Carcinoma,other,up-regulated,31908394.0,3.0
+50,CCAT1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay",up-regulated,30773676.0,1.0
+51,CCAT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31218739.0,1.0
+52,CCAT1,Cholangiocarcinoma,qPCR,up-regulated,28387907.0,1.0
+53,CCAT1,Intrahepatic Cholangiocarcinoma,"qPCR, Western blot, Luciferase Reporter Assays etc.",up-regulated,28921383.0,1.0
+54,CCAT1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26433964.0,1.0
+55,CCAT1,Hepatocellular Carcinoma,"qPCR, Western blot, RNAi, Luciferase reporter assay",up-regulated,28381168.0,1.0
+56,CCAT1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot etc.",differential expression,26225650.0,1.0
+57,CCAT1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26191246.0,1.0
+58,CCAT1,Hepatocellular Carcinoma,"qPCR, Western blot, RIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,25884472.0,1.0
+59,CCAT2,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30922920.0,1.0
+60,CCAT2,Cholangiocarcinoma,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,29329034.0,1.0
+61,CCAT2,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase report assay, RIP, ChIP etc.",up-regulated,28744394.0,1.0
+62,CCAT2,Hepatocellular Carcinoma,"qPCR, RNAi, Cell migration and invasion assay etc.",up-regulated,28280353.0,1.0
+63,CCAT2,Hepatocellular Carcinoma,"qPCR, RNAi etc.",up-regulated,27347113.0,1.0
+64,"CCHE1 ",Hepatocellular Carcinoma,"qPCR, RNAi, Flow cytometry assay, MTT assay etc.",up-regulated,27427851.0,1.0
+65,CDKN2B-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,30165194.0,14.0
+66,CDKN2B-AS1,Liver Cancer,"qPCR, Western blot",up-regulated,31646789.0,14.0
+67,CDKN2BAS,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30510148.0,14.0
+68,CEBPA-AS1,Liver Cancer,"qPCR, Western blot, in vitro knockdown, RNAi",up-regulated,31646559.0,3.0
+69,CLLU1,Hepatocellular Carcinoma,RNA-seq,down-regulated,30916406.0,2.0
+70,CPS1-IT1,Hilar Cholangiocarcinoma,"qPCR, Western blot, other",up-regulated,30231247.0,1.0
+71,CPS1-IT1,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,29137263.0,1.0
+72,CPS1-IT1,Hepatocellular Carcinoma,"Microarray, qPCR, RNAi, Western blot, RNA pull-down assay, Cell proliferation assay etc.",down-regulated,27248828.0,1.0
+73,CPS1-IT1,Intrahepatic Cholangiocarcinoma,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,26499888.0,1.0
+74,CRNDE,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29864897.0,5.0
+75,CRNDE,Hepatocellular Carcinoma,RNA-seq,up-regulated,30916406.0,5.0
+76,CRNDE,Hepatocellular Carcinoma,"qRT-PCR, Western blot analysis etc.",up-regulated,31099050.0,5.0
+77,CRNDE,Hepatocellular Carcinoma,"qPCR, Western blot, other",up-regulated,30430650.0,5.0
+78,CRNDE,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30246921.0,5.0
+79,CRNDE,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30230527.0,5.0
+80,CRNDE,Liver Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, RIP, other",up-regulated,31416393.0,5.0
+81,CRNDE,Intrahepatic Cholangiocarcinoma,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,29556285.0,5.0
+82,CRNDE,Hepatoblastoma,"qPCR, RNAi, Western blot, CCK-8 assay, in vitro knockdown etc.",up-regulated,28178668.0,5.0
+83,CRNDE,Hepatocellular Carcinoma,"RNA-seq, qPCR etc.",up-regulated,27499103.0,5.0
+84,CRNDE,Hepatocellular Carcinoma,"RNA-seq, qPCR etc.",up-regulated,26887054.0,5.0
+85,CRNDE,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Dual luciferase reporter assay etc.",up-regulated,27822419.0,5.0
+86,CRNDE,Hepatocellular Carcinoma,qPCR,up-regulated,29221168.0,5.0
+87,CRNDE,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay etc.",up-regulated,29864897.0,5.0
+88,"CTD-2547G23.4 ",Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,29780284.0,1.0
+89,"CUDR ",Hepatocellular Carcinoma,qPCR etc.,down-regulated,27495068.0,1.0
+90,DANCR,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32103983.0,3.0
+91,DANCR,Cholangiocarcinoma,"qPCR, Western blot, luciferase reporter assay etc",up-regulated,32196584.0,3.0
+92,DANCR,Hepatocellular Carcinoma,"qRT-PCR, Western blotting, in vitro knockdown, RIP etc.",up-regulated,31038266.0,3.0
+93,DANCR,Hepatocellular Carcinoma,"qPCR, Western blot, other",up-regulated,30430564.0,3.0
+94,DANCR,Hepatocellular Carcinoma,qPCR etc.,up-regulated,25964079.0,3.0
+95,DANCR,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27919960.0,3.0
+96,DBH-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase assay, RIP",up-regulated,30142544.0,1.0
+97,DBH-AS1,Hepatocellular Carcinoma,"Microarray, qPCR etc.",down-regulated,27894309.0,1.0
+98,DBH-AS1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,26393879.0,1.0
+99,DCST1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30617187.0,2.0
+100,DCST1-AS1,Hepatocellular Carcinoma,"Microarray, qPCR, Western blot",up-regulated,31371999.0,2.0
+101,DCST1-AS1,Hepatocellular Carcinoma,"Microarray, qPCR, Western blot, in vitro knockdown",up-regulated,31364110.0,2.0
+102,DDX11-AS1,Hepatocellular Carcinoma,"qRT-PCR , Western blot , RIP , RNAi , in vitro knockdown etc.",up-regulated,31097223.0,1.0
+103,DGCR5,Hepatocellular Carcinoma,qPCR,up-regulated,31538334.0,5.0
+104,DGCR5,Hepatocellular Carcinoma,"qPCR, Western blot, other",down-regulated,30230592.0,5.0
+105,DGCR5,Hepatocellular Carcinoma,"qPCR, Western blo, Luciferase reporter assay, RNAi, RIP, other",down-regulated,30216442.0,5.0
+106,DGCR5,Hepatocellular Carcinoma,qPCR etc.,down-regulated,27898409.0,5.0
+107,DLEU1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31207081.0,3.0
+108,DLEU2,Hepatocellular Carcinoma,qPCR,up-regulated,32114505.0,3.0
+109,DLEU2,Hepatocellular Carcinoma,"qPCR, Western blot, RIP",up-regulated,31376657.0,3.0
+110,DLGAP1-AS1,Hepatocellular Carcinoma,"qRT-PCR, Western blot (WB) analysis, RIP, Luciferase reporter assay",up-regulated,31949128.0,1.0
+111,DLGAP1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31633236.0,1.0
+112,DLX6-AS1,Liver Cancer,RIP,up-regulated,30805988.0,1.0
+113,DLX6-AS1,Liver Cancer,"Microarray , qRT-PCR , Luciferase reporter assay , Western blot , RIP etc.",up-regulated,31171015.0,1.0
+114,DLX6-AS1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29145165.0,1.0
+115,DSCAM-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31396335.0,4.0
+116,DSCR8,Hepatocellular Carcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,30154476.0,5.0
+117,DUXAP10,Hepatocellular Carcinoma,"qRT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,30996112.0,1.0
+118,DUXAP10,Hepatocellular Carcinoma,"qRT-PCR, Western blotting etc.",up-regulated,31576658.0,1.0
+119,DUXAP8,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32022476.0,1.0
+120,DUXAP8,Hepatocellular Carcinoma,"qRT-PCR , RIP etc.",down-regulated,31571902.0,1.0
+121,EGFR-AS1,Hepatocellular Carcinoma,"Microarray, qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,26271667.0,1.0
+122,EGOT,Hepatocellular Carcinoma,"RT-PCR, Western blot",up-regulated,32021242.0,1.0
+123,EGOT,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,27283940.0,1.0
+124,"EIF3J-AS1",Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RNAi",up-regulated,31421822.0,2.0
+125,ELMO1-AS1,Hepatocellular Carcinoma,"qPCR, etc.",down-regulated,31498334.0,1.0
+126,"EPB41L4A-AS2 ",Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,30971290.0,1.0
+127,"EPIC1",Cholangiocarcinoma,"qPCR, RIP, other",up-regulated,30205958.0,1.0
+128,F11-AS1,Hepatocellular Carcinoma,"RT-qPCR, RIP, Western blot analysis, Dual luciferase reporter assay",down-regulated,31880390.0,2.0
+129,F11-AS1,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31168823.0,2.0
+130,"FAL1 ",Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29421439.0,1.0
+131,FAM215A,Liver Cancer,"qPCR, Western blot, RIP etc.",up-regulated,32295144.0,1.0
+133,FENDRR,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,32251605.0,2.0
+134,FENDRR,Hepatocellular Carcinoma,"qPCR, Western blot, etc.",down-regulated,30573358.0,2.0
+135,FENDRR,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31351327.0,2.0
+136,FER1L4,Hepatocellular Carcinoma,"qPCR, Western blot, other",down-regulated,30382631.0,1.0
+137,FER1L4,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,28759956.0,1.0
+138,FEZF1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,29957463.0,1.0
+139,FEZF1-AS1,Hepatocellular Carcinoma,"qPCR, RNAi, Luciferase reporter assays, other",up-regulated,30365146.0,1.0
+140,FEZF1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, etc.",up-regulated,29957463.0,1.0
+141,"FLJ33360 ",Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32194906.0,1.0
+142,"FLVCR1-AS1 ",Cholangiocarcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,31404302.0,2.0
+143,"FLVCR1-AS1 ",Hepatocellular Carcinoma,"qPCR, in vitro knockdown, Luciferase reporter assay etc.",up-regulated,29574975.0,2.0
+144,FOXD2-AS1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30929558.0,1.0
+145,FOXD2-AS1,Hepatocellular Carcinoma,"RT-qPCR, western blotting, Dual luciferase reporter assay",up-regulated,31841454.0,1.0
+146,FOXD2-AS1,Hepatocellular Carcinoma,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",up-regulated,31004581.0,1.0
+147,FOXD2-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP, RNAi, other",up-regulated,30272362.0,1.0
+148,FOXD2-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31210410.0,1.0
+149,FOXD3-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32191537.0,4.0
+150,FOXP4-AS1,Hepatocellular Carcinoma,qRT-PCR,up-regulated,31695417.0,3.0
+151,FTX,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown, RNAi",up-regulated,29845188.0,1.0
+152,FTX,Hepatocellular Carcinoma,RIP etc.,down-regulated,27065331.0,1.0
+153,FTX,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay, MTT assay etc.",up-regulated,26992218.0,1.0
+154,FTX,Hepatocellular Carcinoma,"qPCR, western blot etc.",up-regulated,29845188.0,1.0
+155,GABPB1-AS1,Hepatocellular Carcinoma,"RT-qPCR, Western blot, RIP",up-regulated,31700067.0,1.0
+156,GACAT3,Liver Cancer,Western blot etc,up-regulated,32266036.0,1.0
+157,GAPLINC,Hepatocellular Carcinoma,"qPCR, Western blot, RNAi, other",up-regulated,31415284.0,2.0
+158,GAS5,Liver Cancer,"qRT-qPCR, Western blot",down-regulated,31705194.0,15.0
+159,GAS5,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, RIP, Western blot",down-regulated,30755815.0,15.0
+160,GAS5,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot",down-regulated,30733959.0,15.0
+161,GAS5,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",down-regulated,31190897.0,15.0
+162,GAS5,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay",down-regulated,31235746.0,15.0
+163,GAS5,Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,29382035.0,15.0
+164,GAS5,Hepatocellular Carcinoma,"qPCR, Western blot, Flow cytometry assay, Cell proliferation assay, ISH etc.",down-regulated,26707238.0,15.0
+165,GAS5,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,26163879.0,15.0
+166,GAS5,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,26109807.0,15.0
+167,GAS5,Hepatocellular Carcinoma,qPCR etc.,down-regulated,25120813.0,15.0
+168,GAS5,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,26404135.0,15.0
+169,GAS5-AS1,Hepatocellular Carcinoma,qPCR etc.,down-regulated,29660898.0,1.0
+170,GAS6-AS1,Hepatocellular Carcinoma,"RT-qPCR, Western blot",up-regulated,32089066.0,1.0
+171,"GAS6-AS2 ",Hepatocellular Carcinoma,"qRT-PCR, luciferase reporter analysis, Western blot",up-regulated,31933797.0,1.0
+172,GAS8-AS1,Hepatocellular Carcinoma,"qPCR, RIP, RNAi, other",down-regulated,30228180.0,1.0
+173,GATA3-AS1,Hepatocellular Carcinoma,RT-qPCR,up-regulated,31871924.0,6.0
+174,GHET1,Hepatocellular Carcinoma,"qPCR, Western blot, RIP etc.",up-regulated,29139562.0,1.0
+175,GHET1,Hepatocellular Carcinoma,"qPCR, Western blot, etc.",up-regulated,28772210.0,1.0
+176,GIHCG,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Northern blot, RIP, ChIP, RNA pull-down assay, Cell proliferation assay etc.",up-regulated,27380494.0,1.0
+177,GMDS-DT,Hepatocellular Carcinoma,"qPCR, other",down-regulated,31423008.0,1.0
+178,H19,Hepatocellular Carcinoma,"RT-PCR, Western blot",up-regulated,31705929.0,3.0
+179,H19,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",differential expression,29968942.0,3.0
+180,H19,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,29800569.0,3.0
+181,H19,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RNAi, RIP, other",up-regulated,30362512.0,3.0
+182,H19,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30543848.0,3.0
+183,H19,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,31298392.0,3.0
+184,H19,Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,31196153.0,3.0
+185,H19,Hepatoblastoma,"qPCR, Northern blot, Southern blot etc.",down-regulated,10404060.0,3.0
+186,H19,Cholangiocarcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay",differential expression,27809873.0,3.0
+187,H19,Liver Cancer,"qPCR, RNAi, Western blot, ChIP, Dual luciferase reporter assay, Cell proliferation assay etc.",up-regulated,26376677.0,3.0
+188,H19,Liver Cancer,qPCR etc.,up-regulated,26272696.0,3.0
+189,H19,Cholangiocarcinoma,"qPCR, Western blot etc.",up-regulated,28528181.0,3.0
+190,H19,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,24939300.0,3.0
+191,H19,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,24761865.0,3.0
+192,H19,Hepatocellular Carcinoma,"qPCR, Western blot, RIP, RNA pull-down assay etc.",differential expression,23811339.0,3.0
+193,H19,Hepatocellular Carcinoma,qPCR etc.,up-regulated,24063685.0,3.0
+194,H19,Hepatocellular Carcinoma,"qPCR, RFLP-PCR etc.",differential expression,18358696.0,3.0
+195,H19,Hepatocellular Carcinoma,"MSP-PCR, Northern blot etc.",up-regulated,17297456.0,3.0
+196,H19,Hepatocellular Carcinoma,"Microarray, qPCR, RNAi, ISH etc.",up-regulated,17786216.0,3.0
+197,H19,Hepatocellular Carcinoma,"qPCR, RNAi, ISH etc.",up-regulated,17786216.0,3.0
+198,H19,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,15736456.0,3.0
+199,H19,Hepatocellular Carcinoma,"qPCR, Western blot, Northern blot, RIP, in vitro knockdown etc.",down-regulated,23222811.0,3.0
+200,H19,Hepatocellular Carcinoma,"qPCR, Northern blot etc.",differential expression,9570364.0,3.0
+201,H19,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,29800569.0,3.0
+202,H19,Hepatocellular Carcinoma,"qRT-PCR, Western blot analysis ect.",up-regulated,30014520.0,3.0
+203,H19,Hepatocellular Carcinoma,"qPCR, Western blot, e luciferase reporter assay, etc.",up-regulated,29968942.0,3.0
+204,H19,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26378581.0,3.0
+205,HAGLROS,Hepatocellular Carcinoma,"qPCR , Luciferase reporter assay , Western blot , RIP etc.",up-regulated,31082725.0,1.0
+206,HAND2-AS1,Liver Cancer,"qRT-PCR, Western blot",down-regulated,32155348.0,11.0
+207,HAND2-AS1,Hepatocellular Carcinoma,"Western blot, RIP etc",down-regulated,32224127.0,11.0
+208,HAND2-AS1,Liver Cancer,"Microarray, qPCR, Western blot, RIP",up-regulated,31334575.0,11.0
+209,HAND2-AS1,Hepatocellular Carcinoma,"qPCR, RNAi, Cell proliferation assay, Cell migration assay etc.",differential expression,28194035.0,11.0
+210,HAR1A,Hepatocellular Carcinoma,"qPCR, other",down-regulated,30304523.0,1.0
+211,HAR1B,Hepatocellular Carcinoma,"qPCR, other",down-regulated,30304523.0,2.0
+212,HCG11,Hepatocellular Carcinoma,"qRT-PCR, Western blot Assay, Dual Luciferase Reporter Assay",up-regulated,31858580.0,1.0
+213,HCG11,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,28677801.0,1.0
+214,HHIP-AS1,Hepatocellular Carcinoma,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",down-regulated,31604528.0,1.0
+215,HNF1A-AS1,Hepatocellular Carcinoma,"Microarray, RT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",down-regulated,29466992.0,1.0
+216,HNF1A-AS1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, ChIP, Cell proliferation assay etc.",up-regulated,28292020.0,1.0
+217,HNF1A-AS1,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,27084450.0,1.0
+218,"HOST2 ",Hepatocellular Carcinoma,"qPCR, Western blot, other",down-regulated,30453302.0,1.0
+219,"HOST2 ",Hepatocellular Carcinoma,"qPCR, RNAi, Flow cytometry assay, CCK-8 assay etc.",up-regulated,28143959.0,1.0
+220,HOTAIR,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32062551.0,3.0
+221,HOTAIR,Liver Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,29849802.0,3.0
+222,HOTAIR,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,29778425.0,3.0
+223,HOTAIR,Hepatocellular Carcinoma,"RNA-seq, qPCR, RIP, Western blot",up-regulated,30943982.0,3.0
+224,HOTAIR,Hepatocellular Carcinoma,"qRT-PCR, Western blot, Luciferase assay",up-regulated,31933720.0,3.0
+225,HOTAIR,Hepatocellular Carcinoma,"qPCR, Western blot, ChIP",up-regulated,30195653.0,3.0
+226,HOTAIR,Cholangiocarcinoma,"qPCR, Western blot",up-regulated,30111807.0,3.0
+227,HOTAIR,Liver Cancer,"qPCR, RNAi, Western blot, RIP etc.",up-regulated,26172293.0,3.0
+228,HOTAIR,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,26962687.0,3.0
+229,HOTAIR,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,26024833.0,3.0
+230,HOTAIR,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,29250186.0,3.0
+231,HOTAIR,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,28731193.0,3.0
+232,HOTAIR,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26378581.0,3.0
+233,HOTAIR,Hepatocellular Carcinoma,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,24663081.0,3.0
+234,HOTAIR,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay etc.",up-regulated,24999034.0,3.0
+235,HOTAIR,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,22289527.0,3.0
+236,HOTAIR,Hepatocellular Carcinoma,qPCR,differential expression,29141248.0,3.0
+237,HOTAIR,Hepatocellular Carcinoma,"qPCR, RNAi, ChIP, Luciferase reporter assay etc.",up-regulated,27895772.0,3.0
+238,HOTAIR,Hepatocellular Carcinoma,qPCR,up-regulated,29115524.0,3.0
+239,HOTAIR,Hepatocellular Carcinoma,"qPCR, RNAi, MTT assay etc.",up-regulated,26998078.0,3.0
+240,HOTAIR,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27301338.0,3.0
+241,HOTAIR,Hepatocellular Carcinoma,qPCR etc.,up-regulated,23292722.0,3.0
+242,HOTAIR,Hepatocellular Carcinoma,"qPCR, RNAi etc.",up-regulated,21327457.0,3.0
+243,HOTAIR,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29778425.0,3.0
+244,HOTAIR,Liver Cancer,"qPCR, western blot etc.",up-regulated,29849802.0,3.0
+245,HOTAIRM1,Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,30070317.0,2.0
+246,HOTTIP,Hepatocellular Carcinoma,qPCR,differential expression,29930469.0,1.0
+247,HOTTIP,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay etc.",up-regulated,25424744.0,1.0
+248,HOTTIP,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,27894309.0,1.0
+249,HOTTIP,Hepatocellular Carcinoma,"qPCR, RNAi, Dual luciferase reporter assay, Cell proliferation assay etc.",up-regulated,26710269.0,1.0
+250,HOTTIP,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,24114970.0,1.0
+251,HOXA-AS2,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30415263.0,1.0
+252,HOXA-AS2,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Cell migration and invasion assay etc.",up-regulated,27855366.0,1.0
+253,HOXA-AS3,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30963785.0,2.0
+254,HOXA11-AS,Hepatocellular Carcinoma,"RT-qPCR, Western blot",up-regulated,31757938.0,1.0
+255,HOXA11-AS,Hepatocellular Carcinoma,"qPCR, Western blot, RIP, etc.",up-regulated,31493246.0,1.0
+256,HOXA11-AS,Hepatocellular Carcinoma,"Microarray, qPCR, Western blot etc.",down-regulated,29312625.0,1.0
+257,HOXA11-AS,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,29761918.0,1.0
+258,HOXA11-AS,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,28829501.0,1.0
+259,HOXB-AS3,Hepatocellular Carcinoma,"qPCR, RIP, Western blot, other",up-regulated,30402841.0,8.0
+260,HOXD-AS1,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,31231887.0,12.0
+261,HOXD-AS1,Liver Cancer,"Microarray, qPCR, Western blot, In vitro assays, Luciferase reporter assay",up-regulated,28810927.0,12.0
+262,HOXD-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28724429.0,12.0
+263,HTR2A-AS1,Hepatocellular Carcinoma,RNA-seq,down-regulated,30916406.0,2.0
+264,HULC,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi, RIP",up-regulated,29895332.0,1.0
+265,HULC,Liver Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29803927.0,1.0
+266,HULC,Hepatocellular Carcinoma,qPCR,differential expression,29803923.0,1.0
+267,HULC,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,30981758.0,1.0
+268,HULC,Liver Cancer,"qPCR, Western blot",up-regulated,30981080.0,1.0
+269,HULC,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay",up-regulated,31550855.0,1.0
+270,HULC,Intrahepatic Cholangiocarcinoma,other,down-regulated,31886187.0,1.0
+271,HULC,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31645479.0,1.0
+272,HULC,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26356260.0,1.0
+273,HULC,Hepatocellular Carcinoma,TaqMan allelic discrimination assay,differential expression,22493738.0,1.0
+274,HULC,Cholangiocarcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay",differential expression,27809873.0,1.0
+275,HULC,Liver Cancer,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay etc.",up-regulated,26540633.0,1.0
+276,HULC,Liver Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,20423907.0,1.0
+277,HULC,Liver Cancer,"qPCR, Western blot, RIP",up-regulated,27782152.0,1.0
+278,HULC,Liver Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28765279.0,1.0
+279,HULC,Hepatocellular Carcinoma,"qPCR, Western blot, RIP etc.",up-regulated,28634076.0,1.0
+280,HULC,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,29170515.0,1.0
+281,HULC,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,26317792.0,1.0
+282,HULC,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,26550214.0,1.0
+283,HULC,Hepatocellular Carcinoma,"Microarray, qPCR, RNAi etc.",up-regulated,23728852.0,1.0
+284,HULC,Hepatocellular Carcinoma,qPCR etc.,up-regulated,23762823.0,1.0
+285,HULC,Hepatocellular Carcinoma,"Microarray, qPCR, RNAi, Northern blot, ISH etc.",up-regulated,17241883.0,1.0
+286,HULC,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,27285757.0,1.0
+287,HULC,Hepatocellular Carcinoma,"qPCR, Cell transfection, Western blot, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26179263.0,1.0
+288,HULC,Hepatocellular Carcinoma,qPCR etc.,up-regulated,25592151.0,1.0
+289,HULC,Hepatocellular Carcinoma,"qPCR, RNAi, RIP, RNA pull-down assay etc.",up-regulated,28027578.0,1.0
+290,HULC,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,28166203.0,1.0
+291,HULC,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,25622901.0,1.0
+292,HULC,Hepatocellular Carcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,22685290.0,1.0
+293,HULC,Hepatocellular Carcinoma,qPCR etc.,differential expression,29803923.0,1.0
+294,HULC,Liver Cancer,"qPCR, Western blot, RIP, CHIP, Cells proliferation assay, etc.",up-regulated,29895332.0,1.0
+295,IGF2AS,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,28928822.0,2.0
+296,IGF2AS,Liver Cancer,"qPCR, Northern blot etc.",up-regulated,12702581.0,2.0
+297,IGF2AS,Hepatocellular Carcinoma,"qPCR, Southern blot etc.",differential expression,12603530.0,2.0
+298,"IHS ",Hepatocellular Carcinoma,"qRT-PCR , in vitro knockdown etc.",up-regulated,31128422.0,4.0
+299,INXS,Liver Cancer,"qPCR, RACE-PCR etc.",down-regulated,24992962.0,0.0
+300,IPW,Hepatocellular Carcinoma,"Microarray, qPCR etc.",down-regulated,27894309.0,1.0
+301,JPX,Hepatocellular Carcinoma,"qPCR, Dual luciferase reporter assay",down-regulated,30091314.0,1.0
+302,JPX,Hepatocellular Carcinoma,qPCR etc.,down-regulated,27776968.0,1.0
+303,KCNQ1OT1,Hepatocellular Carcinoma,"RT-qPCR, Western blot",up-regulated,32124966.0,1.0
+304,KCNQ1OT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29966655.0,1.0
+305,KCNQ1OT1,Cholangiocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30243712.0,1.0
+306,KCNQ1OT1,Hepatocellular Carcinoma,qPCR etc.,differential expression,23984860.0,1.0
+307,KCNQ1OT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29532864.0,1.0
+308,KCNQ1OT1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot, etc.",up-regulated,29966655.0,1.0
+309,KTN1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30551364.0,1.0
+310,LEF1-AS1,Hepatocellular Carcinoma,"RT-qPCR, Western blot",up-regulated,32068261.0,2.0
+311,LEF1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay etc",up-regulated,32178558.0,2.0
+312,"LINC-ITGB1 ",Hepatocellular Carcinoma,"qPCR, Western blot, other",up-regulated,30279202.0,1.0
+313,"LINC-ITGB1 ",Hepatocellular Carcinoma,qPCR etc.,up-regulated,29201168.0,1.0
+314,"LINC-POU3F3 ",Hepatocellular Carcinoma,"qPCR, Western blot, etc.",up-regulated,29906746.0,4.0
+315,"LINC-POU3F3 ",Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,29906746.0,4.0
+316,LINC-ROR,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31082791.0,2.0
+317,LINC-ROR,Liver Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31400406.0,2.0
+318,LINC-ROR,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,29559320.0,2.0
+319,LINC-ROR,Hepatocellular Carcinoma,"qPCR, RNAi, Luciferase reporter assay etc.",up-regulated,24918061.0,2.0
+320,LINC-ROR,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase report assay etc.",up-regulated,28680141.0,2.0
+321,LINC-UFC1,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,27894309.0,1.0
+322,LINC-UFC1,Hepatocellular Carcinoma,"Microarray, qPCR, in vitro knockdown etc.",up-regulated,25449213.0,1.0
+323,"LINC-USP16 ",Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,29179215.0,2.0
+324,LINC00052,Hepatocellular Carcinoma,"mircoarray, qPCR, Western blot, Luciferase reporter assay",down-regulated,30098428.0,1.0
+325,LINC00052,Hepatocellular Carcinoma,"qPCR, Western blot, RIP etc.",up-regulated,28969024.0,1.0
+326,LINC00052,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Dual luciferase reporter assay etc.",down-regulated,27351280.0,1.0
+327,LINC00152,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,30779070.0,5.0
+328,LINC00152,Hepatocellular Carcinoma,qPCR,differential expression,29130980.0,5.0
+329,LINC00152,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26356260.0,5.0
+330,LINC00152,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",down-regulated,29617624.0,5.0
+331,LINC00152,Hepatocellular Carcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,26540343.0,5.0
+332,LINC00160,Hepatocellular Carcinoma,"RT-qPCR, Western blot, Microarray",up-regulated,32067991.0,1.0
+333,LINC00161,Hepatocellular Carcinoma,qPCR,up-regulated,30087703.0,2.0
+334,LINC00161,Hepatocellular Carcinoma,"qPCR, in vitro knockdown etc.",up-regulated,28915581.0,2.0
+335,LINC00174,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32128852.0,1.0
+336,LINC00205,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31272761.0,1.0
+337,LINC00210,Liver Cancer,"Microarray, qPCR, RIP, in vitro knockdown",up-regulated,29540185.0,1.0
+338,LINC00221,Hepatocellular Carcinoma,RNA-seq,up-regulated,30916406.0,1.0
+339,LINC00261,Cholangiocarcinoma,"qRT-PCR, western blot assay",up-regulated,31812439.0,1.0
+340,LINC00261,Hepatocellular Carcinoma,"qRT-PCR, Western blot, in vitro knockdown",down-regulated,29278875.0,1.0
+341,LINC00324,Liver Cancer,"RT-qPCR, Western blot, Microarray",up-regulated,32128906.0,1.0
+342,LINC00339,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31239716.0,6.0
+343,"LINC00346",Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32133348.0,1.0
+344,"LINC00346",Hepatocellular Carcinoma,"RT-qPCR, Luciferase reporter assay, Western blotting",up-regulated,31691159.0,1.0
+345,LINC00441,Hepatocellular Carcinoma,"qPCR, ChIP, Luciferase reporter assay, RNA pull-down assay etc.",up-regulated,28300839.0,1.0
+346,LINC00460,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32184630.0,2.0
+347,LINC00460,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31376654.0,2.0
+348,LINC00461,Hepatocellular Carcinoma,qPCR,up-regulated,30879766.0,14.0
+349,LINC00462,Hepatocellular Carcinoma,RNA-seq,up-regulated,30916406.0,1.0
+350,LINC00462,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,28622593.0,1.0
+351,LINC00467,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32125766.0,1.0
+352,LINC00467,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,32221502.0,1.0
+353,LINC00467,Hepatocellular Carcinoma,"qRT-PCR, Western blot analysis, Dual luciferase reporter assay, RIP",up-regulated,31916278.0,1.0
+354,LINC00467,Hepatocellular Carcinoma,"RT-qPCR, Western blot assay, RIP, Luciferase reporter assay",up-regulated,31656043.0,1.0
+355,LINC00467,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",down-regulated,31480990.0,1.0
+356,LINC00470,Hepatocellular Carcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31612313.0,4.0
+357,LINC00472,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, etc.",down-regulated,30522853.0,4.0
+358,LINC00473,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32021265.0,2.0
+359,LINC00488,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , RIP etc.",up-regulated,31005556.0,1.0
+360,LINC00511,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,31731191.0,1.0
+361,LINC00511,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , RIP , in vitro knockdown etc.",up-regulated,31081082.0,1.0
+362,LINC00628,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay",down-regulated,30740671.0,1.0
+363,LINC00635,Hepatocellular Carcinoma,qPCR etc.,up-regulated,29650788.0,2.0
+364,"LINC00657 ",Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,28919047.0,1.0
+365,LINC00662,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,31785055.0,1.0
+366,LINC00662,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,31959915.0,1.0
+367,LINC00665,Hepatocellular Carcinoma,"RNA-seq, qPCR etc.",up-regulated,29728556.0,2.0
+368,LINC00665,Hepatocellular Carcinoma,"RNA-seq, qPCR etc.",up-regulated,27499103.0,2.0
+369,LINC00668,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32249890.0,1.0
+370,LINC00673,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot, RNAi",up-regulated,29312806.0,5.0
+371,LINC00707,Hepatocellular Carcinoma,"qPCR, Western blot, other",up-regulated,30317590.0,1.0
+372,LINC00707,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30488589.0,1.0
+373,LINC00857,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30506763.0,1.0
+374,LINC00882,Hepatocellular Carcinoma,"qPCR, Western blot, other",up-regulated,30271163.0,1.0
+375,LINC00958,Hepatocellular Carcinoma,"RIP, RNA-seq, RT-qPCR",up-regulated,31915027.0,1.0
+376,LINC00974,Hepatocellular Carcinoma,"qPCR, RIP, in vitro knockdown etc.",up-regulated,25476897.0,1.0
+377,LINC00978,Hepatocellular Carcinoma,"RNAi, RT-qPCR, Western blot",up-regulated,32077915.0,8.0
+378,LINC00978,Hepatocellular Carcinoma,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",up-regulated,31582742.0,8.0
+379,LINC01018,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , RIP etc.",down-regulated,31021172.0,2.0
+380,LINC01061,Cholangiocarcinoma,"qPCR, Luciferase reporter assay, RIP",up-regulated,30967271.0,1.0
+381,LINC01093,Hepatocellular Carcinoma,"RNA-seq, qPCR etc.",down-regulated,26887054.0,3.0
+382,LINC01133,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30548306.0,1.0
+383,LINC01134,Hepatocellular Carcinoma,"qPCR, Western blot, RIP etc",differential expressed,32272940.0,1.0
+384,LINC01139,Hepatocellular Carcinoma,"RT-PCR, Western blot",up-regulated,32115147.0,1.0
+385,LINC01152,Hepatocellular Carcinoma,"Microarray, qPCR etc.",down-regulated,27894309.0,2.0
+386,LINC01224,Hepatocellular Carcinoma,"qRT-PCR, Western blot analysis, Dual Luciferase Reporter Assay, RIP",up-regulated,31902747.0,2.0
+387,LINC01234,Hepatocellular Carcinoma,"qPCR, Western blot analysis, Dual Luciferase Reporter Assay, RIP",up-regulated,31838274.0,2.0
+388,LINC01287,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi, RIP",up-regulated,30001751.0,1.0
+389,LINC01287,Hepatocellular Carcinoma,"qPCR, Western blot, luciferase reporter assay",up-regulated,30133116.0,1.0
+390,LINC01287,Hepatocellular Carcinoma,"qRT-PCR, Western blot assay, ChIP, Luciferase reporter assay",up-regulated,30001751.0,1.0
+391,"LINC01296 ",Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,30988624.0,2.0
+392,LINC01352,Hepatocellular Carcinoma,"qRT-PCR, Western blot",down-regulated,32157216.0,1.0
+393,LINC01391,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown, RIP",down-regulated,31207322.0,1.0
+394,LINC01410,Cholangiocarcinoma,"RT-qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31951299.0,1.0
+395,LINC01419,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,26109807.0,1.0
+396,LINC01419,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,26540467.0,1.0
+397,LINC01433,Hepatocellular Carcinoma,"qPCR, Western blot, RIP, RNAi, other",up-regulated,30317567.0,1.0
+398,LINC01551,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31270840.0,2.0
+399,LINC01554,Hepatocellular Carcinoma,qPCR etc.,down-regulated,32231743.0,1.0
+400,LINC01554,Hepatocellular Carcinoma,qPCR,down-regulated,30809309.0,1.0
+401,LINC01714,Cholangiocarcinoma,"RNA-seq, qRT-PCR, Western blot Assays, RNAi, RIP",down-regulated,31902744.0,1.0
+402,LINC02476,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32280244.0,4.0
+403,LINC02499,Hepatocellular Carcinoma,qRT-PCR,down-regulated,32039538.0,1.0
+404,"LINCRNA-VLDLR ",Hepatocellular Carcinoma,qPCR etc.,up-regulated,26378581.0,1.0
+405,"LINCRNA-VLDLR ",Hepatocellular Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,24874432.0,1.0
+406,LMCD1-AS1,Cholangiocarcinoma,"qPCR, Luciferase reporter assay",up-regulated,30876691.0,1.0
+407,LMCD1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31278071.0,1.0
+408,"lnc473 ",Hepatocellular Carcinoma,"qPCR, Western blot, RIP etc.",up-regulated,29605299.0,2.0
+409,"lncCAMTA1 ",Hepatocellular Carcinoma,"Microarray, qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27669232.0,1.0
+410,"lncGPR107 ",Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29925408.0,1.0
+411,"lncGPR107 ",Liver Cancer,"qPCR, Western blot, ChIP, etc.",up-regulated,29925408.0,1.0
+412,"lncMAPK6 ",Liver Cancer,Luciferase reporter assay etc.,up-regulated,29764463.0,1.0
+413,"lncPARP1 ",Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,29776974.0,1.0
+414,"lncPARP1 ",Hepatocellular Carcinoma,"qPCR, western blot etc.",up-regulated,29776974.0,1.0
+415,lncRNA-ATB,Hepatocellular Carcinoma,"qPCR, Western blot, RIP",up-regulated,31558875.0,1.0
+416,lncRNA-ATB,Cholangiocarcinoma,"qRT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,31571907.0,1.0
+417,lncRNA-ATB,Hepatocellular Carcinoma,"qPCR, other",up-regulated,30338850.0,1.0
+418,lncRNA-ATB,Hepatocellular Carcinoma,qPCR etc.,up-regulated,27495068.0,1.0
+419,lncRNA-ATB,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,29331759.0,1.0
+420,lncRNA-ATB,Hepatocellular Carcinoma,qPCR,up-regulated,29108251.0,1.0
+421,lncRNA-ATB,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,24768205.0,1.0
+422,"lncRNA-HEIH ",Cholangiocarcinoma,qRT-PCR,up-regulated,32062383.0,1.0
+423,"lncRNA-HEIH ",Liver Cancer,"RT-PCR , Western blot etc.",up-regulated,31144384.0,1.0
+424,"lncRNA-HEIH ",Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,27894309.0,1.0
+425,"lncRNA-HEIH ",Hepatocellular Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,26550214.0,1.0
+426,"lncRNA-HEIH ",Hepatocellular Carcinoma,qPCR etc.,up-regulated,28487474.0,1.0
+427,"lncRNA-HEIH ",Hepatocellular Carcinoma,qPCR,up-regulated,29286922.0,1.0
+428,"lncRNA-HEIH ",Hepatocellular Carcinoma,"Microarray, qPCR, RIP, RNA pull-down assay etc.",up-regulated,21769904.0,1.0
+429,"lncRNA-LET ",Hepatocellular Carcinoma,"qPCR, Western blot, RIP, in vitro knockdown etc.",down-regulated,23395002.0,1.0
+430,lncRNA-NEF,Intrahepatic Cholangiocarcinoma,"qRT-PCR , Western blot etc.",down-regulated,31015363.0,1.0
+431,lncRNA-NEF,Hepatocellular Carcinoma,"RNA-seq, qPCR, Western blot",down-regulated,29311643.0,1.0
+432,"lncRNA-Saf ",Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",differential expression,30632031.0,1.0
+433,lncRNA-SRA1,Hepatocellular Carcinoma,qPCR etc.,down-regulated,28085012.0,5.0
+434,"lncRNA00673",Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,28829500.0,5.0
+435,"lncTCF7 ",Hepatocellular Carcinoma,"Microarray, qPCR, Northern blot, FISH etc.",up-regulated,25842979.0,1.0
+436,"lncTCF7 ",Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,26452542.0,1.0
+437,"lncZic2 ",Liver Cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,29588366.0,1.0
+438,"LOC285194",Hepatocellular Carcinoma,"qPCR, etc.",down-regulated,31494574.0,1.0
+439,"LOC728290 ",Hepatocellular Carcinoma,qPCR etc.,down-regulated,29085452.0,1.0
+440,LOXL1-AS1,Cholangiocarcinoma,"qRT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31003776.0,5.0
+441,LSINCT5,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30472720.0,1.0
+442,LUCAT1,Liver Cancer,other,up-regulated,31826070.0,2.0
+443,LUCAT1,Hepatoblastoma,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30479162.0,2.0
+444,LUCAT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30588744.0,2.0
+445,LUST,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26378581.0,1.0
+446,"MAFG-AS1 ",Hepatocellular Carcinoma,"qRT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,31572506.0,1.0
+447,MALAT1,Hepatocellular Carcinoma,qPCR,differential expression,29930469.0,3.0
+448,MALAT1,Hepatocellular Carcinoma,"qPCR, Western blot etc",up-regulated,32326045.0,3.0
+449,MALAT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,32220970.0,3.0
+450,MALAT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,31777593.0,3.0
+451,MALAT1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30914432.0,3.0
+452,MALAT1,Hepatocellular Carcinoma,"qRT-PCR, Western blot, Dual luciferase reporting assay",up-regulated,31693399.0,3.0
+453,MALAT1,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31168355.0,3.0
+454,MALAT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30278452.0,3.0
+455,MALAT1,Hilar Cholangiocarcinoma,"qPCR, Western blot, other",up-regulated,30231247.0,3.0
+456,MALAT1,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30546959.0,3.0
+457,MALAT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30500989.0,3.0
+458,MALAT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31466138.0,3.0
+459,MALAT1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31347327.0,3.0
+460,MALAT1,Cholangiocarcinoma,"qPCR, Western blot",up-regulated,28592124.0,3.0
+461,MALAT1,Hepatoblastoma,"Microarray, PCR etc.",up-regulated,17006932.0,3.0
+462,MALAT1,Hilar Cholangiocarcinoma,"qPCR, Western blot, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,28059437.0,3.0
+463,MALAT1,Liver Cancer,"qPCR, Western blot, RIP",up-regulated,27782152.0,3.0
+464,MALAT1,Liver Cancer,"Microarray, qPCR, Western blot, RIP, Luciferase reporter assay etc.",differential expression,24468535.0,3.0
+465,MALAT1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,29604585.0,3.0
+466,MALAT1,Hepatocellular Carcinoma,"RT-PCR, Western blot, Luciferase reporter assay",up-regulated,28722813.0,3.0
+467,MALAT1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Dual luciferase reporter assay etc.",up-regulated,27524242.0,3.0
+468,MALAT1,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,29170515.0,3.0
+469,MALAT1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Dual luciferase reporter assay etc.",down-regulated,25773124.0,3.0
+470,MALAT1,Hepatocellular Carcinoma,"RNA-seq, qPCR, RNAi, Colony formation assay etc.",up-regulated,27993818.0,3.0
+471,MALAT1,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,27894309.0,3.0
+472,MALAT1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26614531.0,3.0
+473,MALAT1,Hepatocellular Carcinoma,"qPCR, RNAi etc.",up-regulated,21678027.0,3.0
+474,MALAT1,Hepatocellular Carcinoma,"Microarray, PCR etc.",up-regulated,17006932.0,3.0
+475,MALAT1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,28543721.0,3.0
+476,MALAT1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay etc.",up-regulated,28720061.0,3.0
+477,MALAT1,Hepatocellular Carcinoma,"qPCR, luciferase reporter assay",differential expression,28404923.0,3.0
+478,MALAT1,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,28469957.0,3.0
+479,MALAT1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, ChIP, Cell proliferation assay etc.",up-regulated,26735578.0,3.0
+480,MALAT1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay etc.",up-regulated,26352013.0,3.0
+481,MALAT1,Hepatocellular Carcinoma,"qPCR, Northern blot, ISH etc.",up-regulated,16878148.0,3.0
+482,MCM3AP-AS1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay",up-regulated,30782188.0,4.0
+483,MCM3AP-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31237446.0,4.0
+484,MEG3,Hepatocellular Carcinoma,"qPCR, western blot",down-regulated,31531526.0,15.0
+485,MEG3,Cholangiocarcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",down-regulated,31119760.0,15.0
+486,MEG3,Hepatocellular Carcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",down-regulated,31089680.0,15.0
+487,MEG3,Hepatocellular Carcinoma,"RT-PCR , Western blot , RIP etc.",down-regulated,31003765.0,15.0
+488,MEG3,Hepatocellular Carcinoma,"RT-qPCR, in vitro knockdown, Western blot assay etc.",up-regulated,31144362.0,15.0
+489,MEG3,hepatocellular carcinoma,qPCR,,30037433.0,15.0
+490,MEG3,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31396320.0,15.0
+491,MEG3,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31251997.0,15.0
+492,MEG3,Liver Cancer,"RT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",down-regulated,29449541.0,15.0
+493,MEG3,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot etc.",up-regulated,28374914.0,15.0
+494,MEG3,Hepatocellular Carcinoma,"qPCR, MTT assay etc.",up-regulated,26321746.0,15.0
+495,MEG3,Hepatocellular Carcinoma,"Microarray, qPCR etc.",down-regulated,21625215.0,15.0
+496,MEG3,Hepatocellular Carcinoma,"qPCR, Western blot, Flow cytometry assay, MTT assay etc.",differential expression,27432655.0,15.0
+497,MEG3,Hepatocellular Carcinoma,"qPCR, MSP-PCR, Western blot, RIP, Flow cytometry assay, MTT assay etc.",down-regulated,26647875.0,15.0
+498,MEG3,Hepatocellular Carcinoma,"qPCR, Western blot, Cell proliferation assay, Cell invasion assay etc.",differential expression,26992211.0,15.0
+499,MEG3,Hepatocellular Carcinoma,"qPCR, Western blot, Cell proliferation assay, Cell invasion assay etc.",down-regulated,25641194.0,15.0
+500,MEG3,Hepatocellular Carcinoma,"Microarray, qPCR, Western blot, RIP, Flow cytometry assay, RNA pull-down assay etc.",down-regulated,26444285.0,15.0
+501,MEG3,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,23145177.0,15.0
+502,MEG9,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26378581.0,1.0
+503,MFI2-AS1,Hepatocellular Carcinoma,"qRT-PCR, RIP, Western blot",up-regulated,32106369.0,1.0
+504,MIAT,Cholangiocarcinoma,"qRT-PCR, Western blot",up-regulated,32064660.0,4.0
+505,MIAT,hepatocellular carcinoma,qPCR,,30037433.0,4.0
+506,MIAT,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30551417.0,4.0
+507,MIAT,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,31503007.0,4.0
+508,MIAT,Hepatocellular Carcinoma,"qPCR, Western blot, RNAi etc.",up-regulated,29097358.0,4.0
+509,MINCR,Hepatocellular Carcinoma,"qPCR, , etc.",up-regulated,30556858.0,2.0
+510,MINCR,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,29550632.0,2.0
+511,MIR100HG,Hepatocellular Carcinoma,qPCR etc.,up-regulated,29684484.0,23.0
+512,MIR137HG,Hepatocellular Carcinoma,RNA-seq,up-regulated,30916406.0,1.0
+513,"miR143HG ",Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot",down-regulated,30945380.0,2.0
+514,MIR22HG,Cholangiocarcinoma,"qPCR, Western blot",down-regulated,30856284.0,4.0
+515,MIR22HG,Hepatocellular Carcinoma,"qRT-PCR, RNA-seq",down-regulated,31819482.0,4.0
+516,MIR22HG,Hepatocellular Carcinoma,"qPCR, RIP, Western blot",down-regulated,30083257.0,4.0
+517,MIR22HG,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",down-regulated,30680848.0,4.0
+518,MIR22HG,Hepatocellular Carcinoma,qPCR,down-regulated,29371967.0,4.0
+519,MIR31HG,Hepatocellular Carcinoma,"qPCR, Dual luciferase reporter assay, Western blot, RIP",down-regulated,30176933.0,4.0
+520,MIR4435-2HG,Liver Cancer,qRT-PCR etc.,up-regulated,30988676.0,8.0
+521,MIR503HG,Hepatocellular Carcinoma,"Microarray, RIP etc.",up-regulated,29774077.0,1.0
+522,MNX1-AS1,Hepatocellular Carcinoma,qPCR,up-regulated,30982576.0,1.0
+523,"MYCLo-5",Hepatocellular Carcinoma,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26003165.0,1.0
+524,"MYCLo-6",Hepatocellular Carcinoma,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26003165.0,1.0
+525,MYCNOS,Hepatocellular Carcinoma,qPCR etc,up-regulated,31776854.0,3.0
+526,"NCRNA00173 ",Hepatocellular Carcinoma,"Microarray, qPCR etc.",down-regulated,25556502.0,2.0
+527,ncRuPAR,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26378581.0,1.0
+528,"NEAT1",Hepatocellular Carcinoma,"RT-qPCR, Western blot",up-regulated,32168951.0,2.0
+529,"NEAT1",Cholangiocarcinoma,"qPCR, Western blot, in vitro knockdown, RNAi, RIP",up-regulated,29970216.0,2.0
+530,"NEAT1",Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29797561.0,2.0
+531,"NEAT1",Hepatocellular Carcinoma,RNA-seq,up-regulated,31549407.0,2.0
+532,"NEAT1",Hepatocellular Carcinoma,"qRT-PCR, Western blot analysis, The Assay of Luciferase",up-regulated,31819522.0,2.0
+533,"NEAT1",Hepatocellular Carcinoma,"qRT-PCR, Western blot, Dual luciferase reporter assay, RIP",up-regulated,31819486.0,2.0
+534,"NEAT1",Hepatocellular Carcinoma,"RT-PCR, Luciferase Reporter Assay, Western blot",up-regulated,31802908.0,2.0
+535,"NEAT1",Hepatocellular Carcinoma,qPCR,up-regulated,30021196.0,2.0
+536,"NEAT1",Hepatocellular Carcinoma,"qPCR, Western blot, RIP, other",up-regulated,30377567.0,2.0
+537,"NEAT1",Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30346062.0,2.0
+538,"NEAT1",Hepatocellular Carcinoma,"qPCR, Western blot, RIP, etc.",up-regulated,30710754.0,2.0
+539,"NEAT1",Cholangiocarcinoma,"qPCR, Western blot, RNAi, RIP, ChIP",up-regulated,28810932.0,2.0
+540,"NEAT1",Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,29219178.0,2.0
+541,"NEAT1",Hepatocellular Carcinoma,qPCR etc.,up-regulated,26191242.0,2.0
+542,"NEAT1",Hepatocellular Carcinoma,qPCR etc.,up-regulated,26378581.0,2.0
+543,"NEAT1",Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,29764424.0,2.0
+544,"NEAT1",Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28783584.0,2.0
+545,"NEAT1",Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,28526689.0,2.0
+546,"NEAT1",Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,29091312.0,2.0
+547,"NEAT1",Hepatocellular Carcinoma,"RNA-seq, qPCR, RNAi, RIP, Cell proliferation assay etc.",up-regulated,28260918.0,2.0
+548,"NEAT1",Hepatocellular Carcinoma,"qPCR, RNAi etc.",up-regulated,28732670.0,2.0
+549,"NEAT1",Hepatocellular Carcinoma,"qPCR, Western blot, RIP etc.",up-regulated,29797561.0,2.0
+550,"NEAT1",Cholangiocarcinoma,"qPCR, Western blot, RIP, ChIP, etc.",up-regulated,29970216.0,2.0
+551,NKILA,Hepatocellular Carcinoma,"qRT-PCR, Western blot",down-regulated,32015685.0,1.0
+552,NKILA,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",down-regulated,29481769.0,1.0
+553,NNT-AS1,Cholangiocarcinoma,"qRT-PCR, Western blot",up-regulated,32019904.0,1.0
+554,NNT-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,29179477.0,1.0
+555,"NR027113 ",Hepatocellular Carcinoma,"qPCR, Western blot, other",up-regulated,30468465.0,1.0
+557,"NR_015378 ",Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,25025236.0,1.0
+558,"NR_024284 ",Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,25025236.0,1.0
+559,"NR_026591 ",Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,25025236.0,1.0
+560,"NR_033928 ",Hepatocellular Carcinoma,qPCR etc.,up-regulated,27729273.0,1.0
+561,"NR_073450.1 ",Hepatocellular Carcinoma,"Microarray, qPCR, RNAi etc.",down-regulated,27285756.0,1.0
+562,"NR_073453 ",Hepatocellular Carcinoma,qPCR etc.,up-regulated,27729273.0,1.0
+563,NRON,Hepatocellular Carcinoma,"qPCR, western blot",down-regulated,29772429.0,1.0
+564,NRON,Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,29772429.0,1.0
+565,OIP5-AS1,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32042127.0,4.0
+566,OIP5-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32329664.0,4.0
+567,OIP5-AS1,Hepatoblastoma,"qPCR, Western blot, RIP etc.",up-regulated,29475118.0,4.0
+568,"OR3A4",Hepatocellular Carcinoma,"qPCR, Western blot, etc.",up-regulated,30710550.0,1.0
+569,"OSER1-AS1 ",Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31635804.0,3.0
+570,"PANDA",Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay etc.",down-regulated,28646235.0,1.0
+571,PANDAR,Cholangiocarcinoma,"qPCR, Western blot etc.",up-regulated,28652769.0,1.0
+572,PANDAR,Hepatocellular Carcinoma,"qPCR, RNAi etc.",up-regulated,26054684.0,1.0
+573,"PAR5",Hepatocellular Carcinoma,"Microarray, qPCR etc.",down-regulated,27894309.0,1.0
+574,PART1,Hepatocellular Carcinoma,RNA-seq,up-regulated,30916406.0,3.0
+575,PCAT1,Hilar Cholangiocarcinoma,"qPCR, Western blot, other",up-regulated,30231247.0,1.0
+576,PCAT1,Cholangiocarcinoma,"qPCR, Luciferase reporter assay etc.",up-regulated,28753454.0,1.0
+577,PCAT1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, western blot etc.",up-regulated,28931210.0,1.0
+578,PCAT1,Hepatocellular Carcinoma,"qPCR, luciferase reporter assays etc.",up-regulated,28887306.0,1.0
+579,PCAT1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26097602.0,1.0
+580,PCAT1,Hepatocellular Carcinoma,"qPCR, RNAi, Cell migration assay, ELISA etc.",up-regulated,27035680.0,1.0
+581,PCAT14,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,28415780.0,1.0
+582,PCAT29,Hepatocellular Carcinoma,"Microarray, qPCR etc.",down-regulated,27894309.0,2.0
+583,PCAT6,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32064636.0,2.0
+584,PCAT6,Hepatocellular Carcinoma,qPCR,up-regulated,30968586.0,2.0
+585,PCAT6,Cholangiocarcinoma,"qPCR, Luciferase reporter assay",up-regulated,31632586.0,2.0
+586,PITPNA-AS1,Hepatocellular Carcinoma,"qRT-PCR, Luciferase Reporter Assay, RIP, Western blot",up-regulated,31700026.0,1.0
+587,"PLAC2 ",Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,31233763.0,1.0
+588,"PlncRNA-1 ",Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,26906068.0,3.0
+589,PRC1-AS1,Hepatocellular Carcinoma,"RNA-seq, qPCR etc.",up-regulated,27499103.0,1.0
+590,PTENP1,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,25617127.0,0.0
+591,PTENP1,Hepatocellular Carcinoma,"Western blots, qPCR, Luciferase reporter assay, RIP etc.",up-regulated,29296207.0,0.0
+592,PURPL,Liver Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31059022.0,1.0
+593,PVT1,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,32156248.0,0.0
+594,PVT1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown, RNAi",up-regulated,29975928.0,0.0
+595,PVT1,Hepatocellular Carcinoma,qPCR,up-regulated,30794914.0,0.0
+596,PVT1,Cholangiocarcinoma,"qPCR, Western blot, RIP, other",up-regulated,30388624.0,0.0
+597,PVT1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30205391.0,0.0
+598,PVT1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,27495068.0,0.0
+599,PVT1,Hepatocellular Carcinoma,"qPCR, Western blot, RIP",up-regulated,28656879.0,0.0
+600,PVT1,Hepatocellular Carcinoma,"qPCR, Western blot, RNAi, RIP etc.",up-regulated,29715456.0,0.0
+601,PVT1,Hepatocellular Carcinoma,"RNAi, Microarray etc.",down-regulated,28979669.0,0.0
+602,PVT1,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,27283940.0,0.0
+603,PVT1,Hepatocellular Carcinoma,"qPCR, Western blot, RIP",up-regulated,28800314.0,0.0
+604,PVT1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,25624916.0,0.0
+605,PVT1,Hepatocellular Carcinoma,"qRT-PCR, Microarray, ect.",up-regulated,29975928.0,0.0
+606,RAD51-AS1,Hepatocellular Carcinoma,"qPCR, other",up-regulated,30201872.0,1.0
+607,"RERT ",Hepatocellular Carcinoma,qPCR etc.,up-regulated,27495068.0,1.0
+608,"RERT ",Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,23026137.0,1.0
+609,RGMB-AS1,Hepatocellular Carcinoma,"qRT-PCR, Western blot",down-regulated,29288973.0,1.0
+610,RHPN1-AS1,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,32065447.0,1.0
+611,RHPN1-AS1,Hepatocellular Carcinoma,"qRT-PCR, Western blot, Luciferase Reporter Assay",up-regulated,31692433.0,1.0
+612,RMRP,Hepatocellular Carcinoma,Luciferase reporter assay etc.,down-regulated,32308432.0,1.0
+613,RMRP,Hepatocellular Carcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31579977.0,1.0
+614,"RP11-81H3.2",Hepatocellular Carcinoma,"qPCR, Western blotting, Luciferase Reporter Assay",up-regulated,31858324.0,1.0
+615,"RP1130-1",Hepatocellular Carcinoma,qPCR etc.,down-regulated,27773892.0,1.0
+616,"RP5-833A20.1",Hepatocellular Carcinoma,"qRT-PCR, Western blot, Luciferase Reporter Assay",down-regulated,31827329.0,1.0
+617,RUNX1-IT1,Hepatocellular Carcinoma,"qRT-PCR, Western blot",down-regulated,32024815.0,1.0
+618,RUNX1-IT1,Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,31646558.0,1.0
+619,SAMMSON,Hepatocellular Carcinoma,qRT-PCR etc.,up-regulated,31164410.0,1.0
+620,SAMMSON,Liver Cancer,"qPCR, RIP etc.",up-regulated,29262600.0,1.0
+621,SBF2-AS1,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay",up-regulated,30115383.0,1.0
+622,SBF2-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, other",up-regulated,30338801.0,1.0
+623,SEMA3B-AS1,Hepatocellular Carcinoma,"qPCR, Western blot",down-regulated,31251699.0,1.0
+624,SEMA6A-AS1,Hepatocellular Carcinoma,RT-qPCR,down-regulated,32070484.0,1.0
+625,SLC2A1-AS1,Hepatocellular Carcinoma,"qRT-PCR, Western blot",down-regulated,32174012.0,1.0
+626,SNAI3-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31264769.0,2.0
+627,SNHG1,Cholangiocarcinoma,"RNA-seq, qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29970899.0,12.0
+628,SNHG1,Cholangiocarcinoma,qPCR,up-regulated,30764893.0,12.0
+629,SNHG1,Hepatocellular Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31053148.0,12.0
+630,SNHG1,Liver Cancer,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",up-regulated,31002127.0,12.0
+631,SNHG1,Hepatocellular Carcinoma,"Microarray, qPCR",up-regulated,30066898.0,12.0
+632,SNHG1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,32190150.0,12.0
+633,SNHG1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31330233.0,12.0
+634,SNHG1,Hepatocellular Carcinoma,"qPCR, Cell transfection, Luciferase reporter assay, Cell proliferation assay, ISH etc.",up-regulated,27932778.0,12.0
+635,SNHG1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,27133041.0,12.0
+636,SNHG1,Cholangiocarcinoma,"qPCR, RNA-seq, Microarray, RIP, ChIP, Western blot, Flow cytometry assay,",up-regulated,29970899.0,12.0
+637,SNHG11,Hepatocellular Carcinoma,"RT-PCR, Western blot",up-regulated,32021286.0,1.0
+638,SNHG12,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28073380.0,8.0
+639,SNHG14,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31632558.0,1.0
+640,SNHG15,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, RIP",up-regulated,31310393.0,5.0
+641,SNHG15,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31636472.0,5.0
+642,SNHG15,Hepatocellular Carcinoma,qPCR etc.,up-regulated,27212162.0,5.0
+643,SNHG16,Hepatocellular Carcinoma,qPCR,up-regulated,30893293.0,4.0
+644,SNHG16,Hepatocellular Carcinoma,qPCR,up-regulated,30784284.0,4.0
+645,SNHG16,Hepatocellular Carcinoma,qPCR,up-regulated,30779219.0,4.0
+646,SNHG16,Hepatocellular Carcinoma,"qRT-PCR, Dual luciferase reporter assay, Western blot analysis, RIP",up-regulated,31696971.0,4.0
+647,SNHG16,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",down-regulated,30573973.0,4.0
+648,SNHG16,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31306653.0,4.0
+649,SNHG16,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31293662.0,4.0
+650,SNHG16,Hepatocellular Carcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31256427.0,4.0
+651,SNHG20,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30690477.0,1.0
+652,SNHG20,Hepatocellular Carcinoma,qPCR etc.,up-regulated,29684484.0,1.0
+653,SNHG20,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, CCK-8 assay etc.",up-regulated,28282787.0,1.0
+654,SNHG20,Hepatocellular Carcinoma,"qPCR, RNAi etc.",up-regulated,27053960.0,1.0
+655,SNHG3,Intrahepatic Cholangiocarcinoma,"Microarray, RT-qPCR",up-regulated,31934101.0,2.0
+656,SNHG3,Hepatocellular Carcinoma,"qRT-PCR, Western blot",up-regulated,31692508.0,2.0
+657,SNHG3,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,30132868.0,2.0
+658,SNHG3,Hepatocellular Carcinoma,"RNA-seq, qPCR, ISH etc.",up-regulated,26373735.0,2.0
+659,SNHG4,Liver Cancer,RNAseq,up-regulated,31967298.0,2.0
+660,SNHG5,Hepatocellular Carcinoma,"qPCR, Western blot etc",up-regulated,32329834.0,1.0
+661,SNHG5,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,30166525.0,1.0
+662,SNHG6,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi, RIP",differential expression,29844127.0,4.0
+663,SNHG6,Cholangiocarcinoma,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32226515.0,4.0
+664,SNHG6,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,31563323.0,4.0
+665,SNHG6,Hepatocellular Carcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31258024.0,4.0
+666,SNHG6,Hepatocellular Carcinoma,"Microarray, qPCR, RNAi etc.",up-regulated,27530352.0,4.0
+667,SNHG6,Hepatocellular Carcinoma,"qPCR, western blot, RIP etc.",differential expression,29844127.0,4.0
+668,SNHG7,Hepatocellular Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,31545291.0,3.0
+669,SNHG7,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,31298322.0,3.0
+670,SOX2-OT,Cholangiocarcinoma,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30556855.0,6.0
+671,SOX21-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29772433.0,1.0
+672,SOX21-AS1,Hepatocellular Carcinoma,"qPCR, RIP, Western blot etc.",up-regulated,29772433.0,1.0
+673,SOX2OT,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown, RNAi",up-regulated,29963193.0,6.0
+674,SOX2OT,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26703382.0,6.0
+675,SOX2OT,Cholangiocarcinoma,"qPCR, in vitro knockdown etc.",up-regulated,29246536.0,6.0
+676,SOX2OT,Hepatocellular Carcinoma,"qPCR, RNAi etc.",up-regulated,26097588.0,6.0
+677,SOX2OT,Hepatocellular Carcinoma,"qPCR, Western blot, RNAi",up-regulated,29963193.0,6.0
+678,SOX9-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31402556.0,2.0
+679,SPRY4-IT1,Hepatocellular Carcinoma,"qRT-PCR, Western blot, RNA-seq, RIP",up-regulated,31943198.0,1.0
+680,SPRY4-IT1,Cholangiocarcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,29642935.0,1.0
+681,SPRY4-IT1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, ChIP, Cell proliferation assay etc.",up-regulated,27899259.0,1.0
+682,SPRY4-IT1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,27278245.0,1.0
+683,SPRY4-IT1,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,29214989.0,1.0
+684,"SRHC ",Hepatocellular Carcinoma,qPCR etc.,up-regulated,27495068.0,2.0
+685,"SRHC ",Hepatocellular Carcinoma,qPCR etc.,down-regulated,25512078.0,2.0
+686,SUMO1P3,Hepatocellular Carcinoma,qPCR,up-regulated,29905911.0,1.0
+687,SUMO1P3,Hepatocellular Carcinoma,"qRT-PCR, Western blot, Luciferase reporter assay",up-regulated,31970876.0,1.0
+688,SUMO1P3,Hepatocellular Carcinoma,"qPCR, etc.",up-regulated,29905911.0,1.0
+689,TCL6,Hepatocellular Carcinoma,"qRT-PCR, Western blot",down-regulated,32020591.0,2.0
+690,TCL6,Hepatocellular Carcinoma,RNA-seq,up-regulated,30916406.0,2.0
+691,TGFB2-AS1,Hepatocellular Carcinoma,"qRT-PCR , in vitro knockdown etc.",up-regulated,31066006.0,1.0
+692,"THOR ",Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,30098425.0,1.0
+693,"THOR ",Liver Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30359743.0,1.0
+694,TINCR,Hepatocellular Carcinoma,"RT-qPCR, Western blot",up-regulated,31994189.0,1.0
+695,TINCR,Hepatocellular Carcinoma,"qPCR, Western blot analysis",up-regulated,31900116.0,1.0
+696,TINCR,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,28546230.0,1.0
+697,TP73-AS1,Cholangiocarcinoma,"qPCR, in vitro knockdown",up-regulated,29966969.0,5.0
+698,TP73-AS1,Hepatocellular Carcinoma,qPCR,up-regulated,31564201.0,5.0
+699,TP73-AS1,Hepatocellular Carcinoma,qPCR,up-regulated,31210297.0,5.0
+700,TP73-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28403886.0,5.0
+701,TP73-AS1,Cholangiocarcinoma,"qPCR, Flow cytometry assay, etc.",up-regulated,29966969.0,5.0
+702,"TRERNA",Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Dual luciferase reporter assay etc.",up-regulated,26608035.0,1.0
+703,TRERNA1,Hepatocellular Carcinoma,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",up-regulated,31012192.0,1.0
+704,TRPM2-AS,Hepatocellular Carcinoma,qPCR etc.,up-regulated,29081064.0,1.0
+705,TSIX,Hepatocellular Carcinoma,qRT-PCR etc.,up-regulated,31004302.0,1.0
+706,"TSPAN12 ",Hepatocellular Carcinoma,"RNA-seq, qPCR etc.",up-regulated,32222644.0,4.0
+707,"TUC338 ",Hepatocellular Carcinoma,"Microarray, qPCR, RNAi, Western blot, Northern blot etc.",up-regulated,21187392.0,1.0
+708,"TUC338 ",Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,27878301.0,1.0
+709,"TUC338 ",Hepatocellular Carcinoma,"Luciferase reporter assay, Microarray, Western blot, qPCR, etc.",up-regulated,29888750.0,1.0
+710,TUG1,Hepatocellular Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,31949695.0,8.0
+711,TUG1,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29791864.0,8.0
+712,TUG1,Hepatoblastoma,"qPCR, Western blot etc.",differential expressed,32341656.0,8.0
+713,TUG1,Hepatocellular Carcinoma,"RT-qPCR, Dual luciferase reporter assay, Western blot assay",up-regulated,31920462.0,8.0
+714,TUG1,Hepatocellular Carcinoma,"qPCR, Western blot, RIP",up-regulated,30092578.0,8.0
+715,TUG1,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,31301261.0,8.0
+716,TUG1,Intrahepatic Cholangiocarcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29371936.0,8.0
+717,TUG1,Hepatoblastoma,"qPCR, RNAi, Western blot etc.",up-regulated,27362796.0,8.0
+718,TUG1,Cholangiocarcinoma,"qPCR, Western blot etc.",up-regulated,29029475.0,8.0
+719,TUG1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, Flow cytometry assay etc.",up-regulated,26336870.0,8.0
+720,TUSC7,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",down-regulated,27002617.0,1.0
+721,uc.134,Hepatocellular Carcinoma,"qPCR, RIP etc.",down-regulated,28420424.0,1.0
+722,"uc.338",Hepatocellular Carcinoma,"qPCR, RNAi, RIP etc.",up-regulated,27154519.0,1.0
+723,"UC001kfo ",Hepatocellular Carcinoma,RNA Sequencing etc.,up-regulated,28786067.0,1.0
+724,"UC001kfo ",Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,28088733.0,1.0
+725,"uc002mbe.2 ",Hepatocellular Carcinoma,qPCR etc.,up-regulated,27495068.0,1.0
+726,"uc002mbe.2 ",Liver Cancer,"qPCR, Western blot, RNAi, RIP",up-regulated,28993733.0,1.0
+727,"uc002mbe.2 ",Liver Cancer,"Microarray, qPCR etc.",down-regulated,23643933.0,1.0
+728,"uc002pyc ",Hepatocellular Carcinoma,"Microarray, qPCR, RIP, RNA pull-down assay etc.",up-regulated,21769904.0,1.0
+729,UCA1,Hepatocellular Carcinoma,qPCR,up-regulated,31354286.0,1.0
+730,UCA1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,32329833.0,1.0
+731,UCA1,Hepatocellular Carcinoma,qPCR,up-regulated,30918102.0,1.0
+732,UCA1,Hepatocellular Carcinoma,"qPCR, Western blot",up-regulated,30070319.0,1.0
+733,UCA1,Intrahepatic Cholangiocarcinoma,"qPCR, Luciferase reporter assay",up-regulated,31258634.0,1.0
+734,UCA1,Cholangiocarcinoma,"qPCR, Western blot etc.",up-regulated,29221199.0,1.0
+735,UCA1,Liver Cancer,"qPCR, Western blot, RIP etc.",up-regulated,26581161.0,1.0
+736,UCA1,Liver Cancer,"qPCR, Western blot, RIP, ChIP, ISH etc.",up-regulated,26513297.0,1.0
+737,UCA1,Liver Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29523218.0,1.0
+738,UCA1,Hepatocellular Carcinoma,qPCR,up-regulated,28856933.0,1.0
+739,UCA1,Hepatocellular Carcinoma,"qPCR, Western blot etc.",down-regulated,29748795.0,1.0
+740,UCA1,Hepatocellular Carcinoma,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",differential expression,27167190.0,1.0
+741,UCA1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,27215316.0,1.0
+742,UCA1,Hepatocellular Carcinoma,"qPCR, Western blot etc.",up-regulated,27283940.0,1.0
+743,UCA1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,26551349.0,1.0
+744,UCA1,Hepatocellular Carcinoma,"qPCR, Western blot, Northern blot, Flow cytometry assay etc.",up-regulated,17416635.0,1.0
+745,UCA1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,28271214.0,1.0
+746,UCA1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP etc.",up-regulated,25760077.0,1.0
+747,UCA1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, ChIP, Flow cytometry assay etc.",up-regulated,27009634.0,1.0
+748,UCA1,Hepatocellular Carcinoma,"qRT-PCR, Western blotting, in vitro knockdown, RIP etc.",up-regulated,31040354.0,1.0
+749,UCHL1-AS1,Hepatocellular Carcinoma,qPCR,down-regulated,31938339.0,1.0
+750,WDFY3-AS2,Hepatocellular Carcinoma,"qPCR, RNAi, Cell proliferation assay, Cell migration assay etc.",differential expression,28194035.0,12.0
+751,WEE2-AS1,Hepatocellular Carcinoma,"qPCR, Western blot, other",up-regulated,30471857.0,1.0
+752,WT1-AS,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,26462627.0,5.0
+753,XIST,Hepatocellular Carcinoma,"qPCR , in vitro knockdown, Luciferase reporter assay etc",up-regulated,31799653.0,1.0
+754,XIST,Hepatocellular Carcinoma,"qPCR, Dual luciferase reporter assay",down-regulated,30091314.0,1.0
+755,XIST,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",down-regulated,31384173.0,1.0
+756,XIST,Hepatocellular Carcinoma,qPCR etc.,differential expression,27100897.0,1.0
+757,XIST,Hepatocellular Carcinoma,qPCR etc.,down-regulated,27776968.0,1.0
+758,XIST,Hepatocellular Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,29227532.0,1.0
+759,XIST,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,28231734.0,1.0
+760,XIST,Hepatocellular Carcinoma,"qPCR, Western blot etc.",differential expression,28388883.0,1.0
+761,"XR_944502.1 ",Hepatocellular Carcinoma,"Microarray, qPCR, RNAi etc.",down-regulated,27285756.0,1.0
+762,ZEB1-AS1,Liver Cancer,"qRT-PCR, Western blotting etc.",up-regulated,30988735.0,6.0
+763,ZEB1-AS1,Hepatocellular Carcinoma,"Microarray, qPCR etc.",up-regulated,27894309.0,6.0
+764,ZEB1-AS1,Hepatocellular Carcinoma,"Microarray, qPCR, RNAi etc.",up-regulated,26073087.0,6.0
+765,ZEB2-AS1,Hepatocellular Carcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27748842.0,1.0
+766,ZFAS1,Hepatoblastoma,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,31781561.0,5.0
+767,ZFAS1,Hepatocellular Carcinoma,qPCR etc,up-regulated,31781169.0,5.0
+768,ZFAS1,Hepatocellular Carcinoma,qPCR etc.,up-regulated,29559565.0,5.0
+769,ZFAS1,Hepatocellular Carcinoma,"qPCR, RIP, Luciferase reporter assay etc.",up-regulated,26069248.0,5.0
+770,ZNF674-AS1,Hepatocellular Carcinoma,qPCR etc.,down-regulated,27896271.0,1.0

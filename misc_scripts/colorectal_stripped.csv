@@ -1,0 +1,757 @@
+0,ABHD11-AS1,colorectal cancer,"qPCR, RIP, Luciferase reporter assay, Western blot, other",up-regulated,30429229.0,1
+1,ABHD11-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30537177.0,1
+2,ADAMTS9-AS2,colorectal cancer,qPCR etc.,down-regulated,27596298.0,1
+3,ADPGK-AS1,colorectal cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32196589.0,1
+4,AFAP1-AS1,colorectal cancer,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29888110.0,1
+5,AFAP1-AS1,colorectal cancer,qRT-PCR etc.,up-regulated,31132513.0,1
+6,AFAP1-AS1,colon cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30588252.0,1
+7,AFAP1-AS1,colorectal cancer,qPCR etc.,up-regulated,27596298.0,1
+8,AFAP1-AS1,colorectal cancer,"qPCR, RNAi etc.",up-regulated,27261589.0,1
+9,AFAP1-AS1,colorectal cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,27578191.0,1
+10,AFAP1-AS1,colorectal cancer,"qPCR, ChIP, RIP, Western blot, etc.",up-regulated,29888110.0,1
+11,AGAP2-AS1,colorectal cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc",up-regulated,32202509.0,1
+12,"ANCR
+DANCR",colorectal cancer,"qPCR, RNAi, Western blot, RNA pull-down assay etc.",up-regulated,27983539.0,3 (DANCR)
+13,"ANRIL
+CDKN2B-AS1",colorectal cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30279206.0,14 (CDKN2B-AS1)
+14,"ANRIL
+CDKN2B-AS1",colon cancer,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,23416462.0,14 (CDKN2B-AS1)
+15,"ANRIL
+CDKN2B-AS1",colorectal cancer,"qPCR, RNAi etc.",up-regulated,26708220.0,14 (CDKN2B-AS1)
+16,"ANRIL
+CDKN2B-AS1",colorectal cancer,"qPCR, RNAi, Western blot, Northern blot etc.",up-regulated,27286457.0,14 (CDKN2B-AS1)
+17,"ANRIL
+CDKN2B-AS1",colorectal cancer,"qPCR, RNAi etc.",up-regulated,27314206.0,14 (CDKN2B-AS1)
+18,"AWPPH
+MIR4435-2HG",colon cancer,"qPCR, Western blot, other",up-regulated,31423271.0,8 (MIR4435-2HG)
+19,B3GALT5-AS1,colorectal cancer,qPCR etc,down-regulated,32207329.0,2
+20,B3GALT5-AS1,colon cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",down-regulated,30530918.0,2
+21,B4GALT1-AS1,colon cancer,RNA-seq,up-regulated,30912138.0,3
+22,"BA318C17.1
+MACROD2-AS1",colorectal cancer,"qPCR, STS-PCR, ISH etc.",down-regulated,16110499.0,3 (MACROD2-AS1)
+23,BACE1-AS,colon cancer,qPCR etc.,down-regulated,25078450.0,1
+24,BANCR,colorectal cancer,"qPCR, Western blot, Luciferase assay",up-regulated,30144787.0,1
+25,BANCR,colorectal cancer,qPCR etc.,up-regulated,28969673.0,1
+26,BANCR,colorectal cancer,"Microarray, qPCR etc.",up-regulated,27591862.0,1
+27,BANCR,colorectal cancer,"qPCR, RNAi, Cell transfection, Western blot, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26296467.0,1
+28,BANCR,colorectal cancer,"qPCR, Western blot etc.",up-regulated,25013510.0,1
+29,BANCR,colorectal cancer,"qPCR, RNAi, Western blot etc.",down-regulated,25928067.0,1
+30,BBOX1-AS1,colorectal cancer,"RT-qPCR, Western bolt",up-regulated,31984680.0,3
+31,"BC200
+BCYRN1",colon cancer,"qPCR, Western blot etc.",up-regulated,29625226.0,1 (BCYRN1)
+32,BCAR4,colorectal cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30962766.0,5
+33,BCAR4,colorectal cancer,qPCR etc.,up-regulated,27596298.0,5
+34,BDNF-AS,colorectal cancer,"qRT-PCR, Western blotting, RIP etc.",down-regulated,31062382.0,"5 (BDNF-AS_Variant BT1A, BT1B, BT1C, BT2A, BT2B)"
+35,BLACAT1,colorectal cancer,"qPCR, Western blot, RIP",differential expression,31558855.0,1
+36,BLACAT1,colorectal cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28277544.0,1
+37,BLACAT1,colorectal cancer,qPCR,up-regulated,28406230.0,1
+38,"BLACAT2
+LINC00958",colorectal cancer,"qPCR, other",up-regulated,31423277.0,1 (LINC00958)
+39,"C20orf200
+MIR1-1HG-AS1",colon cancer,"Microarray, qPCR, RNA pull-down assay etc.",down-regulated,27821766.0,1 (MIR1-1HG-AS1)
+40,CA3-AS1,colorectal cancer,"RT-PCR, Western blot, Luciferase reporter assay, other",up-regulated,30415006.0,4
+41,CACNA1G-AS1,colorectal cancer,"qRT-PCR, Western blot, RIP",up-regulated,31957825.0,1
+42,"CACS15
+CASC15",colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30639170.0,1 (CASC15)
+43,CAHM,colorectal cancer,"qPCR, MSP-PCR etc.",down-regulated,24799664.0,1
+44,"CALIC
+LINC00920",colon cancer,"RNA-seq, qPCR, RIP",up-regulated,31353791.0,1 (LINC00920)
+45,CASC11,colorectal cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27012187.0,2
+46,CASC19,colorectal cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31011255.0,1
+47,CASC19,colorectal cancer,qPCR,up-regulated,29338818.0,1
+48,CASC2,colorectal cancer,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",up-regulated,31173223.0,3
+49,CASC2,Colorectal Cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",down-regulated,30681073.0,3
+50,CASC2,colorectal cancer,"qPCR, Luciferase reporter assay",down-regulated,29456985.0,3
+51,CASC2,colorectal cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,27198161.0,3
+52,CASC21,colorectal cancer,"RT-PCR, Western blot",up-regulated,31731190.0,1
+53,CASC21,colon cancer,"qRT-PCR, RNA-seq, Western blotting assay",up-regulated,31965704.0,1
+54,CASC9,colorectal cancer,"qRT-PCR, Western blot",up-regulated,32110102.0,3
+55,CASC9,colorectal cancer,"qRT-PCR , Western blot , RIP , RNA-seq , in vitro knockdown etc.",up-regulated,31186036.0,3
+56,CCAT1,colorectal cancer,"qPCR, Western blot etc",up-regulated,32256733.0,1
+57,CCAT1,colorectal cancer,"qPCR, Western blot, RIP",differential expression,31558855.0,1
+58,CCAT1,colorectal cancer,"RT-qPCR, Western blotting, Luciferase Reporter Assay, RIP",up-regulated,31807005.0,1
+59,CCAT1,colorectal cancer,qRT-PCR etc.,up-regulated,31093977.0,1
+60,CCAT1,Colon Cancer,"qRT-PCR, Western blotting etc.",down-regulated,31039730.0,1
+61,CCAT1,Colorectal cancer,"qPCR, Western blot, etc.",up-regulated,30633886.0,1
+62,CCAT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30615124.0,1
+63,CCAT1,Colorectal Cancer,qPCR,up-regulated,31328973.0,1
+64,CCAT1,colon cancer,"qPCR, ISH etc.",up-regulated,23594791.0,1
+65,CCAT1,colon cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,26825578.0,1
+66,CCAT1,colorectal cancer,qPCR etc.,up-regulated,28838211.0,1
+67,CCAT1,colorectal cancer,qPCR etc.,down-regulated,26823726.0,1
+68,CCAT1,colorectal cancer,qPCR etc.,up-regulated,26064266.0,1
+69,CCAT1,colorectal cancer,"qPCR, ISH etc.",up-regulated,23416875.0,1
+70,CCAT1,colorectal cancer,"qPCR, RNAi etc.",up-regulated,24594601.0,1
+71,CCAT1,colorectal cancer,qPCR etc.,up-regulated,29190961.0,1
+72,CCAT2,colorectal cancer,"qPCR, Western blot, RIP",differential expression,31558855.0,1
+73,CCAT2,colon cancer,qPCR etc.,up-regulated,28964256.0,1
+74,CCAT2,colon cancer,qPCR etc.,down-regulated,28934601.0,1
+75,CCAT2,colon cancer,qPCR etc.,up-regulated,25185650.0,1
+76,CCAT2,colorectal cancer,qPCR,up-regulated,29181105.0,1
+77,CCAT2,colorectal cancer,qPCR etc.,up-regulated,27875818.0,1
+78,CCAT2,colorectal cancer,qPCR etc.,up-regulated,28838211.0,1
+79,CCAT2,colorectal cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",differential expression,26853146.0,1
+80,CCAT2,colon cancer,"qPCR, Western blot etc.",up-regulated,29502343.0,1
+81,CCAT2,colorectal cancer,"qPCR, RIP etc.",up-regulated,23796952.0,1
+82,"CCAT7
+DLGAP4-AS1",colorectal cancer,"Microarray, qPCR, Luciferase reporter assay etc.",down-regulated,25663692.0,1 (DLGAP4-AS1)
+83,"CCHE1
+CCEPR",colorectal cancer,"qPCR, in vitro knockdown, etc.",up-regulated,30484108.0,1 (CCEPR)
+84,CPS1-IT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,29017924.0,1
+85,CPS1-IT1,colorectal cancer,"qPCR, Western blot",down-regulated,29145177.0,1
+86,CRNDE,colorectal cancer,"qPCR, Western blot, RIP",differential expression,31558855.0,5
+87,CRNDE,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28472810.0,5
+88,CRNDE,colorectal cancer,"qPCR, Microarray, RIP, Western blotting etc.",up-regulated,28594403.0,5
+89,CRNDE,colorectal cancer,"Microarray, qPCR, RNAi etc.",up-regulated,24184209.0,5
+90,CRNDE,colorectal cancer,qPCR etc.,up-regulated,22393467.0,5
+91,CRNDE,colorectal cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, FISH, MTT assay etc.",up-regulated,28086904.0,5
+92,CRNDE,colorectal cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell migration and invasion assay etc.",up-regulated,28115855.0,5
+93,CRNDE,colorectal cancer,qPCR,up-regulated,28406230.0,5
+94,CRNDE,colorectal cancer,"qPCR, Western blot",up-regulated,28796262.0,5
+95,"CTA-941F9.9
+LINC01589",colorectal cancer,"qPCR, Western blot, in vitro knockdown",down-regulated,31343781.0,1 (LINC01589)
+96,CYTOR,colorectal cancer,qRT-PCR etc.,up-regulated,31144988.0,5
+97,CYTOR,colorectal cancer,"RIP, Luciferase reporter assay",up-regulated,30064438.0,5
+98,CYTOR,colon cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,29606502.0,5
+99,DDX11-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31298324.0,1
+100,DGCR5,colorectal cancer,"qPCR, other",down-regulated,31452812.0,"3 (DGCR5)
++
+2 (DGCR5 unknown variants)
+=5"
+101,DLEU1,colorectal cancer,"qPCR, ChIP, RIP, Northern blot",up-regulated,30098595.0,3
+102,DLEU7-AS1,colorectal cancer,"qPCR, Western blot",up-regulated,29364477.0,1
+103,DLX6-AS1,colorectal cancer,"qRT-PCR , Luciferase reporter assay , RIP , in vitro knockdown etc.",up-regulated,31115000.0,1
+104,DLX6-AS1,colorectal cancer,"qPCR, Western blot",up-regulated,31646562.0,1
+105,DPP10-AS1,colorectal cancer,qPCR,down-regulated,28406230.0,1
+106,DSCAM-AS1,colorectal cancer,"qRT-PCR, Western blot",up-regulated,31730864.0,4
+107,DUXAP10,colorectal cancer,qPCR etc.,up-regulated,28779166.0,1
+108,DUXAP8,colorectal cancer,"qPCR, RIP etc.",up-regulated,31786844.0,1
+109,DUXAP8,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31364111.0,1
+110,"EIF3J-AS1
+EIF3J-DT",colorectal cancer,"RT-qPCR, Western blot",up-regulated,31709617.0,2 (EIF3J-DT)
+111,ELFN1-AS1,colorectal cancer,"qRT-PCR, Microarray, Luciferase reporter assay, RIP, Western blotting",up-regulated,31929141.0,3
+112,EWSAT1,colorectal cancer,"qPCR, Western blot, other",up-regulated,30402843.0,1
+113,EZR-AS1,colorectal cancer,"qRT-PCR, Western blot",up-regulated,31693738.0,1
+114,"FAL1
+FALEC",colon cancer,"qPCR, Western blot, other",up-regulated,30290064.0,1 (FALEC)
+115,"FAL1
+FALEC",colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30267804.0,1 (FALEC)
+116,"FAL1
+FALEC",colon cancer,"qPCR, RNA pull-down assay etc.",up-regulated,25203321.0,1 (FALEC)
+117,FAM3D-AS1,colorectal cancer,"RT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31147452.0,1
+118,FBXL19-AS1,colorectal cancer,"Microarray, qPCR, Luciferase reporter assay etc.",up-regulated,28479250.0,1
+119,FENDRR,colorectal cancer,qPCR,down-regulated,31724220.0,"2 (FENDRR_Variant 1 and 2)
++
+1 [FENDRR_Variant 3 (older)]
+=3"
+120,FENDRR,colon cancer,"qPCR, Western blot",down-regulated,31213846.0,"2 (FENDRR_Variant 1 and 2)
++
+1 [FENDRR_Variant 3 (older)]
+=3"
+121,FER1L4,colon cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26224446.0,1
+122,FEZF1-AS1,colorectal cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29914894.0,1
+123,FEZF1-AS1,colorectal cancer,"qPCR, RNAi, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26848625.0,1
+124,FEZF1-AS1,colorectal cancer,"qPCR, Microarray, RNA-seq, Luciferase reporter assay, RIP, Western blot, etc.",up-regulated,29914894.0,1
+125,FGD5-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31332696.0,5
+126,FOXD2-AS1,colorectal cancer,"Luciferase Assay, RT-PCR, Western blot",up-regulated,31908535.0,1
+127,FOXD2-AS1,colorectal cancer,"qPCR, Western blot etc.",up-regulated,28925486.0,1
+128,FOXD3-AS1,colorectal cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31058315.0,4
+129,FOXP4-AS1,colorectal cancer,"qPCR, RNAi, Flow cytometry assay etc.",up-regulated,27790757.0,3
+130,FTX,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29925853.0,1
+131,FTX,colorectal cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,32280242.0,1
+132,FTX,colorectal cancer,"qPCR, RNAi etc.",up-regulated,26629053.0,1
+133,FTX,colorectal cancer,"qPCR, RIP, etc.",up-regulated,29925853.0,1
+134,GACAT3,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29593420.0,1
+135,GAPLINC,colorectal cancer,"Microarray, qPCR, Western blot, RNA pull-down assay etc.",up-regulated,27259250.0,2
+136,GAPLINC,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29427222.0,2
+137,GAS5,Colorectal cancer,"qPCR, Luciferase reporter assay",up-regulated,30902880.0,15
+138,GAS5,colorectal cancer,"qPCR, Dual Luciferase reporter assay, Western blot",down-regulated,30066886.0,15
+139,GAS5,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",down-regulated,30672001.0,15
+140,GAS5,Colorectal cancer,"qPCR, Wetern blot, Luciferase reporter assay, RIP",down-regulated,31400607.0,15
+141,GAS5,colon cancer,"qPCR, Western blot, RNAi",up-regulated,28722800.0,15
+142,GAS5,colorectal cancer,qPCR etc.,up-regulated,27391432.0,15
+143,GAS5,colorectal cancer,"Microarray, qPCR etc.",down-regulated,27591862.0,15
+144,GAS5,colorectal cancer,qPCR etc.,down-regulated,27863421.0,15
+145,GAS5,colorectal cancer,"qPCR, Flow cytometry assay etc.",down-regulated,25326054.0,15
+146,GAS5,colorectal cancer,qPCR etc.,up-regulated,29630521.0,15
+147,GAS5,colorectal cancer,"qRT-PCR, Western blot",down-regulated,29308053.0,15
+148,GAS5,colorectal cancer,"qPCR, RNAi, Western blot, MTT assay etc.",down-regulated,28099146.0,15
+149,GAS5,colorectal cancer,"qPCR, in vitro knockdown etc.",down-regulated,28521420.0,15
+150,"GAS8-AS
+GAS8-AS1",colorectal cancer,qRT-PCR etc.,up-regulated,31132513.0,1 (GAS8-AS1)
+151,GHET1,colorectal cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27931286.0,1
+152,GHET1,colorectal cancer,"qPCR, Western blot etc.",up-regulated,27131316.0,1
+153,GHRLOS,colorectal cancer,qPCR etc.,down-regulated,29187879.0,"6
+(4th variant sequence not available)
+(Total=7)"
+154,GIHCG,Colorectal cancer,qPCR,up-regulated,30799935.0,1
+155,GSEC,colon cancer,"Microarray, qPCR, RNAi, RIP, RNA pull-down assay etc.",up-regulated,27797375.0,1
+156,"GUARDIN
+LNCTAM34A",colon cancer,"Microarray, Luciferase reporter assay, in vitro knockdown, RNAi etc.",up-regulated,29593331.0,1 (LNCTAM34A)
+157,H19,colorectal cancer,"qPCR, Microarray",up-regulated,30920116.0,3
+158,H19,colon cancer,"qPCR , Western blot , in vitro knockdown etc.",down-regulated,31602323.0,3
+159,H19,colorectal cancer,"qPCR, Western blot",up-regulated,30127936.0,3
+160,H19,colorectal cancer,"RNA-seq, qPCR, Western blot, RIP, Luciferase reporter assays",up-regulated,30083271.0,3
+161,H19,colorectal cancer,"qPCR, RIP, Western blot, Luciferase reporter assay, other",up-regulated,30451820.0,3
+162,H19,colorectal cancer,"qPCR, other",,31452627.0,3
+163,H19,colorectal cancer,qPCR,up-regulated,31232113.0,3
+164,H19,colon cancer,"qPCR, Northern blot, ISH etc.",up-regulated,19926638.0,3
+165,H19,colon cancer,"qPCR, Cell transfection, Western blot, ChIP, Luciferase reporter assay, MTT assay etc.",up-regulated,28189050.0,3
+166,H19,colon cancer,"qPCR, western blot, luciferase reporter assay",differential expression,28358427.0,3
+167,H19,colon cancer,"qPCR, Western blot etc.",up-regulated,28781681.0,3
+168,H19,colorectal cancer,"qPCR, Northern blot, ISH etc.",up-regulated,19926638.0,3
+169,H19,colorectal cancer,"qPCR, Cell transfection, Western blot etc.",up-regulated,27919747.0,3
+170,H19,colorectal cancer,qPCR etc.,down-regulated,29036538.0,3
+171,H19,colorectal cancer,"Microarray, qPCR, RIP, ChIP etc.",differential expression,27789274.0,3
+172,H19,colorectal cancer,"qPCR, Western blot, RIP, Flow cytometry assay etc.",up-regulated,26989025.0,3
+173,H19,colorectal cancer,qPCR etc.,up-regulated,27391432.0,3
+174,H19,colorectal cancer,qPCR etc.,up-regulated,27596298.0,3
+175,H19,colorectal cancer,"qPCR, RFLP-PCR etc.",up-regulated,22427002.0,3
+176,H19,colorectal cancer,qPCR etc.,differential expression,12438232.0,3
+177,H19,colorectal cancer,qPCR etc.,up-regulated,11120891.0,3
+178,H19,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29754471.0,3
+179,H19,colorectal cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,28164117.0,3
+180,H19,colorectal cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,26068968.0,3
+181,H19,colorectal cancer,qPCR,up-regulated,28406230.0,3
+182,H19,colorectal cancer,"qPCR, Western blot etc.",up-regulated,28781681.0,3
+183,HAGLR,colorectal cancer,qPCR,down-regulated,28406230.0,12
+184,HAND2-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",down-regulated,31760170.0,11
+185,HAND2-AS1,colorectal cancer,"qPCR, Luciferase assay",down-regulated,30078677.0,11
+186,"HCG18
+",colorectal cancer,"RT-qPCR, Dual luciferase reporter assay, Western blot analysis",up-regulated,31854468.0,4 (HCG18)
+187,HCP5,Colorectal cancer,"qPCR, Western blot",up-regulated,30899394.0,1
+188,HIF1A-AS1,colorectal cancer,qPCR,up-regulated,28946548.0,1
+189,HIF1A-AS2,colorectal cancer,"qRT-PCR, Western blot, Luciferase reporter assay, RIP",up-regulated,29278853.0,1
+190,HLA-F-AS1,colorectal cancer,"qRT-PCR, Dual luciferase reporter gene assay, Western blot",up-regulated,31863778.0,2
+191,HNF1A-AS1,colorectal cancer,"RT-qPCR, Western blot",up-regulated,32110048.0,1
+192,HNF1A-AS1,colon cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32325080.0,1
+193,HNF1A-AS1,colon cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,28943452.0,1
+194,HNF1A-AS1,colorectal cancer,qPCR etc.,up-regulated,28791380.0,1
+195,HNF1A-AS1,colorectal cancer,"qPCR, Western blot, RNAi",up-regulated,29145164.0,1
+196,HOTAIR,colorectal cancer,"RT-qPCR, Western blot",up-regulated,32144238.0,3
+197,HOTAIR,colorectal cancer,"qPCR, Western blot",up-regulated,29808247.0,3
+198,HOTAIR,Colorectal cancer,RNA-seq,up-regulated,30981759.0,3
+199,HOTAIR,colorectal cancer,"qRT-PCR, Western blot analysis, Dual luciferase reporter gene assay, RIP",up-regulated,31694696.0,3
+200,HOTAIR,colorectal cancer,"qPCR, RIP, other",up-regulated,30362162.0,3
+201,HOTAIR,colon cancer,"qPCR, Western blot, Luciferase reporter assay, other",down-regulated,30335892.0,3
+202,HOTAIR,colon cancer,"qPCR, Luciferase reporter assay",up-regulated,31298326.0,3
+203,HOTAIR,colon cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28756022.0,3
+204,HOTAIR,colon cancer,qPCR etc.,up-regulated,27298568.0,3
+205,HOTAIR,colon cancer,"Microarray, qPCR, RNAi, ChIP, Luciferase reporter assay etc.",up-regulated,24022994.0,3
+206,HOTAIR,colon cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,26962687.0,3
+207,HOTAIR,colon cancer,"qPCR, RNAi, Western blot etc.",up-regulated,24840737.0,3
+208,HOTAIR,colorectal cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,29137688.0,3
+209,HOTAIR,colorectal cancer,"qPCR, Western blot etc.",down-regulated,27069543.0,3
+210,HOTAIR,colorectal cancer,qPCR etc.,down-regulated,26823726.0,3
+211,HOTAIR,colorectal cancer,qPCR etc.,up-regulated,24583926.0,3
+212,HOTAIR,colorectal cancer,"Microarray, qPCR etc.",up-regulated,25456707.0,3
+213,HOTAIR,colorectal cancer,"qPCR, RNAi etc.",up-regulated,25432874.0,3
+214,HOTAIR,colorectal cancer,"qPCR, RNAi etc.",up-regulated,21862635.0,3
+215,HOTAIR,colorectal cancer,"qPCR, RIP, Western blot etc.",down-regulated,28918035.0,3
+216,HOTAIR,colorectal cancer,"qPCR, Western blot, Luciferase report assay etc.",up-regulated,28364379.0,3
+217,HOTAIR,colorectal cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,29680837.0,3
+218,HOTAIR,colorectal cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26549670.0,3
+219,HOTAIR,colorectal cancer,"qPCR, western blot etc.",down-regulation,29808247.0,3
+220,HOTAIR,colorectal cancer,"qPCR, Western blot etc.",up-regulated,29808247.0,3
+221,HOTAIRM1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31261026.0,2
+222,HOTAIRM1,colorectal cancer,"Microarray, qPCR, Cell proliferation assay etc.",down-regulated,27307307.0,2
+223,HOTTIP,colorectal cancer,"qRT-PCR, Western blotting Assay",up-regulated,31945724.0,1
+224,HOTTIP,colorectal cancer,"qPCR, Western blot, other",up-regulated,30229808.0,1
+225,HOTTIP,colorectal cancer,"qPCR, Western blot",down-regulated,31251124.0,1
+226,HOTTIP,colorectal cancer,qPCR etc.,up-regulated,26617875.0,1
+227,HOTTIP,colorectal cancer,"qRT-PCR, Western blot, Luciferase reporter assay",up-regulated,29274585.0,1
+228,HOTTIP,colorectal cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26678886.0,1
+229,HOXA-AS2,colorectal cancer,qPCR etc.,up-regulated,27596298.0,1
+230,HOXA-AS2,colorectal cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28112720.0,1
+231,HOXA11-AS,colorectal cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31013434.0,1
+232,HOXA11-AS,colorectal cancer,"qPCR, Western blot etc.",up-regulated,29050308.0,1
+233,HOXA11-AS,colorectal cancer,qPCR etc.,down-regulated,27895785.0,1
+234,HOXB-AS3,colon cancer,"qPCR, Western blot etc.",down-regulated,28985503.0,8
+235,HULC,colon cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30551459.0,1
+236,HULC,colorectal cancer,qPCR etc.,up-regulated,19445043.0,1
+237,HULC,colorectal cancer,"qPCR, RNAi, Western blot, ChIP, RNA pull-down assay etc.",up-regulated,27496341.0,1
+238,IQCJ-SCHIP1-AS1,colorectal cancer,"RNA-seq, qPCR",down-regulated,31205916.0,1
+239,ITIH4-AS1,colorectal cancer,qPCR,up-regulated,31557619.0,1
+240,kcna3,colorectal cancer,"qPCR, Western blot",down-regulated,30099342.0,"2
+(1st variant is mRNA)
+(Total=3)"
+241,KCNQ1OT1,colon cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31040703.0,1
+242,KCNQ1OT1,colorectal cancer,"qRT-PCR, Microarray analysis etc.",up-regulated,30997746.0,1
+243,KCNQ1OT1,colorectal cancer,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay, RNA-FISH etc.",up-regulated,26868975.0,1
+244,KCNQ1OT1,colorectal cancer,"qPCR, FISH etc.",differential expression,16965397.0,1
+245,"KIAA0125
+FAM30A",colon cancer,"qRT-PCR , RNA-seq etc.",down-regulated,31043791.0,1 (FAM30A)
+246,"KIAA0125
+FAM30A",colorectal cancer,"qPCR, Western blot",down-regulated,31228314.0,1 (FAM30A)
+247,KRT7-AS,colorectal cancer,"qRT-PCR, Western blotting, Luciferase reporter assay, RNA-seq",up-regulated,31910722.0,1
+248,LDLRAD4-AS1,colorectal cancer,"qRT-PCR, Western blot",up-regulated,32111819.0,1
+249,LEF1-AS1,colon cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,32308428.0,2
+250,LEF1-AS1,colorectal cancer,qPCR etc.,up-regulated,32248974.0,2
+251,LEF1-AS1,colorectal cancer,qPCR,up-regulated,31536481.0,2
+252,LIFR-AS1,colorectal cancer,"Microarray, qPCR, Luciferase reporter assay, RNAi",up-regulated,29807108.0,2
+253,"LINC-ITGB1
+IATPR",colorectal cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31378884.0,1 (IATPR)
+254,LINC-PINT,colorectal cancer,"Microarray, qPCR, RIP etc.",down-regulated,24070194.0,13
+255,"LINC-POU3F3
+PANTRI1",colon cancer,qPCR,differential expression,29116072.0,4 (PANTRI1)
+256,"LINC-POU3F3
+PANTRI1",colorectal cancer,"qPCR, RNAi, Flow cytometry assay etc.",up-regulated,26510906.0,4 (PANTRI1)
+257,LINC-ROR,colorectal cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26169368.0,2
+258,LINC-ROR,colon cancer,qPCR etc.,down-regulated,26314857.0,2
+259,LINC-ROR,colon cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,23208419.0,2
+260,LINC-ROR,colorectal cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,27696511.0,2
+261,LINC-ROR,colorectal cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,28216611.0,2
+262,LINC-ROR,colon cancer,qPCR etc.,up-regulated,27071407.0,2
+263,LINC-ROR,colon cancer,"qPCR, Western blot, luciferase reporter assay etc.",up-regulated,29690669.0,2
+264,LINC-ROR,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,32273727.0,2
+265,LINC-ROR,colorectal cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32196591.0,2
+266,LINC-UFC1 (LOC112543491),colorectal cancer,"qPCR, in vitro knockdown etc.",up-regulated,27195675.0,1
+267,LINC00114,colorectal cancer,"Western blotting, Luciferase Reporter Assay, RIP",up-regulated,31921641.0,2
+268,LINC00174,colorectal cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,29729381.0,1
+269,LINC00261,colon cancer,"qRT-PCR , Western blot , RIP etc.",up-regulated,31183860.0,1
+270,LINC00261,colon cancer,"qPCR, Western blot",down-regulated,29267503.0,1
+271,LINC00265,colorectal cancer,"qRT-PCR, Western blot analysis",up-regulated,31824175.0,1
+272,LINC00312,colorectal cancer,"qPCR, Western blot, luciferase reporter assay",down-regulated,30134003.0,1
+273,LINC00324,colorectal cancer,"Western blot analysis, qRT-PCR, Dual Luciferase Assay",up-regulated,31858541.0,1
+274,LINC00460,colon cancer,"qRT-PCR, Western blot",up-regulated,32069703.0,2
+275,LINC00460,Colorectal cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30863183.0,2
+276,LINC00460,colorectal cancer,qPCR,up-regulated,30123352.0,2
+277,LINC00460,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, ChIP, RIP",up-regulated,30092404.0,2
+278,LINC00461,colorectal cancer,"qRT-PCR, Dual luciferase reporter assay, Western blot",up-regulated,31908480.0,14
+279,LINC00467,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,31772673.0,1
+280,LINC00472,colorectal cancer,qPCR etc.,down-regulated,29488624.0,4
+281,LINC00473,colorectal cancer,"qPCR, Western blot, luciferase reporter assay",up-regulated,30126852.0,2
+282,LINC00504,colon cancer,qRT-PCR etc.,up-regulated,30998289.0,1
+283,LINC00511,colorectal cancer,qRT-PCR,up-regulated,32092829.0,1
+284,LINC00520,colorectal cancer,"RT-qPCR, Western blot",up-regulated,32146708.0,2
+285,LINC00630,colorectal cancer,"qRT-PCR, Western blot",up-regulated,32119177.0,7
+286,LINC00659,colorectal cancer,"Microarray, qPCR etc.",up-regulated,29523145.0,2
+287,LINC00662,colon cancer,"luciferase reporter assay, Western-blot analysis, qRT-PCR",up-regulated,31900207.0,1
+288,LINC00707,colorectal cancer,"RT-qPCR, Western blot, RIP",up-regulated,32010320.0,1
+289,LINC00707,colorectal cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31115001.0,1
+290,LINC00707,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31213848.0,1
+291,LINC00858,colorectal cancer,"qPCR, Western blot, RIP etc.",up-regulated,32323793.0,1
+292,LINC00858,Colorectal cancer,"qPCR, Luciferase reporter assay, RIP, Western blot, Microarray",up-regulated,30931636.0,1
+293,LINC00858,colorectal cancer,"Dual luciferase reporter assay, RIP, qRT-PCR, Western blot",up-regulated,31902050.0,1
+294,LINC00858,colon cancer,"RT-qPCR, Western blot analysis, RIP, Dual luciferase reporter assay",up-regulated,31884577.0,1
+295,LINC00957,colorectal cancer,"qPCR, Western blot, etc.",up-regulated,31497531.0,"3
+(1st variant sequence not available)
+(Total=4)"
+296,"LINC00959
+C10orf143",colorectal cancer,"qPCR, Western blot, RNAi etc.",down-regulated,29228592.0,"2
+[1st variant is mRNA (C10orf143)]
+[Total=3 (C10orf143)]"
+297,"LINC01021
+PURPL",colorectal cancer,"RNA-seq, qPCR, Western blot, Luciferase reporter assay, pSILAC etc.",up-regulated,26183718.0,1 (PURPL)
+298,"LINC01021
+PURPL",colorectal cancer,"qPCR, Luciferase reporter assay, Western blot etc.",up-regulated,29262524.0,1 (PURPL)
+299,LINC01082,colon cancer,"qPCR, other",down-regulated,31432387.0,1
+300,LINC01119,Colorectal Cancer,RNA-seq,differential expression,30880326.0,1
+301,LINC01133,colorectal cancer,qPCR,down-regulated,28537675.0,1
+302,LINC01133,colorectal cancer,"qPCR, Western blot, RIP etc.",down-regulated,27443606.0,1
+303,LINC01194,colorectal cancer,"qPCR, Western blot",up-regulated,30962722.0,1
+304,LINC01234,colon cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30755591.0,2
+305,LINC01234,colorectal cancer,"Dual luciferase reporter assay, qRT-PCR.RIP, Western blot",up-regulated,31904146.0,2
+306,LINC01234,Colorectal Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31650732.0,2
+307,"LINC01296
+DUXAP9",colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",differential expression,30547804.0,2 (DUXAP9)
+308,"LINC01296
+DUXAP9",colon cancer,"qPCR, RIP etc.",up-regulated,29673421.0,2 (DUXAP9)
+309,LINC01354,colorectal cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,30987669.0,1
+310,LINC01410,colon cancer,"qPCR, Western blot, etc.",up-regulated,30546401.0,1
+311,LINC01413,colorectal cancer,"Microarray, qRT-PCR, Western blot, RIP, Luciferase Reporter Assay, In Vivo Assays",up-regulated,31927328.0,1
+312,LINC01503,colorectal cancer,"qPCR, Luciferase reporter assay, etc.",up-regulated,30542444.0,2
+313,"LINC01510
+COMETT",colorectal cancer,"qPCR, etc.",up-regulated,30536314.0,3 (COMETT)
+314,"LINC01510
+COMETT",colorectal cancer,"Microarray, qPCR, Western blot etc.",up-regulated,29581707.0,3 (COMETT)
+315,LINC01555,colorectal cancer,"RT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31144675.0,1
+316,LINC01602,colorectal cancer,qRT-PCR,up-regulated,31824849.0,1
+317,LINC02418,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31358735.0,1
+318,LINC02595,colorectal cancer,"qRT-PCR, Western blot, Microarray",up-regulated,32064615.0,1
+319,"lnc-OC1
+LNCOC1",colorectal cancer,"qPCR, Western blot, RIP, Microarray, etc.",down-regulated,29931370.0,1 (LNCOC1)
+320,"lncCMPK2
+NRIR",colorectal cancer,"qPCR, Western blot etc",up-regulated,32203166.0,1 (NRIR)
+321,lncRNA-ATB,colorectal cancer,"Western blot, Luciferase reporter assay",up-regulated,31222825.0,1
+322,lncRNA-ATB,colorectal cancer,qRT-PCR etc.,up-regulated,31093977.0,1
+323,lncRNA-ATB,colorectal cancer,"qPCR, Western blot etc.",differential expressed,32256798.0,1
+324,lncRNA-ATB,colon cancer,qPCR etc.,up-regulated,26487301.0,1
+325,lncRNA-ATB,colorectal cancer,qPCR etc.,up-regulated,25750289.0,1
+326,"lncRNA-HEIH
+HEIH",colorectal cancer,"qPCR, Luciferase reporter assay, Western blot etc.",up-regulated,29081216.0,1 (HEIH)
+327,"lncRNA-LET
+NPTN-IT1",colorectal cancer,"qPCR, Western blot, RIP, in vitro knockdown etc.",down-regulated,23395002.0,1 (NPTN-IT1)
+328,"lncRNA-MIF
+ODC1-DT",colon cancer,"qPCR, Luciferase reporter assay etc.",differential expression,27317567.0,1 (ODC1-DT)
+329,"lncRNA00673
+LINC00673",colorectal cancer,qPCR,up-regulated,29461596.0,5 (LINC00673)
+330,"lncTCF7
+WSPAR",colorectal cancer,"qPCR, Western blot",up-regulated,29344178.0,1 (WSPAR)
+331,"lncTCF7
+WSPAR",colorectal cancer,qPCR etc.,up-regulated,29532890.0,1 (WSPAR)
+332,"LOC100287225
+LINC01630",colorectal cancer,qPCR etc.,down-regulated,27062707.0,2 (LINC01630)
+333,"LOC100287225
+LINC01630",colorectal cancer,qPCR etc.,down-regulated,26429648.0,2 (LINC01630)
+334,"LOC285194
+TUSC7",colorectal cancer,qPCR etc.,up-regulated,27683121.0,1 (TUSC7)
+335,"LOC285194
+TUSC7",colon cancer,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay, Cell proliferation assay, ISH etc.",differential expression,23558749.0,1 (TUSC7)
+336,"LOC285629
+LINC02159",colorectal cancer,"qPCR, in vitro knockdown, RNAi etc.",down-regulated,29098557.0,2 (LINC02159)
+337,"LOC554202
+MIR31HG",colorectal cancer,qPCR etc.,down-regulated,27831651.0,4 (MIR31HG)
+338,"LOC554202
+MIR31HG",colorectal cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, IHC etc.",down-regulated,26362196.0,4 (MIR31HG)
+339,LSINCT5,colorectal cancer,qPCR etc.,up-regulated,25526476.0,1
+340,LUADT1,colorectal cancer,qPCR etc.,up-regulated,29762830.0,1
+341,LUCAT1,colorectal cancer,"qPCR, RT-PCR, RNA-seq",up-regulated,31964396.0,2
+342,LUCAT1,colorectal cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30690837.0,2
+343,LUNAR1,colorectal cancer,RT-PCR,up-regulated,31882986.0,1
+344,"MAFG-AS1
+MAFG-DT",colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30348529.0,1 (MAFG-DT)
+345,"MAFG-AS1
+MAFG-DT",colorectal cancer,"Microarray, qPCR etc.",up-regulated,27147563.0,1 (MAFG-DT)
+346,MAGI2-AS3,colorectal cancer,"qRT-PCR, Western blot",up-regulated,31709544.0,4
+347,MALAT1,colorectal cancer,"qPCR, Western blot, in vitro knockdown, RNAi",up-regulated,29964337.0,3
+348,MALAT1,colorectal cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32349546.0,3
+349,MALAT1,colorectal cancer,"qPCR, Western blot etc.",differential expressed,32323831.0,3
+350,MALAT1,colorectal cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc",differential expressed,32209115.0,3
+351,MALAT1,colon cancer,"qPCR, Western blot, Dual luciferase reporter assay",up-regulated,30154407.0,3
+352,MALAT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30285605.0,3
+353,MALAT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30716387.0,3
+354,MALAT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31372165.0,3
+355,MALAT1,Colorectal Cancer,qPCR,up-regulated,31328973.0,3
+356,MALAT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",differential expression,31311811.0,3
+357,MALAT1,colon cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29226325.0,3
+358,MALAT1,colon cancer,"Microarray, qPCR, RNAi etc.",up-regulated,25546229.0,3
+359,MALAT1,colon cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",down-regulated,29574704.0,3
+360,MALAT1,colorectal cancer,"RT-qPCR, Western blot, in vitro knockdown",up-regulated,29328404.0,3
+361,MALAT1,colorectal cancer,qPCR etc.,up-regulated,29190941.0,3
+362,MALAT1,colorectal cancer,"qPCR, Western blot etc.",down-regulated,26887056.0,3
+363,MALAT1,colorectal cancer,"Microarray, qPCR etc.",up-regulated,27591862.0,3
+364,MALAT1,colorectal cancer,qPCR etc.,up-regulated,27596298.0,3
+365,MALAT1,colorectal cancer,"qPCR, RIP, in vitro knockdown etc.",up-regulated,25025966.0,3
+366,MALAT1,colorectal cancer,qPCR etc.,up-regulated,25031737.0,3
+367,MALAT1,colorectal cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Cell migration and invasion assay etc.",up-regulated,28069878.0,3
+368,MALAT1,colorectal cancer,"Microarray, qPCR, Western blot etc.",up-regulated,25446987.0,3
+369,MALAT1,colorectal cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,24244343.0,3
+370,MALAT1,colorectal cancer,qPCR etc.,differential expression,21503572.0,3
+371,MALAT1,colorectal cancer,"qPCR, Western blot, etc.",down-regulation,29964337.0,3
+372,MAPKAPK5-AS1,colorectal cancer,"qPCR, Western blot, RIP, other",up-regulated,30343528.0,5
+373,MBNL1-AS1,colon cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",down-regulated,31255531.0,2
+374,MEG3,colorectal cancer,"Western blot, Luciferase reporter assay etc",up-regulated,32219064.0,"15
+(11th Variant not available)
+(Total=16)"
+375,MEG3,colorectal cancer,qPCR,down-regulated,30978169.0,"15
+(11th Variant not available)
+(Total=16)"
+376,MEG3,colorectal cancer,"qPCR, RIP, Luciferase Reporter Assay, Western blot",down-regulated,30119236.0,"15
+(11th Variant not available)
+(Total=16)"
+377,MEG3,colorectal cancer,"qPCR, Western blot, other",down-regulated,31413531.0,"15
+(11th Variant not available)
+(Total=16)"
+378,MEG3,colorectal cancer,"qPCR, Western blot, etc.",down-regulated,30556866.0,"15
+(11th Variant not available)
+(Total=16)"
+379,MEG3,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31632544.0,"15
+(11th Variant not available)
+(Total=16)"
+380,MEG3,colorectal cancer,Genotyping etc.,differential expression,26934323.0,"15
+(11th Variant not available)
+(Total=16)"
+381,MEG3,colon cancer,"qPCR, Western blot, Northern blot, ChIP etc.",down-regulated,17569660.0,"15
+(11th Variant not available)
+(Total=16)"
+382,MEG3,colon cancer,"qPCR, ISH etc.",down-regulated,14602737.0,"15
+(11th Variant not available)
+(Total=16)"
+383,MEG3,colorectal cancer,qPCR,down-regulated,28731151.0,"15
+(11th Variant not available)
+(Total=16)"
+384,MEG3,colorectal cancer,qPCR etc.,down-regulated,27391432.0,"15
+(11th Variant not available)
+(Total=16)"
+385,MEG3,colorectal cancer,"qPCR, Western blot, Flow cytometry assay etc.",down-regulated,25636452.0,"15
+(11th Variant not available)
+(Total=16)"
+386,MEG3,colorectal cancer,"Western blot, Luciferase reporter assay, in vitro knockdown etc.",down-regulated,29628342.0,"15
+(11th Variant not available)
+(Total=16)"
+387,"MFI2-AS1
+MELTF-AS1",colorectal cancer,"qRT-PCR, Western blotting etc.",up-regulated,31094023.0,1 (MELTF-AS1)
+388,MIA-RAB4B,colorectal cancer,"qPCR, Microsatellite instability assay etc.",down-regulated,28306719.0,1
+389,MIAT,colorectal cancer,qRT-PCR etc.,up-regulated,31567876.0,4
+390,MIAT,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29686537.0,4
+391,MIR100HG,colorectal cancer,RT-qPCR,up-regulated,31814848.0,23
+392,MIR100HG,colorectal cancer,qPCR etc.,up-regulated,29035371.0,23
+393,MIR155HG,colon cancer,"Microarray, qPCR, RNA pull-down assay etc.",down-regulated,27821766.0,1
+394,MIR17HG,colorectal cancer,"qPCR, RIP, other",up-regulated,31409641.0,2
+395,MIR22HG,colorectal cancer,"qRT-PCR, Western blot",down-regulated,32127004.0,4
+396,MIR503HG,colorectal cancer,qPCR,down-regulated,31278965.0,1
+397,MIR600HG,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay etc",down-regulated,32270866.0,1
+398,"MLK7-AS1
+MAP3K20-AS1",colorectal cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30535460.0,1 (MAP3K20-AS1)
+399,MNX1-AS1,colorectal cancer,"Microarray, qPCR, Luciferase reporter assay etc.",up-regulated,25663692.0,1
+400,"MORT
+ZNF667-AS1",colon cancer,"RT-qPCR, Western blot assay",down-regulated,31966041.0,2 (ZNF667-AS1)
+401,"MYCLo-5
+LPP-AS2",colorectal cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26003165.0,1 (LPP-AS2)
+402,MYCNOS,colon cancer,"Microarray, qPCR, RNA pull-down assay etc.",down-regulated,27821766.0,3
+403,"MYU
+VPS9D1-AS1",colon cancer,"qPCR, RIP, RNA pull-down assay etc.",up-regulated,27568568.0,1 (VPS9D1-AS1)
+404,"Nbla12061
+SNHG16",colorectal cancer,qPCR etc.,up-regulated,27683121.0,4 (SNHG16)
+405,NBR2,colorectal cancer,"Western blotting, RT-PCR",up-regulated,31888414.0,2
+406,NBR2,colorectal cancer,"qRT-PCR , Luciferase reporter assay etc.",down-regulated,31571148.0,2
+407,"NCRNA00028
+LINC00028",colon cancer,"Microarray, qPCR, RNA pull-down assay etc.",down-regulated,27821766.0,1 (LINC00028)
+408,ncRuPAR,colorectal cancer,"qPCR, Immunohistochemistry etc.",down-regulated,25119598.0,1
+409,NEAT1,colon cancer,"qRT-PCR, Western blot",up-regulated,32077635.0,2 (NEAT1_MENbeta and MENepsilon)
+410,NEAT1,colorectal cancer,"RT-qPCR, Western blot",up-regulated,32065361.0,2 (NEAT1_MENbeta and MENepsilon)
+411,NEAT1,colorectal cancer,"qPCR, Western blot, RIP",differential expression,31558855.0,2 (NEAT1_MENbeta and MENepsilon)
+412,NEAT1,colorectal cancer,"Western blotting, qRT-PCR, Dual Luciferase assay",up-regulated,31802650.0,2 (NEAT1_MENbeta and MENepsilon)
+413,NEAT1,colon cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31173354.0,2 (NEAT1_MENbeta and MENepsilon)
+414,NEAT1,colorectal cancer,"qPCR, Western blot, RIP, Dual Luciferase Assay",up-regulated,30185232.0,2 (NEAT1_MENbeta and MENepsilon)
+415,NEAT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30407674.0,2 (NEAT1_MENbeta and MENepsilon)
+416,NEAT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30383193.0,2 (NEAT1_MENbeta and MENepsilon)
+417,NEAT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30312725.0,2 (NEAT1_MENbeta and MENepsilon)
+418,NEAT1,colorectal cancer,qPCR,differential expression,28698299.0,2 (NEAT1_MENbeta and MENepsilon)
+419,NEAT1,colorectal cancer,qPCR etc.,up-regulated,26314847.0,2 (NEAT1_MENbeta and MENepsilon)
+420,NEAT1,colorectal cancer,"qPCR, Western blot, Flow cytometry assay etc.",up-regulated,28013491.0,2 (NEAT1_MENbeta and MENepsilon)
+421,NEAT1,colorectal cancer,"qPCR, RNAi, Cell proliferation assay, Cell invasion assay etc.",up-regulated,26552600.0,2 (NEAT1_MENbeta and MENepsilon)
+422,NKILA,colorectal cancer,"qPCR, other",down-regulated,31423284.0,1
+423,NNT-AS1,colorectal cancer,"qPCR, RNAi, Western blot, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,27966450.0,1
+424,NORAD,colorectal cancer,"qRT-PCR, Western blot, in vitro knockdown, Luciferase reporter assay",up-regulated,29471886.0,1
+425,NR2F2-AS1,colorectal cancer,qPCR etc.,up-regulated,32210626.0,3
+426,NR2F2-AS1,colorectal cancer,"qPCR, Western blot, other",up-regulated,31432342.0,3
+427,NR4A1AS,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31253658.0,1
+428,"NR_015441
+LOC652276",colorectal cancer,"Microarray, qPCR etc.",differential expression,25421768.0,1 (LOC652276)
+429,"NR_033374
+SLC25A25-AS1",colorectal cancer,"Microarray, qPCR etc.",differential expression,25421768.0,1 (SLC25A25-AS1)
+430,"NR_033878
+LINC00944",colorectal cancer,"Microarray, qPCR etc.",down-regulated,27165481.0,1 (LINC00944)
+431,"NR_036537
+RAB6C-AS1",colorectal cancer,"Microarray, qPCR etc.",up-regulated,27165481.0,1 (RAB6C-AS1)
+432,"NR_037661
+FKBP1A-SDCBP2",colorectal cancer,"Microarray, qPCR etc.",down-regulated,26847923.0,1 (FKBP1A-SDCBP2)
+433,"NR_038990
+EHHADH-AS1",colorectal cancer,"Microarray, qPCR etc.",down-regulated,25921151.0,1 (EHHADH-AS1)
+434,"NR_045617
+SMPX_Variant 2",colorectal cancer,"Microarray, qPCR etc.",up-regulated,26847923.0,"1
+(1st variant is mRNA)
+(Total=2)"
+435,"NR_046321
+GPX2_Variant 3",colorectal cancer,"Microarray, qPCR etc.",down-regulated,27591862.0,"1
+(1st variant is mRNA, 2nd and 4th variants are non-coding RNA)
+(Total=4)"
+436,"NR_046711
+POU6F2-AS1",colorectal cancer,"Microarray, qPCR etc.",up-regulated,27165481.0,1 (POU6F2-AS1)
+437,"NR_110882
+LOC102724596_Variant 1",colorectal cancer,"qPCR, other",up-regulated,30446877.0,"1
+(2nd and 3rd variants are also lncRNA)
+(Total=3)"
+438,OIP5-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",down-regulated,29773344.0,4
+439,OIP5-AS1,colon cancer,"Western blot, Luciferase reporter assay etc.",up-regulated,32308348.0,4
+440,OIP5-AS1,colorectal cancer,"Microarray, qPCR, Western blot etc.",down-regulated,29773344.0,4
+441,PANDAR,Colorectal Cancer,qPCR,up-regulated,31328973.0,1
+442,PANDAR,colorectal cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,28176943.0,1
+443,PANDAR,colorectal cancer,"qPCR, RNAi, MTT assay etc.",up-regulated,28106228.0,1
+444,PANDAR,colorectal cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27629879.0,1
+445,PART1,colorectal cancer,"luciferase assay, RIP, RT-PCR",up-regulated,31898365.0,3
+446,PART1,colorectal cancer,"qRT-PCR, Western blot.Luciferase Reporter Assay, RIP",up-regulated,31669140.0,3
+447,PART1,colorectal cancer,"qPCR, Western blot, luciferase reporter assay",up-regulated,28619512.0,3
+448,PCAT1,colorectal cancer,qPCR,up-regulated,31253700.0,1
+449,PCAT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31646561.0,1
+450,PCAT1,colorectal cancer,"qPCR, Western blot etc.",down-regulated,28855110.0,1
+451,PCAT1,colorectal cancer,"Microarray, qPCR etc.",up-regulated,27591862.0,1
+452,PCAT1,colorectal cancer,qPCR etc.,up-regulated,23640607.0,1
+453,PCAT6,colorectal cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30938104.0,2
+454,PGM5-AS1,colorectal cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32354224.0,3
+455,PICART1,colorectal cancer,"qPCR, Cell transfection, Western blot, Cell proliferation assay etc.",down-regulated,28339031.0,1
+456,PINCR,colorectal cancer,"qPCR, Western blot, Luciferase reporter assays",differential expression,28580901.0,1
+457,"PlncRNA-1
+CBR3-AS1",colorectal cancer,Western blot etc.,up-regulated,29738066.0,3 (CBR3-AS1)
+458,"PlncRNA-1
+CBR3-AS1",colorectal cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,28835319.0,3 (CBR3-AS1)
+459,POU6F2-AS2,colon cancer,RT-qPCR,up-regulated,32100443.0,1
+460,PRKCQ-AS1,colorectal cancer,RT-qPCR,up-regulated,31708689.0,2
+461,PRNCR1,colorectal cancer,qPCR etc.,differential expression,24330491.0,1
+462,PRNCR1,colorectal cancer,"qPCR, Flow cytometry assay etc.",up-regulated,26530130.0,1
+463,PVT1,colorectal cancer,qPCR,up-regulated,29888675.0,1
+464,PVT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32276209.0,1
+465,PVT1,colorectal cancer,qPCR,up-regulated,30978169.0,1
+466,PVT1,colorectal cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31125260.0,1
+467,PVT1,colon cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30504754.0,1
+468,PVT1,colorectal cancer,"qPCR, etc.",up-regulated,31509024.0,1
+469,PVT1,colon cancer,"qPCR, Western blot, RIP",up-regulated,29552759.0,1
+470,PVT1,colorectal cancer,"Microarray, qPCR etc.",up-regulated,26990997.0,1
+471,PVT1,colorectal cancer,"qPCR, Western blot etc.",up-regulated,29512788.0,1
+472,PVT1,colorectal cancer,qPCR etc.,up-regulated,27596298.0,1
+473,PVT1,colorectal cancer,"qPCR, Western blot etc.",up-regulated,29637007.0,1
+474,PVT1,colorectal cancer,qPCR,up-regulated,28381186.0,1
+475,PVT1,colorectal cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,24196785.0,1
+476,PVT1,colorectal cancer,"qPCR, etc.",up-regulated,29888675.0,1
+477,RBM5-AS1,colon cancer,"qPCR, Cell transfection, Dual luciferase reporter assay, Flow cytometry assay etc.",differential expression,27520449.0,1
+478,"RNCR3
+MIR124-1HG",colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32239427.0,1 (MIR124-1HG)
+479,ROR1-AS1,colon cancer,"qPCR, RIP",up-regulated,32096171.0,2
+480,ROR1-AS1,colorectal cancer,"RT-qPCR, Western blot analysis",up-regulated,31693094.0,2
+481,ROR1-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31486489.0,2
+482,ROR1-AS1,colorectal cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31389604.0,2
+483,"RPL34-AS1
+RPL34-DT",colorectal cancer,"Microarray, qPCR etc.",down-regulated,24908062.0,1 (RPL34-DT)
+484,RPPH1,colorectal cancer,RNA-seq,up-regulated,31685807.0,1
+485,RUNX1-IT1,colorectal cancer,"qPCR, Western blot, in vitro knockdown, etc.",down-regulated,30499136.0,1
+486,SATB1-AS1,colorectal cancer,RT-qPCR,down-regulated,31708689.0,1
+487,SATB2-AS1,Colorectal cancer,"qPCR, RIP",down-regulated,30858153.0,1
+488,SATB2-AS1,colorectal cancer,"qPCR, Western blot, RIP, etc.",down-regulated,31492160.0,1
+489,SBDSP1,colorectal cancer,qPCR etc.,down-regulated,28975982.0,4
+490,SBDSP1,colorectal cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27890432.0,4
+491,SBF2-AS1,Colorectal cancer,qPCR,up-regulated,30912164.0,1
+492,SCARNA2,colorectal cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30443961.0,1
+493,SH3PXD2A-AS1,colorectal cancer,"RNA-seq, Microarray, qPCR, Western blot etc.",up-regulated,29734178.0,1
+494,SLCO4A1-AS1,colorectal cancer,"qRT-PCR, Western blotting",up-regulated,31853225.0,1
+495,SLCO4A1-AS1,colorectal cancer,"RNA-seq, qPCR",up-regulated,30039525.0,1
+496,SLCO4A1-AS1,colorectal cancer,"qPCR, RNAi, RIP, other",up-regulated,30201010.0,1
+497,SLCO4A1-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31308265.0,1
+498,SLCO4A1-AS1,colorectal cancer,"Microarray, qPCR etc.",up-regulated,27147563.0,1
+499,SNHG1,Colorectal cancer,qPCR,up-regulated,31397210.0,12
+500,SNHG1,colorectal cancer,qPCR etc.,up-regulated,32334448.0,12
+501,SNHG1,colorectal cancer,"qPCR, Luciferase reporter assay, RNAi, RIP, other",up-regulated,30266084.0,12
+502,SNHG1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31276207.0,12
+503,SNHG1,colon cancer,"qPCR, Western blot etc.",up-regulated,29749530.0,12
+504,SNHG1,colorectal cancer,"qPCR, Western blot",up-regulated,29416759.0,12
+505,SNHG1,colorectal cancer,"qPCR, Western blot",up-regulated,29340086.0,12
+506,SNHG1,colorectal cancer,"qRT-PCR, Western blot",up-regulated,29509245.0,12
+507,SNHG1,colorectal cancer,"qPCR, Western blot etc.",down-regulated,28759957.0,12
+508,SNHG11,colorectal cancer,"qPCR, Western blot",down-regulated,31633800.0,1
+509,SNHG12,colorectal cancer,"qPCR, Luciferase reporter assay",up-regulated,31316616.0,8
+510,SNHG12,colorectal cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, MTT assay etc.",up-regulated,28225893.0,8
+511,SNHG14,colorectal cancer,"PCR, Western blot",up-regulated,31704614.0,1
+512,SNHG14,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,31471872.0,1
+513,SNHG14,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31273190.0,1
+514,SNHG15,colorectal cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30945457.0,5
+515,SNHG15,colorectal cancer,"qRT-PCR , Western blot , RIP , RNA-seq , in vitro knockdown etc.",up-regulated,31014355.0,5
+516,SNHG15,colon cancer,"RNA-seq, qPCR etc.",down-regulated,29604394.0,5
+517,SNHG15,colorectal cancer,"Microarray, qPCR etc.",up-regulated,27147563.0,5
+518,SNHG17,colorectal cancer,"qPCR, RIP, Western blot etc.",up-regulated,28933484.0,14
+519,SNHG20,colorectal cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27543107.0,1
+520,SNHG3,colorectal cancer,"qPCR, Luciferase reporter assay, RIP etc",up-regulated,32187965.0,2
+521,SNHG3,colorectal cancer,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,28731158.0,2
+522,SNHG5,colorectal cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30395767.0,1
+523,SNHG5,colorectal cancer,"qPCR, Western blot, Northern blot, RIP, Luciferase reporter assay etc.",up-regulated,28004750.0,1
+524,SNHG6,colorectal cancer,"qPCR, western blot",differential expression,31516391.0,4
+525,SNHG6,colorectal cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31118686.0,4
+526,SNHG6,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30254467.0,4
+527,SNHG6,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi, etc.",up-regulated,30666158.0,4
+528,SNHG6,colorectal cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30662328.0,4
+529,SNHG6,colorectal cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30626446.0,4
+530,SNHG6,colorectal cancer,"qPCR, Western blot",down-regulated,31322251.0,4
+531,SNHG6,colorectal cancer,"qRT-PCR, in vitro knockdown",up-regulated,29506878.0,4
+532,SNHG7,colorectal cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29970122.0,3
+533,SNHG7,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29915311.0,3
+534,SNHG7,colorectal cancer,"Microarray, qPCR, RIP, Luciferase reporter assay, Western blot, etc.",down-regulation,29970122.0,3
+535,SNHG7,colorectal cancer,"qPCR, Western blot, Dual luciferase reporter assays, RIP, etc.",up-regulated,29915311.0,3
+536,SOX21-AS1,colorectal cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,29217166.0,1
+537,"SOX2OT
+SOX2-OT",colorectal cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27353770.0,"6 (SOX2-OT_Variant 1-6)
++
+1 [SOX2OT_Variant 7 (older)]
+=7"
+538,SPINT1-AS1,colorectal cancer,"qPCR, Dual luciferase reporter assay",up-regulated,30022840.0,3
+539,SPRY4-IT1,colorectal cancer,qPCR etc.,up-regulated,28099409.0,1
+540,SPRY4-IT1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28720069.0,1
+541,SPRY4-IT1,colorectal cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27391336.0,1
+542,SPRY4-IT1,colorectal cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27621655.0,1
+543,ST3GAL6-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",down-regulated,30613961.0,1
+544,STARD13-AS,colorectal cancer,"qRT-PCR, Western blotting",down-regulated,31807011.0,1
+545,SUMO1P3,colorectal cancer,"qPCR, RIP, Western blot",up-regulated,30799082.0,1
+546,SUMO1P3,colon cancer,"qPCR, Western blot",up-regulated,29312498.0,1
+547,"THOR
+THORLNC",colon cancer,"qPCR, other",up-regulated,31452739.0,1 (THORLNC)
+548,TINCR,Colorectal cancer,qPCR,up-regulated,30853664.0,1
+549,TINCR,colorectal cancer,"qPCR, Luciferase reporter assay, Western blot, RNA-seq",up-regulated,31540772.0,1
+550,TINCR,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",down-regulated,30521471.0,1
+551,TINCR,colorectal cancer,"qPCR, Western blot, RIP, Luciferase reporter assay, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,27009809.0,1
+552,TMPO-AS1,colorectal cancer,qPCR etc,up-regulated,31768869.0,1
+553,TP73-AS1,colorectal cancer,"RT-qPCR, Western blotting",up-regulated,31908524.0,5
+554,TP73-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",down-regulated,30472379.0,5
+555,TPT1-AS1,colorectal cancer,"Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32248186.0,1
+556,"TRERNA
+TRERNA1",colorectal cancer,qRT-PCR,up-regulated,31933996.0,1 (TRERNA1)
+557,TRPM2-AS,colorectal cancer,"RT-qPCR, Western blot, RIP",up-regulated,31887411.0,1
+558,TTN-AS1,colorectal cancer,"RT-qPCR, Western blot analysis, Dual Luciferase Reporter Assay",up-regulated,31920341.0,2
+559,TUG1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29776371.0,8
+560,TUG1,colorectal cancer,qPCR,up-regulated,31528224.0,8
+561,TUG1,colon cancer,"Dual luciferase reporter assay, Western blot analysis, RT-qPCR",up-regulated,31697952.0,8
+562,TUG1,colorectal cancer,"qRT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,31576172.0,8
+563,TUG1,colorectal cancer,"qPCR, Western blot, other",up-regulated,30250601.0,8
+564,TUG1,colon cancer,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,27634385.0,8
+565,TUG1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, Flow cytometry assay, MTT assay etc.",up-regulated,28302487.0,8
+566,TUG1,colorectal cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27421138.0,8
+567,TUG1,colorectal cancer,"qPCR, Western blot etc.",up-regulated,26856330.0,8
+568,TUG1,colorectal cancer,"qPCR, western blot, Luciferase reporter assay etc.",up-regulated,29776371.0,8
+569,UCA1,colorectal cancer,"qRT-PCR, Western blot",down-regulated,32143722.0,1
+570,UCA1,colorectal cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29948578.0,1
+571,UCA1,colorectal cancer,"qPCR, Western blot, RIP",differential expression,31558855.0,1
+572,UCA1,colorectal cancer,"Western blotting, Luciferase Reporter Assay, RIP, qRT-PCR",up-regulated,31955010.0,1
+573,UCA1,colorectal cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",,31579420.0,1
+574,UCA1,colorectal cancer,"qPCR, Western blot, RNAi, other",up-regulated,30377411.0,1
+575,UCA1,colorectal cancer,"qPCR, Western blot, other",down-regulated,30362538.0,1
+576,UCA1,colorectal cancer,"qPCR, other",down-regulated,30195762.0,1
+577,UCA1,colon cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,30652355.0,1
+578,UCA1,colorectal cancer,qPCR,up-regulated,31262449.0,1
+579,UCA1,colon cancer,qPCR etc.,up-regulated,26885155.0,1
+580,UCA1,colon cancer,"qPCR, Western blot, Northern blot, Flow cytometry assay etc.",up-regulated,17416635.0,1
+581,UCA1,colorectal cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,27046651.0,1
+582,UCA1,colorectal cancer,qPCR,up-regulated,28406230.0,1
+583,UCA1,colorectal cancer,"Microarray, qPCR, RNAi, Luciferase reporter assay etc.",up-regulated,26238511.0,1
+584,UCA1,colorectal cancer,qPCR etc.,up-regulated,24977734.0,1
+585,UCA1,colorectal cancer,"qPCR, Western blot, RNAI, etc.",up-regulated,29948578.0,1
+586,UXT-AS1,colorectal cancer,"qPCR, Western blot",up-regulated,28401004.0,1
+587,VIM-AS1,colorectal cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,29656793.0,2
+588,"WT1AS
+WT1-AS",colon cancer,"Microarray, qPCR, RNA pull-down assay etc.",down-regulated,27821766.0,5 (WT1-AS)
+589,XIRP2-AS1,colon cancer,"qPCR, Western blot, RNAi, RIP, Microarray, Luciferase reporter assays, other",down-regulated,31410022.0,1
+590,XIST,colorectal cancer,"qRT-PCR, Western blot, RIP",up-regulated,32061057.0,1
+591,XIST,colorectal cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30907503.0,1
+592,XIST,colorectal cancer,"qPCR, Luciferase reporter assay, Western blot, other",up-regulated,30439718.0,1
+593,XIST,colorectal cancer,"qPCR, other",up-regulated,31452526.0,1
+594,XIST,Colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30678736.0,1
+595,XIST,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30656681.0,1
+596,XIST,colon cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29679755.0,1
+597,XIST,colorectal cancer,"qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29495975.0,1
+598,XIST,colorectal cancer,"qPCR, Western blot",up-regulated,29137332.0,1
+599,XIST,colorectal cancer,"Microarray, FISH etc.",differential expression,17143621.0,1
+600,XIST,colorectal cancer,"qPCR, Western blot etc.",up-regulated,28730777.0,1
+601,XIST,colorectal cancer,"Microarray, qPCR etc.",down-regulated,29484395.0,1
+602,XIST,colorectal cancer,"qPCR, Western blot",down-regulated,28837144.0,1
+603,"XLOC_000303
+SLC44A3-AS1",colorectal cancer,"Microarray, qPCR etc.",up-regulated,26328256.0,7 (SLC44A3-AS1)
+604,"XLOC_006844
+LINC01617",colorectal cancer,"Microarray, qPCR etc.",up-regulated,26328256.0,1 (LINC01617)
+605,"XLOC_010588
+TUSC8",colorectal cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,29436686.0,1 (TUSC8)
+606,YWHAE,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31238337.0,"1
+(1st variant is mRNA)
+(Total=2)"
+607,ZDHHC8P1,Colorectal cancer,qPCR,up-regulated,30840269.0,1
+608,ZEB1-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29886791.0,6
+609,ZEB1-AS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32190742.0,6
+610,ZEB1-AS1,colorectal cancer,"qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29511455.0,6
+611,ZEB1-AS1,colorectal cancer,"qPCR, Western blot etc.",up-regulated,28618933.0,6
+612,ZEB1-AS1,colorectal cancer,"Flow cytometry assay, qPCR, Western blot, etc.",up-regulated,29886791.0,6
+613,ZEB2-AS1,colorectal cancer,"qRT-PCR, Western blot",up-regulated,31755734.0,1
+614,ZEB2-AS1,colorectal cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32277632.0,1
+615,ZEB2-AS1,colon cancer,"qRT-PCR, Western blot",up-regulated,31698657.0,1
+616,ZFAS1,colorectal cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, RNAi, other",up-regulated,30250022.0,5
+617,ZFAS1,Colorectal Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31295229.0,5
+618,ZFAS1,colon cancer,"qPCR, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27862275.0,5
+619,ZFAS1,colorectal cancer,"qPCR, Luciferase reporter assay",up-regulated,29179614.0,5
+620,ZFAS1,colorectal cancer,qPCR,up-regulated,28406230.0,5
+621,ZFAS1,colorectal cancer,"qPCR, RNAi, Cell migration and invasion assay etc.",up-regulated,27461828.0,5
+622,ZFAS1,colorectal cancer,"qPCR, RNAi, Western blot, Northern blot, RIP, RNA pull-down assay etc.",up-regulated,26506418.0,5

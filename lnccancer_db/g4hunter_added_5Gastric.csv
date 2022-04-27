@@ -1,0 +1,659 @@
+0,ABHD11-AS1,Gastric Cancer,qPCR etc.,up-regulated,26280398.0,1.0
+1,ABHD11-AS1,Gastric Cancer,qPCR etc.,up-regulated,24984296.0,1.0
+2,ADAMTS9-AS2,Gastric Cancer,"qPCR, Western blot",down-regulated,32160650.0,1.0
+3,ADAMTS9-AS2,Gastric Cancer,"qPCR, Western blot",down-regulated,30089248.0,1.0
+4,ADPGK-AS1,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,30944080.0,1.0
+5,AFAP1-AS1,Gastric Cancer,qRT-PCR,up-regulated,32051698.0,1.0
+6,AFAP1-AS1,Gastric Cancer,"qRT-PCR, Western blot, RIP",up-regulated,32016968.0,1.0
+7,AFAP1-AS1,Gastric Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29805596.0,1.0
+8,AFAP1-AS1,Gastric Cancer,qPCR etc.,up-regulated,31785996.0,1.0
+9,AFAP1-AS1,Gastric Cancer,qRT-PCR etc.,down-regulated,31086663.0,1.0
+10,AFAP1-AS1,Gastric Cancer,"qPCR, other",up-regulated,31452798.0,1.0
+11,AFAP1-AS1,Gastric Cancer,"qPCR, Western blot, etc.",up-regulated,28975981.0,1.0
+12,AFAP1-AS1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,28451917.0,1.0
+13,AFAP1-AS1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,29805596.0,1.0
+14,AFDN-DT,Gastric Cancer,RT-qPCR,up-regulated,31981317.0,1.0
+15,AGAP2-AS1,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Luciferase reporter assay, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,28209205.0,1.0
+16,AKR7L,Gastric Cancer,"Microarray, qPCR, RNAi etc.",down-regulated,25765901.0,2.0
+17,"ANCR",Gastric Cancer,"qRT-PCR, Western blot, RIP",up-regulated,31894487.0,3.0
+18,"ANRIL",Gastric Cancer,"qPCR, Western blot",up-regulated,30156609.0,14.0
+19,"ANRIL",Gastric Cancer,"qPCR, Western blot, other",up-regulated,30431129.0,14.0
+20,"ANRIL",Gastric Cancer,"qPCR, Western blot",up-regulated,31242038.0,14.0
+21,"ANRIL",Gastric Cancer,"qPCR, RNAi, Western blot, RIP etc.",up-regulated,24810364.0,14.0
+22,"ANRIL",Gastric Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,27027260.0,14.0
+23,"ANRIL",Gastric Cancer,"qPCR, RNAi etc.",up-regulated,27121324.0,14.0
+24,AP5M1,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,29719612.0,1.0
+25,ARAP1-AS1,Gastric Cancer,RT-PCR,up-regulated,32141550.0,1.0
+26,ARHGAP27P1,Gastric Cancer,"RT-qPCR, Western blot, RIP",down-regulated,31665700.0,1.0
+27,ARHGAP5-AS1,Gastric Cancer,"qRT-PCR, RIP etc.",up-regulated,31097692.0,1.0
+28,AWPPH,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",down-regulated,31489578.0,8.0
+29,B3GALT5-AS1,Gastric Cancer,qPCR,up-regulated,31338903.0,2.0
+30,BANCR,Gastric Adenocarcinoma,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,26248136.0,1.0
+31,BANCR,Gastric Cancer,"RNA-seq, Microarray, RT-qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29483646.0,1.0
+32,BANCR,Gastric Cancer,qPCR etc.,up-regulated,26054683.0,1.0
+33,BANCR,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,28042329.0,1.0
+34,BCAR4,Gastric Cancer,"qPCR, Western blot etc",up-regulated,32329841.0,5.0
+35,BCAR4,Gastric Cancer,Western blot,up-regulated,29028095.0,5.0
+36,BCYRN1,Gastric Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31652309.0,1.0
+37,BCYRN1,Gastric Cancer,"qPCR, Western blot",up-regulated,29435146.0,1.0
+38,BLACAT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29710482.0,1.0
+39,BLACAT2,Gastric Cancer,qPCR etc,up-regulated,32194743.0,1.0
+40,BNC2-AS1,Gastric Cancer,"qPCR, RNAi, etc.",up-regulated,30549996.0,1.0
+41,C21orF96,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,26567621.0,1.0
+42,C5orf66-AS1,Gastric Cancer,qPCR etc.,down-regulated,32308414.0,2.0
+43,C5orf66-AS1,Gastric Cardia Cancer,"qPCR, Luciferase reporter assay etc.",down-regulated,29566283.0,2.0
+44,CARLo-5,Gastric Cancer,qPCR etc.,up-regulated,28239816.0,1.0
+45,CASC11,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30200804.0,2.0
+46,CASC15,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29956772.0,1.0
+47,CASC15,Gastric Cancer,"qPCR, Microarray",up-regulated,29272000.0,1.0
+48,CASC15,Gastric Cancer,"RNA-seq, RT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29489064.0,1.0
+49,CASC19,Gastric Cancer,"qPCR, other",up-regulated,31422382.0,1.0
+50,CASC2,Gastric Cancer,"qPCR, Luciferase reporter assay, other",down-regulated,30372881.0,3.0
+51,CASC2,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",down-regulated,31301415.0,3.0
+52,CASC2,Gastric Cancer,qPCR etc.,down-regulated,28849111.0,3.0
+53,CASC2,Gastric Cancer,"qPCR, Cell transfection, Western blot etc.",up-regulated,27648142.0,3.0
+54,CASC9,Gastric Cancer,"qPCR, Western blot, RIP",up-regulated,31642035.0,3.0
+55,CASC9,Gastric Cancer,"qPCR, Cell transfection, Western blot, Cell proliferation assay etc.",up-regulated,28146436.0,3.0
+56,CBR3-AS1,Gastric Cancer,qPCR etc.,up-regulated,26722487.0,3.0
+57,CCAT1,Gastric Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29940756.0,1.0
+58,CCAT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,31478245.0,1.0
+59,CCAT1,Gastric Cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,25674211.0,1.0
+60,CCAT1,Gastric Cancer,qPCR etc.,up-regulated,25561974.0,1.0
+61,CCAT1,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29231252.0,1.0
+62,CCAT1,Gastric Cancer,qPCR,down-regulated,28724210.0,1.0
+63,CCAT1,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,23143645.0,1.0
+64,CCAT1,Gastric Cancer,"qPCR, Western blot, etc.",up-regulated,29940756.0,1.0
+65,CCAT2,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,32021279.0,1.0
+66,CCAT2,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,29435046.0,1.0
+67,CCAT2,Gastric Cancer,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,28248065.0,1.0
+68,CCAT2,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,28042329.0,1.0
+69,CCAT2,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Cell proliferation assay etc.",up-regulated,27904778.0,1.0
+70,CCAT2,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,25755774.0,1.0
+71,CCDC26,Gastrointestinal Stromal Tumor,"qRT-PCR , Western blot etc.",up-regulated,31166382.0,4.0
+72,CCDC26,Gastrointestinal Stromal Tumor,"qRT-PCR, Western blot, in vitro knockdown",differential expression,29423012.0,4.0
+73,CCHE1,Gastric Cancer,"qPCR, Western blot",up-regulated,29771412.0,1.0
+74,CCHE1,Gastric Cancer,qPCR,up-regulated,29771412.0,1.0
+75,CEBPA-AS1,Gastric Cancer,"RT-PCR, Western blot",up-regulated,32110038.0,3.0
+76,CEBPA-AS1,Gastric Cancer,qPCR,up-regulated,28423525.0,3.0
+77,CERNA2,Gastric Cancer,RT-PCR,up-regulated,31949664.0,1.0
+78,CRNDE,Gastric Cancer,"qPCR, Western blot, RNAi, Luciferase reporter assay",up-regulated,28490034.0,5.0
+79,CRNDE,Gastric Cancer,"qPCR, Western blot",up-regulated,29243780.0,5.0
+80,CTC-497E21.4,Gastric Cancer,qPCR,up-regulated,30763257.0,2.0
+81,CTC-497E21.4,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,31451992.0,2.0
+82,DANCR,Gastric Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31002130.0,3.0
+83,DANCR,Gastric Cancer,"qPCR, Western blot, RIP etc.",up-regulated,28951520.0,3.0
+84,DANCR,Gastric Cancer,qPCR etc.,up-regulated,28618943.0,3.0
+85,DANCR,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot, RNAi",up-regulated,29416741.0,3.0
+86,DCST1-AS1,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,32096164.0,2.0
+87,DDX11-AS1,Gastric Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29912172.0,1.0
+88,DDX11-AS1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,32271422.0,1.0
+89,DDX11-AS1,Gastric Cancer,"qPCR, etc.",up-regulated,29912172.0,1.0
+90,DGCR5,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",down-regulated,30515803.0,5.0
+91,DGCR9,Gastric Cancer,qPCR etc.,up-regulated,29719408.0,5.0
+92,DINO,Gastric Cancer,qPCR,down-regulated,30775800.0,1.0
+93,DKFZP434K028,Gastric Cancer,"Microarray, qPCR etc.",down-regulated,26237576.0,1.0
+94,DLEU1,Gastric Cancer,"qPCR, Western blot, RIP",up-regulated,29282356.0,3.0
+95,DLEU2,Gastric Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29912172.0,7.0
+96,DLEU2,Gastric Cancer,"qPCR, etc.",up-regulated,29912172.0,7.0
+97,DLX6-AS1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32239379.0,1.0
+98,DLX6-AS1,Gastric Cancer,"qRT-PCR , Western blot , RIP , in vitro knockdown etc.",up-regulated,31591939.0,1.0
+99,DLX6-AS1,Gastric Cancer,"qRT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,31105791.0,1.0
+100,DLX6-AS1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,31463827.0,1.0
+101,DNM3OS,Gastric Cancer,"qPCR, Western blot",up-regulated,30770102.0,2.0
+102,DRAIC,Gastric Cancer,"qPCR, Western blot, RIP etc.",down-regulated,32351584.0,1.0
+103,DUXAP8,Gastric Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27507049.0,1.0
+104,DUXAP8,Gastric Cancer,"qPCR, Western blot, RIP etc.",up-regulated,28881724.0,1.0
+105,EGFLAM-AS1,Gastric Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,26537802.0,1.0
+106,EGFR-AS1,Gastric Cancer,"qPCR, Western blot",up-regulated,30138934.0,1.0
+107,EGOT,Gastric Cancer,"qPCR, Western blot",up-regulated,29209988.0,1.0
+108,FAL1,Gastric Cancer,"qPCR, Western blot, etc.",up-regulated,30556865.0,1.0
+109,FALEC,Gastric Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,30984243.0,1.0
+110,FALEC,Gastric Cancer,"qPCR, RNAi etc.",down-regulated,29719612.0,1.0
+111,FENDRR,Gastric Cancer,"qPCR, Western blot etc.",down-regulated,25167886.0,2.0
+112,FER1L4,Gastric Cancer,"Microarray, qPCR etc.",down-regulated,24961353.0,1.0
+113,FER1L4,Gastric Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,26306906.0,1.0
+114,FER1L4,Gastric Cancer,"Microarray, qPCR, RNAi etc.",differential expression,25124853.0,1.0
+115,FEZF1-AS1,Gastric Cancer,qPCR etc.,up-regulated,31785996.0,1.0
+116,FEZF1-AS1,Gastric Cancer,"qPCR, Western blot, RNAi",up-regulated,29239821.0,1.0
+117,FEZF1-AS1,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, MTT assay etc.",up-regulated,28209170.0,1.0
+118,FLVCR1-AS1,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30899380.0,2.0
+119,FOXCUT,Gastric Adenocarcinoma,qPCR,up-regulated,31364114.0,1.0
+120,FOXD2-AS1,Gastric Cancer,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29789713.0,1.0
+121,FOXD2-AS1,Gastric Cancer,qPCR,up-regulated,31308753.0,1.0
+122,FOXD2-AS1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,29789713.0,1.0
+123,FOXP4-AS1,Gastric Cancer,qPCR etc,up-regulated,32194743.0,3.0
+124,FOXP4-AS1,Gastric Cancer,"qPCR, Western blot, RIP",up-regulated,31646567.0,3.0
+125,FTX,Gastric Cancer,"qRT-PCR, Western blot, RIP",up-regulated,32021248.0,1.0
+126,FTX,Gastric Cancer,"qPCR, Western blot etc",up-regulated,32271421.0,1.0
+127,GACAT1,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot, other",up-regulated,30405842.0,2.0
+128,GACAT2,Gastric Cancer,qPCR etc.,up-regulated,28105191.0,2.0
+129,GACAT3,Gastric Cancer,"qPCR, Western blot, Dual luciferase assay",up-regulated,30098426.0,1.0
+130,GACAT3,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30317610.0,1.0
+131,GACAT3,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29091858.0,1.0
+132,GACAT3,Gastric Cancer,"qPCR, RNAi, Western blot, Dual luciferase reporter assay, Flow cytometry assay etc.",up-regulated,27644247.0,1.0
+133,GAPLINC,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,29785127.0,2.0
+134,GAPLINC,Gastric Cancer,"Microarray, ISH etc.",up-regulated,25277524.0,2.0
+135,GAPLINC,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, Luciferase reporter assay etc.",up-regulated,27729869.0,2.0
+136,GAPLINC,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,29785127.0,2.0
+137,GAS5,Gastric Cancer,"qPCR, Luciferase reporter assay",down-regulated,31530437.0,15.0
+138,GAS5,Gastric Cancer,"qRT-PCR, Western blotting, Dual Luciferase Report",down-regulated,31910411.0,15.0
+139,GAS5,Gastric Cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31182630.0,15.0
+140,GAS5,gastric cancer,"qPCR, other",,30269656.0,15.0
+141,GAS5,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,27827524.0,15.0
+142,GAS5,Gastric Cancer,qPCR etc.,differential expression,29557411.0,15.0
+143,GAS5,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",down-regulated,29098549.0,15.0
+144,GAS5,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,29719612.0,15.0
+145,GAS5,Gastric Cancer,"qPCR, MSP-PCR, Cell transfection etc.",down-regulated,27466992.0,15.0
+146,GAS5,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, RNA pull-down assay etc.",down-regulated,25959498.0,15.0
+147,GAS5,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, Flow cytometry assay etc.",down-regulated,26278580.0,15.0
+148,GAS5,Gastric Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,24884417.0,15.0
+149,GAS6-AS1,Gastric Cancer,"qPCR, Western blot",up-regulated,30735718.0,1.0
+150,"GASL1",Gastric Cancer,"qRT-PCR, Western blotting, in vitro knockdown etc.",down-regulated,30988785.0,1.0
+151,GATA6-AS,Gastric Cancer,qRT-PCR etc.,down-regulated,31611972.0,1.0
+152,GATA6-AS1,Gastric Cancer,"qRT-PCR, Western blot",down-regulated,31981860.0,1.0
+153,GCAWKR,Gastric Cancer,"qPCR, Western blot, RIP, RNAi, other",up-regulated,30274785.0,8.0
+154,GCRL1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29789536.0,2.0
+155,GCRL1,Gastric Cancer,"qPCR, western blot, Luciferase reporter assay etc.",differential expression,29789536.0,2.0
+156,GHET1,Gastric Cancer,"qPCR, Western blot etc",down-regulated,32176622.0,1.0
+157,GHET1,Gastric Cancer,qPCR,up-regulated,30066922.0,1.0
+158,GHET1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,28578256.0,1.0
+159,GHET1,Gastric Cancer,"qPCR, western blot etc.",up-regulated,28577495.0,1.0
+160,GHET1,Gastric Cancer,qPCR etc.,up-regulated,26096073.0,1.0
+161,GHET1,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,24397586.0,1.0
+162,GIHCG,Gastric Cancer,"qRT-PCR , Luciferase reporter assay , Western blot etc.",up-regulated,31050210.0,1.0
+163,H19,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,31787851.0,3.0
+164,H19,Gastric Cancer,qPCR,up-regulated,30945348.0,3.0
+165,H19,Gastric Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31081061.0,3.0
+166,H19,Gastric Cancer,"qPCR, Western blot, Cell invasion assay, Cell migration assay Animal experiments",up-regulated,30192003.0,3.0
+167,H19,Gastric Cancer,qPCR,up-regulated,30083318.0,3.0
+168,H19,Gastric Cancer,"qPCR, other",up-regulated,30447342.0,3.0
+169,H19,Gastric Cancer,qPCR etc.,up-regulated,29687854.0,3.0
+170,H19,Gastric Cancer,qPCR etc.,up-regulated,27592063.0,3.0
+171,H19,Gastric Adenocarcinoma,other,up-regulated,29479897.0,3.0
+172,H19,Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",up-regulated,24414129.0,3.0
+173,H19,Gastric Cancer,"qPCR, RNAi, Luciferase reporter assay etc.",up-regulated,26160158.0,3.0
+174,H19,Gastric Cancer,"qPCR, Cell transfection, Western blot, Cell proliferation assay etc.",up-regulated,28105222.0,3.0
+175,H19,Gastric Cancer,qPCR etc.,up-regulated,27184562.0,3.0
+176,H19,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,29719612.0,3.0
+177,H19,Gastric Cancer,"qPCR, Western blot",up-regulated,29207111.0,3.0
+178,H19,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,26931432.0,3.0
+179,H19,Gastric Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,24388988.0,3.0
+180,H19,Gastric Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,24810858.0,3.0
+181,H19,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28848149.0,3.0
+182,H19,Gastric Cancer,"qPCR, RNAi, Western blot, Cell migration and invasion assay etc.",up-regulated,26774144.0,3.0
+183,H19,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,26237576.0,3.0
+184,H19,Gastric Cancer,qPCR etc.,up-regulated,26096073.0,3.0
+185,H19,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,24671855.0,3.0
+186,H19,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,24063685.0,3.0
+187,H19,Gastric Cancer,qPCR etc.,up-regulated,23898077.0,3.0
+188,H19,Gastric Cancer,"qPCR, RIP, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,22776265.0,3.0
+189,HAGLROS,Gastric Cancer,"RNA-seq, Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29329543.0,1.0
+190,HAND2-AS1,Gastric Cancer,"qPCR, RIP etc.",down-regulated,32368078.0,11.0
+191,HCG11,Gastric Cancer,"qRT-PCR, Western blot, RIP, Luciferase reporter assay",up-regulated,31889902.0,1.0
+192,HCG18,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,32256081.0,4.0
+193,HCP5,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,32357145.0,1.0
+194,HCP5,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32300102.0,1.0
+195,HIF1A-AS1,Gastric Cancer,qPCR etc.,down-regulated,26722487.0,1.0
+196,HIF1A-AS2,Gastric Cancer,qPCR etc.,up-regulated,25686741.0,1.0
+197,HMLINCRNA717,Gastric Cancer,"qPCR, RIP etc.",down-regulated,24961350.0,2.0
+198,HNF1A-AS1,Gastric Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc",up-regulated,32336754.0,1.0
+199,HNF1A-AS1,Gastric Cancer,"qPCR, Western blot, Dual luciferase reporter assays, ChIP, RIP",up-regulated,30185552.0,1.0
+200,HNF1A-AS1,Gastric Cancer,"Microarray, qPCR etc.",down-regulated,26472090.0,1.0
+201,"HOST2",Gastric Cancer,"qPCR, Western blot, etc.",up-regulated,30509094.0,1.0
+202,HOTAIR,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",differential expressed,32364078.0,3.0
+203,HOTAIR,Gastric Cancer,"Luciferase reporter assay, Western blot",up-regulated,30810117.0,3.0
+204,HOTAIR,Gastric Cancer,"qRT-PCR, Western blot Assay, Dual Luciferase Reporter Assay, RIP",up-regulated,31819516.0,3.0
+205,HOTAIR,Gastric Cancer,"qPCR, other",down-regulated,30431069.0,3.0
+206,HOTAIR,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30338929.0,3.0
+207,HOTAIR,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30635945.0,3.0
+208,HOTAIR,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30557546.0,3.0
+209,HOTAIR,Gastric Cancer,"qPCR, Western blot",up-regulated,31281667.0,3.0
+210,HOTAIR,Gastric Cancer,qPCR etc.,up-regulated,29683069.0,3.0
+211,HOTAIR,Gastric Cardia Adenocarcinoma,"qPCR, RFLP-PCR etc.",up-regulated,25476857.0,3.0
+212,HOTAIR,Adenocarcinoma Of Esophagogastric Junction,"qPCR, Western blot",up-regulated,28352764.0,3.0
+213,HOTAIR,Gastrointestinal Stromal Tumor,qPCR etc.,up-regulated,22258453.0,3.0
+214,HOTAIR,Gastrointestinal Stromal Tumor,"qPCR, RNAi, Western blot, RIP, Cell proliferation assay etc.",up-regulated,27659532.0,3.0
+215,HOTAIR,Gastric Adenocarcinoma,qPCR etc.,up-regulated,26328013.0,3.0
+216,HOTAIR,Gastric Adenocarcinoma,qPCR etc.,up-regulated,23888369.0,3.0
+217,HOTAIR,Gastric Cancer,"qPCR, Western blot, RIP etc.",up-regulated,26136075.0,3.0
+218,HOTAIR,Gastric Cancer,qPCR etc.,up-regulated,26935047.0,3.0
+219,HOTAIR,Gastric Cancer,"qPCR, Dual luciferase reporter assay etc.",up-regulated,25640751.0,3.0
+220,HOTAIR,Gastric Cancer,qPCR etc.,up-regulated,25968902.0,3.0
+221,HOTAIR,Gastric Cancer,"qPCR, RNAi, Northern blot etc.",up-regulated,25612617.0,3.0
+222,HOTAIR,Gastric Cancer,qPCR etc.,up-regulated,24949306.0,3.0
+223,HOTAIR,Gastric Cancer,"qPCR, RNAi etc.",down-regulated,29719612.0,3.0
+224,HOTAIR,Gastric Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay etc.",up-regulated,27900563.0,3.0
+225,HOTAIR,Gastric Cancer,"qPCR, RNAi, Luciferase reporter assay, ELISA etc.",up-regulated,26187665.0,3.0
+226,HOTAIR,Gastric Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,24775712.0,3.0
+227,HOTAIR,Gastric Cancer,qPCR,up-regulated,29236333.0,3.0
+228,HOTAIR,Gastric Cancer,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29417297.0,3.0
+229,HOTAIR,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29080815.0,3.0
+230,HOTAIR,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,26237576.0,3.0
+231,HOTAIR,Gastric Cancer,qPCR etc.,up-regulated,26096073.0,3.0
+232,HOTAIR,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,25280565.0,3.0
+233,HOTAIR,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,25063030.0,3.0
+234,HOTAIR,Gastric Cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,23847441.0,3.0
+235,HOTAIR,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,24130837.0,3.0
+236,HOTAIRM1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, other",down-regulated,30302796.0,2.0
+237,HOTTIP,Gastric Cancer,"Western blot, qRT-PCR, Dual Luciferase Reporter Assay, RIP",up-regulated,31908497.0,1.0
+238,HOTTIP,Gastric Cancer,"qPCR, RNAi, Western blot etc.",differential expression,27144338.0,1.0
+239,HOTTIP,Gastric Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27108607.0,1.0
+240,HOTTIP,Gastric Cancer,"qPCR, RNAi etc.",down-regulated,27103834.0,1.0
+241,HOXA-AS2,Gastric Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,26384350.0,1.0
+242,HOXA11-AS,Gastric Cancer,"qRT-PCR, Western blot, RIP",up-regulated,32009419.0,1.0
+243,HOXA11-AS,Gastric Cancer,qPCR etc.,up-regulated,32368140.0,1.0
+244,HOXA11-AS,Gastric Cancer,"qPCR, Western blot",up-regulated,31235999.0,1.0
+245,HOXA11-AS,Gastric Cancer,"RNA-seq, Microarray, qPCR, Cell transfection, Western blot, RIP, ChIP, Luciferase reporter assay etc.",up-regulated,27651312.0,1.0
+246,HOXA11-AS,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,28441948.0,1.0
+247,HOXC-AS1,Gastric Cancer,qPCR etc.,up-regulated,32307743.0,1.0
+248,HOXC-AS1,Gastric Cancer,"Microarray, qRT-PCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31870402.0,1.0
+249,HOXC-AS3,Gastric Cancer,"qPCR, RNAi, RNA-seq, other",up-regulated,30286788.0,1.0
+250,HOXD-AS1,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,31551012.0,12.0
+251,HOXD-AS1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,28475004.0,12.0
+252,HRCEG,Gastric Cancer,"qRT-PCR, RNAi, Western blot",down-regulated,31964588.0,1.0
+253,HULC,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,31726371.0,1.0
+254,HULC,Gastric Cancer,"qPCR, Western blot",up-regulated,30176223.0,1.0
+255,HULC,Gastric Cancer,"qPCR, other",up-regulated,30197680.0,1.0
+256,HULC,Gastric Cancer,"qPCR, Western blot, RIP, etc.",down-regulated,31485766.0,1.0
+257,HULC,Gastric Cancer,"qPCR, drugs sensitivity",up-regulated,28356873.0,1.0
+258,HULC,Gastric Cancer,qPCR etc.,up-regulated,27322075.0,1.0
+259,HULC,Gastric Cancer,qPCR etc.,up-regulated,26096073.0,1.0
+260,HULC,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,24247585.0,1.0
+261,IGF2AS,Gastric Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31183590.0,2.0
+262,IGFL2-AS1,Gastric Cancer,"RT-qPCR, Western blot analysis, Luciferase reporter assay",up-regulated,31943339.0,1.0
+263,ILF3-AS1,Gastric Cancer,qRT-PCR,up-regulated,32117452.0,1.0
+264,INHBA-AS1,Gastric Cancer,qPCR,up-regulated,28423525.0,2.0
+265,INTS7,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,26045391.0,1.0
+266,"KCNKI5-ASI",Gastric Cancer,"qRT-PCR, Western blotting, Methylation-specific PCR, in vitro knockdown, RIP etc.",down-regulated,31572012.0,1.0
+267,KCNQ1OT1,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blotting",down-regulated,31915311.0,1.0
+268,KRT7-AS,Gastric Cancer,"RNA-seq, qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,26876208.0,1.0
+269,KRTAP5-AS1,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot, RNA-seq",up-regulated,28819095.0,1.0
+270,LBX2-AS1,Gastric Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,32351330.0,2.0
+271,LBX2-AS1,Gastric Cancer,"qRT-PCR, Luciferase reporter assay, RIP, Western blot",up-regulated,31673844.0,2.0
+272,LINC-PINT,Gastric Cancer,"qPCR, Luciferase reporter assay, etc.",down-regulated,30569513.0,13.0
+273,"LINC-POU3F3",Gastric Cancer,"Microarray, qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,26807174.0,4.0
+274,"LINC-POU3F3",Gastric Cancer,"qPCR, RNAi etc.",down-regulated,29719612.0,4.0
+275,LINC-ROR,Gastric Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26169368.0,2.0
+276,LINC-ROR,Gastric Cancer,"qPCR, RNAi etc.",down-regulated,29719612.0,2.0
+277,LINC-ROR,Gastric Cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,27602437.0,2.0
+278,LINC-ROR,Gastric Cancer,"RT-PCR, Western blot",up-regulated,32019330.0,2.0
+279,LINC-UBC1,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,25755750.0,1.0
+280,LINC-UFC1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,29970131.0,1.0
+281,LINC-UFC1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29970131.0,1.0
+282,LINC00152,Gastric Cancer,qPCR etc.,up-regulated,32210577.0,5.0
+283,LINC00152,Gastric Cancer,"qPCR, Western blot, RNAi, Luciferase reporter assay, other",up-regulated,30404587.0,5.0
+284,LINC00152,Gastric Cancer,qPCR etc.,up-regulated,27592063.0,5.0
+285,LINC00152,Gastric Cancer,qPCR etc.,up-regulated,25391424.0,5.0
+286,LINC00152,Gastric Cancer,"Microarray, qPCR, Western blot, RNAi etc.",up-regulated,29339419.0,5.0
+287,LINC00152,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, ChIP, RNA pull-down assay etc.",up-regulated,26799422.0,5.0
+288,LINC00152,Gastric Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,26237576.0,5.0
+289,LINC00152,Gastric Cancer,"qPCR, Western blot, RIP, RNA pull-down assay, ISH etc.",up-regulated,26538117.0,5.0
+290,LINC00152,Gastric Cancer,"qPCR, RNAi, Western blot, Northern blot etc.",up-regulated,24523021.0,5.0
+291,LINC00162,Gastric Cancer,qPCR,up-regulated,30914798.0,1.0
+292,LINC00165,Gastric Cancer,"qPCR, Luciferase reporter assay, RIP, other",up-regulated,30448060.0,1.0
+293,LINC00261,Gastric Cancer,"qPCR, Western blot etc.",down-regulated,27878953.0,1.0
+294,LINC00261,Gastric Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",down-regulated,27439973.0,1.0
+295,LINC00261,Gastric Cancer,"Microarray, qPCR etc.",down-regulated,26237576.0,1.0
+296,LINC00324,Gastric Cancer,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29915327.0,1.0
+297,LINC00324,Gastric Cancer,"qPCR, Western blot, RIP, etc.",up-regulated,29915327.0,1.0
+298,LINC00337,Gastric Cancer,"qPCR, RIP, Western blot, in vitro knockdown",up-regulated,31217892.0,1.0
+299,"LINC00346",Gastric Cancer,Microarray,up-regulated,30770877.0,1.0
+300,LINC00365,Gastric Cancer,qPCR,down-regulated,32095083.0,1.0
+301,LINC00441,Gastric Cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30680063.0,1.0
+302,LINC00460,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,32059342.0,2.0
+303,LINC00460,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30323616.0,2.0
+304,LINC00470,Gastric Cancer,"qRT-PCR, RIP",up-regulated,31711642.0,4.0
+305,LINC00472,Gastric Cancer,qRT-PCR etc.,down-regulated,31570433.0,4.0
+306,LINC00473,Gastric Cancer,"qPCR, Western blot",up-regulated,30071345.0,2.0
+307,LINC00477?,Gastric Cancer,"RT-PCR , RIP , RNAi etc.",down-regulated,31191018.0,1.0
+308,LINC00511,Gastric Cancer,"RT-PCR, Western blot",up-regulated,32042282.0,1.0
+309,LINC00511,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32368318.0,1.0
+310,LINC00511,Gastric Cancer,"qRT-PCR, Western blot, RIP, Luciferase reporter assay",up-regulated,31889903.0,1.0
+311,LINC00565,Gastric Cancer,"qRT-PCR, Western blotting, in vitro knockdown, RIP etc.",up-regulated,31576144.0,1.0
+312,LINC00619,Gastric Cancer,"qPCR, Western blot etc.",down-regulated,32359894.0,1.0
+313,LINC00628,Gastric Cancer,"Microarray, qPCR, Western blot, ChIP etc.",down-regulated,27272474.0,1.0
+314,LINC00629,Gastric Cancer,"Microarray, Dual luciferase reporter gene assay, Western blot analysis, RIP, RT-qPCR",down-regulated,31674022.0,1.0
+315,LINC00662,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30297104.0,1.0
+316,LINC00663,Gastric Cancer,qPCR etc.,down-regulated,26743782.0,1.0
+317,LINC00665,Gastric Cancer,"RT-PCR, Western blot",down-regulated,31736127.0,2.0
+318,LINC00665,Gastric Cancer,"qRT-PCR, Western blot, Luciferase reporter assay",up-regulated,31695413.0,2.0
+319,LINC00668,Gastric Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,27036039.0,1.0
+320,LINC00673,Gastric Cancer,"qRT-PCR , Luciferase reporter assay etc.",down-regulated,31118802.0,5.0
+321,LINC00673,Gastric Cancer,"qPCR, Western blot, RIP etc.",down-regulated,29221147.0,5.0
+322,LINC00673,Gastric Cancer,"Microarray, qPCR, RNAi, Western blot, RIP, ChIP, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,28214253.0,5.0
+323,LINC00682,Gastric Cancer,"qPCR, luciferase reporter assay, Western blotting",down-regulated,31822638.0,1.0
+324,LINC00691,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32330554.0,1.0
+325,LINC00703,Gastric Cancer,"qRT-PCR, RIP, Western blot analysis",down-regulated,31897348.0,3.0
+326,LINC00707,Gastric Cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30502359.0,1.0
+327,LINC00857,Gastric Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay",up-regulated,30008909.0,1.0
+328,LINC00857,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,28042329.0,1.0
+329,LINC00857,Gastric Cancer,"qRT-PCR, Western blot analysis",up-regulated,30008909.0,1.0
+330,LINC00858,Gastric Cancer,qRT-PCR,up-regulated,32119160.0,1.0
+331,LINC00941,Gastric Cancer,qPCR,differential expression,30723491.0,1.0
+332,LINC00941,Gastric Cancer,qPCR etc.,up-regulated,29653230.0,1.0
+333,LINC00958,Gastric Cancer,qPCR,up-regulated,30720167.0,1.0
+334,LINC00974,Gastric Cancer,"qPCR , Western blot etc.",up-regulated,31596614.0,1.0
+335,LINC00978,Gastric Cancer,"Luciferase reporter assay, RIP, qPCR, Western blot, other",up-regulated,30452981.0,8.0
+336,LINC00978,Gastric Cancer,"Microarray, qRT-PCR, Western blot",up-regulated,29271006.0,8.0
+337,LINC00982,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay etc.",down-regulated,26334618.0,2.0
+338,LINC00994,Gastric Cancer,qRT-PCR,up-regulated,31737214.0,1.0
+339,LINC01006,Gastric Cancer,other,down-regulated,29060927.0,2.0
+340,LINC01071,Gastric Cancer,"Microarray, qPCR etc.",down-regulated,26718650.0,1.0
+341,LINC01133,Gastric Cancer,"qPCR, Luciferase assay",down-regulated,30134915.0,1.0
+342,"LINC01225",Gastric Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,31460694.0,1.0
+343,LINC01234,Gastric Cancer,qRT-PCR,up-regulated,32011780.0,2.0
+344,LINC01234,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,29386218.0,2.0
+345,LINC01272,Gastric Cancer,"qPCR, Western blot, RNAi etc.",up-regulated,32368096.0,2.0
+346,"LINC01296",Gastric Cancer,"qPCR, Western blot",up-regulated,29091895.0,2.0
+347,LINC01303,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31497936.0,2.0
+348,LINC01419,Gastric Cancer,"qRT-PCR, Western blotting etc.",down-regulated,31579114.0,1.0
+349,LINC01436,Gastric Cancer,"qRT-PCR, Luciferase assay, RIP, Western blot",up-regulated,31829474.0,1.0
+350,LINC01503,Gastric Cancer,qPCR etc,up-regulated,32207034.0,2.0
+351,LINC01606,Gastric Cancer,"qPCR, Western blot",up-regulated,30142387.0,1.0
+352,LINC01793,Gastric Cancer,"qPCR, Western blot",up-regulated,29978448.0,1.0
+353,LINC01793,Gastric Cancer,"qRT-PCR, ect.",up-regulated,29978448.0,1.0
+354,LINC01939,Gastric Cancer,qPCR,down-regulated,30017335.0,1.0
+355,LINC01939,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",down-regulated,30683847.0,1.0
+356,LINC02407,Gastric Cancer,"qRT-PCR, luciferase reporter assay, Western blot analysis",up-regulated,31660034.0,1.0
+357,LINC02465,Gastric Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30632400.0,1.0
+358,LINC02532,Gastric Cancer,"qPCR, RNA-seq",up-regulated,30788037.0,3.0
+359,LINCRNA-p21,Gastric Cancer,"qPCR, Western blot, etc.",down-regulated,30484893.0,0.0
+360,LINCRNA-p21,Gastric Cancer,"qPCR, Western blot etc.",down-regulated,28969031.0,0.0
+361,LINP1,Gastric Cancer,"RT-PCR, Western blot analysis",up-regulated,31957826.0,1.0
+362,"lnc01614",Gastric Cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,29565488.0,1.0
+363,lncRNA-AP001631.9,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,26261500.0,1.0
+364,lncRNA-ATB,Gastric Cancer,"qPCR, RNAi etc.",down-regulated,29657927.0,1.0
+365,lncRNA-ATB,Gastric Cancer,"qPCR, Cell transfection, Western blot, Luciferase reporter assay, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,28115163.0,1.0
+366,lncRNA-ATB,Gastric Cancer,qPCR etc.,differential expression,25986864.0,1.0
+367,lncRNA-ATB,Gastric Cancer,"qPCR, RNAi",up-regulated,29257203.0,1.0
+368,lncRNA-LET,Gastric Cancer,"qPCR, Western blot, RIP etc.",down-regulated,28951520.0,1.0
+369,lncRNA-LET,Gastric Cancer,qPCR etc.,down-regulated,25674261.0,1.0
+370,lncRNA-LET,Gastric Cancer,"qPCR, Cell transfection, CCK-8 assay etc.",down-regulated,28260083.0,1.0
+371,lncRNA-NEF,Gastric Cancer,"qPCR, Western blot, in vitro knockdown, etc.",down-regulated,30664208.0,1.0
+372,LOC100130476,Gastric Cardia Adenocarcinoma,"qPCR, RNAi, Cell proliferation assay etc.",down-regulated,27189370.0,1.0
+373,LOC101927497,Gastric Cancer,"RNA-seq, qRT-PCR, in vitro knockdown",down-regulated,29223541.0,3.0
+374,LOC285194,Gastric Cancer,"qRT-PCR, Western blot",down-regulated,31991056.0,1.0
+375,LOC553103,Gastric Cancer,"Microarray, qPCR, RNAi, Luciferase reporter assay etc.",up-regulated,27584792.0,1.0
+376,LOC554202,Gastric Cancer,"qPCR, Western blot, etc.",up-regulated,30575909.0,4.0
+377,LOC554202,Gastric Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,26692098.0,4.0
+378,LOXL1-AS1,Gastric Cancer,"qRT-PCR, Luciferase Reporter Assay, Western blot",up-regulated,31908498.0,5.0
+379,LOXL1-AS1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,31468594.0,5.0
+380,LSINCT5,Gastric Cancer,"qPCR, Western blot, luciferase reporter assay, ChIP",up-regulated,30127643.0,1.0
+381,LSINCT5,Gastric Cancer,qPCR etc.,up-regulated,25694351.0,1.0
+382,LSINCT5,Gastric Cancer,qPCR etc.,up-regulated,25526476.0,1.0
+383,LUCAT1,Gastric Cancer,"qPCR, Luciferase reporter assay",up-regulated,31545227.0,2.0
+384,MACC1-AS1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,30742067.0,1.0
+385,MACC1-AS1,Gastric Cancer,"RNA-seq, qPCR, Western blot, Luciferase reporter assay",up-regulated,29510730.0,1.0
+386,MAFG-AS1,Gastric Cancer,RT-qPCR,up-regulated,32079456.0,1.0
+387,MAGI2-AS3,Gastric Cancer,"Microarray, qPCR",down-regulated,31934786.0,4.0
+388,MAGI2-AS3,Gastric Cancer,"RNA-seq, qRT-PCR",up-regulated,31837602.0,4.0
+389,MALAT1,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,32104001.0,3.0
+390,MALAT1,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,32021298.0,3.0
+391,MALAT1,Gastric Cancer,"qPCR, Western blot etc",up-regulated,32214850.0,3.0
+392,MALAT1,Gastric Cancer,"qRT-PCR, western blot analysis, Dual luciferase reporter assay",up-regulated,31926239.0,3.0
+393,MALAT1,Gastric Cancer,"RT-qPCR, Western blottin",up-regulated,31897197.0,3.0
+394,MALAT1,Gastric Cancer,"RT-qPCR, Western blotting  etc.",up-regulated,31186750.0,3.0
+395,MALAT1,Gastric Cancer,"qRT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,31037832.0,3.0
+396,MALAT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, other",up-regulated,30365113.0,3.0
+397,MALAT1,Gastric Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,31480991.0,3.0
+398,MALAT1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,29162158.0,3.0
+399,MALAT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,28942451.0,3.0
+400,MALAT1,Gastric Cancer,"qPCR, RNAi, RIP etc.",up-regulated,26871474.0,3.0
+401,MALAT1,Gastric Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,24857172.0,3.0
+402,MALAT1,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,29719612.0,3.0
+403,MALAT1,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,27887846.0,3.0
+404,MALAT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28396617.0,3.0
+405,MALAT1,Gastric Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27486823.0,3.0
+406,MALAT1,Gastric Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay, ISH etc.",up-regulated,28268166.0,3.0
+407,MALAT1,Gastric Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,28276823.0,3.0
+408,MALAT1,Gastric Cancer,"qPCR, RNAi, Western blot, ChIP etc.",up-regulated,27259812.0,3.0
+409,MALAT1,Gastric Cancer,qPCR etc.,up-regulated,26096073.0,3.0
+410,MALAT1,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,25280565.0,3.0
+411,MANCR,Gastric Cancer,RT-qPCR,up-regulated,31807188.0,1.0
+412,MAP3K20,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP etc.",up-regulated,29428732.0,1.0
+413,MCM3AP-AS1,Gastric Cancer,"qPCR, Western blot, luciferase reporter assay etc",up-regulated,32196596.0,4.0
+414,MDC1-AS,Gastric Cancer,qPCR,down-regulated,29375682.0,1.0
+415,MEF2C-AS1,Gastric Cancer,"RNA-seq, qPCR, Western blot, in vitro knockdown",down-regulated,30005210.0,9.0
+416,MEG3,Gastric Cancer,qPCR,down-regulated,29805620.0,15.0
+417,MEG3,Gastric Cancer,"Quantitative RT-PCR, other",down-regulated,30447342.0,15.0
+418,MEG3,Gastric Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31650535.0,15.0
+419,MEG3,Gastric Cardia Adenocarcinoma,"qPCR, Cell transfection, Cell proliferation assay etc.",down-regulated,28345805.0,15.0
+420,MEG3,Gastric Cancer,"qPCR, Western blot, RNAi etc.",down-regulated,29749532.0,15.0
+421,MEG3,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,29710493.0,15.0
+422,MEG3,Gastric Cancer,"qPCR, Western blot etc.",down-regulated,26233544.0,15.0
+423,MEG3,Gastric Cancer,"qPCR, Luciferase reporter assay, RNA pull-down assay etc.",down-regulated,26253106.0,15.0
+424,MEG3,Gastric Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,24515776.0,15.0
+425,MEG3,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,28975980.0,15.0
+426,MEG3,Gastric Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,24006224.0,15.0
+427,MEG3,Gastric Cancer,Microarray qPCR etc.,down-regulated,29805620.0,15.0
+428,MEG3,Gastric Cancer,"qPCR, western blot",down-regulated,31524253.0,15.0
+429,MHRT,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31273599.0,1.0
+430,MIAT,Gastric Cancer,"qPCR, Western blot etc",up-regulated,32274858.0,4.0
+431,MIAT,Gastric Cancer,"qPCR, RIP, Western blot, Luciferase reporter assayin vitro knockdown etc.",up-regulated,29540201.0,4.0
+432,MIAT,Gastric Cancer,"qPCR, Western blot",up-regulated,29039602.0,4.0
+433,MIF-AS1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, Microarray, other",up-regulated,30238562.0,1.0
+434,MIR100HG,Gastric Cancer,qPCR,up-regulated,30886062.0,23.0
+435,MIR22HG,Gastric Cancer,"Microarray, qPCR",down-regulated,31934786.0,4.0
+436,MIR22HG,Gastric Cancer,"qPCR, Western blot, etc.",down-regulated,30670679.0,4.0
+437,MNX1-AS1,Gastric Cancer,qPCR,up-regulated,30821221.0,1.0
+438,MNX1-AS1,Gastric Cancer,"qRT-PCR, Western blotting, Luciferase assays, RIP",up-regulated,31924214.0,1.0
+439,MNX1-AS1,Gastric Cancer,"qPCR, Western blot",up-regulated,31210302.0,1.0
+440,MNX1-AS1,Gastric Cancer,"qPCR, Western blot",up-regulated,31210291.0,1.0
+441,"MRUL",Gastric Cancer,"Microarray, qPCR, Western blot etc.",up-regulated,24958102.0,2.0
+442,MSTO2P,Gastric Cancer,qPCR etc.,differential expression,28618927.0,1.0
+443,MT1JP,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,32139258.0,1.0
+444,MT1JP,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,29720189.0,1.0
+445,MT1JP,Gastric Cancer,"qPCR, Western blot, RNAi etc.",down-regulated,29742512.0,1.0
+446,MT1JP,Gastric Cancer,"qRT-PCR, Western blotting analysis, ect.",up-regulated,30006025.0,1.0
+447,"MTM",Gastric Cancer,"qPCR, Western blot etc.",down-regulated,29228617.0,2.0
+448,MYLK-AS1,Gastric Cancer,"Microarray, qPCR etc.",down-regulated,26045391.0,2.0
+449,MYOSLID,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,31497917.0,1.0
+450,NALT1,Gastric Cancer,"RT-PCR, Western blotting",up-regulated,31802831.0,1.0
+451,NBAT1,Gastric Cancer,"qRT-PCR , Western blot etc.",down-regulated,31128020.0,1.0
+452,NBAT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, RNAi, other",down-regulated,30287498.0,1.0
+453,NBAT1,Gastric Cancer,"qPCR, RNAi etc.",down-regulated,29719612.0,1.0
+454,ncRuPAR,Gastric Cancer,qPCR etc.,down-regulated,24817013.0,1.0
+455,NEAT1,Gastric Cancer,"qPCR, Western blot",up-regulated,30024601.0,2.0
+456,NEAT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,31486491.0,2.0
+457,NEAT1,Gastric Cancer,"qPCR, Western blot, RIP",up-regulated,31290116.0,2.0
+458,NEAT1,Gastric Adenocarcinoma,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,26911892.0,2.0
+459,NEAT1,Gastric Cancer,"qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29363783.0,2.0
+460,NEAT1,Gastric Cancer,qPCR,up-regulated,28401449.0,2.0
+461,NEAT1,Gastric Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27095450.0,2.0
+462,NNT-AS1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,30006956.0,1.0
+463,NNT-AS1,Gastric Cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30324628.0,1.0
+464,NNT-AS1,Gastric Cancer,"RT-PCR, Western blot analysis, Luciferase reporter assay, RIP, RNA pull-down assay",up-regulated,30006956.0,1.0
+465,NORAD,Gastric Cancer,RT-qPCR,up-regulated,32096159.0,1.0
+466,NORAD,Gastric Cancer,"qRT-PCR, Luciferase Reporter Gene Assay, Western blot Assays",up-regulated,31802897.0,1.0
+467,NORAD,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30453063.0,1.0
+468,"NR027113",Gastric Cancer,"qPCR, Western blot",up-regulated,31210301.0,1.0
+469,"NR_003023",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",up-regulated,24751403.0,1.0
+470,"NR_003573",Gastric Cancer,"Microarray, qPCR etc.",up-regulated,27460075.0,1.0
+471,"NR_015430",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,24414129.0,1.0
+472,"NR_024495",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,24751403.0,1.0
+473,"NR_026660",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",up-regulated,24751403.0,1.0
+474,"NR_026827",Gastric Cancer,"qPCR, other",down-regulated,30210707.0,1.0
+475,"NR_027028",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",up-regulated,24751403.0,1.0
+476,"NR_027169",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",up-regulated,24751403.0,1.0
+477,"NR_027775",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",up-regulated,24414129.0,1.0
+478,"NR_033449",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,24414129.0,1.0
+479,"NR_033449",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,24751403.0,1.0
+480,"NR_033663",Gastric Cardia Adenocarcinoma,"Microarray, qPCR etc.",down-regulated,24414129.0,1.0
+481,OIP5-AS1,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,32147682.0,4.0
+482,OIP5-AS1,Gastric Cancer,"qPCR, Western blot, luciferase reporter assay etc",up-regulated,32196594.0,4.0
+483,OIP5-AS1,Gastric Cancer,"qRT-PCR, Western blot analysis, Luciferase reporter assay",up-regulated,31959478.0,4.0
+484,OIP5-AS1,Gastric Cancer,"qPCR, Western blot, RIP",up-regulated,31219209.0,4.0
+485,onclncRNA-626,Gastric Cancer,"PCR, Western blot",up-regulated,31720086.0,1.0
+486,OR3A4,Gastric Cancer,"Microarray, qPCR, Western blot, RIP, Flow cytometry assay etc.",up-regulated,26863570.0,1.0
+487,OTUB1-isoform2,Gastric Cancer,"qPCR, Western blot, Cell proliferation assay, Cell invasion assay etc.",up-regulated,27019636.0,1.0
+488,pancEts-1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29773901.0,1.0
+489,pancEts-1,Gastric Cancer,"qPCR, Northern blotting, Luciferase reporter assay, western blot",up-regulated,29773901.0,1.0
+490,PANDA,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,29719612.0,1.0
+491,PANDAR,Gastric Cancer,qPCR,up-regulated,31308753.0,1.0
+492,PANDAR,Gastric Cancer,qPCR etc.,up-regulated,26898439.0,1.0
+493,PANDAR,Gastric Cancer,"Microarray, qRT-PCR, RIP",up-regulated,29416011.0,1.0
+494,"PAPAS",Gastric Cancer,"qRT-PCR, Dual Luciferase Reporter Gene Assay",up-regulated,31858543.0,1.0
+495,PCAT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",up-regulated,31478258.0,1.0
+496,PCAT1,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,31352238.0,1.0
+497,PCAT1,Gastric Cancer,qPCR,up-regulated,28571676.0,1.0
+498,PCAT1,Gastric Cancer,qPCR etc.,up-regulated,28742205.0,1.0
+499,PCAT18,Gastric Cancer,"qRT-PCR, Western blot analysis, Dual Luciferase Reporter Assay",down-regulated,31853187.0,1.0
+500,PCAT6,Gastric Cancer,"RT-qPCR, Western blot",up-regulated,32039820.0,2.0
+501,PCAT6,Gastrointestinal Stromal Tumor,"qPCR, Western blot, RIP, Luciferase reporter assay etc",up-regulated,32339330.0,2.0
+502,PCAT6,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30178843.0,2.0
+503,PCGEM1,Gastric Cancer,"qPCR, other",up-regulated,31421977.0,2.0
+504,PCGEM1,Gastric Cancer,"qPCR, Western blot, etc.",up-regulated,30690667.0,2.0
+505,PEG10,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29940767.0,1.0
+506,PEG10,Gastric Cancer,"qPCR, Western blot, Flow cytometry, etc.",up-regulated,29940767.0,1.0
+507,PICART1,Gastric Cancer,"qPCR, Western blot",down-regulated,30720166.0,1.0
+508,PRNCR1,Gastric Cancer,qPCR etc.,differential expression,26206497.0,1.0
+509,PRSS21,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,26045391.0,1.0
+510,PTCSC3,Gastric Cancer,RT-qPCR,down-regulated,31702383.0,1.0
+511,PTCSC3,Gastric Cancer,qPCR etc.,down-regulated,32368140.0,1.0
+512,PTCSC3,Gastric Cancer,RT-qPCR,down-regulated,31849528.0,1.0
+513,PTENP1,Gastric Cancer,qPCR,up-regulated,28931965.0,0.0
+514,PTENP1,Gastric Cancer,qPCR etc.,up-regulated,25694351.0,0.0
+515,PTENP1,Gastric Cancer,"qPCR, Cell transfection, Luciferase reporter assay, Cell migration and invasion assay etc.",down-regulated,28212532.0,0.0
+516,PTENP1-AS,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,29719612.0,1.0
+517,PTPRG-AS1,Gastric Cancer,qPCR etc,up-regulated,32194743.0,3.0
+518,PURPL,Gastric Cancer,"qRT-PCR , Western blot etc.",up-regulated,31606380.0,1.0
+519,PVT1,Gastric Cancer,"qRT-PCR, Dual luciferase reporter assay",up-regulated,31966056.0,0.0
+520,PVT1,Gastric Cancer,"qPCR, Western blot, RNAi, etc.",up-regulated,30679629.0,0.0
+521,PVT1,Gastric Cancer,"qPCR, Western blot",up-regulated,31205469.0,0.0
+522,PVT1,Gastric Cancer,"qPCR, Western blot, RIP, ChIP, Luciferase reporter assay etc.",up-regulated,27756785.0,0.0
+523,PVT1,Gastric Cancer,qPCR etc.,up-regulated,26925791.0,0.0
+524,PVT1,Gastric Cancer,qPCR etc.,down-regulated,26722487.0,0.0
+525,PVT1,Gastric Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,28258379.0,0.0
+526,PVT1,Gastric Cancer,"qPCR, RNAi, Luciferase reporter assay, MTT assay etc.",up-regulated,28122299.0,0.0
+527,PVT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,29706652.0,0.0
+528,PVT1,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,25890171.0,0.0
+529,PVT1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,25956062.0,0.0
+530,PVT1,Gastric Cancer,qPCR etc.,up-regulated,26096073.0,0.0
+531,PVT1,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,25258543.0,0.0
+532,PVT1-214,Gastric Cancer,"qPCR , Western blot , in vitro knockdown etc.",up-regulated,31173288.0,1.0
+533,PWRN1,Gastric Cancer,"Microarray, qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,29535266.0,1.0
+534,RAB6C-AS1,Gastric Cancer,qPCR,up-regulated,30076712.0,1.0
+535,RGMB-AS1,Gastric Cancer,"RT-qPCR, Western blot",up-regulated,32064882.0,1.0
+536,RHPN1-AS1,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,31982726.0,1.0
+537,RMRP,Gastric Cancer,"qPCR, RNAi, Flow cytometry assay etc.",up-regulated,27192121.0,1.0
+538,RP1-163G9.1,Gastric Adenocarcinoma,qRT-PCR etc.,down-regulated,31002370.0,1.0
+539,"RP11-181G12.2",Gastric Cancer,"qPCR, Western blot etc.",differential expressed,31766099.0,1.0
+540,"RP11-445H22.4",Gastric Cancer,qPCR etc.,up-regulated,29687854.0,1.0
+541,RP11-62F24,Gastric Cancer,qPCR etc.,up-regulated,28879717.0,1.0
+542,RP11-81H3.2,Gastric Cancer,"RT-qPCR, Western blot",up-regulated,32052594.0,1.0
+543,RPL34-AS1,Gastric Cancer,"Microarray, qPCR etc.",down-regulated,26237576.0,1.0
+544,SEMA3B-AS1,Gastric Cardia Adenocarcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",down-regulated,30656427.0,1.0
+545,SLC25A5-AS1,Gastric Cancer,qPCR,down-regulated,30793479.0,3.0
+546,SLC7A11-AS1,Gastric Cancer,"Microarray, qPCR, Western blot, Flow cytometry assay etc.",down-regulated,29348845.0,1.0
+547,SNHG1,Gastric Cancer,"qPCR, Western blot etc.",differential expressed,32277646.0,12.0
+548,SNHG1,Gastric Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay, other",up-regulated,30391432.0,12.0
+549,SNHG1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,28754593.0,12.0
+550,SNHG12,Gastric Cancer,"qRT-PCR, Microarray, Western blot assay",up-regulated,31808752.0,8.0
+551,SNHG12,Gastric Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31258654.0,8.0
+552,SNHG12,Gastric Cancer,"qPCR, RIP, Luciferase reporter assay",up-regulated,29565487.0,8.0
+553,SNHG12,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29207106.0,8.0
+554,SNHG14,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29667771.0,1.0
+555,SNHG15,Gastric Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26662309.0,5.0
+556,SNHG16,Gastric Cancer,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30854107.0,4.0
+557,SNHG16,Gastric Cancer,qPCR,up-regulated,31561329.0,4.0
+558,SNHG16,Gastric Cancer,qPCR,up-regulated,29081409.0,4.0
+559,SNHG17,Gastric Cancer,qPCR,up-regulated,30779073.0,14.0
+560,SNHG17,Gastric Cancer,"qPCR, Western blot, RIP, other",up-regulated,30256413.0,14.0
+561,SNHG20,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30520073.0,1.0
+562,SNHG20,Gastric Cancer,"qPCR, Western blot, RIP etc.",up-regulated,29113337.0,1.0
+563,SNHG3,Gastric Cancer,qPCR,up-regulated,31534128.0,2.0
+564,SNHG5,Gastric Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31173289.0,1.0
+565,SNHG5,Gastric Cancer,RIP etc.,down-regulated,27065326.0,1.0
+566,SNHG5,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,27871067.0,1.0
+567,SNHG6,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,28683446.0,4.0
+568,SNHG7,Gastric Cancer,"qRT-PCR, Luciferase reporter assay, Western blot",up-regulated,31814518.0,3.0
+569,SNHG7,Gastric Cancer,"qPCR, Western blot, RNAi, etc.",up-regulated,29131253.0,3.0
+570,SNHG8,Gastric Cancer,qPCR etc.,up-regulated,29736176.0,3.0
+571,SNHG8,Gastric Cancer,"RNA-seq, qPCR etc.",up-regulated,27835598.0,3.0
+572,SOX2OT,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29782828.0,6.0
+573,SOX2OT,Gastric Cancer,"qPCR, Western blot assay, Luciferase reporter assay, other",up-regulated,30405772.0,6.0
+574,SOX2OT,Gastric Cancer,qPCR etc.,down-regulated,27874951.0,6.0
+575,SOX2OT,Gastric Cancer,"qPCR, RNAi, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,27904704.0,6.0
+576,SOX2OT,Gastric Cancer,"qPCR, Luciferase reporter assay, Western blot etc.",up-regulated,29782828.0,6.0
+577,SPRY4-IT1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31330497.0,1.0
+578,SPRY4-IT1,Gastric Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,26238992.0,1.0
+579,SPRY4-IT1,Gastric Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,25835973.0,1.0
+580,SUMO1P3,Gastric Cancer,qPCR etc.,up-regulated,23996296.0,1.0
+581,TCONS_00068220,Gastric Cancer,"qPCR, Western blot etc.",down-regulated,29113259.0,0.0
+582,TDRG1,Gastric Cancer,"qRT-PCR, RIP",up-regulated,31726370.0,3.0
+583,THAP9-AS1,Gastric Cancer,qRT-PCR,up-regulated,32021238.0,1.0
+584,THOR,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30227327.0,1.0
+585,TINCR,Gastric Cancer,qPCR,up-regulated,28569791.0,1.0
+586,TINCR,Gastric Cancer,qPCR etc.,differential expression,27893425.0,1.0
+587,TINCR,Gastric Cancer,"qPCR, Western blot, Luciferase report assay etc.",up-regulated,28744139.0,1.0
+588,TINCR,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,28042329.0,1.0
+589,TINCR,Gastric Cancer,"RNA-seq, qPCR, RNAi, Western blot etc.",up-regulated,25728677.0,1.0
+590,TMPO-AS1,Gastric Cancer,"RT-qPCR, Western blot",up-regulated,32110100.0,1.0
+591,TOB1-AS1,Gastric Cancer,"qPCR, Western blot etc.",down-regulated,31799657.0,1.0
+592,TONSL-AS1,Gastric Cancer,"qRT-PCR, Western blot assay etc.",down-regulated,31158361.0,1.0
+593,"TOPORS-AS1",Gastric Cancer,"Microarray, qPCR",down-regulated,29992774.0,2.0
+594,TP53TG1,Gastric Cancer,"Microarray, MSP-PCR, Immunohistochemistry etc.",differential expression,27821766.0,1.0
+595,TP73-AS1,Gastric Cancer,"qPCR, Luciferase reporter assay etc.",down-regulated,32248369.0,5.0
+596,TP73-AS1,Gastric Cancer,"qPCR, Western blot",up-regulated,30127981.0,5.0
+597,TP73-AS1,Gastric Cancer,"qPCR, Western blot",up-regulated,30127921.0,5.0
+598,TP73-AS1,Gastric Cancer,qPCR,up-regulated,30118890.0,5.0
+599,TP73-AS1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30279010.0,5.0
+600,TPT1-AS1,Gastric Cancer,"PCR, Western blot",up-regulated,32156253.0,1.0
+601,TRERNA1,Gastric Cancer,"qPCR, Luciferase reporter assay",up-regulated,29845218.0,1.0
+602,TRERNA1,Gastric Cancer,"qPCR, Western blot, RIP etc.",up-regulated,28918030.0,1.0
+603,TRERNA1,Gastric Cancer,"qPCR, western blot etc.",up-regulated,29845218.0,1.0
+604,TRPM2-AS,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,32123162.0,1.0
+605,TRPM2-AS,Gastric Cancer,"qRT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,31104318.0,1.0
+606,TSNAX-DISC1,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,26045391.0,8.0
+607,TTN-AS1,Gastric Cancer,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30943745.0,1.0
+608,TUG1,Gastric Cancer,"qPCR, RNAi, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,27983921.0,8.0
+609,TUG1,Gastric Cancer,"qPCR, RNAi etc.",up-regulated,29719612.0,8.0
+610,TUG1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28927144.0,8.0
+611,TUG1,Gastric Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,27261864.0,8.0
+612,TUG1,Gastric Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,26913601.0,8.0
+613,TUSC7,Gastric Cancer,"Microarray, qPCR, RNAi etc.",down-regulated,25765901.0,1.0
+614,UBE2Q1-AS1,Gastric Cancer,"Microarray, qPCR",up-regulated,31934786.0,1.0
+615,UCA1,Gastric Cancer,"qRT-PCR, Western blot",up-regulated,31982772.0,1.0
+616,UCA1,Gastric Cancer,qPCR,up-regulated,29805620.0,1.0
+617,UCA1,Gastric Cancer,"qPCR, Western blot, RIP",up-regulated,32328192.0,1.0
+618,UCA1,Gastric Cancer,qPCR,up-regulated,30918102.0,1.0
+619,UCA1,Gastric Cancer,qPCR,up-regulated,31532112.0,1.0
+620,UCA1,Gastric Cancer,"qPCR, RNA-seq, RIP, Western blot Assay",up-regulated,31689615.0,1.0
+621,UCA1,Gastric Cancer,"qPCR, RIP, Western blot, Luciferase reporter assay, Microarray, other",up-regulated,30464170.0,1.0
+622,UCA1,Gastric Cancer,"qPCR, Western blot, RNAi, Luciferase reporter assay, other",up-regulated,30368875.0,1.0
+623,UCA1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31272462.0,1.0
+624,UCA1,Gastric Cancer,"qPCR, Western blot, RIP etc.",up-regulated,29723509.0,1.0
+625,UCA1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,28843497.0,1.0
+626,UCA1,Gastric Cancer,qPCR etc.,up-regulated,29147491.0,1.0
+627,UCA1,Gastric Cancer,qPCR,up-regulated,28423525.0,1.0
+628,UCA1,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,26718650.0,1.0
+629,UCA1,Gastric Cancer,qPCR etc.,up-regulated,26935047.0,1.0
+630,UCA1,Gastric Cancer,qPCR etc.,up-regulated,25694351.0,1.0
+631,UCA1,Gastric Cancer,"Microarray, qPCR etc.",up-regulated,25769450.0,1.0
+632,UCA1,Gastric Cancer,qPCR etc.,up-regulated,26722487.0,1.0
+633,UCA1,Gastric Cancer,"qPCR, Western blot, Flow cytometry assay etc.",up-regulated,27694794.0,1.0
+634,UCA1,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29516678.0,1.0
+635,UCA1,Gastric Cancer,"qPCR, RNAi, Western blot, CCK-8 assay etc.",up-regulated,28075173.0,1.0
+636,UCA1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,29212166.0,1.0
+637,UCA1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,27056384.0,1.0
+638,UCA1,Gastric Cancer,qPCR etc.,up-regulated,25903045.0,1.0
+639,UCA1,Gastric Cancer,Microarray qPCR etc.,up-regulated,29805620.0,1.0
+640,VCAN-AS1,Gastric Cancer,"qPCR, Western blot, RIP",up-regulated,31637706.0,1.0
+641,VPS9D1-AS1,Gastric Cancer,qPCR,down-regulated,29036784.0,1.0
+642,WT1-AS,Gastric Cancer,qPCR etc.,down-regulated,26449525.0,5.0
+643,XIST,Gastric Cancer,qRT-PCR etc.,down-regulated,30990001.0,1.0
+644,XIST,Gastric Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29053187.0,1.0
+645,XIST,Gastric Cancer,"qPCR, Western blot , RIP, Luciferase reporter assay etc.",up-regulated,29212249.0,1.0
+646,XIST,Gastric Cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, MTT assay etc.",up-regulated,27911852.0,1.0
+647,XIST,Gastric Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,27620004.0,1.0
+648,ZEB1-AS1,Gastric Cancer,qPCR,up-regulated,29771411.0,6.0
+649,ZEB1-AS1,Gastric Cancer,"qPCR, Western blot etc.",up-regulated,29113674.0,6.0
+650,ZEB1-AS1,Gastric Cancer,"qPCR, Luciferase reporter assay, RIP",up-regulated,29215918.0,6.0
+651,ZFAS1,Gastric Cancer,"qRT-PCR, Western blotting, in vitro knockdown etc.",up-regulated,30999814.0,5.0
+652,ZFAS1,Gastric Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,28285404.0,5.0
+653,ZFAS1,Gastric Cancer,"Microarray, qPCR, RNAi, RNA pull-down assay, Cell proliferation assay etc.",up-regulated,27246976.0,5.0
+654,ZFAS1,Gastric Cancer,qPCR etc.,up-regulated,27654478.0,5.0
+655,ZFAS1,Gastric Cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,29424266.0,5.0
+656,ZFPM2-AS1,Gastric Cancer,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,29985481.0,2.0
+657,ZFPM2-AS1,Gastric Cancer,"qRT-PCR, Western blot assays, RNA pull-down assay, RIP",up-regulated,29985481.0,2.0
+658,ZNFX1-AS1,Gastric Cancer,"qPCR, other",up-regulated,30197680.0,5.0

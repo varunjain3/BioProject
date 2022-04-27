@@ -1,0 +1,373 @@
+0,AATBC,Nasopharyngeal Cancer,"Western blot, qRT-PCR, Luciferase reporter assay etc.",up-regulated,32364663.0,1.0
+1,ADAMTS9-AS2,Tongue Squamous Cell Carcinoma,"qPCR, Microarray, Western blot",up-regulated,30970517.0,1.0
+2,AFAP1-AS1,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,29971915.0,1.0
+3,AFAP1-AS1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31875436.0,1.0
+4,AFAP1-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,30326930.0,1.0
+5,AFAP1-AS1,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,29310682.0,1.0
+6,AFAP1-AS1,Nasopharyngeal Cancer,qPCR etc.,down-regulated,28467811.0,1.0
+7,AFAP1-AS1,Nasopharyngeal Cancer,"Microarray, qPCR, RNAi, Western blot, ISH etc.",up-regulated,26246469.0,1.0
+8,AFAP1-AS1,Laryngeal Squamous Cell Cancer,"qPCR, Luciferase reporter assay, Western blot, etc.",up-regulated,29971915.0,1.0
+9,ANCR,Nasopharyngeal Cancer,"qPCR, Western blot, RIP, etc.",up-regulated,30568463.0,3.0
+10,ANRIL,Laryngeal Squamous Cell Cancer,"RT-qPCR, Western blot, Dual luciferase reporter assay",up-regulated,31960744.0,14.0
+11,ANRIL,Laryngeal Squamous Cell Cancer,"Dual luciferase reporter assay, qRT-PCR, Western blotting",up-regulated,31667207.0,14.0
+12,ANRIL,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30555745.0,14.0
+13,ANRIL,Oral Squamous Cell Carcinoma,"RNA-seq, qPCR, Western blot",up-regulated,31364119.0,14.0
+14,ANRIL,Oral Squamous Cancer,"qPCR, Western blot, etc.",down-regulated,29176691.0,14.0
+15,ANRIL,Laryngeal Squamous Cell Cancer,qPCR etc.,up-regulated,25257554.0,14.0
+16,ANRIL,Oral Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29635126.0,14.0
+17,ANRIL,Nasopharyngeal Cancer,"RT-qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29463902.0,14.0
+18,ANRIL,Nasopharyngeal Cancer,"qPCR, RNAi, Luciferase reporter assay, MTT assay etc.",up-regulated,28117929.0,14.0
+19,ANRIL,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assays",up-regulated,28402230.0,14.0
+20,ANRIL,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot, MTT assay etc.",up-regulated,27557514.0,14.0
+21,BANCR,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,31654433.0,1.0
+22,BC200,Tongue Cancer,"Northern hybridization, ISH etc.",up-regulated,9422992.0,1.0
+23,BLACAT1,Head And Neck Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31944856.0,1.0
+24,BLACAT1,Oral Squamous Cell Carcinoma,"qRT-PCR, Luciferase Reporter Assay, Western blot Assay",up-regulated,31841186.0,1.0
+25,C5orf66-AS1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, other",down-regulated,30280186.0,2.0
+26,C5orf66-AS1,Oral Squamous Cell Carcinoma,qPCR,differential expression,28415559.0,2.0
+27,CACS15,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,31793142.0,1.0
+28,CASC2,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot",down-regulated,32009793.0,3.0
+29,CASC2,Oral Squamous Cell Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot etc.",down-regulated,31123403.0,3.0
+30,CASC2,Oral Squamous Cell Carcinoma,"qPCR, other",down-regulated,30467776.0,3.0
+31,CASC2,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, RIP, etc.",down-regulated,30569153.0,3.0
+32,CASC2,Oral Squamous Cell Carcinoma,"qPCR, Western blot",down-regulated,31210307.0,3.0
+33,CASC9,Tongue Squamous Cell Carcinoma,qRT-PCR,up-regulated,32021442.0,3.0
+34,CASC9,Nasopharyngeal Cancer,"qRT-PCR, Western blot, Luciferase activity assay, RIP",up-regulated,31933798.0,3.0
+35,CASC9,Laryngeal Cancer,qRT-PCR,up-regulated,31669650.0,3.0
+36,CASC9,Head And Neck Squamous Cell Carcinoma,"qPCR, other",down-regulated,31412811.0,3.0
+37,CASC9,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30674868.0,3.0
+38,CASC9,Nasopharyngeal Cancer,"qPCR, Western blot",up-regulated,28398871.0,3.0
+39,CCAT1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot, RIP",down-regulated,32009633.0,1.0
+40,CCAT1,Nasopharyngeal Cancer,"qPCR, other",up-regulated,30013670.0,1.0
+41,CCAT1,Oral Squamous Cell Carcinoma,"qPCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31599709.0,1.0
+42,CCAT1,Head And Neck Squamous Cell Carcinoma,"Microarray, qPCR etc.",differential expression,28159935.0,1.0
+43,CCAT1,Oral Squamous Cell Carcinoma,qPCR,up-regulated,28413645.0,1.0
+44,CCAT1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot",up-regulated,27830017.0,1.0
+45,CCAT1,Nasopharyngeal Cancer,"qPCR, western blot, luciferase reporter assay, MIT",differential expression,28358263.0,1.0
+46,CCAT1,Laryngeal Squamous Cell Cancer,"qPCR, western blot, Luciferase reporter assays etc.",up-regulated,28631575.0,1.0
+47,CCAT1,Nasopharyngeal Cancer,"qRT-PCR, ect.",up-regulated,30013670.0,1.0
+48,CCAT2,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,27220388.0,1.0
+49,CCAT2,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28671055.0,1.0
+50,CCHE1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31981240.0,1.0
+51,CDKN2B-AS1,Laryngeal Squamous Cell Cancer,"qRT-PCR, Western blot, RIP",up-regulated,31754305.0,14.0
+52,CEBPA-AS1,Oral Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, in vitro knockdown etc.",up-regulated,29281558.0,1.0
+53,CRNDE,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, other",up-regulated,30242873.0,5.0
+54,DANCR,Nasopharyngeal Cancer,qPCR,up-regulated,30849642.0,3.0
+55,DANCR,Nasopharyngeal Cancer,"qPCR, Western blot",up-regulated,30720067.0,3.0
+56,DANCR,Tongue Squamous Cell Carcinoma,"qRT-PCR, Luciferase reporter assay, Western blot",up-regulated,31827393.0,3.0
+57,DANCR,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30555573.0,3.0
+58,DGCR5,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, RIP",up-regulated,30980388.0,5.0
+59,DGCR5,Laryngeal Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,30549038.0,5.0
+60,DLEU1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32214823.0,3.0
+61,DLEU1,Oral Squamous Cell Carcinoma,"Microarray, qPCR, Western blot",up-regulated,30069008.0,3.0
+62,DLEU2,Laryngeal Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown etc.",down-regulated,29687850.0,7.0
+63,DLX6-AS1,Laryngeal Cancer,"qPCR, Western blot etc.",up-regulated,32368147.0,1.0
+64,DLX6-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",up-regulated,31782911.0,1.0
+65,DLX6-AS1,Laryngeal Squamous Cell Cancer,qRT-PCR,up-regulated,31814904.0,1.0
+66,DRAIC,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31497998.0,1.0
+67,DUXAP8,Oral Cancer,"qPCR, RIP etc.",up-regulated,32304409.0,1.0
+68,ELF3-AS1,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,31686842.0,1.0
+69,EPB41L4A-AS2,Head And Neck Squamous Cell Carcinoma,"RNA-seq, Microarray, qPCR, Western blot",down-regulated,29490660.0,1.0
+70,EWSAT1,Nasopharyngeal Cancer,"qPCR, Western blot",up-regulated,29966979.0,1.0
+71,EWSAT1,Nasopharyngeal Cancer,"qPCR, Cell transfection, Western blot, Luciferase reporter assay, RNA pull-down assay etc.",up-regulated,27816050.0,1.0
+72,FAL1,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,31298329.0,1.0
+73,FALEC,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, RIP",down-regulated,31335317.0,1.0
+74,FAM225A,Nasopharyngeal Cancer,"Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31331909.0,1.0
+75,FAM87A,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833.0,1.0
+76,FEZF1-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30355645.0,1.0
+77,FEZF1-AS1,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay",up-regulated,31378890.0,1.0
+78,FGD5-AS1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot, Luciferase Reporter Assay",up-regulated,31899825.0,5.0
+79,FLJ22447,Oral Squamous Cell Carcinoma,"RNA-seq, qPCR, RIP",up-regulated,29346528.0,1.0
+80,FOXCUT,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,24889262.0,1.0
+81,FOXD2-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown etc.",up-regulated,29248577.0,1.0
+82,FOXD3-AS1,Nasopharyngeal Cancer,"RT-qPCR, Western blot, Microarray",up-regulated,32073875.0,4.0
+83,FRMD6-AS1,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,27886062.0,1.0
+84,GAS5,Oral Squamous Cell Carcinoma,"qRT-PCR , Luciferase reporter assay , RNAi , in vitro knockdown etc.",up-regulated,31583913.0,15.0
+85,GAS5,Laryngeal Squamous Cell Cancer,"qRT-PCR, Western blotting etc.",down-regulated,31572003.0,15.0
+86,GAS5,Oral Squamous Cell Carcinoma,"qPCR, Western blot, etc.",down-regulated,30576678.0,15.0
+87,GAS5,Head And Neck Cancer,qPCR etc.,down-regulated,26482616.0,15.0
+88,GAS5,Nasopharyngeal Cancer,"DNA Extraction and genotyping, SNPs selections etc.",differential expression,28977945.0,15.0
+89,GHET1,Head And Neck Cancer,qPCR etc.,up-regulated,29725422.0,1.0
+90,GIHCG,Tongue Squamous Cell Carcinoma,qPCR,up-regulated,29953645.0,1.0
+91,GNAS-AS1,Nasopharyngeal Cancer,"qPCR, Western blot etc",up-regulated,32271425.0,1.0
+92,H19,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay",differential expression,29844862.0,3.0
+93,H19,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,31556327.0,3.0
+94,H19,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29344674.0,3.0
+95,H19,Nasopharyngeal Cancer,"qPCR, Western blot, RIP etc.",up-regulated,27040767.0,3.0
+96,H19,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,26872375.0,3.0
+97,H19,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29523225.0,3.0
+98,H19,Head And Neck Squamous Cell Carcinoma,qPCR etc.,down-regulated,11592232.0,3.0
+99,H19,Head And Neck Squamous Cell Carcinoma,qPCR etc.,differential expression,10597307.0,3.0
+100,H19,Nasopharyngeal Cancer,"qPCR, Northern blot, ISH etc.",up-regulated,12569573.0,3.0
+101,H19,Head And Neck Squamous Cell Carcinoma,"qPCR, Cell transfection, Cell proliferation assay, Cell migration and invasion assay etc.",up-regulated,27994496.0,3.0
+102,HAGLROS,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31334669.0,1.0
+103,HAS2-AS1,Oral Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28485478.0,1.0
+104,HCG11,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc",down-regulated,32271435.0,1.0
+105,HCG18,Nasopharyngeal Cancer,"RT-PCR, Western blot, Luciferase Reporter Assays",up-regulated,31841193.0,4.0
+106,HCG22,Oral Squamous Cell Carcinoma,qPCR,differential expression,28415559.0,2.0
+107,HCP5,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot analysis, Dual Luciferase Reporter Assay",up-regulated,31849534.0,1.0
+108,HNF1A-AS1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30404566.0,1.0
+109,HOTAIR,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31995261.0,3.0
+110,HOTAIR,Laryngeal Cancer,"RT-qPCR, Western blot analysis, Dual Luciferase Reporter Gene Assay, RIP",up-regulated,31849488.0,3.0
+111,HOTAIR,Laryngeal Squamous Cell Cancer,"qRT-PCR , Western blot etc.",up-regulated,31171714.0,3.0
+112,HOTAIR,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,30053324.0,3.0
+113,HOTAIR,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30314699.0,3.0
+114,HOTAIR,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31297902.0,3.0
+115,HOTAIR,Laryngeal Squamous Cell Cancer,"qPCR, Western blot etc.",up-regulated,25099764.0,3.0
+116,HOTAIR,Head And Neck Squamous Cell Carcinoma,"Microarray, qPCR etc.",differential expression,28159935.0,3.0
+117,HOTAIR,Nasopharyngeal Cancer,"qPCR, Western blotting etc.",up-regulated,29228426.0,3.0
+118,HOTAIR,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, Flow cytometry assay etc.",up-regulated,26717040.0,3.0
+119,HOTAIR,Nasopharyngeal Cancer,"qPCR, ISH etc.",up-regulated,23281836.0,3.0
+120,HOTAIR,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot, Flow cytometry assay, Cell proliferation assay etc.",up-regulated,27904675.0,3.0
+121,HOTAIR,Oral Squamous Cell Carcinoma,"qPCR, RNAi, MTT assay etc.",up-regulated,26036760.0,3.0
+122,HOTAIR,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Flow cytometry assay etc.",differential expression,26592246.0,3.0
+123,HOTAIR,Laryngeal Squamous Cell Cancer,qPCR etc.,up-regulated,25257554.0,3.0
+124,HOTAIR,Laryngeal Squamous Cell Cancer,"qPCR, in vitro knockdown etc.",up-regulated,23141928.0,3.0
+125,HOTAIR,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,23292713.0,3.0
+126,HOTAIR,Head And Neck Squamous Cell Carcinoma,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell migration and invasion assay etc.",up-regulated,27941336.0,3.0
+127,HOTAIR,Head And Neck Squamous Cell Carcinoma,"in vitro knockdown, Luciferase reporter assay, qPCR, Western blot, RNA-seq etc.",up-regulated,29540490.0,3.0
+128,HOTAIR,Laryngeal Squamous Cell Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27542077.0,3.0
+129,HOTAIR,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,25901533.0,3.0
+130,HOTAIRM1,Head And Neck Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,29905017.0,2.0
+131,HOTAIRM1,Head And Neck Cancer,"qPCR, Western blot, etc.",down-regulated,29905017.0,2.0
+132,HOTTIP,Oral Tongue Squamous Cell Carcinoma,"qRT-PCR, Dual luciferase reporter assay, Western blot assay",up-regulated,31910357.0,1.0
+133,HOTTIP,Head And Neck Squamous Cell Carcinoma,qRT-PCR etc.,up-regulated,31032351.0,1.0
+134,HOTTIP,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30685769.0,1.0
+135,HOTTIP,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31328440.0,1.0
+136,HOTTIP,Tongue Squamous Cell Carcinoma,qPCR etc.,up-regulated,26058875.0,1.0
+137,HOXA11-AS,Hypopharyngeal Squamous Cell Carcinoma,qRT-PCR,up-regulated,31987067.0,1.0
+138,HOXA11-AS,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot, RIP",up-regulated,31731187.0,1.0
+139,HOXA11-AS,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot analysis etc.",up-regulated,31139017.0,1.0
+140,HOXA11-AS,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay",up-regulated,31275988.0,1.0
+141,HOXA11-AS,Laryngeal Squamous Cell Cancer,"Microarray, qPCR, in vitro knockdown",up-regulated,29511452.0,1.0
+142,HULC,Oral Squamous Cell Carcinoma,"qPCR, Western blot, RNAi, other",up-regulated,30419657.0,1.0
+143,HULC,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30677131.0,1.0
+144,HULC,Nasopharyngeal Cancer,"qPCR, Western blot etc.",up-regulated,28445086.0,1.0
+145,INHBA-AS1,Oral Squamous Cell Carcinoma,RT-qPCR,up-regulated,32141551.0,2.0
+146,KCNQ1OT1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,31755091.0,1.0
+147,KCNQ1OT1,Tongue Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29970910.0,1.0
+148,KCNQ1OT1,Tongue Squamous Cell Carcinoma,"qRT-PCR, Western blot analysis, Dual Luciferase Reporter Assays, RIP",up-regulated,31957833.0,1.0
+149,KCNQ1OT1,Hypopharyngeal Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, Cell proliferation assay, Luciferase reporter assay, RIP, etc.",up-regulated,29970910.0,1.0
+150,KTN1-AS1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay,   etc",up-regulated,32267161.0,1.0
+151,LEF1-AS1,Oral Squamous Cell Carcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,30983488.0,2.0
+152,LINC-PINT,Laryngeal Cancer,"qRT-PCR, Western blot analysis etc.",down-regulated,31131448.0,13.0
+153,"LINC-POU3F3",Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30602452.0,4.0
+154,LINC-ROR,Oral Cancer,qPCR,up-regulated,28443494.0,2.0
+155,LINC-ROR,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,27311700.0,2.0
+156,LINC-ROR,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30601067.0,2.0
+157,LINC00052,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833.0,1.0
+158,LINC00052,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31639333.0,1.0
+159,LINC00114,Nasopharyngeal Cancer,"qPCR, Western blot, luciferase reporter assay etc",up-regulated,32196600.0,2.0
+160,LINC00114,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,27886062.0,2.0
+161,LINC00152,Laryngeal Squamous Cell Cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32266320.0,5.0
+162,LINC00152,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32194700.0,5.0
+163,LINC00152,Oral Squamous Cell Carcinoma,"qPCR, Western blot, other",up-regulated,30310293.0,5.0
+164,LINC00152,Tongue Squamous Cell Carcinoma,qPCR,up-regulated,28367232.0,5.0
+165,LINC00210,Nasopharyngeal Cancer,"qPCR, RNAi, Luciferase reporter assay, RNAi, other",up-regulated,30341249.0,1.0
+166,LINC00210,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,27886062.0,1.0
+167,LINC00261,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833.0,1.0
+168,LINC00261,Laryngeal Cancer,qPCR,down-regulated,29774690.0,1.0
+169,LINC00319,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, other",up-regulated,30243935.0,1.0
+170,LINC00355,Head And Neck Squamous Cell Carcinoma,"Microarray, Dual Luciferase Reporter Gene Assay, qRT-PCR, Western blot analysis",up-regulated,31837606.0,1.0
+171,LINC00460,Head And Neck Squamous Cell Carcinoma,"qRT-PCR, Western blot, RIP",up-regulated,31737186.0,2.0
+172,LINC00460,Head And Neck Squamous Cell Carcinoma,"qRT-PCR , Luciferase reporter assay etc.",up-regulated,31075234.0,2.0
+173,LINC00460,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, RNAi, RIP, other",up-regulated,31429766.0,2.0
+174,LINC00460,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,31414345.0,2.0
+175,LINC00460,Nasopharyngeal Cancer,"RNA-seq, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,28987345.0,2.0
+176,LINC00467,Head And Neck Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,32159247.0,1.0
+177,LINC00472,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833.0,4.0
+178,LINC00473,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Microarray, other",up-regulated,30468475.0,2.0
+179,LINC00511,Tongue Squamous Cell Carcinoma,"Microarray, qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29315846.0,1.0
+180,LINC00520,Nasopharyngeal Cancer,qPCR,up-regulated,30898716.0,2.0
+181,LINC00657,Laryngeal Squamous Cell Cancer,"Microarray, qPCR",down-regulated,30128795.0,1.0
+182,LINC00662,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30705593.0,1.0
+183,LINC00668,Laryngeal Squamous Cell Cancer,"qPCR, other",up-regulated,30415008.0,1.0
+184,LINC00668,Oral Squamous Cell Carcinoma,"RNAi, Western blot, qPCR, Luciferase reporter assays, RNA pull-down assays",up-regulated,28564590.0,1.0
+185,LINC00673,Tongue Squamous Cell Carcinoma,"qPCR, RNAi, Cell migration and invasion assay, ISH etc.",up-regulated,28039470.0,5.0
+186,LINC00886,Laryngeal Cancer,qRT-PCR,down-regulated,32111441.0,1.0
+187,LINC00958,Nasopharyngeal Cancer,"RT-qPCR, Luciferase Reporter Assay, RIP, Western blot analysis",up-regulated,31819474.0,1.0
+188,LINC00958,Oral Squamous Cell Carcinoma,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31161900.0,1.0
+189,LINC00958,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,31442551.0,1.0
+190,LINC00958,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, RIP, RNAi, other",up-regulated,31413594.0,1.0
+191,LINC00963,Head And Neck Cancer,"qPCR, in vitro knockdown",up-regulated,32357409.0,1.0
+192,LINC00974,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,31702382.0,1.0
+193,LINC01116,Nasopharyngeal Cancer,"qRT-PCR, Western blot",up-regulated,31703161.0,1.0
+194,LINC01116,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, other",up-regulated,31452270.0,1.0
+195,LINC01116,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31308744.0,1.0
+196,LINC01133,Nasopharyngeal Cancer,"qRT-PCR , Western blot , RIP , RNAi , in vitro knockdown etc.",down-regulated,31106003.0,1.0
+197,LINC01133,Oral Squamous Cell Carcinoma,"qPCR, Western blot, other",down-regulated,30332510.0,1.0
+198,LINC01234,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,32041570.0,2.0
+199,LINCRNA-p21,Head And Neck Cancer,qPCR etc.,down-regulated,26482616.0,0.0
+200,LINCRNA-p21,Head And Neck Squamous Cell Carcinoma,qPCR,down-regulated,30857539.0,0.0
+201,lnc-C22orf32-1,Nasopharyngeal Cancer,qPCR,up-regulated,28588717.0,3.0
+202,lnc-C22orf32-1,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,24822202.0,3.0
+203,lnc-KCTD6-3,Tongue Cancer,"RNA-seq, qPCR etc.",down-regulated,25904139.0,1.0
+204,lnc-KCTD6-3,Laryngeal Cancer,"RNA-seq, qPCR etc.",down-regulated,25904139.0,1.0
+205,lncAROD,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, RIP etc",up-regulated,32216017.0,2.0
+206,lncHIFCAR,Oral Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,28639619.0,4.0
+207,lncRNA-LET,Nasopharyngeal Cancer,"qPCR, Western blot, RIP etc.",down-regulated,28615956.0,1.0
+208,lncRNA-LET,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot etc.",down-regulated,26243049.0,1.0
+209,lncRNA-NEF,Laryngeal Squamous Cell Cancer,"qRT-PCR , Western blot etc.",down-regulated,31186702.0,1.0
+210,lncRNA-SRA1,Laryngeal Squamous Cell Cancer,qPCR etc.,down-regulated,25257554.0,5.0
+211,LOC100129148,Nasopharyngeal Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, CCK-8 assay etc.",up-regulated,28328537.0,1.0
+212,LOC553103,Nasopharyngeal Cancer,"Microarray, qPCR, RNAi, Luciferase reporter assay etc.",up-regulated,27584792.0,1.0
+213,LOC554202,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, RNAi etc.",up-regulated,29737563.0,4.0
+214,LUCAT1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown",down-regulated,31210306.0,2.0
+215,MALAT1,Head And Neck Squamous Cell Carcinoma,"qPCR, in vitro knockdown",up-regulated,32366409.0,3.0
+216,MALAT1,Laryngeal And Hypopharyngeal Carcinoma,"qPCR, RNAi etc",up-regulated,31792655.0,3.0
+217,MALAT1,Tongue Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30863103.0,3.0
+218,MALAT1,Laryngeal Squamous Cell Cancer,"RT-PCR, Western blotting",up-regulated,31837057.0,3.0
+219,MALAT1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, ChIP",up-regulated,30118844.0,3.0
+220,MALAT1,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, etc.",up-regulated,30657561.0,3.0
+221,MALAT1,Oral Squamous Cell Carcinoma,qPCR,up-regulated,31360193.0,3.0
+222,MALAT1,Laryngeal Squamous Cell Cancer,qPCR etc.,up-regulated,25257554.0,3.0
+223,MALAT1,Tongue Cancer,"qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,28260102.0,3.0
+224,MALAT1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP etc.",up-regulated,28926115.0,3.0
+225,MALAT1,Tongue Squamous Cell Carcinoma,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27586393.0,3.0
+226,MALAT1,Tongue Squamous Cell Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,27353727.0,3.0
+227,MALAT1,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot etc.",up-regulated,26522444.0,3.0
+228,MALAT1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28857668.0,3.0
+229,MALAT1,Nasopharyngeal Cancer,"Microarray, qPCR, Luciferase reporter assay, Cell migration and invasion assay etc.",differential expression,27584791.0,3.0
+230,MALAT1,Nasopharyngeal Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay etc.",up-regulated,26482776.0,3.0
+231,MALAT1,Nasopharyngeal Cancer,qPCR etc.,down-regulated,28467811.0,3.0
+232,MALAT1,Nasopharyngeal Cancer,"qPCR, Western blot etc.",up-regulated,23688988.0,3.0
+233,MEG3,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay etc",down-regulated,32277605.0,15.0
+234,MEG3,Laryngeal Squamous Cell Cancer,"qPCR, Western blot",down-regulated,30915750.0,15.0
+235,MEG3,Oral Squamous Cell Carcinoma,qPCR,up-regulated,30809930.0,15.0
+236,MEG3,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, etc.",down-regulated,30556872.0,15.0
+237,MEG3,Nasopharyngeal Cancer,"qPCR, MSP-PCR, Western blot, FISH etc.",down-regulated,27597634.0,15.0
+238,MEG3,Tongue Squamous Cell Carcinoma,"Microarray, MSP-PCR, RNAi, Western blot etc.",down-regulated,24343426.0,15.0
+239,MEG3,Oral Squamous Cell Carcinoma,qPCR etc.,down-regulated,23292713.0,15.0
+240,MEG3,Oral Squamous Cell Carcinoma,"qPCR, Western blot etc.",down-regulated,28953964.0,15.0
+241,MIAT,Tongue Squamous Cell Carcinoma,"qRT-PCR , Western blot etc.",up-regulated,31166624.0,4.0
+242,MINCR,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,31760895.0,2.0
+243,MINCR,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30777615.0,2.0
+244,MIR100HG,Laryngeal Squamous Cell Cancer,qRT-PCR etc.,up-regulated,31114240.0,23.0
+245,miR143HG,Laryngeal Squamous Cell Cancer,RT-qPCR,down-regulated,31872875.0,2.0
+246,MIR155HG,Laryngeal Squamous Cell Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31081043.0,1.0
+247,MIR22HG,Laryngocarcinoma,"RT-qPCR, Western blot",down-regulated,32094308.0,4.0
+248,MIR31HG,Head And Neck Cancer,"qPCR, Western blot, other",up-regulated,30458787.0,4.0
+249,MIR31HG,Laryngeal Squamous Cell Cancer,"Microarray, qPCR etc.",up-regulated,28033431.0,4.0
+250,MIR4435-2HG,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot",up-regulated,32016787.0,8.0
+251,MORT,Oral Squamous Cell Carcinoma,qPCR,down-regulated,30805944.0,2.0
+252,MRVI1-AS1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",differential expression,31273338.0,4.0
+253,MYOSLID,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,31238980.0,1.0
+254,NAG7,Nasopharyngeal Cancer,"Microarray, ISH etc.",down-regulated,23529758.0,1.0
+255,NAG7,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, ISH etc.",up-regulated,19591174.0,1.0
+256,NAG7,Nasopharyngeal Cancer,"Western blot, Northern blot etc.",down-regulated,12452030.0,1.0
+257,NCK1-AS1,Nasopharyngeal Cancer,qRT-PCR,up-regulated,31908525.0,3.0
+258,NEAT1,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, Western blot",up-regulated,30900419.0,2.0
+259,NEAT1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter gene assay.",up-regulated,30186464.0,2.0
+260,NEAT1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",down-regulated,26822763.0,2.0
+261,NEAT1,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,23292713.0,2.0
+262,NEAT1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29484420.0,2.0
+263,NEAT1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,27020592.0,2.0
+264,NEAT1,Nasopharyngeal Cancer,"qPCR, Western blot etc.",down-regulated,29565706.0,2.0
+265,NEAT1,Nasopharyngeal Cancer,"qPCR, Western blot etc.",down-regulated,29050268.0,2.0
+266,NEAT1,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, Western blot, RIP",up-regulated,29270022.0,2.0
+267,NKILA,Nasopharyngeal Cancer,"qPCR, other",down-regulated,31430288.0,1.0
+268,NKILA,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",down-regulated,29573243.0,1.0
+269,NKILA,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, ISH etc.",down-regulated,27613832.0,1.0
+270,NR2F2-AS1,Nasopharyngeal Cancer,"RT-qPCR, Western blotting",up-regulated,31966043.0,3.0
+271,NR_003949 FKBP9P1_Variant 4,Laryngeal Squamous Cell Cancer,"Microarray, qPCR etc.",up-regulated,28033431.0,1.0
+272,NR_027358 LINC00592,Nasopharyngeal Cancer,"Microarray, qPCR etc.",down-regulated,25406670.0,1.0
+273,OIP5-AS1,Laryngeal Squamous Cell Cancer,"RT-qPCR, Western blot",up-regulated,32009213.0,4.0
+274,OIP5-AS1,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31369989.0,4.0
+275,OIP5-AS1,Oral Cancer,"RNA-seq, Microarray, qPCR, Luciferase reporter assay, RIP etc.",up-regulated,29728583.0,4.0
+276,PANDAR,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown",up-regulated,31938389.0,1.0
+277,PAPAS,Oral Squamous Cell Carcinoma,"RT-qPCR, Western blot analysis etc.",up-regulated,31099126.0,1.0
+278,PART1,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833.0,3.0
+279,PCAT1,Laryngeal Cancer,"RT-qPCR, RIP",up-regulated,31983116.0,1.0
+280,PCAT1,Tongue Squamous Cell Carcinoma,"qPCR, Western blot etc",up-regulated,32218838.0,1.0
+281,PCAT1,Head And Neck Squamous Cell Carcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,30987615.0,1.0
+282,PCAT7,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28728844.0,4.0
+283,PCAT7,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi etc.",up-regulated,28728844.0,4.0
+284,PDIA3P,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, RNAi",up-regulated,29246288.0,1.0
+285,PEG10,Hypopharyngeal Squamous Cell Carcinoma,qPCR,up-regulated,28928830.0,1.0
+286,PLAC2,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,30720068.0,1.0
+287,PTCSC3,Laryngeal Squamous Cell Cancer,"qRT-PCR , Western blot etc.",down-regulated,31171714.0,1.0
+288,PTENP1,oral squamous cell carcinoma,"qPCR, other",,30229832.0,0.0
+289,PTPRG-AS1,Nasopharyngeal Cancer,"qRT-PCR, Western blotting, Microarray data analysis etc.",up-regulated,30993702.0,3.0
+290,PVT1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,32021271.0,1.0
+291,PVT1,Nasopharyngeal Cancer,"qPCR, Western blot",up-regulated,30141114.0,1.0
+292,PVT1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, other",up-regulated,30310517.0,1.0
+293,PVT1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay, Microarray, other",up-regulated,30304557.0,1.0
+294,PVT1,Nasopharyngeal Cancer,"qPCR, Western blot, RIP",up-regulated,31320749.0,1.0
+295,PVT1,Nasopharyngeal Cancer,"Microarray, qPCR, Western blot, in vitro knockdown",up-regulated,29445147.0,1.0
+296,PXN-AS1-L,Nasopharyngeal Cancer,"qPCR , Luciferase reporter assay , Western blot etc.",up-regulated,31173488.0,1.0
+297,RBM5-AS1,Oral Squamous Cell Carcinoma,"RT-qPCR, Luciferase activity assays, Western blot assay",up-regulated,31869662.0,1.0
+298,RGMB-AS1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31351424.0,1.0
+299,RHPN1-AS1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot, RNAi, other",up-regulated,31417644.0,1.0
+300,ROR1-AS1,Nasopharyngeal Cancer,"RT-qPCR, Western blot analysis, Luciferase Assays, RIP",up-regulated,31957830.0,2.0
+301,SATB1-AS1,Laryngeal Squamous Cell Cancer,qRT-PCR,down-regulated,32174248.0,1.0
+302,SMAD5-AS1,Nasopharyngeal Cancer,Microarray,up-regulated,31557058.0,1.0
+303,SMAD5-AS1,Nasopharyngeal Cancer,"RT-qPCR, Dual Luciferase Reporter Gene Assay, RIP, Western blot analysis",up-regulated,31921616.0,1.0
+304,SNHG1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, RNAi, RIP, Microarray, other",up-regulated,30323965.0,12.0
+305,SNHG1,Laryngeal Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31378897.0,12.0
+306,SNHG1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, RNAi etc.",up-regulated,29565491.0,12.0
+307,SNHG1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown etc.",up-regulated,29575772.0,12.0
+308,SNHG16,Oral Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30607006.0,4.0
+309,SNHG20,Laryngeal Squamous Cell Cancer,"qPCR , Luciferase reporter assay , in vitro knockdown etc.",up-regulated,31081112.0,1.0
+310,SNHG20,Oral Squamous Cell Carcinoma,"qPCR, Western blot, RNAi, Luciferase reporter assay, other",up-regulated,30394668.0,1.0
+311,SNHG20,Oral Squamous Cell Carcinoma,"qPCR, Western blot, etc.",up-regulated,30655853.0,1.0
+312,SNHG20,Nasopharyngeal Cancer,"qPCR, Western blot, etc.",up-regulated,30546404.0,1.0
+313,SNHG3,Oral Squamous Cell Carcinoma,"qPCR, Western blot, RIP etc",up-regulated,31762107.0,2.0
+314,SNHG3,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay",up-regulated,31238052.0,2.0
+315,SNHG5,Nasopharyngeal Cancer,"RT-qPCR, Western blot",up-regulated,32131767.0,1.0
+316,SNHG6,Tongue Cancer,"qPCR, Western blot, other",up-regulated,30463652.0,4.0
+317,SNHG7,Nasopharyngeal Cancer,"qPCR, Western blot etc",up-regulated,32218823.0,3.0
+318,SNHG7,Nasopharyngeal Cancer,"RT-qPCR, Western blot analysis, Dual luciferase reporter gene assay",up-regulated,31944163.0,3.0
+319,SNHG7,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown",down-regulated,31364118.0,3.0
+320,SOX2-OT,Laryngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc",up-regulated,32266028.0,6.0
+321,SOX2-OT,Laryngeal Squamous Cell Cancer,qPCR,up-regulated,30811870.0,6.0
+322,SOX2-OT,Nasopharyngeal Cancer,"qRT-PCR, RIP etc.",up-regulated,31099048.0,6.0
+323,SOX2-OT,Laryngeal Squamous Cell Cancer,"Microarray, qPCR etc.",up-regulated,28033431.0,6.0
+324,SOX21-AS1,Oral Squamous Cell Carcinoma,"qPCR, Cell migration and invasion assay, In vitro methylation etc.",down-regulated,27933111.0,1.0
+325,"SRRM2-AS ",Nasopharyngeal Cancer,"Western blot, Microarray",up-regulated,31742692.0,2.0
+326,ST7-AS1,Laryngeal Squamous Cell Cancer,qPCR,up-regulated,30853182.0,1.0
+327,STEAP3-AS1,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833.0,1.0
+328,THOR,Nasopharyngeal Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay, etc.",down-regulation,29959065.0,1.0
+329,THOR,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,29959065.0,1.0
+330,THOR,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown, RIP, etc.",up-regulated,30503558.0,1.0
+331,THOR,Tongue Squamous Cell Carcinoma,"qPCR, Western blot, in vitro knockdown, RIP",up-regulated,31220513.0,1.0
+332,TSPEAR-AS1,Tongue Squamous Cell Carcinoma,RNA-seq,differential expression,30755833.0,1.0
+333,TUC338,Tongue Squamous Cell Carcinoma,"qPCR, RNAi, Cell proliferation assay etc.",up-regulated,27637778.0,1.0
+334,TUG1,Oral Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,30980391.0,8.0
+335,TUG1,Laryngeal Cancer,qPCR,up-regulated,30916820.0,8.0
+336,TUG1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30581000.0,8.0
+337,TUG1,Tongue Squamous Cell Carcinoma,qPCR etc.,up-regulated,28597931.0,8.0
+338,TUG1,Oral Squamous Cell Carcinoma,"qPCR, RNAi, Western blot, Luciferase reporter assay, MTT assay etc.",up-regulated,28119088.0,8.0
+339,TUG1,Oral Squamous Cell Carcinoma,"qPCR, Western blot, Luciferase reporter assay",up-regulated,28979812.0,8.0
+340,U47924.27,Nasopharyngeal Cancer,"Microarray, qPCR etc.",down-regulated,27886062.0,1.0
+341,UCA1,Oral Squamous Cell Carcinoma,"qRT-PCR, Western blot",up-regulated,32130788.0,1.0
+342,UCA1,Nasopharyngeal Cancer,"qPCR, western blot",up-regulated,31537148.0,1.0
+343,UCA1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30679991.0,1.0
+344,UCA1,Tongue Cancer,"qPCR, Luciferase reporter assay, RIP, etc.",up-regulated,30635938.0,1.0
+345,UCA1,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,30498361.0,1.0
+346,UCA1,Hypopharyngeal Carcinoma,"qPCR, RNAi, Cell cycle assay, Cell migration and invasion assay etc.",up-regulated,28327194.0,1.0
+347,UCA1,Tongue Squamous Cell Carcinoma,"qPCR, Western blot etc.",up-regulated,29441929.0,1.0
+348,UCA1,Tongue Squamous Cell Carcinoma,qPCR etc.,up-regulated,24332332.0,1.0
+349,UCA1,Oral Squamous Cell Carcinoma,qPCR etc.,up-regulated,23292713.0,1.0
+350,UCA1,Oral Squamous Cell Carcinoma,"qPCR, Luciferase reporter assay, Western blot",up-regulated,29125238.0,1.0
+351,UCA1,Oral Squamous Cell Carcinoma,"qPCR, Cell transfection, Cell migration and invasion assay etc.",up-regulated,27560546.0,1.0
+352,WWTR1-AS1,Head And Neck Squamous Cell Carcinoma,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31172583.0,1.0
+353,XIST,Laryngeal Squamous Cell Cancer,"qRT-PCR, Western blot",up-regulated,32149330.0,1.0
+354,XIST,Nasopharyngeal Cancer,"qPCR, Western blot, luciferase reporter assay etc",up-regulated,32196601.0,1.0
+355,XIST,Laryngeal Squamous Cell Cancer,"RT-PCR, luciferase reporter assays, Western blot analysis",up-regulated,31894287.0,1.0
+356,XIST,Nasopharyngeal Cancer,"RT-qPCR, Western blot assay, Luciferase reporter assay, RIP",up-regulated,31810117.0,1.0
+357,XIST,Laryngeal Squamous Cell Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31071316.0,1.0
+358,XIST,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, Western blot etc.",up-regulated,28985197.0,1.0
+359,XIST,Nasopharyngeal Cancer,"qPCR, Western blot etc.",up-regulated,29219216.0,1.0
+360,XIST,Nasopharyngeal Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,27461945.0,1.0
+361,ZEB2-AS1,Head And Neck Squamous Cell Carcinoma,"qPCR, Western blot",up-regulated,30950191.0,1.0
+362,ZFAS1,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29917194.0,5.0
+363,ZFAS1,Nasopharyngeal Cancer,"Microarray, qRT-PCR, Dual luciferase reporter assay, Western blot analysis",up-regulated,31851778.0,5.0
+364,ZFAS1,Head And Neck Squamous Cell Carcinoma,RT-PCR etc.,up-regulated,31010087.0,5.0
+365,ZFAS1,Nasopharyngeal Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,31403940.0,5.0
+366,ZFAS1,Nasopharyngeal Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31307201.0,5.0
+367,ZFAS1,Nasopharyngeal Cancer,"qPCR, Western blot, etc.",up-regulated,29917194.0,5.0
+368,ZNF561-AS1,Laryngeal Squamous Cell Cancer,qRT-PCR,down-regulated,32174248.0,1.0
+369,ZNF667-AS1,Laryngeal Squamous Cell Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",down-regulated,30684967.0,2.0
+370,ZNF674-1,Nasopharyngeal Cancer,"Microarray, qPCR etc.",up-regulated,24822202.0,2.0
+371,ZNF674-1,Nasopharyngeal Cancer,qPCR etc.,up-regulated,29805695.0,2.0
+372,ZNF674-1,Nasopharyngeal Cancer,"qPCR, in vitro knockdown",down-regulated,29805695.0,2.0

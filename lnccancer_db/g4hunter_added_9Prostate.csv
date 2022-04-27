@@ -1,0 +1,279 @@
+0,ADAMTS9-AS1,Prostate Cancer,qRT-PCR,differential expression,32153626.0,2.0
+1,AFAP1-AS1,Prostate Cancer,"qRT-PCR, RIP, Luciferase reporter gene assay, Western blot",up-regulated,31669642.0,1.0
+2,AFAP1-AS1,Prostate Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",up-regulated,31081081.0,1.0
+3,"ANRASSF1 ",Prostate Cancer,"RNA-seq, qPCR, RNAi, Western blot, RIP, ChIP, Cell proliferation assay etc.",up-regulated,23990798.0,1.0
+4,"ANRIL",Prostate Cancer,qPCR etc.,up-regulated,20541999.0,14.0
+5,"ANRIL",Prostate Cancer,"RT-PCR, Western blot, in vitro knockdown",up-regulated,29278879.0,14.0
+6,ARlnc1,Prostate Cancer,"RNA-seq, Microarray, qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi, RIP",differential expression,29808028.0,2.0
+7,ARlnc1,Prostate Cancer,"RNA-seq, qPCR, Northern blot etc.",differential expression,29808028.0,2.0
+8,BCAR4,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30513511.0,5.0
+9,BDNF-AS,Prostate Cancer,"qPCR, in vitro knockdown etc.",down-regulated,29710528.0,5.0
+10,BLACAT1,Prostate Cancer,"RT-PCR, Western blotting, Luciferase Assays, RIP",down-regulated,31957820.0,1.0
+11,"BRE-AS1 ",Prostate Cancer,qPCR,down-regulated,30833361.0,1.0
+12,CASC15,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",up-regulated,31646560.0,1.0
+13,CASC2,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",down-regulated,29373811.0,3.0
+14,CCAT1,Prostate Cancer,"qRT-PCR, Western blot",up-regulated,32089062.0,1.0
+15,CCAT1,Prostate Cancer,"qPCR, Western blot, in vitro knockdown",up-regulated,29863242.0,1.0
+16,CCAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30221381.0,1.0
+17,CCAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP",up-regulated,31387890.0,1.0
+18,CCAT1,Prostate Cancer,qPCR etc.,up-regulated,28945760.0,1.0
+19,CCAT1,Prostate Cancer,qPCR etc.,up-regulated,29863242.0,1.0
+20,CCAT2,Prostate Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27558961.0,1.0
+21,CRNDE,Prostate Cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32182608.0,5.0
+22,CTBP1-AS,Prostate Cancer,"qPCR, Western blot, Northern blot, RIP etc.",up-regulated,23644382.0,1.0
+23,DANCR,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, etc.",up-regulated,31486484.0,3.0
+24,DANCR,Prostate Cancer,"qPCR, RNAi, Western blot, ChIP etc.",up-regulated,27191265.0,3.0
+25,DANCR,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,3.0
+26,DGCR5,Prostate Cancer,"RT-qPCR, Western-Blotting",down-regulated,31920375.0,5.0
+27,DRAIC,Prostate Cancer,"qPCR, RIP",down-regulated,31900260.0,1.0
+28,DRAIC,Prostate Cancer,"qPCR, Western blot etc.",down-regulated,25700553.0,1.0
+29,DUXAP10,Prostate Cancer,"qRT-PCR , Western blot , in vitro knockdown etc.",down-regulated,31114994.0,1.0
+30,EGOT,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",down-regulated,23728290.0,1.0
+31,"FAL1 ",Prostate Cancer,"qPCR, RNA pull-down assay etc.",up-regulated,25203321.0,1.0
+32,FALEC,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,28585762.0,1.0
+33,FENDRR,Neuroendocrine Prostate Cancer,"RNA-seq, Microarray, qPCR etc.",down-regulated,29757368.0,2.0
+34,FENDRR,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown",down-regulated,29465000.0,2.0
+35,FER1L4,Prostate Cancer,"RT-qPCR, Western blot",down-regulated,32140077.0,1.0
+36,FEZF1-AS1,Prostate Cancer,"qPCR, Western blot etc",up-regulated,32196579.0,1.0
+37,FEZF1-AS1,Prostate Cancer,"qPCR, Western blot",up-regulated,31298365.0,1.0
+38,FOXC2-AS1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, other",up-regulated,30389560.0,1.0
+39,FOXP4-AS1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP",up-regulated,31209207.0,3.0
+40,GAS5,Prostate Cancer,"qPCR, other",down-regulated,31423164.0,15.0
+41,GAS5,Prostate Cancer,"qPCR, Western blot etc.",down-regulated,28396462.0,15.0
+42,GAS5,Prostate Cancer,qPCR etc.,down-regulated,27922078.0,15.0
+43,GAS5,Prostate Cancer,"qPCR, RNAi, Cell proliferation assay etc.",down-regulated,25650269.0,15.0
+44,GAS5,Prostate Cancer,"qPCR, RNAi etc.",up-regulated,23676682.0,15.0
+45,GAS5,Prostate Cancer,qPCR etc.,down-regulated,18836484.0,15.0
+46,GAS5,Prostate Cancer,"qPCR, RNAi, Western blot, Dual luciferase reporter assay, Cell proliferation assay, ISH etc.",down-regulated,27743383.0,15.0
+47,GAS5,Prostate Cancer,"qPCR, RNA interference and transient transfection etc.",up-regulated,28771526.0,15.0
+48,GAS5,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,15.0
+49,"GASL1 ",Prostate Cancer,"RT-qPCR, Western blotting  etc.",up-regulated,31186749.0,1.0
+50,GHET1,Prostate Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30609158.0,1.0
+51,GLIDR,Prostate Cancer,qPCR etc.,up-regulated,28211799.0,4.0
+52,H19,Prostate Cancer,"qPCR, Western blot, Microarray",differential expression,32146726.0,3.0
+53,H19,Prostate Cancer,qPCR etc,up-regulated,32356434.0,3.0
+54,H19,Prostate Cancer,"qPCR, Western blot, other",down-regulated,31426484.0,3.0
+55,H19,Neuroendocrine Prostate Cancer,"RNA-seq, Microarray, qPCR etc.",up-regulated,29757368.0,3.0
+56,H19,Prostate Cancer,"qPCR, Western blot etc.",down-regulated,24988946.0,3.0
+57,H19,Prostate Cancer,qPCR etc.,down-regulated,24063685.0,3.0
+58,H19,Prostate Cancer,"qPCR, ISH etc.",up-regulated,15525575.0,3.0
+59,HCG11,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,31228307.0,1.0
+60,HCG11,Prostate Cancer,qPCR etc.,down-regulated,27522256.0,1.0
+61,HCP5,Prostate Cancer,"RT-qPCR, Western blot",up-regulated,31746434.0,1.0
+62,HOTAIR,Prostate Cancer,"RNA-seq, qPCR, Western blot, in vitro knockdown",up-regulated,29944905.0,3.0
+63,HOTAIR,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay",down-regulated,29807357.0,3.0
+64,HOTAIR,Prostate Cancer,"qPCR, Western blot, in vitro knockdown etc.",down-regulated,29221985.0,3.0
+65,HOTAIR,Prostate Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,26962687.0,3.0
+66,HOTAIR,Prostate Cancer,"qPCR, Western blot, ChIP, Dot blot etc.",differential expression,27922078.0,3.0
+67,HOTAIR,Prostate Cancer,"qPCR, Western blot, ChIP, Luciferase reporter assay etc.",up-regulated,25895025.0,3.0
+68,HOTAIR,Prostate Cancer,"qPCR, RIP, ChIP, RNA pull-down assay etc.",up-regulated,26411689.0,3.0
+69,HOTAIR,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,23936419.0,3.0
+70,HOTAIR,Prostate Cancer,"qPCR, Western blot etc.",differential expression,29807357.0,3.0
+71,HOTAIR,Prostate Cancer,"qPCR, RNA-seq, ChIP-Seq, etc.",up-regulated,29944905.0,3.0
+72,HOTTIP,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29884766.0,1.0
+73,HOTTIP,Prostate Cancer,"qPCR, Western blot",up-regulated,30809864.0,1.0
+74,HOTTIP,Prostate Cancer,qRT-PCR etc.,up-regulated,31570281.0,1.0
+75,HOTTIP,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",down-regulated,23728290.0,1.0
+76,HOTTIP,Prostate Cancer,"qPCR, Luciferase reporter assay, Western blot, etc.",up-regulated,29884766.0,1.0
+77,HOXA11-AS,Prostate Cancer,"qPCR, Western blot",up-regulated,31971633.0,1.0
+78,HOXD-AS1,Prostate Cancer,"Microarray Analysis, western blot, RNAi, GhIP etc.",up-regulated,28487115.0,12.0
+79,HULC,Prostate Cancer,"qPCR, Western blot, RNAi",down-regulated,29694502.0,1.0
+80,HULC,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29765457.0,1.0
+81,HULC,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,1.0
+82,IDH1-AS1,Prostate Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , RIP , in vitro knockdown etc.",up-regulated,31570703.0,1.0
+83,IGF2AS,Prostate Cancer,"qPCR, other",down-regulated,30423304.0,2.0
+84,"ILF3-AS1 ",Prostate Cancer,RNA-seq,differential expression,30906477.0,1.0
+85,INXS,Prostate Cancer,"qPCR, RACE-PCR etc.",down-regulated,24992962.0,0.0
+86,KCNQ1OT1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,1.0
+87,LBCS,Prostate Cancer,"qPCR, Western blot, RIP",down-regulated,31221168.0,3.0
+88,LINC-PINT,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,13.0
+89,LINC-ROR,Prostate Cancer,"qPCR, Microarray etc.",down-regulated,28843521.0,2.0
+90,LINC-ROR,Prostate Cancer,"qPCR, Western blot",up-regulated,30915739.0,2.0
+91,LINC00304,Prostate Cancer,"qRT-PCR , RNAi etc.",up-regulated,31012142.0,1.0
+92,LINC00308,Prostate Cancer,qPCR,up-regulated,29923546.0,1.0
+93,LINC00355,Prostate Cancer,qPCR,up-regulated,29923546.0,1.0
+94,LINC00476,Prostate Cancer,RNA-seq,differential expression,30906477.0,2.0
+95,LINC00518,Prostate Cancer,"real-time PCR, Luciferase reporter assay, Western blot, other",up-regulated,30462844.0,1.0
+96,"LINC00617 ",Neuroendocrine Prostate Cancer,"RNA-seq, Microarray, qPCR etc.",up-regulated,29757368.0,3.0
+97,LINC00649,Prostate Cancer,RNA-seq,differential expression,30906477.0,3.0
+98,LINC00662,Prostate Cancer,"qRT-PCR , Luciferase reporter assay , in vitro knockdown etc.",up-regulated,31114993.0,1.0
+99,LINC00663,Prostate Cancer,qPCR etc.,down-regulated,26743782.0,1.0
+100,LINC00665,Prostate Cancer,"qPCR, Luciferase reporter assay etc.",up-regulated,32273723.0,2.0
+101,LINC00673,Prostate Cancer,"RT-qPCR, Western blot analysis, Dual luciferase reporter gene assay, RIP",up-regulated,31881124.0,5.0
+102,LINC00683,Prostate Cancer,RNA-seq,down-regulated,30963639.0,1.0
+103,LINC00844,Prostate Cancer,"ChIP-seq, Microarray",down-regulated,30115758.0,1.0
+104,LINC00908,Prostate Cancer,"Microarray, RT-qPCR, Western blot analysis, Dual luciferase reporter assay, RIP",down-regulated,31938018.0,1.0
+105,LINC00963,Prostate Cancer,"Microarray, qPCR, RNAi, Western blot etc.",up-regulated,24691949.0,1.0
+106,"LINC00969 ",Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,1.0
+107,"LINC00969 ",Prostate Cancer,"Microarray, qPCR etc.",down-regulated,27556357.0,1.0
+108,LINC01116,Prostate Cancer,"RNA-seq, qPCR, RNAi etc.",up-regulated,28131897.0,1.0
+109,LINC01138,Prostate Cancer,"Microarray, qPCR etc.",down-regulated,27556357.0,2.0
+110,LINC01138,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,2.0
+111,"LINC01296",Prostate Cancer,"qPCR, Western blot",up-regulated,28392705.0,2.0
+112,LINP1,Prostate Cancer,"qPCR, Western blot",up-regulated,30058678.0,1.0
+113,lncRNA-ATB,Prostate Cancer,"qPCR, Western blot etc.",up-regulated,27176634.0,1.0
+114,LOXL1-AS1,Prostate Cancer,"qRT-PCR , Microarray , Western blot etc.",down-regulated,31188543.0,5.0
+115,LOXL1-AS1,Prostate Cancer,"qPCR, RNA-seq, Luciferase reporter assay, RNAi, other",down-regulated,30278884.0,5.0
+116,LSAMP-AS1,Prostate Cancer,"RT-qPCR, Western blot",down-regulated,31727599.0,1.0
+117,LUCAT1,Prostate Cancer,"qRT-PCR , Western blot etc.",up-regulated,31081080.0,2.0
+118,MALAT1,Prostate Cancer,qPCR etc.,down-regulated,32210615.0,3.0
+119,MALAT1,Prostate Cancer,RNA-seq,differential expression,30906477.0,3.0
+120,MALAT1,Prostate Cancer,"RT-qPCR, Western blot assay, Luciferase assay, RIP",up-regulated,31935634.0,3.0
+121,MALAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30642743.0,3.0
+122,MALAT1,Prostate Cancer,"qPCR, Western blot, ChIP, Dot blot etc.",differential expression,27922078.0,3.0
+123,MALAT1,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27600237.0,3.0
+124,MALAT1,Prostate Cancer,"qPCR, RNAi, RIP, ChIP etc.",up-regulated,26516927.0,3.0
+125,MALAT1,Prostate Cancer,"RNA-seq, qPCR etc.",up-regulated,22349460.0,3.0
+126,MALAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay etc.",up-regulated,29633510.0,3.0
+127,MALAT1,Prostate Cancer,qPCR etc.,up-regulated,23845456.0,3.0
+128,MALAT1,Prostate Cancer,"qPCR, Northern blot etc.",up-regulated,23726266.0,3.0
+129,MANCR,Prostate Cancer,"qPCR, RNA-seq etc",down-regulated,32199616.0,1.0
+130,MCM3AP-AS1,Prostate Cancer,"qPCR, Western blot, RIP etc",up-regulated,32193153.0,4.0
+131,MEG3,Prostate Cancer,"qPCR, Western blot, RIP etc",differential expressed,31790140.0,15.0
+132,MEG3,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP, etc.",down-regulated,30565858.0,15.0
+133,MEG3,Prostate Cancer,"qPCR, ISH etc.",down-regulated,14602737.0,15.0
+134,MEG3,Prostate Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",down-regulated,26610246.0,15.0
+135,MEG3,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",down-regulated,23728290.0,15.0
+136,MIR17HG,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,2.0
+137,MIR222HG,Prostate Cancer,"qPCR, luciferase reporter assay, RIP, in vitro knockdown etc.",up-regulated,29540675.0,1.0
+138,MNX1-AS1,Prostate Cancer,"qPCR, Western blot",up-regulated,30980513.0,1.0
+139,"MYCLo-5",Prostate Cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26003165.0,1.0
+140,"MYCLo-6",Prostate Cancer,"qPCR, Flow cytometry assay, Cell proliferation assay etc.",down-regulated,26003165.0,1.0
+141,"MYU ",Prostate Cancer,"qPCR, ChIP, Dual luciferase activity assay, Western blot",up-regulated,30132573.0,1.0
+142,"NCK1-AS1",Prostate Cancer,"RT-qPCR, Western blotting",up-regulated,31807161.0,3.0
+143,NEAT1,Prostate Cancer,"qRT-PCR, Western blot, RIP, Dual luciferase reporter assay",up-regulated,31672604.0,2.0
+144,NEAT1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RIP, etc.",up-regulated,31481527.0,2.0
+145,NEAT1,Prostate Cancer,"RNA-seq, qPCR, ChIP etc.",up-regulated,25415230.0,2.0
+146,NEAT1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,2.0
+147,NORAD,Prostate Cancer,"qPCR, Western blot",up-regulated,31342822.0,1.0
+148,NR2F2-AS1,Prostate Cancer,"qPCR , Western blot etc.",up-regulated,31566058.0,3.0
+149,OSTN-AS1,Prostate Cancer,qPCR,up-regulated,29923546.0,1.0
+150,PART1,Prostate Cancer,"qPCR, Western blotting, Microarray etc.",up-regulated,29261512.0,3.0
+151,PCA3,Prostate Cancer,"qPCR, Western blot, etc.",up-regulated,30569456.0,3.0
+152,PCA3,Prostate Cancer,PROGENSA PCA3 assay etc.,up-regulated,21883822.0,3.0
+153,PCA3,Prostate Cancer,qPCR etc.,differential expression,21655300.0,3.0
+154,PCA3,Prostate Cancer,qPCR,up-regulated,28938580.0,3.0
+155,PCA3,Prostate Cancer,"qPCR, western blot etc.",differential expression,28739722.0,3.0
+156,PCA3,Prostate Cancer,qPCR etc.,down-regulated,26960690.0,3.0
+157,PCA3,Prostate Cancer,"qPCR, RNAi, Northern blot, Cell apoptosis assay etc.",up-regulated,26080435.0,3.0
+158,PCA3,Prostate Cancer,PCR etc.,up-regulated,25445501.0,3.0
+159,PCA3,Prostate Cancer,"qPCR, in vitro knockdown etc.",up-regulated,23130941.0,3.0
+160,PCA3,Prostate Cancer,"RNA-seq, qPCR etc.",up-regulated,22349460.0,3.0
+161,PCA3,Prostate Cancer,qPCR etc.,up-regulated,20114043.0,3.0
+162,PCA3,Prostate Cancer,qPCR etc.,up-regulated,20332487.0,3.0
+163,PCA3,Prostate Cancer,qPCR etc.,up-regulated,19319183.0,3.0
+164,PCA3,Prostate Cancer,Northern blot etc.,up-regulated,14607216.0,3.0
+165,PCA3,Prostate Cancer,qPCR etc.,up-regulated,11980670.0,3.0
+166,PCA3,Prostate Cancer,"qPCR, Northern blot etc.",up-regulated,10606244.0,3.0
+167,PCA3,Prostate Cancer,"qPCR, RNAi, Western blot, ChIP, Luciferase reporter assay, Cell proliferation assay etc.",differential expression,27743381.0,3.0
+168,PCA3,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,3.0
+169,PCA3,Prostate Cancer,"qPCR, Northern blot etc.",up-regulated,23726266.0,3.0
+170,PCAN-R1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,2.0
+171,"PCAN-R2 ",Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,4.0
+172,PCAT1,Prostate Cancer,"qPCR, RNA-seq, RIP",up-regulated,30773595.0,1.0
+173,PCAT1,Prostate Cancer,qPCR etc.,up-regulated,28945760.0,1.0
+174,PCAT1,Prostate Cancer,"qPCR, RNAi, Luciferase reporter assay etc.",up-regulated,25425964.0,1.0
+175,PCAT1,Prostate Cancer,qPCR etc.,up-regulated,29378170.0,1.0
+176,PCAT1,Prostate Cancer,"qPCR, in vitro knockdown, Western blot",up-regulated,28884413.0,1.0
+177,PCAT1,Prostate Cancer,"qPCR, luciferase reporter assays, Western blot etc.",up-regulated,28922730.0,1.0
+178,PCAT1,Prostate Cancer,"Microarray, qPCR, RNAi, Western blot, Luciferase reporter assay etc.",up-regulated,24473064.0,1.0
+179,PCAT1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,1.0
+180,PCAT1,Prostate Cancer,"RNA-seq, qPCR, Western blot etc.",up-regulated,21804560.0,1.0
+181,PCAT14,Prostate Cancer,"RNA-seq, qPCR, RNAi, ISH etc.",up-regulated,27566105.0,1.0
+182,PCAT18,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,24519926.0,1.0
+183,PCAT19,prostate cancer,"qPCR, Western blot, luciferase reporter assay",,30033362.0,2.0
+184,PCAT29,Prostate Cancer,"qPCR, Western blot etc.",down-regulated,28467474.0,2.0
+185,PCAT29,Prostate Cancer,"Microarray, qPCR etc.",down-regulated,25030374.0,2.0
+186,PCAT3,Prostate Cancer,"qRT-PCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29552304.0,3.0
+187,PCAT5,Prostate Cancer,"RNA-seq, qPCR, RNAi etc.",up-regulated,26282172.0,1.0
+188,PCAT7,Prostate Cancer,"qRT-PCR, Western blotting, Luciferase reporter assay, RIP",up-regulated,31925912.0,4.0
+189,PCAT9,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29552304.0,2.0
+204,PCSEAT,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29803673.0,1.0
+205,PCSEAT,Prostate Cancer,"qPCR, Western blot etc.",up-regulated,29803673.0,1.0
+206,"PlncRNA-1",Prostate Cancer,"qPCR, Western blot etc.",up-regulated,22264502.0,3.0
+207,"PlncRNA-1",Prostate Cancer,"qPCR, Western blot, Northern blot, RIP, ChIP, Flow cytometry assay etc.",up-regulated,26808578.0,3.0
+208,"PlncRNA-1",Prostate Cancer,"qPCR, RNAi, Western blot, Flow cytometry assay etc.",up-regulated,28212533.0,3.0
+209,PRCAT38,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, RNAi, other",up-regulated,31405024.0,1.0
+210,PRCAT38,Prostate Cancer,qPCR etc.,up-regulated,29671889.0,1.0
+211,PRNCR1,Prostate Cancer,"qPCR, Northern blot etc.",up-regulated,20874843.0,1.0
+212,PRNCR1,Prostate Cancer,"qPCR, RIP etc.",up-regulated,23945587.0,1.0
+213,PROX1-AS1,Prostate Cancer,"qPCR, Luciferase reporter assay etc",up-regulated,32271411.0,1.0
+214,PRRT3-AS1,Prostate Cancer,"RT-qPCR, Western blot, Microarray",up-regulated,32086850.0,1.0
+215,PSLNR,Prostate Cancer,"qPCR, Western blot, RNAi",down-regulated,31269242.0,1.0
+216,PTENP1,Prostate Cancer,"qPCR, Western blot, Dual luciferase reporter assay, Cell proliferation assay etc.",down-regulated,20577206.0,0.0
+217,PVT1,Prostate Cancer,"qPCR, Western blot, RNAi, other",down-regulated,30250582.0,0.0
+218,PVT1,Prostate Cancer,"qPCR, ChIP etc.",differential expression,21814516.0,0.0
+219,PVT1,Prostate Cancer,"RNA-seq, qPCR, Western blot etc.",up-regulated,29452232.0,0.0
+220,PVT1,Prostate Cancer,"qPCR, MSP-PCR, RNAi etc.",up-regulated,27794184.0,0.0
+221,PVT1,Prostate Cancer,"qPCR, RNAi",up-regulated,29050519.0,0.0
+222,PVT1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",up-regulated,23728290.0,0.0
+223,RBMS3-AS3,Prostate Cancer,"RT-qPCR, Western blot, RIP",down-regulated,31712637.0,1.0
+224,"RNCR3",Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,29887969.0,1.0
+225,"RNCR3",Prostate Cancer,"qPCR, Luciferase reporter assay, Western blot, etc.",up-regulated,29887969.0,1.0
+226,SAP30L-AS1,Prostate Cancer,"qPCR, Western blot, in vitro knockdown, etc.",up-regulated,30599235.0,1.0
+227,SAP30L-AS1,Prostate Cancer,"qPCR, Western blot",up-regulated,29614511.0,1.0
+228,SChLAP1,Prostate Cancer,"qPCR, Western blot",up-regulated,29614511.0,7.0
+229,SChLAP1,Prostate Cancer,ISH etc.,up-regulated,26724257.0,7.0
+230,SChLAP1,Prostate Cancer,"Microarray, ISH etc.",up-regulated,25499224.0,7.0
+231,SChLAP1,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,25456366.0,7.0
+232,SChLAP1,Prostate Cancer,"RNA-seq, qPCR, in vitro knockdown etc.",up-regulated,24076601.0,7.0
+233,SNHG1,Prostate Cancer,"qPCR, Western blot, Luciferase Reporter Assays",up-regulated,28400279.0,12.0
+234,SNHG1,Prostate Cancer,"Microarray, qPCR etc.",down-regulated,27556357.0,12.0
+235,SNHG1,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,12.0
+236,SNHG11,Prostate Cancer,RNA-seq,differential expression,30906477.0,1.0
+237,SNHG12,Prostate Cancer,"qPCR, Luciferase reporter assay, Western blot",down-regulated,30945357.0,8.0
+238,SNHG12,Prostate Cancer,"RT-qPCR, Dual luciferase reporter assay and RNA binding protein immunoprecipitation (RIP), Western blot",up-regulated,31933941.0,8.0
+239,SNHG12,Prostate Cancer,qPCR,up-regulated,31267540.0,8.0
+240,SNHG14,Prostate Cancer,"RT-qPCR, RIP",up-regulated,32016964.0,1.0
+241,SNHG15,Prostate Cancer,qPCR,up-regulated,30981837.0,5.0
+243,SNHG17,Prostate Cancer,qPCR etc.,up-regulated,32351538.0,14.0
+244,SNHG20,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,31497231.0,1.0
+245,SNHG3,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, RIP etc.",up-regulated,32248648.0,2.0
+246,SNHG4,Prostate Cancer,"qRT-PCR , Luciferase reporter assay , Western blot , in vitro knockdown etc.",up-regulated,31608997.0,2.0
+247,SNHG5,Prostate Cancer,"Microarray, qPCR etc.",down-regulated,27556357.0,1.0
+248,SNHG5,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,1.0
+249,SNHG6,Prostate Cancer,RNA-seq,up-regulated,30911973.0,4.0
+250,SNHG7,Prostate Cancer,qRT-PCR,up-regulated,32049793.0,3.0
+251,SNHG7,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown",up-regulated,31324390.0,3.0
+252,SNHG7,Prostate Cancer,"qPCR, Western blot etc.",up-regulated,29571017.0,3.0
+253,SOCS2-AS1,Prostate Cancer,"RNA-seq, qPCR, RIP, ChIP etc.",up-regulated,27342777.0,1.0
+254,SPRY4-IT1,Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,1.0
+255,TINCR,Prostate Cancer,"qPCR, Western blot",down-regulated,30154672.0,1.0
+256,TMPO-AS1,Prostate Cancer,"qPCR, ChIP",up-regulated,30105831.0,1.0
+257,TRPM2-AS,Prostate Cancer,"Microarray, qPCR etc.",differential expression,26484139.0,1.0
+258,TRPM2-AS,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,24931166.0,1.0
+259,TTN-AS1,Prostate Cancer,"RT-qPCR, Dual Luciferase Reporter Gene Assay",up-regulated,31858535.0,2.0
+260,TTTY15,Prostate Cancer,"qPCR, Luciferase reporter assay, in vitro knockdown, etc.",up-regulated,30527798.0,2.0
+261,"TUC338 ",Prostate Cancer,qRT-PCR etc.,up-regulated,31085276.0,1.0
+262,TUG1,Prostate Cancer,"qRT-PCR, Western blot",up-regulated,32057513.0,8.0
+263,TUG1,Prostate Cancer,"qRT-PCR, Western blot",up-regulated,32016963.0,8.0
+264,TUG1,Prostate Cancer,"qPCR, Western blot, Luciferase reporter assay, in vitro knockdown, RNAi",down-regulated,29967294.0,8.0
+265,TUG1,Prostate Cancer,"qPCR, Western blot etc.",up-regulated,32256083.0,8.0
+266,TUG1,Prostate Cancer,"qPCR, Western blot",up-regulated,30964164.0,8.0
+267,TUG1,Prostate Cancer,qPCR,up-regulated,31210308.0,8.0
+268,TUG1,Prostate Cancer,qPCR,up-regulated,31210296.0,8.0
+269,TUG1,Prostate Cancer,"qPCR, Western blot, RIP, Dual luciferase reporter assay etc.",up-regulated,26975529.0,8.0
+270,TUG1,Prostate Cancer,"Microarray, qPCR etc.",up-regulated,27556357.0,8.0
+271,TUG1,Prostate Cancer,"qPCR, Flow cytometry assay, Western blot, Luciferase reporter assay, etc.",up-regulated,29967294.0,8.0
+272,UCA1,Prostate Cancer,"qPCR, Luciferase reporter assay, RIP, Western blot",up-regulated,30940776.0,1.0
+273,UCA1,Prostate Cancer,"Western blotting, Luciferase Reporter Assay, RIP, qRT-PCR",up-regulated,31954329.0,1.0
+274,UCA1,Prostate Cancer,"qPCR, Western blot, RIP, Luciferase reporter assay",up-regulated,28209917.0,1.0
+275,UCA1,Prostate Cancer,"qPCR, RNAi, Western blot, Cell proliferation assay etc.",up-regulated,27902466.0,1.0
+276,UCA1,Prostate Cancer,"qPCR, RNAi, Western blot, RIP, Luciferase reporter assay, Cell proliferation assay etc.",up-regulated,28337266.0,1.0
+277,UCA1,Prostate Cancer,"qPCR, RNAi, Western blot etc.",up-regulated,26550172.0,1.0
+278,UCA1,Prostate Cancer,"RNA-seq, Microarray, qPCR, RNAi, Northern blot etc.",down-regulated,23728290.0,1.0
+279,UNC5B-AS1,Prostate Cancer,Luciferase reporter assay etc,up-regulated,32196578.0,1.0
+280,VPS9D1-AS1,Prostate Cancer,"RT-qPCR, Luciferase reporter assay",up-regulated,31918265.0,1.0
+281,XIST,Prostate Cancer,"qPCR, Luciferase reporter assays, Western blot etc.",down-regulated,29212233.0,1.0
+282,XIST,Prostate Cancer,"qPCR, Southern blot etc.",up-regulated,16261845.0,1.0
+283,"XLOC_005327",Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,1.0
+284,"XLOC_005327",Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,25513185.0,1.0
+285,XLOC_007697,Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,1.0
+286,XLOC_007697,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,25513185.0,1.0
+287,XLOC_008559,Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,1.0
+288,XLOC_008559,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,25513185.0,1.0
+289,XLOC_009911,Prostate Cancer,"Microarray, qPCR, RNA-FISH etc.",up-regulated,25307116.0,1.0
+290,XLOC_009911,Prostate Cancer,"Microarray, qPCR, RNAi etc.",up-regulated,25513185.0,1.0
+291,ZEB1-AS1,Prostate Cancer,"qPCR, Western blot etc",up-regulated,32275162.0,6.0
+292,ZEB1-AS1,Prostate Cancer,"Western blot, Luciferase reporter, RIP",up-regulated,28830551.0,6.0
+293,ZFAS1,Prostate Cancer,"qPCR, Western blot",up-regulated,32104094.0,5.0
