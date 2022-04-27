@@ -4,3 +4,5 @@
 *.pkl
 data/subcellular/images
 venv/
+.vscode/
+.ipynb_checkpoints/
