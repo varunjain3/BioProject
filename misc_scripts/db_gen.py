@@ -1,4 +1,3 @@
-from tabnanny import filename_only
 import pandas as pd
 import re
 import os
@@ -6,6 +5,8 @@ import os
 FILEPATH = 'g4hunter_added_sheets\\g4hunter_added_1Colorectal.csv'
 
 NR_REGEX = r'NR_\d*.\d*'
+
+df_final = pd.DataFrame()
 
 def gen_lncrna_data(filename):
     df = pd.read_csv(filename)
@@ -29,14 +30,19 @@ def gen_lncrna_data(filename):
             nrs = re.findall(NR_REGEX, row[cols[-1]])
             row[-2] = int(len(nrs))
             df_new = df_new.append(row[:-1])
-        except:
+        except Exception as e:
+            # print(e)
             error_rows.append(index)
 
     # print(df_new.tail())
     filename_new = filename.split('\\')[-1]
     print(filename_new, len(error_rows))
-    df_new.to_csv(os.path.join('lnccancer_db', filename_new), header=False)
+    
+    return df_new
 
 for filename in os.listdir('./g4hunter_added_sheets'):
     filename = os.path.join("g4hunter_added_sheets",filename)
-    gen_lncrna_data(filename)
+    cur_data = gen_lncrna_data(filename)
+    df_final = df_final.append(cur_data)
+
+df_final.to_csv(os.path.join('lnccancer_db', 'combined.csv'), header=False)
